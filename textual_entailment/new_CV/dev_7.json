@@ -1,0 +1,4473 @@
+{
+    "d6de70df-d113-4bc8-9d3b-b71f31937ebe": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01525589",
+        "Statement": "People who inherit harmful variants of the BReast CAncer gene 1 or 2 are eligible for the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            13
+        ]
+    },
+    "b259774e-410a-49aa-b5d4-31b8d9505fc3": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01525589",
+        "Statement": "People who inherit undamaged variants of the BReast CAncer gene 1 or 2 are eligible for the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            13
+        ]
+    },
+    "c3f01101-2259-4677-add1-1b1f48a0202b": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00528567",
+        "Secondary_id": "NCT01196052",
+        "Statement": "The total number of patients affected by adverse events in cohort 2 the primary trial is more than 1000.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            11,
+            12
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    "fc7d8ffd-9896-4806-a095-d435cde83c88": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00528567",
+        "Secondary_id": "NCT01196052",
+        "Statement": "The total number of patients affected by adverse events in cohort 2 the primary trial, is larger than the cohort size of the secondary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            11,
+            12
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    "2ddd64c7-98ef-4b06-9f01-e59d3731e8ca": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00483223",
+        "Secondary_id": "NCT00811135",
+        "Statement": "There are more cases of Intestinal perforation, Chest pain, death, Erysipelas and Pneumonia in the secondary trial than in the primary trial",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "Secondary_evidence_index": [
+            0,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    "aeac5b1c-26f9-44bc-b1c4-3bd0d498914e": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00483223",
+        "Secondary_id": "NCT00811135",
+        "Statement": "There are more cases of Intestinal perforation, Chest pain, death, Hyperglycemia and Pneumonia in the secondary trial than in the primary trial",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "Secondary_evidence_index": [
+            0,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    "382747d3-69df-41be-a771-4218407ce5d3": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00171340",
+        "Statement": "the primary trial results imply that Zoledronic Acid 4 mg Upfront causes a +ve Change in Bone Mineral Density, whereas Zoledronic Acid 4 mg Delayed causes a loss in Bone Mineral Density (within a certain patient demographic).",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "f5d50d87-b419-4537-87ec-7c9d23b765db": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00171340",
+        "Statement": "the primary trial results imply that Zoledronic Acid 4 mg Upfront causes a +ve Change in Bone Mineral Density, whereas Zoledronic Acid 4 mg Delayed causes a smaller, but still positive change in Bone Mineral Density (within a certain patient demographic).",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "c207ff16-b7d0-49e4-9177-0597044f3008": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT03374995",
+        "Statement": "Some the primary trial subjects receiving keratin are administered it topically twice daily for approximately 3-6 weeks, others participants may have it administered by ubcutaneous injection.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+    },
+    "699d0cb5-1ebb-441d-aa7e-041a48923b00": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT03374995",
+        "Statement": "the primary trial subjects receiving keratin are administered it topically twice daily for approximately 3-6 weeks.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+    },
+    "39227bbb-0e26-4ba0-94a7-762376541889": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00945061",
+        "Statement": "patients with Multi-focal breast cancer cannot be accepted for the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            3
+        ]
+    },
+    "ee85e355-3d0a-4e40-8a8d-6a0b71c77148": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00945061",
+        "Statement": "patients with Multicentric breast cancer can be accepted for the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            3
+        ]
+    },
+    "45338f7c-5aaa-40fb-8503-7c943e1f3a29": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT03584009",
+        "Statement": "Participants in the primary trial administered with Fulvestrant 500mg via intramuscular injection had a higher % of clinical benefit than participants who were administered an additional 800mg of Venetoclax orally.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "f82d94fe-c633-4bae-b28d-074196a08577": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT03584009",
+        "Statement": "Participants in the primary trial administered with Fulvestrant 500mg via intramuscular injection had a higher % of clinical benefit than participants who were administered an additional 160 mg of Neratinib.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "e5495b51-5f42-4e97-80ec-c215652bd3ab": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00675259",
+        "Secondary_id": "NCT01875367",
+        "Statement": "Patients with an ImmunoHistoChemistry test result of 3+ are excluded from the primary trial and the secondary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            15,
+            18
+        ],
+        "Secondary_evidence_index": [
+            0,
+            15
+        ]
+    },
+    "8f3fddf2-97ab-4456-bff7-8f83b27e3849": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00675259",
+        "Secondary_id": "NCT01875367",
+        "Statement": "Patients with an ImmunoHistoChemistry test result of 3+ are excluded from the primary trial but included in the secondary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            15,
+            18
+        ],
+        "Secondary_evidence_index": [
+            0,
+            3
+        ]
+    },
+    "03dcb6d9-efae-40ec-87ee-68ef89424498": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00323479",
+        "Secondary_id": "NCT03078751",
+        "Statement": "There were more cases of deteriorating mental health in the primary trial than the secondary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "0d76e3b7-c6ed-48b2-a3c2-4857a9c02f76": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00323479",
+        "Secondary_id": "NCT03078751",
+        "Statement": "There were more cases of Pulmonary embolisms in the primary trial than the secondary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "14a32a42-424b-4b97-bae9-05f4bb2b415b": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00246090",
+        "Secondary_id": "NCT00266799",
+        "Statement": "Cohort 1 of the primary trial 0.0015% less total adverse events than cohort 2 of the secondary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1
+        ],
+        "Secondary_evidence_index": [
+            15,
+            16
+        ]
+    },
+    "4243dc45-5a64-486d-ae2a-11448db00dcf": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00246090",
+        "Secondary_id": "NCT00266799",
+        "Statement": "Cohort 1 of the primary trial 15% less total adverse events than cohort 2 of the secondary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1
+        ],
+        "Secondary_evidence_index": [
+            15,
+            16
+        ]
+    },
+    "d23aee47-e80f-42fe-b095-9cd81f9e0ed3": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT02657889",
+        "Statement": "Both the primary trial cohorts reported identical results.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "537781f9-3693-479e-af22-824cdd827b9c": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT02657889",
+        "Statement": "the primary trial indicates that varying Pembrolizumab dosage has no effect on the Number of Subjects Reporting Dose-Limiting Toxicities (DLTs).",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "958721dc-e374-4fd1-abb9-071add70bde3": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00820170",
+        "Statement": "According to the results of the primary trial the MTD of paclitaxel is approximately is 120 mg.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ]
+    },
+    "3f012bd3-bb89-414b-9dd9-35cef524a69a": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00820170",
+        "Statement": "According to the results of the primary trial the MTD of dasatinib in combination with weekly paclitaxel is approximately is 120 mg.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ]
+    },
+    "40f1d3ce-2ff8-4177-9b11-0bf10b7f6591": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00259090",
+        "Statement": "the primary trial studies the impact of Fulvestrant, Anastrozole on Oestrogen Receptor H-score.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            1
+        ]
+    },
+    "b4555685-6e25-4797-8616-bcab5b06a135": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00259090",
+        "Statement": "the primary trial studies the impact of Fulvestrant, Docetaxel on Oestrogen Receptor H-score.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            1
+        ]
+    },
+    "6cf7d10e-902e-4f78-85f6-e06d63e1cd0e": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00347919",
+        "Statement": "less than 50% of the primary trial subjects treated with Lapatinib 1500 mg had no progressive Disease at Week 12.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    "d9b4d4aa-0094-405e-83a3-cf2978cfda38": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00347919",
+        "Statement": "56.9% of the primary trial subjects treated with Lapatinib 1500 mg had no progressive Disease at Week 12.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    "2c462296-35f5-482a-9ece-3b4ed4c2f53a": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT01216176",
+        "Statement": "Urosepsis was the only recorded adverse event in the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    "d6b09c0f-979c-4151-87f9-830b964e275d": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT01216176",
+        "Statement": "Urosepsis was the most common adverse event in the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    "57e74ef2-f170-47bd-a908-2a7b3cec150d": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00482391",
+        "Statement": "Patients with No QT prolongation are excluded from the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            29
+        ]
+    },
+    "c3cc3621-a8ce-4f0d-a150-7e627f36e7c5": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00482391",
+        "Statement": "Patients with a QT interval longer than half a second are excluded from the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            29
+        ]
+    },
+    "847b4dbe-428f-431c-8916-2a9c0c80cce4": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00686127",
+        "Secondary_id": "NCT01129622",
+        "Statement": "dosages are specified in the intervention section of the secondary trial and the primary trial",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2
+        ]
+    },
+    "7ec286e9-f519-41da-848d-a0bc5a50c0ee": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00686127",
+        "Secondary_id": "NCT01129622",
+        "Statement": "dosages are specified in the intervention section of the secondary trial, whereas for the primary trial these are not made clear.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2
+        ]
+    },
+    "27421e64-e9f0-42a9-8070-bdfb0ce4ce7c": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00179309",
+        "Statement": "There were 2 cases of severe back pain observed in the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+        ]
+    },
+    "a5272c37-0e32-42db-a44a-d17df7bd70ff": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00179309",
+        "Statement": "There were no pain related adverse events observed in the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+        ]
+    },
+    "7e0259a3-073b-45f5-8e08-2cfaceecef0b": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00606931",
+        "Statement": "the primary trial tests MRI scanning as a technique for guiding biopsies.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2
+        ]
+    },
+    "6b595151-7e51-4062-b587-3207ea251677": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00606931",
+        "Statement": "the primary trial tests positron emission tomography as a technique for guiding a medical procedure.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2
+        ]
+    },
+    "7028841e-28e6-4fd3-a27c-2ae2e7dc7b52": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02673918",
+        "Secondary_id": "NCT01042938",
+        "Statement": "Only White and Asian patients are eligible for both the primary trial and the secondary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "Secondary_evidence_index": [
+            0,
+            4
+        ]
+    },
+    "825ba6fd-8c08-49d2-941b-3338ef01e7fd": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02673918",
+        "Secondary_id": "NCT01042938",
+        "Statement": "African American patients are eligible for both the primary trial and the secondary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "Secondary_evidence_index": [
+            0,
+            4
+        ]
+    },
+    "a847cfc1-9556-4a55-9698-69c22696148f": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT02370238",
+        "Statement": "There were 2 cases of Angina in the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ]
+    },
+    "9dbf55d5-6af3-4250-b5cb-97799cdf778a": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT02370238",
+        "Statement": "There were no cases of Intracranial hemorrhage in the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ]
+    },
+    "c9214d06-2733-4c78-99e5-a42015908eae": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00246571",
+        "Statement": "Renal cancer Patients from the primary trial receiving Standard of Care had a median PFS of 2.5 months by Core radiology laboratory assessment.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "9316ef0d-55b0-4547-88ae-887e0132a263": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00246571",
+        "Statement": "Patients from the primary trial receiving Standard of Care had a median PFS of 2.7months by Core radiology laboratory assessment.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "91ad45ae-6714-4c27-ac1a-d8ff8e89684f": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00334542",
+        "Statement": "A Female patients with a bilateral mastectomy would be excluded from the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            6
+        ]
+    },
+    "9cf89221-5801-4709-a098-de763b6e702e": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00334542",
+        "Statement": "A Female patients with a mastectomy would be excluded from the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            6
+        ]
+    },
+    "8befa03f-c3da-4950-8d27-491ea06b51ed": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00885755",
+        "Secondary_id": "NCT01075100",
+        "Statement": "Patients' appetites were not affected in the primary trial, but at least one was affected in the secondary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+        ]
+    },
+    "59da1fb5-2636-4ca8-8970-6cb45dedbed3": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00885755",
+        "Secondary_id": "NCT01075100",
+        "Statement": "Patients' appetites were not affected in the primary trial or the secondary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+        ]
+    },
+    "441c0760-ca4a-4f1d-864e-a77395fd1f18": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00399802",
+        "Statement": "The Lapatinib group of the primary trial had a smaller Percentage Change From Baseline in Urinary N-telopeptide of Type I Collagen than the Odanacatib 5 mg group",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "0a6e8720-ea47-4520-bd02-e0eb8fcd880f": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00399802",
+        "Statement": "The Single IV Infusion of ZA 4 mg group of the primary trial had a smaller Percentage Change From Baseline in Urinary N-telopeptide of Type I Collagen than the Odanacatib 5 mg group",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "8275f846-59b6-404d-a6d8-e01335279f1a": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT03066947",
+        "Statement": "Less than 1/4 patients in the primary trial experienced adverse events.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1
+        ]
+    },
+    "78ae19aa-6e26-4f9a-b381-cd77d92e4ecb": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT03066947",
+        "Statement": "At least one patient in the primary trial suffered from Gastroesophageal reflux disease.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    "93a8e018-ac25-48b2-81d2-fd5b01be8f37": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT01463007",
+        "Secondary_id": "NCT00965523",
+        "Statement": "A higher number of patients in the secondary trial suffured from infection compared to those in the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "e2d4c56c-a68f-4751-907d-9c2355c9528b": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT01463007",
+        "Secondary_id": "NCT00965523",
+        "Statement": "A significantly higher proportion of patients in the secondary trial suffured from infection compared to the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "6e365e33-16b8-43e1-99b5-49dfed6f7b13": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00316199",
+        "Statement": "Only Chinese women with stage 4 or Unresectable, locally recurrent cancer breast cancer are eligible for the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2
+        ]
+    },
+    "8f0159ce-1044-4f31-94b7-e394cf91d4e1": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00316199",
+        "Statement": "Any women with stage 4 or Unresectable, locally recurrent cancer breast cancer are eligible for the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2
+        ]
+    },
+    "d3590771-806b-4754-a455-38113bfedfca": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00952692",
+        "Statement": "Candidates for the primary trial must have adequate colon and liver function, and must not be currently receiving amiodarone or have received amiodarone in the last 28 day. Renal function is not relevant for inclusion.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61
+        ]
+    },
+    "621d06ac-12dd-42c2-a012-15c1d94a4f0b": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00952692",
+        "Statement": "Candidates for the primary trial must have adequate renal and hepatic function, and must not be currently receiving amiodarone or have received amiodarone in the 6 months",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            27,
+            28,
+            38,
+            43
+        ]
+    },
+    "df3e8e6b-fcfd-4909-bbb5-0d69df23f2c5": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00632489",
+        "Statement": "the primary trial uses a set dosage of 1000 mg PO daily of Lapatinib, whereas the dose of Capecitabine changes with patients body weight.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+    },
+    "43421f19-878e-46f7-b456-8031835af649": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00632489",
+        "Statement": "the primary trial uses a set dosage of 1000 mg PO daily of Lapatinib, whereas the dose of Capecitabine changes with Body surface area.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+    },
+    "deb78676-8f04-44c4-a5f6-389740d8a268": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01908101",
+        "Statement": "Prior exposure to doxatel is obligatory for patients in the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2
+        ]
+    },
+    "a7106a35-36da-423a-a6b3-3da62fc0eea8": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01908101",
+        "Statement": "Prior exposure to taxane is obligatory for patients in the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2
+        ]
+    },
+    "3576f3e7-a1b9-4a75-934a-1ad2165b69dd": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT01091454",
+        "Secondary_id": "NCT00054275",
+        "Statement": "There were more cases of Anemia and vomiting in the primary trial than the secondary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ]
+    },
+    "398f744b-97cf-4f95-b162-99ec6652d327": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT01091454",
+        "Secondary_id": "NCT00054275",
+        "Statement": "There were more cases of Anemia and Leukopenia in the primary trial than the secondary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ]
+    },
+    "83bacd68-871a-4777-ba23-1f9a3df9227d": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00057941",
+        "Secondary_id": "NCT01806259",
+        "Statement": "Recurrence-free Survival, used as the outcome measurement in the secondary trial and Clinical Benefit Rate, used in the primary trial are not synonymous, and represent entirely different patient characteristics. ",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "e33825f1-45df-41f5-ba07-e9059636a146": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00057941",
+        "Secondary_id": "NCT01806259",
+        "Statement": "DLT occurence, used as the outcome measurement in the secondary trial and Clinical Benefit Rate, used in the primary trial are not synonymous, and represent entirely different patient characteristics. ",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "e7b47e19-9cd0-4121-a79a-ee223e7f3ab7": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT03511378",
+        "Statement": "Patients must have a life expectancy over half a year to participate in the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            8
+        ]
+    },
+    "dc184dcb-a22d-4cac-bee1-6c182692e522": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT03511378",
+        "Statement": "Patients must have a life expectancy over a year to participate in the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            8
+        ]
+    },
+    "126c1169-b375-4f89-95b2-52e971d19565": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00856492",
+        "Statement": "Cohort 1 of the primary trial recorded no deaths and no cases of Enterocolitis infectious.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ]
+    },
+    "25f1f3b8-15ed-4339-bf56-1cf1e0c2909f": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00856492",
+        "Statement": "Cohort 1 of the primary trial recorded no deaths and no cases of Anemia.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ]
+    },
+    "5ab5f2e8-d1cf-4789-86b4-e2f6dbf443ea": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00209092",
+        "Secondary_id": "NCT00631852",
+        "Statement": "A patient with a Histologically confirmed breast cancer would be accepted for the primary trial and the secondary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1
+        ]
+    },
+    "47f11df7-6c82-4c50-9249-5085313a5064": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00209092",
+        "Secondary_id": "NCT00631852",
+        "Statement": "A patient with a cytologically confirmed breast cancer with a 5 millimeter greatest diameter on imaging would be accepted for the primary trial, but not for the secondary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1
+        ]
+    },
+    "843778c6-a320-49a1-93a0-5dc6239b822a": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00965523",
+        "Statement": "The most common adverse events in the primary trial where Infection and Stomatitis.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "c66963b9-19e0-4c0f-bb65-2fec15e60b8f": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00965523",
+        "Statement": "The most common adverse events in the primary trial where Infection and Stomatitis, affecting a total of 14 patients.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "2e0c241f-0a3b-4b39-87fe-ee2e5c7768d6": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00121836",
+        "Secondary_id": "NCT00256243",
+        "Statement": "Patients that are not willing to sign and give written informed consent for participation of the primary trial or the secondary trial will not be made to take part.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Secondary_evidence_index": [
+            11
+        ]
+    },
+    "80726ab0-e8e4-4c42-860b-fdedad407517": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00121836",
+        "Statement": "Patients that are not willing to sign and give written informed consent for participation of the primary trial will still be included.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    "91f6e62a-97e7-49fa-8509-7ff8c1f0155e": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00671918",
+        "Secondary_id": "NCT00571987",
+        "Statement": "Patients with pure ductal carcinoma in situ (DCIS) or Melanoma are eligible for both the secondary trial and the primary trial, and are able to participate in these trials alongside other drug trials, up to a maximum of 3.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            7,
+            12
+        ],
+        "Secondary_evidence_index": [
+            0,
+            9
+        ]
+    },
+    "b811e872-90ef-4649-9c8d-f5488f316ccc": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00671918",
+        "Secondary_id": "NCT00571987",
+        "Statement": "Patients with pure ductal carcinoma in situ (DCIS) are eligible for both the secondary trial and the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            12
+        ],
+        "Secondary_evidence_index": [
+            0,
+            9
+        ]
+    },
+    "943ff737-4edd-4dbd-a3c9-213e3e0234d8": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00423917",
+        "Secondary_id": "NCT00082641",
+        "Statement": "the primary trial and the secondary trial both report cases of confusion in their patient cohorts.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            5
+        ],
+        "Secondary_evidence_index": [
+            0,
+            7,
+            8,
+            15
+        ]
+    },
+    "a625ff4b-9c91-4ab8-a78b-df833d15759a": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00423917",
+        "Secondary_id": "NCT00082641",
+        "Statement": "the primary trial and the secondary trial both report cases of confusion in all their patient cohorts.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            5
+        ],
+        "Secondary_evidence_index": [
+            0,
+            7,
+            8,
+            15
+        ]
+    },
+    "a5af6d2b-4cea-40aa-acdc-59fab5362b3e": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00635050",
+        "Statement": "Patients with Breast cancers that have estrogen receptors are included in the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            2
+        ]
+    },
+    "0359eef3-6339-485e-95bc-0cb6fa7bcd12": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00635050",
+        "Statement": "Patients with Breast cancers that have estrogen receptors are excluded from the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            2
+        ]
+    },
+    "1485315b-3169-42a3-a672-6f7963d49a51": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01869764",
+        "Secondary_id": "NCT02556632",
+        "Statement": "Every participant in the secondary trial and the primary trial undergoes Laboratory Biomarker Analysis.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    "ce621235-b584-439b-bb11-ab2fa04c3195": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01869764",
+        "Secondary_id": "NCT02556632",
+        "Statement": "Every participant in the secondary trial and the primary trial undergoes Laboratory Biomarker Analysis and completes a Questionnaire.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    "9b0451fe-f760-46d3-b555-0a9b83546e73": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00087152",
+        "Secondary_id": "NCT00203502",
+        "Statement": "the primary trial recorded half as many patients vomiting as the secondary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            3
+        ],
+        "Secondary_evidence_index": [
+            0,
+            5
+        ]
+    },
+    "04fd88c2-cf92-468d-bbc4-567cae19948d": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00087152",
+        "Secondary_id": "NCT00203502",
+        "Statement": "the primary trial recorded less patients with nausea than the secondary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            3
+        ],
+        "Secondary_evidence_index": [
+            0,
+            5
+        ]
+    },
+    "bd8c39c6-96a3-40f8-80e6-6cbb6bdaecb5": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00553410",
+        "Statement": "A 55 year old postmenopausal patient with sarcoidosis would be excluded from the primary trial due to her age.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+        ]
+    },
+    "45d4f78f-04d4-434c-9679-fd92291e97b6": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00553410",
+        "Statement": "A 55 year old postmenopausal patient with sarcoidosis would be excluded from the primary trial as it would prevent prevent prolonged follow-up.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+        ]
+    },
+    "74fed085-3389-49c6-bdd2-a95c97071f2d": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00841828",
+        "Secondary_id": "NCT01959490",
+        "Statement": "All cohorts in the primary trial had lower percentage of participants with pCR compared to cohort 1 of the secondary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "4a4f3e9e-6a29-4715-8000-2eec90e9bb5d": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00841828",
+        "Secondary_id": "NCT01959490",
+        "Statement": "All cohorts in the primary trial had lower number of participants with pCR compared to cohort 1 of the secondary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "da6ce3a9-b653-47b2-9271-f831e4de3f19": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00912340",
+        "Statement": "Less patients in cohort 2 of the primary trial had an unusual amount of fluid around the lungs than in cohort 1.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            7,
+            8,
+            15
+        ]
+    },
+    "f4ce0687-a0b8-47e8-a3ba-dcf279c1dde9": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00912340",
+        "Statement": "More patients in cohort 2 of the primary trial suffered from Pleural effusions than in cohort 1.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            7,
+            8,
+            15
+        ]
+    },
+    "790047b1-43e3-486e-b41c-eaa89026eae7": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT02447328",
+        "Statement": "In the primary trial 11.1% of patients had serious adverse events, no patients had serious  Adverse Drug Reactions, and over half of patients had Unexpected adverse events.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ]
+    },
+    "43a9cc96-4020-459c-8fa4-4bbde7173f7a": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT02447328",
+        "Statement": "In the primary trial 11 patients had serious adverse events, no patients had serious  Adverse Drug Reactions, and over half of patients passed away from Unexpected adverse events.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ]
+    },
+    "20c35c89-8d23-4be3-b603-ac0ee0f3b4de": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01097642",
+        "Statement": "Adult Patients with histologic confirmation of invasive bilateral breast carcinoma (T1 N1 M1) are eligible for the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            3,
+            4,
+            5
+        ]
+    },
+    "8a8b7b19-9328-4cb3-b01c-8f4c358f4ac5": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01097642",
+        "Statement": "Adult Patients with histologic confirmation of invasive bilateral breast carcinoma (T3 N1 M0) are eligible for the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            3,
+            4,
+            5
+        ]
+    },
+    "58c58b68-fc9a-438c-8a85-9233dde714c9": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01827787",
+        "Statement": "The Triple-Negative Breast Cancer cohort of the primary trial had a much lower ORR than the HR+/HER2- cohort.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "601e9c47-ed82-4fa6-8a28-b3c71cc7c71b": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01827787",
+        "Statement": "The Triple-Negative Breast Cancer cohort of the primary trial had a much lower ORR than the cohort receiving 1.4 mg/m2 of Eribulin.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "7d22937b-9823-45fa-a914-261f993e4d64": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT01644890",
+        "Statement": "Throughout the primary trial, one patient developed issues with their vision.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    "3129e58d-0c16-42a5-90b4-f26e048dfe58": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT01644890",
+        "Statement": "Throughout the primary trial, one patient in cohort 1 developed issues with their vision.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    "3e1037fd-cc1e-4229-892f-95d0987d9a68": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01042535",
+        "Statement": "The Maximum Tolerated Dose (MTD) of of 1-methyl-d-tryptophan (indoximod) observed in the primary trial was 800 mg.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    "1dd4acd1-657c-40c0-b5ab-9c7adbe4ebf4": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01042535",
+        "Statement": "The Maximum Tolerated Dose (MTD) of of 1-Pemetrexed-d-tryptophan (indoximod) observed in the primary trial was 800 mg.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    "9c27202c-7090-4be5-840e-351992aeb81c": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00093808",
+        "Secondary_id": "NCT00394082",
+        "Statement": "the primary trial and the secondary trial reported the same number of dehydrated patients during the studies.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            11
+        ],
+        "Secondary_evidence_index": [
+            11
+        ]
+    },
+    "4a8f0562-355b-4a68-8790-c283d93ce766": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00093808",
+        "Secondary_id": "NCT00394082",
+        "Statement": "the primary trial and the secondary trial reported the same percentage of dehydrated patients during the studies.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            11
+        ],
+        "Secondary_evidence_index": [
+            11
+        ]
+    },
+    "bbcfc019-2d60-413f-88f9-04cacec55e30": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00333775",
+        "Secondary_id": "NCT00201864",
+        "Statement": "There are several cardiac adverse events recorded in the primary trial, but not a single one in the secondary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    "0f49a1ec-ed73-465b-be20-b70fe990b1f0": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00333775",
+        "Secondary_id": "NCT00201864",
+        "Statement": "There are several coagulative adverse events recorded in the primary trial, but not a single one in the secondary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    "2e317381-2704-4d06-a793-1d2b29139969": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01959490",
+        "Statement": "In total only one participant of the primary trial did not achieve Pathological Complete Response.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "02426c34-ebf9-4bd4-9d55-86fad89baf20": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01959490",
+        "Statement": "In total only 20% of participants in the primary trial did not achieve Pathological Complete Response.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "fbe60029-8944-4e12-b4b2-3413037a10cc": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT00723125",
+        "Statement": "57% of patients in cohort 1 of the primary trial had Pathological Complete Response Rates at Surgery.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    "662f4992-0155-4a82-926f-b1821539aab7": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00723125",
+        "Secondary_id": "NCT00617942",
+        "Statement": "57% of patients in cohort 1 of the primary trial had Pathological Complete Response Rates at Surgery, compared to 60% in cohort 1 of the secondary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+    },
+    "6b86f306-f989-4676-8f5e-c4c8a6aa4258": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00470847",
+        "Statement": "the primary trial participants will receive either Lapatinib, WBRT or Herceptin.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2
+        ]
+    },
+    "45b2b9ec-ba58-4323-810a-4baed9c84a0e": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00470847",
+        "Statement": "the primary trial participants will not receive any Lapatinib post WBRT.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2
+        ]
+    },
+    "039c3fc2-f798-4d97-b904-9aa7d363eeef": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00903162",
+        "Secondary_id": "NCT01674062",
+        "Statement": "Patients with cancer in situ of the cervix are eligible for the primary trial and the secondary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            10,
+            12
+        ],
+        "Secondary_evidence_index": [
+            6,
+            10
+        ]
+    },
+    "3c482d5e-bfad-4a46-9e98-ba9967f2d900": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00903162",
+        "Secondary_id": "NCT01674062",
+        "Statement": "Patients with BCC are excluded from the primary trial and the secondary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            10,
+            12
+        ],
+        "Secondary_evidence_index": [
+            6,
+            10
+        ]
+    },
+    "5152d810-7669-4fb2-a66b-a0a1d6026af5": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00577122",
+        "Secondary_id": "NCT01923168",
+        "Statement": "the secondary trial and the primary trial both use Pathologic complete response (pCR) as their outcome measure, and use a 6 month time frame.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "505afbf8-b2b4-4b12-99c5-e0feef473248": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00577122",
+        "Secondary_id": "NCT01923168",
+        "Statement": "the secondary trial and the primary trial do not both use Clinical Benefit Rate as their outcome measure, and they do not use the same time frame.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "646959e4-25d0-4eb1-b7b0-2d7b1e02e132": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT01262027",
+        "Statement": "Less than 5% of patients in the primary trial suffered an adverse event.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "f27b25bd-c28e-4aac-8ad6-951fd7381ce4": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT01262027",
+        "Statement": "More than 1 patient in the primary trial suffered an adverse event.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "ee2287bd-af76-4232-9575-d371fe3257dc": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00544167",
+        "Statement": "Every adverse event in the primary trial occurred once.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+    },
+    "c7c745d6-03ee-4740-9ef4-641fb6546e46": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00544167",
+        "Statement": "Every adverse event in the primary trial occurred more than 8 times.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+    },
+    "be50c45f-ec51-40c8-904f-ffc200d39d9d": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01042938",
+        "Statement": "Only patients capable of understanding english are eligible for the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            11
+        ]
+    },
+    "e7fb6490-1ec7-48ff-95b1-715d79faec92": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01042938",
+        "Statement": "Patients must be english to participate in the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ]
+    },
+    "4805e49a-b99e-46d8-b937-13ac2501c4a4": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00009945",
+        "Statement": "Patients with a positive sentinel node biopsy must have surgery to remove lymph nodes from the groin or they will not be eligible for the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1
+        ]
+    },
+    "b430ea52-fa55-4280-9e23-8a7392afca58": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00009945",
+        "Statement": "Patients with a positive sentinel node biopsy must have surgery to remove lymph nodes from the armpit (underarm or axilla) or they will not be eligible for the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1
+        ]
+    },
+    "db8ffa86-bf52-47bb-89f7-42e7ae47b84d": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01271725",
+        "Statement": "In the primary trial The Percentage of Participants With Objective Response (OR) for the Afatinib Monotherapy was 18% lower than the Afatinib and Paclitaxel or Vinorelbine Combination Therapy group.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "9b03c9e7-ca64-4e9f-9c10-f8c2d64ff0b7": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01271725",
+        "Statement": "In the primary trial The Percentage of Participants With Objective Response (OR) for the Afatinib Monotherapy was 13% lower than the Afatinib and Paclitaxel or Vinorelbine Combination Therapy group.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "a2d489d5-3677-43ef-b03a-33d571c0c3b2": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02650193",
+        "Secondary_id": "NCT00656669",
+        "Statement": "Patients with Class III obesity cannot be included in the primary trial, but can be entered into the secondary trial, as long as they do not have uncontrolled Hypertension.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            15
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    },
+    "54918996-1b4d-48bd-a0ca-13d8e259767b": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02650193",
+        "Secondary_id": "NCT00656669",
+        "Statement": "Patients with Class III obesity cannot be included in the primary trial, but can be entered into the secondary trial, even if they have uncontrolled Hypertension.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            15
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    },
+    "cfd93077-87c5-458b-8712-e1896929309d": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00924352",
+        "Statement": "One patient in the primary trial had abnormally low red blood cells, white blood cells, and platelets.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            4
+        ]
+    },
+    "6a5ee728-7db9-4ec0-b98c-0500e9a6187e": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00924352",
+        "Statement": "One patient in the primary trial had abnormally low levels of AST, ALT and ANC.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    "dd4b5a08-c033-4429-81d0-1ad59596edbd": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02683083",
+        "Statement": "sufferers of hyperthyroidism and diabetes mellitus are eligible for the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    "f419f810-ca53-4168-86fd-d1d9a9154d3a": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02683083",
+        "Statement": "sufferers of hyperthyroidism are excluded from the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    "f7be0a6e-6c63-473e-af00-df009f3d7d46": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00571987",
+        "Statement": "Breast implants and Diffuse microcalcifications will not disqualify a patient from entry to the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+        ]
+    },
+    "9b622b9b-3ad3-4cff-acb3-4127d0304de0": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00571987",
+        "Statement": "occupational exposure to ionizing irradiation will not disqualify a patient from entry to the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+        ]
+    },
+    "4613834d-c178-475c-b9fd-c9c66d5681eb": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT04080297",
+        "Secondary_id": "NCT02780713",
+        "Statement": "Cohort 2 of the primary trial receives higher doses of Q-122 than either of the secondary trial cohorts receive of AZD9496 variants.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            3,
+            4,
+            5
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    "e802b1f6-62fb-4759-b261-c69dbdc1d7ef": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT04080297",
+        "Secondary_id": "NCT02780713",
+        "Statement": "Both cohorts of the primary trial receive higher doses of Q-122 than either of the secondary trial cohorts receive of AZD9496 variants.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    "7bcfca9e-1b09-45d4-8165-cb6ac96b8815": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT02896855",
+        "Secondary_id": "NCT00171314",
+        "Statement": "the secondary trial recorded more total occurences of gastrointestinal adverse events than the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ]
+    },
+    "8421197a-3a35-4738-b1c8-83cce0ac4115": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT02896855",
+        "Secondary_id": "NCT00171314",
+        "Statement": "the secondary trial recorded more total occurences of cardiac adverse events than the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ]
+    },
+    "6893c9b4-d3a3-47a8-ada9-8aef67de2375": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01702571",
+        "Statement": "Patients with incurable and unresectable Breast Cancer are eligible for the primary trial, unless it is metastatic.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            4
+        ]
+    },
+    "aeecc244-13a9-4944-858e-27ef49585e90": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01702571",
+        "Statement": "Patients with incurable and  unresectable Locally Advanced Breast Cancer are eligible for the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            4
+        ]
+    },
+    "b3c1f5d1-6f7f-4bab-a4e8-5d1dab597cc7": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01390064",
+        "Statement": "The both Cohorts of the primary trial receive their treatment via Subcutaneous administration.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    "c679f426-b235-4ae9-ad6c-4f1a46a494d2": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT01390064",
+        "Secondary_id": "NCT00485953",
+        "Statement": "All Cohorts of the primary trial and the secondary trial receive their treatment via Subcutaneous administration.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    "33652443-0bb4-493e-adfe-f5032b96b13d": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01808573",
+        "Statement": "the primary trial Patients receiving Neratinib Plus Capecitabine had a PFS  much longer than the study time frame of 38 months.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "d29bd9dd-b52e-4b18-82ea-e2914dfb9579": {
+        "Type": "Single",
+        "Section_id": "Results",
+        "Primary_id": "NCT01808573",
+        "Statement": "the primary trial Patients receiving Neratinib Plus Capecitabine had a Mean (95% Confidence Interval)  Progression Free Survival more than 2 months longer than patients administered with Lapatinib Plus Capecitabine.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    "0507fbf8-3557-4ace-b015-5e106b96f6a9": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT02041429",
+        "Secondary_id": "NCT00068588",
+        "Statement": "the primary trial and the secondary trial use Maximum Tolerated Dose Determined by Dose-limiting Toxicities as their outcome measurements.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "c33d78e5-13be-4cde-b36e-7cc097f180a2": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT02041429",
+        "Secondary_id": "NCT00068588",
+        "Statement": "the primary trial and the secondary trial use the same outcome measurements, same drugs and the same cohort sizes.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "c73faed2-371b-4238-bf7d-293fae380203": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00003404",
+        "Secondary_id": "NCT00711529",
+        "Statement": "the primary trial and the secondary trial have Hypnotherapy based interventions, the secondary trial also used pain medication in its intervention.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    "6044590d-0f89-4a6e-8be7-54ca0c0327d9": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00003404",
+        "Secondary_id": "NCT00711529",
+        "Statement": "the primary trial does not have a Hypnotherapy based intervention, and the secondary trial does not have a Radiotherapy intervention.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    "3cd79df2-e6dd-41dd-b819-4d993b5f7aed": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00403130",
+        "Statement": "There were no cases of Leukopenia, Epitasis or Arrhythmia observed in patients participating in the primary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    "db613a72-e300-41a7-987f-788c306d94a4": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00403130",
+        "Statement": "There were no cases of Leukopenia or Arrhythmia observed in patients participating in the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    "eee75423-9a61-4a57-8baf-8f91b9562486": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT01705691",
+        "Statement": "The majority of patients in the primary trial suffered from Kidney stones.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "b5c7bfd2-d491-400c-8444-8bc424cd5dbf": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT01705691",
+        "Statement": "A patient in the primary trial suffered from Kidney stones.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            9,
+            14
+        ]
+    },
+    "d6df95f5-472f-4b14-9cd4-5d5ef238175a": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00005879",
+        "Statement": "There are criteria for PRIOR CONCURRENT THERAPY, PATIENT CHARACTERISTICS and DISEASE CHARACTERISTICS for entry to the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64
+        ]
+    },
+    "7dd79595-4bdf-48e6-af94-fe39aa2e5fd4": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT00005879",
+        "Secondary_id": "NCT01217385",
+        "Statement": "The only criterias for entry to the primary trial and the secondary trial is that patients must be female, over the age of 21 and british.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ]
+    },
+    "15553950-e26b-4fbb-a576-8455e6bb7b23": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02122796",
+        "Secondary_id": "NCT01575522",
+        "Statement": "The intervention section for the primary trial does not detail the type, dosage or duration of the intervention, unlike the secondary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    "470611af-16b2-4094-ae2a-c9c6155e2672": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT02122796",
+        "Secondary_id": "NCT01575522",
+        "Statement": "The intervention section for the primary trial does not detail the type or duration of the intervention, unlike the secondary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    "a5486f80-69e5-4a5a-8435-f82f39cddf85": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00080301",
+        "Statement": "There were 2 more cases of Gastrointestinal Haemorrhage in cohort 2 of the primary trial, than in cohort 1.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    "523a44a3-6b90-4be7-ab46-6b6addd7b5b9": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00080301",
+        "Statement": "There were 5 more cases of THROMBOCYTOPENIA in cohort 2 of the primary trial, than in cohort 1.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            7,
+            13,
+            20
+        ]
+    },
+    "d2b7253b-0654-4bb1-a9a4-b203714d64f9": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00445458",
+        "Secondary_id": "NCT00950742",
+        "Statement": "the primary trial and the secondary trial measure the DLT of their respective interventions, using the same time frame.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "f6c014af-63db-4578-9b2d-74ea95901842": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT00445458",
+        "Secondary_id": "NCT00950742",
+        "Statement": "the primary trial and the secondary trial measure the DLT of their respective interventions, using the same time frame and the same unit of measure.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "a381e340-18b1-4baa-91ce-0c420bcb411c": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT01323530",
+        "Secondary_id": "NCT01106040",
+        "Statement": "the secondary trial and the primary trial results indicate that the PFS of participants is partially linked to age, cancer grade and ethnicity.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "2731552d-195a-4f43-b6b5-02a3fbda81d9": {
+        "Type": "Comparison",
+        "Section_id": "Results",
+        "Primary_id": "NCT01323530",
+        "Secondary_id": "NCT01106040",
+        "Statement": "the secondary trial and the primary trial do not have comparable Outcome Measurements.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "c0a8e1a0-cbe6-4240-b578-59afa4d6cf23": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00217672",
+        "Secondary_id": "NCT00110084",
+        "Statement": "the primary trial had a higher occurrence rate of fistula enterovesical than the secondary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            4
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ]
+    },
+    "af710d36-8062-4412-8d11-1c57a14b5e5a": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00217672",
+        "Secondary_id": "NCT00110084",
+        "Statement": "the primary trial had three times the occurence rate of fistula enterovesical as the secondary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            4
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ]
+    },
+    "19c0b2c7-e45c-4740-b25d-f6e738b59893": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT01764022",
+        "Statement": "Cohort 2 of the primary trial recorded 1 incident of thrombocytopenia.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            10,
+            13
+        ]
+    },
+    "64fe54a2-8897-4324-af88-f627c1c208ed": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT01764022",
+        "Statement": "Cohort 2 of the primary trial recorded multiple incidents of thrombocytopenia.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            10,
+            13
+        ]
+    },
+    "2f6243a9-af40-426d-9a6a-a5c5708cf1b4": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00721630",
+        "Secondary_id": "NCT00364611",
+        "Statement": "the primary trial and the secondary trial recorded the exact same number of cases of nausea.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            4
+        ],
+        "Secondary_evidence_index": [
+            0,
+            7
+        ]
+    },
+    "46906361-5133-4db9-b9e5-b9b7f80a8666": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00721630",
+        "Secondary_id": "NCT00364611",
+        "Statement": "the primary trial and the secondary trial recorded the same proportion of patients experiencing nausea.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            4
+        ],
+        "Secondary_evidence_index": [
+            0,
+            7
+        ]
+    },
+    "f9df9e45-eb68-4257-801e-b086a89374b8": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02658734",
+        "Secondary_id": "NCT02073487",
+        "Statement": "Female Patients with LVEF > 50%,  who have previously undergone treatment with any of the following drugs; trastuzumab emtansine, paclitaxel, abraxane or lapatinib are still eligible for the primary trial but are excluded from the secondary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+        ]
+    },
+    "2c4254c9-9c40-492f-aa45-2a9ab47579b3": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02658734",
+        "Secondary_id": "NCT02073487",
+        "Statement": "Female Patients with LVEF > 50%,  who have previously undergone treatment with trastuzumab emtansine or lapatinib are still eligible for the secondary trial but are excluded from the primary trial.",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            8,
+            9,
+            10
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+        ]
+    },
+    "c100a7cd-e3a2-4901-a3e0-12336f769c7b": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00258960",
+        "Secondary_id": "NCT00121992",
+        "Statement": "the secondary trial reported 1 single case of Conjunctivitis, whereas the primary trial reported 16",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "Secondary_evidence_index": [
+            0,
+            9,
+            14,
+            23
+        ]
+    },
+    "a5617ae4-05a3-42d0-9e14-141de5f8c010": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00258960",
+        "Secondary_id": "NCT00121992",
+        "Statement": "the secondary trial reported 1 single case of Conjunctivitis, whereas the primary trial did not report any",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "Secondary_evidence_index": [
+            0,
+            9,
+            14,
+            23
+        ]
+    },
+    "29b2fa29-5a76-4877-95bb-1a8de7973d33": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00191815",
+        "Statement": "Only 6/67 patients in cohort 1 of the primary trial suffered adverse events",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1
+        ]
+    },
+    "8e91e404-086e-4063-8d54-83d1b8ebd969": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00191815",
+        "Statement": "over 1/6 patients in cohort 1 of the primary trial suffered adverse events",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1
+        ]
+    },
+    "614d7ade-0fa7-4d77-bc19-1d3a2f2f48c2": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00924352",
+        "Statement": "Febrile Neutropenia was the most common adverse event recorded in the primary trial, affecting most patients in the trial",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    "1842904b-5371-49ee-b6f4-8831b879098b": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00924352",
+        "Statement": "Febrile Neutropenia was the most common adverse event recorded in the primary trial, affecting more than 5% of patients",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    "904061c0-14fa-4f13-9118-9a41e24fa8eb": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02340221",
+        "Statement": "Prior treatment with fulvestrant or with a phosphatidylinositol 3-kinase (PI3K) inhibitor will not prevent a patient from participating in the primary trial",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            13
+        ]
+    },
+    "6b35bc10-f591-4b84-abac-40a74be949fa": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT02340221",
+        "Statement": "Prior treatment with fulvestrant or with a phosphatidylinositol 3-kinase (PI3K) inhibitor is not admissible for the primary trial",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            13
+        ]
+    },
+    "e9fd065c-342c-4dfb-9c1c-a4c0c44d0acd": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00612560",
+        "Secondary_id": "NCT01216176",
+        "Statement": "All the primary trial participants are administered Anastrazole in a pill form, but none of the secondary trial receive any Anastrazole",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    "b0046821-ba27-4a90-8869-cb708b843aa4": {
+        "Type": "Comparison",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00612560",
+        "Secondary_id": "NCT01216176",
+        "Statement": "All the primary trial participants are administered flaxseed, but none of the secondary trial receive any flaxseed",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    "f3cb9150-32c6-4877-9a87-4fac45a24948": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00450723",
+        "Secondary_id": "NCT00290758",
+        "Statement": "Between the secondary trial and the primary trial, all the recorded casesof Musculoskeletal adverse events occurred in cohort 2 of the secondary trial",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "f04d9695-81b8-4d70-877b-59caddf901bd": {
+        "Type": "Comparison",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00450723",
+        "Secondary_id": "NCT00290758",
+        "Statement": "Between the secondary trial and the primary trial, all the recorded case of Dyspnea occurred in cohort 1 of the secondary trial",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1
+        ],
+        "Secondary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "4f705481-5dd0-414c-b375-c56e8c235b42": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT01042535",
+        "Statement": "The most common adverse event in the primary trial was skin infection",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    "16c29502-4683-4087-9410-ff1b786556f5": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT01042535",
+        "Statement": "The least common adverse event in the primary trial was Constipation ",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    "24b85b44-b9e6-4c28-b3aa-1bd97102b7f1": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01929395",
+        "Statement": "Patients must have a palpable carcinoma to be included in the primary trial",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            2
+        ]
+    },
+    "79ca2ee8-6c9c-40e6-a87c-925b50d3d3d2": {
+        "Type": "Single",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01929395",
+        "Statement": "Patients must have several visible carcinomas in the stomach and neck areas to be included in the primary trial",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            2
+        ]
+    },
+    "63a0a9fc-80b9-450f-b2c6-7aee37ce26a9": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00904033",
+        "Statement": "neither of the cohorts in the primary trial are required to undergo surgery or receive any oral medication as part of the intervention",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    "0a079cca-abde-42cf-9cec-a76e7a380e14": {
+        "Type": "Single",
+        "Section_id": "Intervention",
+        "Primary_id": "NCT00904033",
+        "Statement": "neither of the cohorts in the primary trial are required to undergo surgery as part of the intervention",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    "e4aeb013-7713-4b73-acbd-f8379cc6a494": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00005879",
+        "Statement": "there was a higher percentage of patients with slipped disks in cohort 2 of the primary trial than in cohort 1",
+        "Label": "Entailment",
+        "Primary_evidence_index": [
+            5,
+            16
+        ]
+    },
+    "ce8464bd-951e-44aa-97d9-10b917b055ce": {
+        "Type": "Single",
+        "Section_id": "Adverse Events",
+        "Primary_id": "NCT00005879",
+        "Statement": "there was a significantly higher percentage of patients with slipped disks in cohort 2 of the primary trial than in cohort 1",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            5,
+            16
+        ]
+    }
+}
