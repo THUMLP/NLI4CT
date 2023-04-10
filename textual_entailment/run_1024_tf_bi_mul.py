@@ -609,7 +609,7 @@ def run_eval(device, processor, tokenizer, model, writer, global_step, save_deta
     result['{}_evidence_F1'.format(phase)] = new_result['F1']
     logger.info(result)
     #logger.info(np.asarray(all_labels))
-    json.dump(mapping, open('./{}_result_1024_tf_bi_{}.json'.format(phase,args.fold),'w', encoding='utf8'))
+    json.dump(mapping, open('./{}_result_1024_tf_bi_mul_{}.json'.format(phase,args.fold),'w', encoding='utf8'))
     if tensorboard and writer is not None:
         for key in sorted(result.keys()):
             writer.add_scalar('{}/{}'.format(phase, key), result[key], global_step)

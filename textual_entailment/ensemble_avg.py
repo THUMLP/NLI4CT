@@ -31,9 +31,9 @@ def softmax(input, temp):
     return output
 
 test_name_list = [
-        'std_test_result_1024_tf_bi',
-        'std_test_result_scifive_3e-5',
-        'std_test_result_512_bi_bi',
+        'std_test_result_1024_tf_bi_mul',
+        'std_test_result_scifive',
+        'std_test_result_512_bi_bi_mul',
         'std_test_result_512_tf_bi_cl',
         ]
 
