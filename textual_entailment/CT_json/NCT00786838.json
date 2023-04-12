@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT00786838",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Placebo",
+        "  Placebo: Normal saline was administered as a 3-hour intravenous infusion on Day 1.",
+        "INTERVENTION 2: ",
+        "  Trabectedin",
+        "  1.3 mg/m2 of trabectedin was administered as a 3-hour intravenous infusion on Day 2."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Participants with locally advanced or metastatic solid tumors who have received three or less prior lines of systemic chemotherapy",
+        "  Participants must have relapsed or had progressive disease following standard of care treatment with chemotherapy prior to enrollment, or intolerant to prior standard of care treatment with chemotherapy",
+        "  Normal cardiac conduction and function as documented on a 12-lead electrocardiogram",
+        "  Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 to 1",
+        "  Adequate organ function as evidenced by laboratory tests",
+        "  Able to receive dexamethasone or its equivalent",
+        "  Agrees to protocol-defined use of effective contraception",
+        "Exclusion Criteria:",
+        "  Participants treated with more than three prior chemotherapy regimens (including adjuvant therapy)",
+        "  Previous exposure to trabectedin",
+        "  Central nervous system (CNS) metastasis",
+        "  Known hypersensitivity to any of the components of the trabectedin intravenous formulation or dexamethasone",
+        "  Heart rhythm disturbances, unusual T wave and U wave (if present) morphology, blood pressure outside of normal range, a history of cardiac failure, myocardial infarction, or cardiomyopathy, or a history of additional risk factors for torsade de pointes (eg, heart failure, electrolyte abnormalities, family history of Long QT Syndrome)",
+        "  Participants who at screening are on medication that is known to prolong the QT interval or who is on CYP3A4 inhibitors or inducers"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  The Difference in the Change From Baseline (Predose on Day 1) in QTc Intervals Trabectedin Relative to Placebo at 24 Hour Post Dose by Fridericia Correction",
+        "  QTc interval was measured by electrocardiograms to evaluate the potential effect of trabectedin on QTc interval duration. The Fridericia correction was used as the standard clinical correction for calculating the heart rate-corrected QT interval.",
+        "  Time frame: Baseline (predose on Day 1) to 24 hour post dose (Day 1 or Day 2)",
+        "Results 1: ",
+        "  Arm/Group Title: Placebo",
+        "  Arm/Group Description: Placebo: Normal saline was administered as a 3-hour intravenous infusion on Day 1.",
+        "  Overall Number of Participants Analyzed: 74",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: milli seconds  3.6         (10.08)",
+        "Results 2: ",
+        "  Arm/Group Title: Trabectedin",
+        "  Arm/Group Description: 1.3 mg/m2 of trabectedin was administered as a 3-hour intravenous infusion on Day 2.",
+        "  Overall Number of Participants Analyzed: 74",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: milli seconds  -6.2         (10.65)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 31/75 (41.33%)",
+        "  Anaemia * 2/75 (2.67%)",
+        "  Febrile bone marrow aplasia * 1/75 (1.33%)",
+        "  Febrile neutropenia * 5/75 (6.67%)",
+        "  Leukopenia * 1/75 (1.33%)",
+        "  Neutropenia * 6/75 (8.00%)",
+        "  Thrombocytopenia * 4/75 (5.33%)",
+        "  Abdominal pain * 1/75 (1.33%)",
+        "  Haematochezia * 1/75 (1.33%)",
+        "  Nausea * 2/75 (2.67%)",
+        "  Subileus * 1/75 (1.33%)",
+        "  Upper gastrointestinal haemorrhage * 1/75 (1.33%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

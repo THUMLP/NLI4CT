@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT00583700",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Control Arm",
+        "  Watchful waiting (standard treatment). Study participants received no intervention and were monitored for development of radiation-induced fibrosis.",
+        "INTERVENTION 2: ",
+        "  Intervention: Pentoxifylline & Vitamin E",
+        "  Combined treatment with Pentoxifylline and Vitamin E.",
+        "  Vitamin E : Vitamin E (Over-the-counter) 400 I.U. once daily",
+        "  Pentoxifylline : Pentoxifylline 400 mg, 3 times daily for 7 months, beginning immediately after radiation therapy."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients with histologically documented cancer of the breast or DCIS or head and neck referred for definitive radiation with curative intent.",
+        "  No evidence of metastatic disease.",
+        "  Minimum life expectancy of at least 12 months.",
+        "  Aged greater than 20 years.",
+        "  If female, pregnancy excluded.",
+        "  No documented history of collagen vascular disease.",
+        "Exclusion Criteria:",
+        "  Cognitively impaired patients",
+        "  Prisoners",
+        "  No histology available",
+        "  Documented metastatic disease",
+        "  Allergy to Trental",
+        "  Life expectance of less than 12 months.",
+        "  Aged less than 20 years",
+        "  Collagen vascular disease present",
+        "  Pregnant",
+        "  History of liver disease",
+        "  Use of anticoagulants"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Subjective, Objective, Management, and Analytic (SOMA) Score",
+        "  A primary outcome of interest is the composite Subjective, Objective, Management, and Analytic (SOMA) score at 18-month follow-up visit. Maximum score is 45, with a score of 0 being ideal and representing no treatment-related side effects at the study visit.",
+        "  Time frame: 18 month post-treatment",
+        "Results 1: ",
+        "  Arm/Group Title: Control Arm",
+        "  Arm/Group Description: Watchful waiting (standard treatment). Study participants received no intervention and were monitored for development of radiation-induced fibrosis.",
+        "  Overall Number of Participants Analyzed: 27",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  1.59         (1.53)",
+        "Results 2: ",
+        "  Arm/Group Title: Intervention: Pentoxifylline & Vitamin E",
+        "  Arm/Group Description: Combined treatment with Pentoxifylline and Vitamin E.",
+        "  Vitamin E : Vitamin E (Over-the-counter) 400 I.U. once daily",
+        "  Pentoxifylline : Pentoxifylline 400 mg, 3 times daily for 7 months, beginning immediately after radiation therapy.",
+        "  Overall Number of Participants Analyzed: 25",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  1.0         (1.19)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/27 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/27 (0.00%)"
+    ]
+}

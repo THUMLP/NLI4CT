@@ -1,0 +1,53 @@
+{
+    "Clinical Trial ID": "NCT00687102",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Star Participants Assigned to Tamoxifen",
+        "  Participants in the parent study, STAR assigned to Tamoxifen who were 65 or older at time of enrollment.",
+        "  tamoxifen: oral tamoxifen plus placebo daily for 5 years",
+        "INTERVENTION 2: ",
+        "  Star Participants Assigned to Raloxifene",
+        "  Participants in the parent study, STAR assigned to Raloxifene who were 65 or older at time of enrollment.",
+        "  raloxifene: oral raloxifene plus placebo daily for 5 years"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women enrolled in STAR trial at a site participating in Co-STAR",
+        "  65 years of age or older",
+        "  Have been randomized into STAR but have not started taking the study drug OR enrolled in STAR for a minimum of one year",
+        "  Have not been diagnosed with dementia",
+        "  Have signed a separate consent document for the Co-STAR Study",
+        "  Previous diagnoses of chronic neurologic disease (Parkinson's disease, stroke, epilepsy, multiple sclerosis), history of head injury, depression, alcohol addiction, drug addiction, and other neurologic or psychiatric conditions will be recorded but will not serve as exclusion factors for this study",
+        "Exclusion Criteria:",
+        "  Not enrolled in the STAR Trial",
+        "  Younger than 65 years of age",
+        "  Diagnosed with dementia"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Mean Change From Baseline on the the Benton Visual Retention Test Scores by Treatment Group",
+        "  Mean Change From Baseline on the Benton Visual Retention (BVRT) Test scores. Adjusted for age, ethnicity, education, and baseline measure, for participants with true baseline measures.",
+        "  The BVRT measures short term visual memory and visuo-constructional abilities. Each of 10 designs was presented one at a time for 10 seconds, and immediately after the design was withdrawn, the participant was instructed to draw it from memory on a blank sheet of paper. The score on the BVRT is the total number of errors, 0-26 represents the total number of theoretically possible errors. Lower score denotes better outcomes.",
+        "  Time frame: Baseline and 3 Years",
+        "Results 1: ",
+        "  Arm/Group Title: Star Participants Assigned to Tamoxifen",
+        "  Arm/Group Description: Participants in the parent study, STAR assigned to Tamoxifen who were 65 or older at time of enrollment.",
+        "  tamoxifen: oral tamoxifen plus placebo daily for 5 years",
+        "  Overall Number of Participants Analyzed: 83",
+        "  Mean (Standard Error)",
+        "  Unit of Measure: Number of errors  -0.73         (0.34)",
+        "Results 2: ",
+        "  Arm/Group Title: Star Participants Assigned to Raloxifene",
+        "  Arm/Group Description: Participants in the parent study, STAR assigned to Raloxifene who were 65 or older at time of enrollment.",
+        "  raloxifene: oral raloxifene plus placebo daily for 5 years",
+        "  Overall Number of Participants Analyzed: 93",
+        "  Mean (Standard Error)",
+        "  Unit of Measure: Number of errors  -1.41         (0.32)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/733 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/765 (0.00%)"
+    ]
+}

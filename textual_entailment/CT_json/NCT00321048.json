@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT00321048",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Active Breathing Coordination",
+        "  Patients will receive radiation therapy at a dose of 180-200 cGy per fraction for 23-27 fractions to a total dose of 4600 - 4860 cGy. Additional radiation to the lumpectomy bed or mastectomy scar is at the discretion of the treating physician. The total dose to the tumor bed or mastectomy scar cannot exceed 6600cGy. Treatments will be given Monday through Friday.",
+        "  Patients in this group were treated with Active Breathing Coordinator:",
+        "  A SPECT scan will be obtained at baseline and at 6 months follow to determine changes in cardiac perfusion",
+        "INTERVENTION 2: ",
+        "  No Active Breathing Coordination",
+        "  Patients will receive radiation therapy at a dose of 180-200 cGy per fraction for 23-27 fractions to a total dose of 4600 - 4860 cGy. Additional radiation to the lumpectomy bed or mastectomy scar is at the discretion of the treating physician. The total dose to the tumor bed or mastectomy scar cannot exceed 6600cGy. Treatments will be given Monday through Friday.",
+        "  (Patient ARE NOT treated with ABC) A SPECT scan will be obtained at baseline and at 6 months follow to determine changes in cardiac perfusion"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patient must be 18 and older",
+        "  Patients must have histologically confirmed (by routine H&E staining) invasive adenocarcinoma or Ductal Carcinoma In Situ of the left breast.",
+        "  Patients must have undergone a segmental mastectomy (SM) or Mastectomy",
+        "  Patients must not have received prior radiation therapy to the breast at any time for any reason.",
+        "  Any patient with active local-regional disease prior to registration is not eligible.",
+        "  Patients must not be pregnant due to the potential for fetal harm as a result of this treatment regimen. Women of child-bearing age will be given a serum pregnancy test prior to study entry to ensure they are not pregnant. Women of child-bearing potential must use effective non-hormonal contraception while undergoing radiation therapy.",
+        "  Patients must not have a serious medical or psychiatric illness which prevents informed consent or compliance with treatment.",
+        "  All patients must be informed of the investigational nature of this study and give written informed consent in accordance with institutional and federal guidelines.",
+        "Exclusion Criteria:",
+        "  Patients requiring oxygen",
+        "  Sarcoma or Squamous Cell pathology",
+        "  Right-sided breast cancers",
+        "  Metastatic disease to the breast"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Efficacy of Active Breathing Coordinator (ABC) Device as Determined by the Mean Apical Perfusion Score",
+        "  Efficacy of the ABC device in protecting the heart from radiation (XRT) damage in patients with L breast cancer is determined by the change in cardiac perfusion (mean apical perfusion score) as measured by SPECT between baseline and 6 month follow up. A score of 1 represents an equivocal or mild reduction in perfusion, 2 represents moderately reduced perfusion, 3 represents severely reduced perfusion, and 4 indicates absent perfusion.",
+        "  Time frame: 6 months post-radiation",
+        "Results 1: ",
+        "  Arm/Group Title: Active Breathing Coordination",
+        "  Arm/Group Description: Patients will receive radiation therapy at a dose of 180-200 cGy per fraction for 23-27 fractions to a total dose of 4600 - 4860 cGy. Additional radiation to the lumpectomy bed or mastectomy scar is at the discretion of the treating physician. The total dose to the tumor bed or mastectomy scar cannot exceed 6600cGy. Treatments will be given Monday through Friday.",
+        "  Patients in this group were treated with Active Breathing Coordinator:",
+        "  A SPECT scan will be obtained at baseline and at 6 months follow to determine changes in cardiac perfusion",
+        "  Overall Number of Participants Analyzed: 22",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: Mean Perfusion Score  Mean Apical Perfusion Pre XRT: 1.2         (0.9)",
+        "  Mean Apical Perfusion Post XRT: 2.1         (1.5)",
+        "Results 2: ",
+        "  Arm/Group Title: No Active Breathing Coordination",
+        "  Arm/Group Description: Patients will receive radiation therapy at a dose of 180-200 cGy per fraction for 23-27 fractions to a total dose of 4600 - 4860 cGy. Additional radiation to the lumpectomy bed or mastectomy scar is at the discretion of the treating physician. The total dose to the tumor bed or mastectomy scar cannot exceed 6600cGy. Treatments will be given Monday through Friday.",
+        "  (Patient ARE NOT treated with ABC) A SPECT scan will be obtained at baseline and at 6 months follow to determine changes in cardiac perfusion",
+        "  Overall Number of Participants Analyzed: 21",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: Mean Perfusion Score  Mean Apical Perfusion Pre XRT: 2.0         (1.5)",
+        "  Mean Apical Perfusion Post XRT: 2.5         (1.6)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/22 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/21 (0.00%)"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Clinical Trial ID": "NCT00429507",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Samarium 153-EDTMP + Stem Cell Transplant",
+        "  Samarium 153-EDTMP tracer dose = 30 millicurie (mCi) intravenous Day 1; or with study drug to bones, receive higher therapy dose of 153 Sm-EDTMP 7-14 days after tracer dose. Stem Cell Transplant Day 0, about 14-21 days after Samarium 153-EDTMP."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Stage IV breast cancer metastatic to bone and/or bone marrow only.",
+        "  Age between 18 and 65 years.",
+        "  Eastern Cooperative Oncology Group (ECOG) performance score of 0, 1",
+        "  Subjects with breast tumors with hormone receptor positive disease (ER+/PR+, ER+/PR-, or ER-/PR+) must have failed at least one hormonal-based therapy for bone only disease.",
+        "  Subjects with breast tumors with hormone receptor negative disease must have failed at least one anthracycline and/or taxane-based therapy for bone only disease.",
+        "  White blood cell count (WBC) >/= 3.5 x10^9/L, Hb >/= 10 g/dL, platelets >/= 100 x10^9/L.",
+        "  Adequate pulmonary function defined as forced expiratory volume at one second (FEV1), forced vital capacity (FVC) and diffusing capacity of lung for carbon monoxide (DLCO) (corrected for hemoglobin) >/= 50% of predicted.",
+        "  Adequate cardiac function as evidenced by left ventricular ejection fraction (LVEF) of >/= 45%.",
+        "  Serum total bilirubin < 2x upper limit of normal (ULN), and ALT/serum glutamate pyruvate transaminase (SGPT) < 3x ULN",
+        "  Creatinine clearance of >/= 75 mL/min for subjects up to 50 years of age, and adjusted for age by a 10% decrease per decade for subjects of more than 50 years of age.",
+        "  Ability to understand the study and provide informed consent.",
+        "Exclusion Criteria:",
+        "  Any metastatic disease or history of metastatic disease other than skeletal metastases",
+        "  Impending fracture, spinal cord compression, and/or potentially unstable compression fracture of vertebral body with possibility of cord compression.",
+        "  Previous strontium-89 or samarium-153 treatment for any skeletal involvement.",
+        "  Cumulative external beam radiation to > 20% of marrow volume or > 40 Gy to any single region of the spinal cord.",
+        "  Prior radiation to the bladder or kidney, defined as radiation portals that directly include any volume of either kidney and/or the bladder.",
+        "  Life expectancy severely limited by concomitant illness (less than 6 months).",
+        "  Prior nephrectomy.",
+        "  History of hemorrhagic cystitis obstructive uropathy or hydronephrosis.",
+        "  Uncontrolled arrhythmia or symptomatic cardiac disease.",
+        "  Current gross hematuria in urinalysis (UA) in the absence of vaginal bleeding.",
+        "  Evidence of HIV-seropositivity.",
+        "  Inability to stop any chemotherapy treatment for breast cancer within 3 weeks preceding high dose Samarium.",
+        "  Use of any investigational agent within 30 days preceding enrollment.",
+        "  Pregnant or lactating women.",
+        "  Other current or prior malignancy except for adequately treated basal cell or squamous cell skin cancer or in situ cervical cancer.",
+        "  Myelodysplastic syndrome.",
+        "  Subject weight of more than 125 kg."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Time to Progression",
+        "  Time to progression is measured as the time from study entry to the development of disease progression.",
+        "  Time frame: 7.5 Years, Study period was March 2007 to November 2014.",
+        "Results 1: ",
+        "  Arm/Group Title: Samarium 153-EDTMP + Stem Cell Transplant",
+        "  Arm/Group Description: Samarium 153-EDTMP tracer dose = 30 millicurie (mCi) intravenous Day 1; or with study drug to bones, receive higher therapy dose of 153 Sm-EDTMP 7-14 days after tracer dose. Stem Cell Transplant Day 0, about 14-21 days after Samarium 153-EDTMP.",
+        "  Overall Number of Participants Analyzed: 12",
+        "  Median (Full Range)",
+        "  Unit of Measure: Days  317        (105 to 1339)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/12 (0.00%)"
+    ]
+}

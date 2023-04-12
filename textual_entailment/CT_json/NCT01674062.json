@@ -1,0 +1,48 @@
+{
+    "Clinical Trial ID": "NCT01674062",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Pertuzumab + Trastuzumab (Cohorts 1 and 2)",
+        "  Females with HER2-positive metastatic breast cancer received dual-agent treatment with pertuzumab and trastuzumab. Recruitment for Cohorts 1 and 2 was conducted separately; however, the same regimen was administered to both sets of participants. Trastuzumab was administered via IV infusion as 2 mg/kg once weekly, or as 6 mg/kg every 3 weeks, beginning on Day 1 of Cycle 1. Pertuzumab was administered via IV infusion at a loading dose of 840 mg followed by a standard dose of 420 mg every 3 weeks, beginning on Day 2 of Cycle 1. Thereafter, both medications were administered on Day 1 of each 3-week cycle. Treatment continued for a minimum of 8 cycles and could be extended until disease progression, intolerable toxicity, or death."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Females greater than or equal to (  ) 18 years of age, with histologically-confirmed HER2-positive breast cancer",
+        "  Metastatic breast cancer, with progression on trastuzumab-based therapy as last treatment for metastatic disease",
+        "  Less than or equal to (  ) 3 chemotherapy regimens prior to study entry",
+        "  Last trastuzumab dose 9 weeks before study entry for participants receiving pertuzumab + trastuzumab, and 4 weeks for participants receiving pertuzumab monotherapy",
+        "  Left ventricular ejection fraction 55% at study entry",
+        "Exclusion Criteria:",
+        "  Previous treatment with an anti-cancer vaccine or any targeted therapy other than trastuzumab",
+        "  Brain metastases",
+        "  History of any cardiac adverse event related to trastuzumab therapy",
+        "  Any other malignancy in the last 5 years, except for basal cell cancer or cancer in situ of the cervix"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Cohorts 1 and 2: Percentage of Participants With a Confirmed Best Overall Response of Complete Response (CR) or Partial Response (PR) According to Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.0 During Dual-Agent Treatment",
+        "  Tumor response was assessed using RECIST version 1.0 to determine the objective response (OR) rate, or the percentage of participants with either confirmed CR or PR. CR was defined as the disappearance of all target lesions, and PR was defined as at least a 30 percent (%) decrease in the sum of the longest diameter compared to Baseline. Response was to be confirmed a minimum of 4 weeks after the initial response was documented. The OR rate was calculated as [number of participants meeting the above criteria divided by the number analyzed] multiplied by 100.",
+        "  Time frame: Up to approximately 9.5 years (at Screening; on Day 15 of Cycles 2, 4, 6, and 8 [cycle length 3 weeks]; then every 3 months until disease progression)",
+        "Results 1: ",
+        "  Arm/Group Title: Pertuzumab + Trastuzumab (Cohorts 1 and 2)",
+        "  Arm/Group Description: Females with HER2-positive metastatic breast cancer received dual-agent treatment with pertuzumab and trastuzumab. Recruitment for Cohorts 1 and 2 was conducted separately; however, the same regimen was administered to both sets of participants. Trastuzumab was administered via IV infusion as 2 mg/kg once weekly, or as 6 mg/kg every 3 weeks, beginning on Day 1 of Cycle 1. Pertuzumab was administered via IV infusion at a loading dose of 840 mg followed by a standard dose of 420 mg every 3 weeks, beginning on Day 2 of Cycle 1. Thereafter, both medications were administered on Day 1 of each 3-week cycle. Treatment continued for a minimum of 8 cycles and could be extended until disease progression, intolerable toxicity, or death.",
+        "  Overall Number of Participants Analyzed: 66",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  24.2        (17.4 to 32.3)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 12/66 (18.18%)",
+        "  Palpitations * 1/66 (1.52%)",
+        "  Haematemesis * 1/66 (1.52%)",
+        "  Performance status decreased * 1/66 (1.52%)",
+        "  Hepatic failure * 1/66 (1.52%)",
+        "  Cellulitis * 1/66 (1.52%)",
+        "  Device related infection * 1/66 (1.52%)",
+        "  Pneumonia * 1/66 (1.52%)",
+        "  Pneumonia pneumococcal * 1/66 (1.52%)",
+        "  Femur fracture * 0/66 (0.00%)",
+        "  Hypokalaemia * 1/66 (1.52%)",
+        "  Back pain * 2/66 (3.03%)"
+    ]
+}

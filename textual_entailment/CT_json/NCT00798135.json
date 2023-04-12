@@ -1,0 +1,46 @@
+{
+    "Clinical Trial ID": "NCT00798135",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Itraconazole",
+        "  oral itraconazole 200mg a day until disease progression or unacceptable toxicities."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  - Patients must have a pathologically confirmed diagnosis of invasive carcinoma of the breast. - Patients must carry a diagnosis of metastatic breast cancer. - Patients must be able to swallow oral medications. - Patients with HER 2+ tumors must have received trastuzumab in the past and may have had lapatinib. - Patients must have an ECOG performance status of 0-1. - Patients must be informed of the investigational nature of the study and must sign and give written informed consent. - Patients must have recovered to grade <1 from all acute toxicity of previous therapy for breast cancer with the exception of alopecia. - Adequate hematologic and hepatic function: 1)Absolute neutrophil count >= 1,500 mm3 2) Platelet count >= 100,000 mm3 3) Bilirubin <= 1.5mg/dL x ULN 4) AST and/or ALT <= 2 x ULN (< 5 x ULN in presence of known liver metastasis). - Prior to study enrollment, women of childbearing potential (WOCBP) must be advised of the importance of avoiding pregnancy during trial participation and must practice an effective method of birth control. In addition, men enrolled on this study should understand the risks to any sexual partner of childbearing potential and should also practice an effective method of birth control. - All WOCBP MUST have a negative serum or urine pregnancy test within 4 weeks prior to the start of study drug administration.",
+        "Exclusion Criteria:",
+        "  Use of the following concomitant medications within 14 days of starting protocol therapy is prohibited: Cisapride, dofetilide, ergot derivatives, levomethadyl, lovastatin, midazolam, pimozide, quinidine, simvastatin, or triazolam.",
+        "  Patients who are taking alprazolam (Xanax) are excluded from the trial.",
+        "  Patients must not have an active infection requiring the use of intravenous antibiotics. The use of oral antibiotics is allowed.",
+        "  Hypersensitivity to itraconazole, any component of the formulation, or to other azoles.",
+        "  Patients with uncontrolled CNS metastasis are excluded. If patients have CNS metastasis they must have completed brain radiation at least 2 weeks prior to registration and must be off steroids for CNS metastasis.",
+        "  Known preexisting congestive heart failure or left ventricular dysfunction. Patients with risk factors (ex. uncontrolled hypertension with BP >160/90) for cardiac dysfunction but no preexisting diagnosis of congestive heart failure or left ventricular dysfunction will have a screening EKG prior to enrollment. Subsequently, those patients with an abnormal EKG, as judged by the treating physician, will be excluded from the study."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Pharmacokinetics (PK) of Oral Itraconazole",
+        "  To determine the pharmacokinetics (PK) of oral itraconazole in patients with MBC by measuring mean trough plasma levels at steady state at weeks 2 and 4.",
+        "  Time frame: pre-dose at Weeks 2 and 4",
+        "Results 1: ",
+        "  Arm/Group Title: Itraconazole",
+        "  Arm/Group Description: oral itraconazole 200mg a day until disease progression or unacceptable toxicities.",
+        "  Overall Number of Participants Analyzed: 12",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: ng/mL  Week 2 Intraconazole Concentration: 230.7         (216.8)",
+        "  Week 4 Intraconazole Concentration: 305.8         (334.8)",
+        "  Week 2 6-OH Itraconazole Concentration: 454.8         (429.3)",
+        "  Week 4 6-OH Itraconazole Concentration: 501.6         (502.6)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 3/13 (23.08%)",
+        "  NAUSEA *1/13 (7.69%)",
+        "  PAIN - ABDOMEN NOS *1/13 (7.69%)",
+        "  VOMITING *1/13 (7.69%)",
+        "  HEMORRHAGE, GI - UPPER GI NOS *1/13 (7.69%)",
+        "  PAIN - BACK *1/13 (7.69%)",
+        "  MUSCLE WEAKNESS, GENERALIZED OR SPECIFIC AREA (NOT DUE TO NEUROPATHY) - EXTREMITY-LOWER *1/13 (7.69%)",
+        "  PLEURAL EFFUSION (NON-MALIGNANT) *1/13 (7.69%)",
+        "  THROMBOSIS/THROMBUS/EMBOLISM *1/13 (7.69%)"
+    ]
+}

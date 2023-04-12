@@ -1,0 +1,47 @@
+{
+    "Clinical Trial ID": "NCT01104584",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  CMRM Versus UMRM",
+        "[Not Specified]"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Recent histologically proven diagnosis of breast cancer after having obtained X-Ray Mammography (XRM) of both breasts (according to American College of Radiology [ACR] and performed no longer than 6 weeks prior to enrollment into the study) and has been referred for a contrast-enhanced Magnetic Resonance Mammography (MRM) prior to surgery of the breast.",
+        "  if female, a digital XRM is required if any of the following criteria is met:",
+        "  a. patient is younger than 50 years;",
+        "  b. patient has heterogeneously or extremely dense breasts;",
+        "  c. is not post-menopausal (post-menopause defined as at least 12 months prior to inclusion without menstruation).",
+        "  if female of childbearing potential, MRM should be performed on the 7-14th day of the menstrual cycle.",
+        "  has an estimated glomerular filtration rate (eGFR) value >/= 60 mL/min/1.73m^2 derived from a serum creatinine result within 2 weeks prior to study enrollment.",
+        "Exclusion Criteria:",
+        "  is a female patient who is pregnant or lactating",
+        "  has any contraindication to the MRM examination (e.g. metal implants, phobia) or the use of gadolinium-containing contrast agents.",
+        "  has received any contrast agent within 24 hours prior to the study MRM, or is scheduled to receive any contrast agent within 24 hours after the study MRM.",
+        "  has severe cardiovascular disease (e.g., known long QT syndrome, acute myocardial infarction [< 14 days], unstable angina, congestive heart failure New York Heart Association class IV) or acute stroke (< 48 hours)).",
+        "  has acute renal insufficiency of any severity due to hepato-renal syndrome or in the peri-operative liver transplantation period or who has acute or chronic moderate or severe renal insufficiency (glomerular filtration rate < 60 mL/min/1.73m^2).",
+        "  has received chemotherapy or hormonal therapy for breast cancer within 6 months.",
+        "  has received hormone replacement therapy within 4 weeks prior to study drug administration.",
+        "  is scheduled or likely to require a surgery and/or biopsy in the time period up to 24 hours following study drug application",
+        "  has prior excisional biopsy or breast surgery less than 6 months before enrollment and between XRM and study MRM"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Difference of Sensitivity for Detection of Full Extent of Malignant Breast Disease Using CMRM vs UMRM Per Reader",
+        "  For a single participant the sensitivity was defined as the proportion of malignant breast regions that were recognized by the clinical investigators and the 3 blinded readers using the respective imaging modality as malignant. Subsequently the sensitivity percentage was calculated based on the mean of the sensitivities across all participants. The difference was calculated as CMRM value minus UMRM value. For ease of expression, the following abbreviations will be used: Magnetic Resonance Mammography (MRM), Unenhanced MRM (UMRM), combined unenhanced and contrast (gadobutrol)-enhanced MRM (CMRM), X-ray mammography (XRM).",
+        "  Time frame: Immediately before injection and after injection",
+        "Results 1: ",
+        "  Arm/Group Title: CMRM Versus UMRM",
+        "  Arm/Group Description: [Not Specified]",
+        "  Overall Number of Participants Analyzed: 390",
+        "  Mean (95% Confidence Interval)",
+        "  Unit of Measure: difference in sensitivity (%)  Reader 1: 15.2        (11.8 to 18.7)",
+        "  Reader 2: 31.9        (27.3 to 36.6)",
+        "  Reader 3: 30.4        (25.8 to 34.9)",
+        "  Investigator: 15.9        (12.4 to 19.4)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/439 (0.00%)"
+    ]
+}

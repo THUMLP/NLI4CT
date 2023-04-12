@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT00206427",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  GW572016 1500mg",
+        "  patients received GW572016 1500mg daily"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  All patients must be female.",
+        "  Signed informed consent.",
+        "  Locally advanced breast cancers or primary breast cancers with concomitant gross metastatic disease are eligible. Locally advanced cancers must be of clinical and/or radiologic size >/- 5 cm, and/or are deemed surgically inoperable, with Stage IIIb, IIIc, or IV disease.",
+        "  HER2 overexpressing tumors defined as HercepTest score of 3+, or >/- 10% cells moderately or strongly HER2 positive by other methods, or semi-quantitative score of >/- 5 (in Dr. Allred's laboratory) or gene amplified.",
+        "  Negative serum pregnancy test (BHCG) within 7 days of starting study, if of child-bearing potential.",
+        "  Kidney and liver function tests - all within 1.5 times the institution's upper limit of normal.",
+        "  Performance status (WHO scale) less than 2 and life expectancy greater than 6 months.",
+        "  Age greater than 18 years.",
+        "  No brain or leptomeningeal disease.",
+        "  No previous or current malignancies at other sites within the last 5 years, with exception of adequately treated core-biopsied in situ carcinoma of the cervix uteri and basal or squamous cell carcinoma of the skin.",
+        "Exclusion Criteria:",
+        "  Pregnancy or unwillingness to use a reliable contraceptive method in women of child-bearing potential.",
+        "  Severe underlying chronic illness or disease.",
+        "  Cardiomyopathy or baseline LVEF <50%.",
+        "  Other investigational drugs while on study.",
+        "  Severe or uncontrolled hypertension, history of congestive heart failure or severe coronary arterial disease.",
+        "  Malabsorption syndrome, disease significantly affecting gastrointestinal function, or resection of the stomach or small bowel. Subjects with ulcerative colitis are also excluded.",
+        "  Taking any GW572016-prohibited medication (see GW572016 Prohibited Medications List in protocol) within 7 days of first dose of study medications."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Clinical Response",
+        "  Clinical efficacy was assessed by bidimensional tumor measurements of the primary cancer at baseline, and at the end of week 6. Clinical complete response (cCR) was defined as complete disappearance of the primary tumor. Clinical partial response (cPR) was defined as a decrease by at least 50% of the sum of the products of the largest perpendicular diameters. An increase of more than 25% was defined as clinical progressive disease (cPD). Any response that does not meet the definition of cCR, cPR, or cPD was defined as stable disease (cSD).",
+        "  Time frame: at the end of week 6.",
+        "Results 1: ",
+        "  Arm/Group Title: GW572016 1500mg",
+        "  Arm/Group Description: patients received GW572016 1500mg daily",
+        "  Overall Number of Participants Analyzed: 47",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  cCR: 3",
+        "  cPR: 30",
+        "cSD: 11",
+        "cPD: 3"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 3/49 (6.12%)",
+        "  Neutrophils/ANC *1/49 (2.04%)",
+        "  Leukocytes *1/49 (2.04%)",
+        "  Hypocalcemia *1/49 (2.04%)",
+        "  Febrile neutropenia *1/49 (2.04%)",
+        "  Left Ventricular Systolic Dysfunction *1/49 (2.04%)",
+        "  Constipation *1/49 (2.04%)",
+        "  Mucositis-oral *1/49 (2.04%)",
+        "  Infection-oral thrush *1/49 (2.04%)",
+        "  rash *1/49 (2.04%)"
+    ]
+}

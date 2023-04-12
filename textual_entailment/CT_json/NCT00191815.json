@@ -1,0 +1,52 @@
+{
+    "Clinical Trial ID": "NCT00191815",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Gemcitabine + Cisplatin",
+        "  Gemcitabine (30 min intravenous infusion) dose of 1000mg/m2 on Day 1 and Day 8 (21 day cycle).",
+        "  Cisplatin (30-120 min intravenous infusion) dose of 35 mg/m2 on Day 1 and Day 8 (21 day cycle)."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  You are female in the age of 18 to 75 years old.",
+        "  You have been diagnosed with the metastatic breast cancer.",
+        "  You have desire and an opportunity to visit your doctor in medical site, both during realization of the active treatment program, and within 24 months of medical follow up.",
+        "  You must sign this informed consent form",
+        "Exclusion Criteria:",
+        "  You are pregnant or breastfeeding.",
+        "  Your laboratory parameters fall outside the limits, admitted by requirements of the present clinical study.",
+        "  You have been diagnosed with serious concomitant or acute infectious disease.",
+        "  You have used experimental medications within the last month."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Objective Tumor Response",
+        "  Best response recorded from the start of treatment until disease progression/recurrence using World Health Organization (WHO) criteria that defines when participants improve (\"respond\"), stay the same (\"stable\"), or worsen (\"progression\") during treatment.",
+        "  Time frame: baseline to measured progressive disease (eight 21-day cycles of therapy and follow-up period was 24 months starting from the date of the last drug administration. Data collected every 4 months.)",
+        "Results 1: ",
+        "  Arm/Group Title: Gemcitabine + Cisplatin",
+        "  Arm/Group Description: Gemcitabine (30 min intravenous infusion) dose of 1000mg/m2 on Day 1 and Day 8 (21 day cycle).",
+        "  Cisplatin (30-120 min intravenous infusion) dose of 35 mg/m2 on Day 1 and Day 8 (21 day cycle).",
+        "  Overall Number of Participants Analyzed: 54",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Complete Response: 7",
+        "  Partial Response: 19",
+        "  Stable Disease: 19",
+        "  Progressive Disease: 5",
+        "Not Assessable: 4"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 6",
+        "  Atrial fibrillation 1/67 (1.49%)",
+        "  Ventricular fibrillation 1/67 (1.49%)",
+        "  Gastrointestinal perforation 1/67 (1.49%)",
+        "  Periproctitis 1/67 (1.49%)",
+        "  General physical health deterioration 1/67 (1.49%)",
+        "  Escherichia sepsis 1/67 (1.49%)",
+        "  Pneumonia 1/67 (1.49%)",
+        "  Tumour pain 1/67 (1.49%)",
+        "  Renal failure acute 1/67 (1.49%)",
+        "  Pleurisy 1/67 (1.49%)"
+    ]
+}

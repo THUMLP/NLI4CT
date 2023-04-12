@@ -1,0 +1,45 @@
+{
+    "Clinical Trial ID": "NCT00795769",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Ondansetron Therapy",
+        "  Patients receive 16mg ondansetron IV once 30-60 minutes before undergoing autologous peripheral blood stem cell transplantation.",
+        "  ondansetron: Given IV",
+        "  survey administration: Correlative studies",
+        "  management of therapy complications: Ondansetron IV"
+    ],
+    "Eligibility": [
+        "Inclusion",
+        "  Autologous PBSC transplant patient",
+        "  English-speaking",
+        "  Planned cryopreserved PBSC infusion at the SCCA outpatient clinic",
+        "  Exclusion",
+        "  History of prior autologous transplant",
+        "  Non-English-speaking",
+        "  Planned cryopreserved PBSC infusion at the UWMC inpatient unit",
+        "  Infusion of cryopreserved PBSC that are thawed and washed to remove DMSO prior to infusion",
+        "  Allergy or adverse reaction to ondansetron"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Reduction in Rates of Nausea or Vomiting After Ondansetron (Compared to FHCRC Historical Rates)",
+        "  Nausea Multinational Association of Supportive Care in Cancer Antiemesis Tool\u2122 (MAT). Increased MAT scores represent worse outcome (score 0-10). Vomiting represented as present or absent.",
+        "  Time frame: Baseline up to 120 minutes",
+        "Results 1: ",
+        "  Arm/Group Title: Ondansetron Therapy",
+        "  Arm/Group Description: Patients receive 16mg ondansetron IV once 30-60 minutes before undergoing autologous peripheral blood stem cell transplantation.",
+        "  ondansetron: Given IV",
+        "  survey administration: Correlative studies",
+        "  management of therapy complications: Ondansetron IV",
+        "  Overall Number of Participants Analyzed: 49",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  MAT score >2 on arrival and pre-ondansetron: 23  46.9%",
+        "  Baseline MAT score >2 prior to first ASCT infusion: 9  18.4%",
+        "  MAT score increases >2 by end of infusion: 12  24.5%",
+        "  Number of patients that vomited: 9  18.4%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/49 (0.00%)"
+    ]
+}

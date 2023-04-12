@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT01252290",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Lovaza\u2122",
+        "  Lovaza\u2122: 4 capsules daily for 6 months"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria",
+        "  Subjects must be postmenopausal and between the ages of 25 and 69 years. Menopause is defined by no menstrual period for more than one year and intact uterus and ovaries, or women with intact ovaries but without a uterus and age 50 and over, or a woman with both estradiol and follicle stimulating hormone (FSH) in the postmenopausal range or any woman who has had her ovaries removed.",
+        "  Subjects must be at increased risk for breast cancer on the basis of at least one of the following criteria:",
+        "  A five-year Gail risk of  1.67% or  2X the average risk for a woman of the same age using either the Surveillance Epidemiology and End Results (SEER, http://seer.cancer.gov) database, the NCI Breast Cancer Risk Assessment Tool (www.cancer.gov/bcrisktool), or the International Breast Cancer Intervention Study (IBIS) Risk Evaluator (http://www.emstrials.",
+        "  org/riskevaluator/), or a ten-year Tyrer-Cuzick model risk of 2x that of the population risk.",
+        "  A first degree relative with breast cancer under the age of 60 or multiple second degree relatives with breast cancer.",
+        "  Multiple prior biopsies or at least one prior biopsy exhibiting atypical hyperplasia (AH), lobular carcinoma in situ (LCIS), ductal carcinoma in situ (DCIS).",
+        "  Random periareolar fine needle aspiration (RPFNA) evidence of hyperplasia with atypia within the last three years;",
+        "  Chest or neck radiation before age 30;",
+        "  Mammographic breast density by visual estimate equals or exceeds 50%.",
+        "  Subjects must be willing to continue the same hormonal milieu present at baseline throughout trial (Cannot start or stop any type of hormone replacement therapy with the exception of vagifem or estring).",
+        "  Six months or more must have elapsed from completion of a prevention intervention trial (with exception of a weight reduction trial), ingestion of a selective estrogen receptor modulator (SERM) or aromatase inhibitor (AI) prior to baseline biomarker assessment. .",
+        "  Subjects with a history of AH, LCIS, or ER-positive DCIS by diagnostic biopsy, must have been counseled about appropriate standard prevention therapies such as tamoxifen or raloxifene and are either not eligible or are not interested in standard prevention therapies. Women with DCIS must have had appropriate local therapy (lumpectomy plus radiation or mastectomy). If subject has had a DCIS, at least two months must have elapsed from surgery and/or radiation therapy to the involved breast. Only the contra-lateral (uninvolved breast) will be studied by RPFNA. The subject may not have had any radiation therapy to the contra-lateral breast to be studied",
+        "  Subjects must have had a screening mammogram within 6 months of entering the interventional portion of the study and read as not suspicious for breast cancer or if suspicious must have completed all suggested tests including biopsy and found to have no evidence of cancer. Women must be willing to have an off-study mammogram performed 6 months after study entry.",
+        "  Subjects must have had an RPFNA of the breast within six months prior to entering the intervention portion of the study and be willing to have another RPFNA at ~6.5 months after starting Lovaza\u2122.",
+        "Tissue Eligibility: Subjects must have cytomorphologic evidence of hyperplasia with atypia or borderline atypia (Masood score > 13). There must be 500 epithelial cells on the slide for cytomorphology. There must be sufficient reserved methanol-formalin- fixed material for quantitative reverse transcription polymerase chain reaction (RT-qPCR). Frozen tissue must also have been obtained for fatty acid analysis, reverse phase proteomics, adipokines and cytokines, and RT-qPCR.",
+        "  Subjects must be willing to undergo phlebotomy at baseline and 6 months and 6.5 months. Approximately 3 tablespoons of blood will be obtained at baseline and 6 months and 6.5 months or 6 tablespoons if the subject decides to participate in the optional monocyte cytokine release assay .",
+        "  Subjects must produce a spot urine sample at baseline, 6 months, and at study conclusion",
+        "  Subjects must be willing to undergo measurement of height, weight, and BMI and undergo body composite analysis (DEXA) at initiation and conclusion of intervention.",
+        "  Subjects must be willing to complete questionnaires regarding diet and supplement use, quality of life as well as relevant family history personal health and reproductive history and medications at initiation and conclusion of the intervention. Subjects must be willing to sign an informed consent for the entire study and separate consent for repeat RPFNA.",
+        "  Exclusion Criteria",
+        "  Women that have had a metastatic malignancy of any kind.",
+        "  Women that have had prior invasive breast cancer, diagnosed or treated within the past five years.",
+        "  Women who are currently taking anticoagulants.",
+        "  Women who have breast implants.",
+        "  Women who have undergone change in their hormonal milieu in the past 6 months.",
+        "  Women who have taken omega 3 fatty acid or flaxseed supplements within 3 weeks prior to their baseline RPFNA or women who have taken high dose omega 3 within the past three months.",
+        "  Women who regularly take NSAIDS (>7 tablets weekly).",
+        "  Women who have taken a SERM, aromatase inhibitor or participated in a chemoprevention or other investigational drug study within six months prior to baseline RPFNA.",
+        "  Women who have abnormal renal or hepatic function at baseline, defined as blood chemistry values clinically significantly outside of normal institutional ranges.",
+        "  Women who have a history of an allergy, including hives, to fish products.",
+        "  Women who have a BMI of 40 kg/m^2 or greater.",
+        "  Inclusion of Women and Minorities This study utilizes women at increased risk for breast cancer. Subjects recruited from an established cohort of women followed in the Breast Cancer Prevention Center. From previous trials we can expect 6% minority accrual which is similar to our hospital demographics. Males are not included due to the low absolute risk of breast cancer, and the difficulty of performing RPFNA on the male breast."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  The Proportion of Subjects That Complete Intervention of Lovaza\u2122 4 Grams Per Day",
+        "  To determine the feasibility of an intervention of Lovaza\u2122 4 grams per day (~ 1800 mg EPA and 1500 mg DHA) administered for 6 months to post-menopausal women under the age of 50.",
+        "  Time frame: 6 month visit",
+        "Results 1: ",
+        "  Arm/Group Title: Lovaza\u2122",
+        "  Arm/Group Description: Lovaza\u2122: 4 capsules daily for 6 months",
+        "  Overall Number of Participants Analyzed: 34",
+        "  Measure Type: Number",
+        "  Unit of Measure: proportion of enrolled participants  0.97"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 2/35 (5.71%)",
+        "  Gastroesophageal reflux disease * 1/35 (2.86%)",
+        "  Ductal carcinoma in situ * 1/35 (2.86%)"
+    ]
+}

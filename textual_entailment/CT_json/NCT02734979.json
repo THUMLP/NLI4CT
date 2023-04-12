@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT02734979",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Biobridge and Lymph Node Transfer",
+        "  The investigators will investigate whether addition of the Biobridge scaffold to the standard surgery for vascularized lymph node transfer will improve the outcome of surgical treatment in lymphedema of the upper arm. The investigators will perform lymph scans (lymphoscintigrams) before surgery and one year following surgery to determine the success of the surgery. In addition, the volume of the operated arm will be monitored by repeated measurement with a tape measure. The investigators will also track bioimpedance, a painless technique to detect fluid in the tissues. The investigators will obtain small skin biopsies and blood samples to detect the biological changes that may occur as a result of successful surgery.",
+        "  Biobridge and lymph node transfer: Biobridge is surgically implanted with conventional vascularized lymph node transfer surgery"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  The subject must be a breast cancer survivor, at least three years beyond completion of cancer therapy, free of clinical disease, and eligible for surgical intervention.",
+        "  Ages 18 to 75 years (inclusive).",
+        "  Swelling of 1 limb that is not completely reversed by elevation or compression",
+        "  Stage II or greater lymphedema at screening, based on the International Society of Lymphology (ISL) staging system",
+        "  Completion of a full course of complete decongestive therapy (CDT), according to ISL guidelines at least 8 weeks prior to screening, including use of compression garments for at least 8 weeks without change in regimen",
+        "  Willingness to maintain a stable regimen of self-care, with consistent use of compression garments from screening through the entire study duration (through the safety follow-up visit). Self-bandaging, use of nighttime compression garments, and intermittent pneumatic compression devices are allowed, but the procedures and regimens must remain consistent from screening though the entire study duration.",
+        "  Two consecutive measurements of limb volume (LV) in the affected limb taken at least 1 day apart during the screening period must be within 10% of each other. A maximum of 3 measurements can be taken. Affected limb volume ratio >20% (affected limb compared to unaffected limb); volume measurements will be performed and volume ratio will be calculated at S1 and S2 visit.",
+        "  Evidence of abnormal bioimpedance ratio, if feasible based upon unilateral disease: L-Dex >10 units; bioimpedance performed at S1 and S1",
+        "  Willingness and ability to understand and the willingness to sign a written informed consent form document",
+        "  Willingness and ability to comply with all study procedures, including measurement of skin thickness using skin calipers.",
+        "  Participants must have NED, completed breast cancer therapy 3 years prior to enrollment.",
+        "  ECOG 0- 2",
+        "Exclusion Criteria:",
+        "  Edema arising from increased capillary filtration will be excluded.",
+        "  Inability to safely undergo general anesthesia and/or perioperative care related to vascularized lymph node transfer",
+        "  Concurrent participation in a clinical trial of any other investigational drug or therapy, regardless of indication, within 1 month before screening or 5 times the drug's half-life, whichever is longer",
+        "  Recent initiation of (  8 weeks), or intention to initiate, CDPT or maintenance physiotherapy for lymphedema at any time during the duration of the study",
+        "  Other medical condition that could lead to acute limb edema, such as (but not limited to) acute venous thrombosis",
+        "  Other medical condition that could result in symptoms overlapping those of lymphedema in the affected limb (e.g., pain, swelling, decreased range of motion)",
+        "  History of clotting disorder (hypercoagulable state)",
+        "  Chronic (persistent) infection in the affected limb",
+        "  Any other infection (unrelated to lymphedema) within 1 month prior to screening",
+        "  Current evidence of malignancy or any high risk for breast cancer recurrence (Stage III or IV, ER/PR/HER-2 negative (triple negative) cancer , locally advanced disease, inflammatory breast cancer, > 3 positive axillary lymph nodes, extracapsular nodal extension, invasive micropapillary breast carcinoma, or if performed, patients with a high risk of recurrence based on multi-gene signatures, e.g. BRCA1, BRCA 2, Oncotype DX (high risk recurrence score) or Mammaprint (poor risk signature)",
+        "  Currently receiving chemotherapy or radiation therapy",
+        "  Life expectancy < 2 years for any reason",
+        "  Pregnancy or nursing",
+        "  Substance abuse (such as alcohol or drug abuse) within 6 months prior to screening",
+        "  Significant or chronic renal insufficiency (defined as serum creatinine > 2.5 mg/dL or an estimated glomerular filtration rate [eGFR] < 30 mL/min at screening) or requires dialytic support",
+        "  Hepatic dysfunction, defined as alanine transaminase (ALT) or aspartate transaminase (AST) levels > 3 \u00d7 upper limit of the normal range (ULN) and/or bilirubin level > 2 \u00d7 ULN at screening",
+        "  Absolute neutrophil count < 1500 mm3 at screening",
+        "  Hemoglobin concentration < 9 g/dL at screening",
+        "  Known sensitivity to porcine products",
+        "  Any reason (in addition to those listed above) that, in the opinion of the investigator, precludes full participation in the study"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Limb Volume",
+        "  Lymphoscintigraphy, a measure of limb volume indicative of adequate limb drainage, was conducted on the arm receiving BioBridge implantation (affected arm) and the contralateral (unaffected) arm, before surgery (baseline) and 1 year following surgical implantation of the Biobridge device. The outcome is reported as the median difference in the pre-implantation baseline value and the value 1 year after surgery for each arm.",
+        "Time frame: 1 year",
+        "Results 1: ",
+        "  Arm/Group Title: Biobridge and Lymph Node Transfer",
+        "  Arm/Group Description: The investigators will investigate whether addition of the Biobridge scaffold to the standard surgery for vascularized lymph node transfer will improve the outcome of surgical treatment in lymphedema of the upper arm. The investigators will perform lymph scans (lymphoscintigrams) before surgery and one year following surgery to determine the success of the surgery. In addition, the volume of the operated arm will be monitored by repeated measurement with a tape measure. The investigators will also track bioimpedance, a painless technique to detect fluid in the tissues. The investigators will obtain small skin biopsies and blood samples to detect the biological changes that may occur as a result of successful surgery.",
+        "  Biobridge and lymph node transfer: Biobridge is surgically implanted with conventional vascularized lymph node transfer surgery",
+        "  Overall Number of Participants Analyzed: 1",
+        "  Measure Type: Number",
+        "  Unit of Measure: mL  BioBridge implant arm: -15",
+        "  Unaffected contralateral arm: -202"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/1 (0.00%)"
+    ]
+}

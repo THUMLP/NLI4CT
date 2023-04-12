@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT01926886",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Trastuzumab",
+        "  Participants received trastuzumab IV infusion at initial loading dose of 8 mg/kg BW for q3w regimen as a part of neo adjuvant treatment before entering in the study and then recommended maintenance dose of 6 mg/kg BW q3w for the first 3 cycles (Cycles 7-9) in hospital followed by SC administration of trastuzumab at a fixed dose of 600 mg q3w for next 3 cycles (Cycles 10-12) at hospital and SC administration of trastuzumab at a fixed dose of 600 mg q3w at home for the next 6 cycles (Cycles 13-18) (Each cycle=21 days)."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically confirmed non-metastatic primary invasive adenocarcinoma of the breast",
+        "  HER2-positive disease immunohistochemistry (IHC)3+ or in situ hybridization (ISH) positive, in line with local reimbursement criteria and determined in a local laboratory that is experienced/certified in HER2-expression testing using an accurate and validated assay",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 0-1",
+        "  Hormonal therapy will be allowed as per institutional guidelines",
+        "  Left ventricular ejection fraction (LVEF) of greater than or equal to (>/=) 50% measured by echocardiography (ECHO) or multiple gated acquisition (MUGA) scan prior to first dose of trastuzumab SC, or, for those who were receiving trastuzumab when beginning the study, documented results within an acceptable limit from a cardiac assessment within 3 months prior to enrollment",
+        "  Participants have completed the first 6 cycles of trastuzumab IV as part of the (neo)adjuvant treatment",
+        "  No evidence of residual, locally recurrent or metastatic disease after completion of surgery and chemotherapy, (neo-adjuvant or adjuvant)",
+        "  Use of concurrent curative radiotherapy will be permitted",
+        "Exclusion Criteria:",
+        "  History of other malignancy which could affect compliance with the protocol or interpretation of results. Participants with curatively treated carcinoma in situ of the cervix or basal cell carcinoma, and patients with other curatively treated malignancies who have been disease-free for at least 5 years, are eligible",
+        "  Participants with severe dyspnea at rest or requiring supplementary oxygen therapy",
+        "  Participants with other concurrent serious diseases that may interfere with planned treatment, including severe pulmonary conditions/illness",
+        "  Serious cardiac illness or medical conditions that would preclude the use of trastuzumab, specifically: history of documented congestive heart failure (CHF), high-risk uncontrolled arrhythmias, angina pectoris requiring medication, clinically significant valvular disease, evidence of transmural infarction on electrocardiogram (ECG), diagnosed poorly controlled hypertension",
+        "  Known infection with human immunodeficiency virus (HIV), active hepatitis B virus (HBV) or hepatitis C virus (HCV)",
+        "  Pregnant or lactating women",
+        "  Women of childbearing potential and male participants with partners of childbearing potential who are unable or unwilling to use adequate contraceptive measures during study treatment",
+        "  Concurrent enrollment in another clinical trial using an investigational anti-cancer treatment, including hormonal therapy, bisphosphonate therapy and immunotherapy, within 28 days prior to the first dose of study treatment",
+        "  Known hypersensitivity to trastuzumab, murine proteins, to any of the excipients of Herceptin including hyaluronidase, or the adhesive of the SC device, or a history of severe allergic or immunological reactions, e.g. difficult to control asthma",
+        "  Inadequate bone marrow, hepatic or renal function"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+        "  An AE was any untoward medical occurrence attributed to study drug in a participant who received study drug. AEs included both serious and non- serious AEs. An SAE was an AE resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life-threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly. An emergent AE was defined as occurring within 35 days after last treatment administration.",
+        "  Time frame: Up to 45 months",
+        "Results 1: ",
+        "  Arm/Group Title: Trastuzumab",
+        "  Arm/Group Description: Participants received trastuzumab IV infusion at initial loading dose of 8 mg/kg BW for q3w regimen as a part of neo adjuvant treatment before entering in the study and then recommended maintenance dose of 6 mg/kg BW q3w for the first 3 cycles (Cycles 7-9) in hospital followed by SC administration of trastuzumab at a fixed dose of 600 mg q3w for next 3 cycles (Cycles 10-12) at hospital and SC administration of trastuzumab at a fixed dose of 600 mg q3w at home for the next 6 cycles (Cycles 13-18) (Each cycle=21 days).",
+        "  Overall Number of Participants Analyzed: 101",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  Emergent AEs: 90.1",
+        "  Emergent SAEs: 7.9"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 8/101 (7.92%)",
+        "  Vertigo * 1/101 (0.99%)",
+        "  Infected lymphocele * 1/101 (0.99%)",
+        "  Ejection fraction decreased * 5/101 (4.95%)",
+        "  Lymphoedema * 1/101 (0.99%)"
+    ]
+}

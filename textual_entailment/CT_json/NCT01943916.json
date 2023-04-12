@@ -1,0 +1,41 @@
+{
+    "Clinical Trial ID": "NCT01943916",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Overall Population",
+        "  Each subject served as her own control, with imaging of each mass by both the test and control modalities. Specificity difference is a single measure for the overall ITD population."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  female",
+        "  18 years of age or older",
+        "  suspicious mass of breast, identified by a health care practitioner within the past 30 days with diagnostic methodology other than conventional ultrasound.",
+        "Exclusion Criteria:",
+        "  presence of a condition or impediment that may interfere with imaging.",
+        "  pregnant or lactating",
+        "  undergoing neoadjuvant therapy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Specificity Difference Between Imagio Optoacoustic Plus Gray-scale (OA/US) vs Imagio Gray-scale Ultrasound (IUS)",
+        "  Primary effectiveness endpoint was the difference in specificity for the Imagio OA/US relative to IUS, across all 7 independent readers; both imaging modalities used in each subject (subject as own control); results for each imaging modality compared to biopsy diagnosis or 12-month follow-up ruling of benign as determined by truth panel (ground truth)",
+        "  Time frame: Baseline to 12 months +/- 30 days follow-up",
+        "Results 1: ",
+        "  Arm/Group Title: Overall Population",
+        "  Arm/Group Description: Each subject served as her own control, with imaging of each mass by both the test and control modalities. Specificity difference is a single measure for the overall ITD population.",
+        "  Overall Number of Participants Analyzed: 1739",
+        "  Mean (99% Confidence Interval)",
+        "  Unit of Measure: % benign+TPB masses correctly Id'd  14.9        (12.9 to 16.9)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 5/1972 (0.25%)",
+        "  Atrial fibrillation  [1]1/1972 (0.05%)",
+        "  Cardiac failure congestive  [2]1/1972 (0.05%)",
+        "  Device breakage  [3]1/1972 (0.05%)",
+        "  Uterine Leiomyoma  [4]1/1972 (0.05%)",
+        "  Non-small cell lung cancer Stage I  [5]1/1972 (0.05%)",
+        "  Haemothorax  [6]1/1972 (0.05%)",
+        "  Pneumothorax  [7]1/1972 (0.05%)"
+    ]
+}

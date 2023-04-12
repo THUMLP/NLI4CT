@@ -1,0 +1,52 @@
+{
+    "Clinical Trial ID": "NCT02102490",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Abemaciclib",
+        "  200 mg abemaciclib given orally once every 12 hours for 28 days (1 cycle). Participants may continue to receive treatment until discontinuation criteria are met."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria.",
+        "  Have a diagnosis of Hormone Receptor Positive (HR+), Human Epidermal Growth Factor Receptor 2 Negative (HER2-) breast cancer.",
+        "  Recurrent, locally advanced, unresectable or metastatic breast cancer with disease progression following anti-estrogen therapy.",
+        "  Prior treatment with at least 2 chemotherapy regimens:",
+        "  At least 1 of these regimens must have been administered in the metastatic setting.",
+        "  At least 1 of these regimens must have contained a taxane.",
+        "  No more than 2 prior chemotherapy regimens in the metastatic setting.",
+        "  Have a performance status (PS) of 0 to 1 on the Eastern Cooperative Oncology Group scale.",
+        "  Have discontinued all previous therapies for cancer.",
+        "  Have the presence of measureable disease as defined by Response Evaluation Criteria in Solid Tumors Version 1.1.",
+        "Exclusion Criteria:",
+        "  Have either a history of central nervous system (CNS) metastasis or evidence of CNS metastasis on the magnetic resonance image of brain obtained at baseline.",
+        "  Received prior therapy with another cyclin-dependent kinases 4 and 6 (CDK4/6) inhibitor.",
+        "  Have received treatment with a drug that has not received regulatory approval for any indication within 14 or 21 days of the initial dose of study drug.",
+        "  Have had major surgery within 14 days of the initial dose of study drug.",
+        "  Have a history of any other cancer (except non-melanoma skin cancer or carcinoma in-situ of the cervix)."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With Complete Response (CR) or Partial Response (PR) (Objective Response Rate [ORR])",
+        "  ORR was the percentage of participants achieving a best overall response (BOR) of complete response (CR) or partial response (PR) as per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1. CR defined as the disappearance of all target and non-target lesions and no appearance of new lesions. PR defined as at least a 30% decrease in the sum of the longest diameters (LD) of target lesions (taking as reference the baseline sum LD), no progression of non-target lesions, and no appearance of new lesions.",
+        "  Time frame: From Date of First Dose until Disease Progression or Death Due to Any Cause (Up To 14 Months)",
+        "Results 1: ",
+        "  Arm/Group Title: Abemaciclib",
+        "  Arm/Group Description: 200 mg abemaciclib given orally once every 12 hours for 28 days (1 cycle). Participants may continue to receive treatment until discontinuation criteria are met.",
+        "  Overall Number of Participants Analyzed: 132",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of participants  19.7        (13.3 to 27.5)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 33/132 (25.00%)",
+        "  Febrile neutropenia 1/132 (0.76%)",
+        "  Haematotoxicity 1/132 (0.76%)",
+        "  Neutropenia 1/132 (0.76%)",
+        "  Sinus bradycardia 1/132 (0.76%)",
+        "  Tachycardia 1/132 (0.76%)",
+        "  Abdominal pain 2/132 (1.52%)",
+        "  Abdominal pain upper 1/132 (0.76%)",
+        "  Constipation 1/132 (0.76%)",
+        "  Large intestinal obstruction 1/132 (0.76%)",
+        "  Nausea 3/132 (2.27%)"
+    ]
+}

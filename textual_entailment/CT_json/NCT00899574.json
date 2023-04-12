@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT00899574",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Imiquimod",
+        "  Each treatment cycle consists of 8 weeks.",
+        "  Weeks 1-8: day 1-5 of each week: 1 packet imiquimod 5% cream applied overnight, day 6-7 of each week: rest period.",
+        "  Patients with responding or stable local disease (non-progressors) may continue to receive treatment following the same schedule (as outlined above for the first cycle) until complete tumor regression, unacceptable toxicity or progression of disease."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients with biopsy-confirmed breast cancer (prior histological documentation is acceptable).",
+        "  Patients with measurable skin metastases (chest wall recurrence and/or non-chest wall skin metastases are eligible).",
+        "  Skin metastases not suitable for or patient refusing definitive surgical resection and radiation.",
+        "  (Cohort 1) Concurrent systemic cancer therapy (hormones, biologics or chemotherapy) is allowed if distant metastases have been non-progressing (stable or responding) on that regimen for > or = 12 weeks and skin metastases are non-responsive (stable or progressing) as assessed by the investigator.",
+        "  (Cohort 2) Any concurrent systemic therapy is allowed",
+        "  Age at least 18 years.",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status < or = 2.",
+        "  Patients must have biopsy-accessible tumor (skin metastases) and agree to biopsies required by protocol.",
+        "  Patients must have adequate organ and bone marrow function as defined below:",
+        "  absolute neutrophil count > or = 1,500/microliter",
+        "  hemoglobin > or = 9.5 grams/deciliter",
+        "  platelets >or = 75,000/microliter",
+        "  total bilirubin < or = 1.5 X institutional upper limit of normal",
+        "  Aspartate aminotransferase (AST)/Alanine aminotransferase (ALT) < or = 2.5X institutional upper limit of normal",
+        "  creatinine < or = 1.5 X institutional upper limit of normal",
+        "  Informed consent.",
+        "Exclusion Criteria:",
+        "  Brain metastases unless resected or irradiated and stable > or = 8 weeks.",
+        "  Treatment with other investigational agents.",
+        "  Patients who have received radiotherapy, high-potency corticosteroids, intralesional therapy, laser therapy or surgery other than biopsy to the target area within 4 weeks prior to first dosing of study agent.",
+        "  Patients who have received hyperthermia to the target area within 10 weeks prior to first dosing of study agent.",
+        "  Patients with an uncontrolled bleeding disorder.",
+        "  Patients who will be therapeutically anticoagulated with heparins or coumadin at the time of the biopsy (they are eligible if anticoagulation can be held prior to biopsy as per investigator). Patients on aspirin and other platelet agents are eligible.",
+        "  Patients with known immunodeficiency or receiving immunosuppressive therapies.",
+        "  History of allergic reactions to imiquimod or its excipients.",
+        "  Uncontrolled intercurrent medical illness or psychiatric illness/social situations that would limit compliance with study requirements.",
+        "  Pregnancy or lactation.",
+        "  Women of childbearing potential not using a medically acceptable means of contraception."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Objective Response (Complete Clinical Response+ Partial Response)",
+        "  This is defined as percentage of patients who achieved complete clinical response or partial response at end of cycle 1 of treatment. The tumor size will be measured as lesion surface area (region of interest, ROI). The response to the treatment is then evaluated as a function of post-treatment over pre-treatment ROI, expressed in percentage. Response criteria for this study are based on European Organisation for Research and Treatment of Cancer definitions for chest wall tumors: complete clinical response: absence of any detectable residual disease; partial response: <50% of ROI change.",
+        "  Time frame: 9 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Imiquimod",
+        "  Arm/Group Description: Each treatment cycle consists of 8 weeks.",
+        "  Weeks 1-8: day 1-5 of each week: 1 packet imiquimod 5% cream applied overnight, day 6-7 of each week: rest period.",
+        "  Patients with responding or stable local disease (non-progressors) may continue to receive treatment following the same schedule (as outlined above for the first cycle) until complete tumor regression, unacceptable toxicity or progression of disease.",
+        "  Overall Number of Participants Analyzed: 10",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of patients  20        (3 to 56)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/10 (0.00%)"
+    ]
+}

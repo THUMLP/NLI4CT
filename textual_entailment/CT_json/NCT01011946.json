@@ -1,0 +1,35 @@
+{
+    "Clinical Trial ID": "NCT01011946",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Positron Emission Mammography",
+        "  Positron Emission Mammography: Patients will receive bilateral (both sides) breast and axillary PEM scans, bilateral mammography, DCE-MRI, US of the breast and axilla (the side of the affected breast), and ultrasound guided biopsy of axillary lymph node if suspicious. Various PEM views will be performed on both your breast and axilla (underarm)."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women 18-75 years old with newly diagnosed breast cancer who are considered candidates for breast conserving surgery (i.e. lumpectomy).",
+        "Exclusion Criteria:",
+        "  Children (<18 years old)",
+        "  Pregnant or Lactating women",
+        "  Diabetic patients (Type I or II)",
+        "  Patients who are scheduled for a sentinel node procedure using radioactive Tc-99m within 24 hours of PEM",
+        "  Patients who have NOT undergone a standard of care bilateral breast MRI at UC."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Sensitivity and Specificity of FDG Positron Emission Mammography (PEM) in Identifying Axillary Lymph Node (ALN) Metastases From Breast Cancer",
+        "  Based on FDG Positron Emission Mammography (PEM) image, a breast region was classified as \"normal\" or \"abnormal\". Lymph Node (LN) sampling and histopathology determined true positives and true negatives.",
+        "  Time frame: PEM was performed prior to surgery and LN sampling immediately following surgery",
+        "Results 1: ",
+        "  Arm/Group Title: Positron Emission Mammography",
+        "  Arm/Group Description: Positron Emission Mammography: Patients will receive bilateral (both sides) breast and axillary PEM scans, bilateral mammography, DCE-MRI, US of the breast and axilla (the side of the affected breast), and ultrasound guided biopsy of axillary lymph node if suspicious. Various PEM views will be performed on both your breast and axilla (underarm).",
+        "  Overall Number of Participants Analyzed: 33",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of subjects  Sensitivity: 83.3        (51.6 to 97.9)",
+        "  Specificity: 52.0        (31.3 to 72.2)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/36 (0.00%)"
+    ]
+}

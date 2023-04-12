@@ -1,0 +1,40 @@
+{
+    "Clinical Trial ID": "NCT00256217",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Anastrozole",
+        "  Anastrozole: 1 mg. oral every day for 2 - 4 weeks"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients must have suspicion of DCIS or early invasive breast cancer on mammography.",
+        "  Patients must have histologically confirmed diagnosis of DCIS or early invasive breast cancer on core biopsy for final registration.",
+        "  Patients must be over 18 years of age",
+        "  \"Patients must be postmenopausal as defined by one of the following criteria:",
+        "  Prior bilateral oophorectomy OR",
+        "  > 12 months since LMP with no prior hysterectomy OR",
+        "  a & b not applicable AND age >=50",
+        "  Patients must be positive for either ER or PR or both",
+        "  Patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines.",
+        "Exclusion Criteria:",
+        "  Patients must not have diagnosis of osteoporosis (T-score -2.5 according to the WHO)"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With a Change in Ki-67 Level",
+        "  [Not Specified]",
+        "  Time frame: Baseline and up to 4 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Anastrozole",
+        "  Arm/Group Description: Anastrozole: 1 mg. oral every day for 2 - 4 weeks",
+        "  Overall Number of Participants Analyzed: 23",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Decreased Ki-67 level: 15  65.2%",
+        "No Change in Ki-67: 5  21.7%",
+        "  Increased Ki-67 level: 3  13.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/42 (0.00%)"
+    ]
+}

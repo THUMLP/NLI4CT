@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT00317603",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Vaccine",
+        "  Vaccinations will be administered on days 1,8,15 and every two weeks thereafter until the supply of vaccine has been exhausted or the patient is removed from study. As indicated in 5.2.5, vaccine cell dosage will be approximately 1x10 7 , 4x10 6 ,",
+        "  1x10 6 , or 1x10 5 depending on the final cell yield.",
+        "  Autologous, Lethally Irradiated Breast Cancer Cells: Vaccine will be administered on days 1, 8, 15, 29 and then every 2 weeks until the supply of vaccine runs out"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically confirmed Stage IV breast cancer",
+        "  Prior banked malignant effusion or significant malignant effusion for tumor harvest or surgically-accessible tumor nodule of at least 2cm in greatest diameter by physical exam, magnetic resonance imaging (MRI) or computed tomography (CT) scan",
+        "  Must have received at least one prior regimen of chemotherapy for metastatic disease",
+        "  Patients with HER2 positive tumors must have received at least one prior trastuzumab-based therapy in the metastatic setting, and may not receive trastuzumab therapy and vaccine treatment concurrently",
+        "  Patients may receive concurrent bisphosphonate therapy and/or erythropoetin therapy at any point while on study",
+        "  ECOG performance status 0 or 1",
+        "  Estimated life expectancy of greater than or equal to 6 months",
+        "  18 years of age or older",
+        "  Greater than 4 weeks from immunotherapy, or systemic glucocorticoid therapy",
+        "  Adequate recovery from drug-related toxicities from prior systemic therapies",
+        "  Adequate recovery from recent surgery and radiation therapy",
+        "  Greater than 6 months since bone marrow or peripheral blood stem cell transplant",
+        "Exclusion Criteria:",
+        "  Urgent need for cytotoxic chemotherapy, radiotherapy, or surgery in the next 60 days",
+        "  Uncontrolled active infection or illness",
+        "  Psychiatric illness/social situation that would limit study compliance",
+        "  Pregnant or nursing mothers",
+        "  Evidence of HIV infection",
+        "  Previous participation in an adenovirus-based trial",
+        "  Concurrent invasive malignancy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Minimum Number of Vaccine Doses Created Using Participant Tumor Sample",
+        "  Tumor samples were obtained via malignant effusion or a surgically accessible tumor nodule of 2 cm in greatest diameter. Tumor cells were processed to single cell suspension and transduced with adenoviral vector encoding human Granulocyte-macrophage colony-stimulating factor (GM-CSF). Then, the cells washed extensively and irradiated with 10,000 cGy. Over the next 14 days, sterility cultures were tested for endotoxin and mycoplasma contamination. Individual vaccine cell dose and number varied depending on the final cell yield from vaccine production. The minimal dose was 1 x 10^5 cells and the maximal dose was 1 x 10^7 cells.",
+        "  Time frame: Vaccine doses created and banked soon after registration, up to 8 days.",
+        "Results 1: ",
+        "  Arm/Group Title: Vaccine",
+        "  Arm/Group Description: Vaccinations will be administered on days 1,8,15 and every two weeks thereafter until the supply of vaccine has been exhausted or the patient is removed from study. As indicated in 5.2.5, vaccine cell dosage will be approximately 1x10 7 , 4x10 6 ,",
+        "  1x10 6 , or 1x10 5 depending on the final cell yield.",
+        "  Autologous, Lethally Irradiated Breast Cancer Cells: Vaccine will be administered on days 1, 8, 15, 29 and then every 2 weeks until the supply of vaccine runs out",
+        "  Overall Number of Participants Analyzed: 12",
+        "  Measure Type: Number",
+        "  Unit of Measure: doses  6"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 3/12 (25.00%)",
+        "  Hemoglobin 1/12 (8.33%)",
+        "  Alkaline phosphatase 1/12 (8.33%)",
+        "  Dehydration 1/12 (8.33%)",
+        "  Syncope 2/12 (16.67%)",
+        "  Dyspnea 1/12 (8.33%)",
+        "  Hypotension 1/12 (8.33%)"
+    ]
+}

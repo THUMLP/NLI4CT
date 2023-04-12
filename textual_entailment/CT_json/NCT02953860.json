@@ -1,0 +1,53 @@
+{
+    "Clinical Trial ID": "NCT02953860",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Fulvestrant With Enzalutamide",
+        "  500mg of Fulvestrant will be given IM on days 1, 15, 28, then every 4 weeks as per standard of care (SOC) and 160mg of Enzalutamide will be given, in conjunction with Fulvestrant, PO daily.",
+        "  Fulvestrant with Enzalutamide: 500mg of Fulvestrant will be given IM on days 1, 15, 28, then every 4 weeks as per standard of care (SOC) and 160mg of Enzalutamide will be given PO daily. Patients will receive a tumor biopsy at the start of treatment and 4 weeks after the start of treatment, with an optional 3rd biopsy at the end treatment."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  ER+ Her2- breast cancer",
+        "  Metastatic",
+        "  Female, at least 18 years of age",
+        "  Candidate for fulvestrant therapy - patients who have started fulvestrant may enter this trial if within 3 months of starting fulvestrant",
+        "  Measurable or evaluable by RECIST 1.1",
+        "  ECOG PS 0-2",
+        "  Able to swallow study drug and comply with study requirements",
+        "  Tumor available for fresh biopsy (two biopsies - pretreatment as regards enzalutamide, and during treatment at 4 weeks). The patient will be also be asked if they would be willing to provide a third biopsy at time of progression.",
+        "  If patient is pre- or peri- menopausal, then will need to have concurrent ovarian suppression. Patients may have already gotten the loading dose of ovarian suppression. Pre- or peri- menopausal subjects must have a negative urine pregnancy test confirmed at screening.",
+        "  ANC >1000/uL and platelets >75,000/uL at screening visit",
+        "  Total bilirubin < 1.5 times upper limit of normal (ULN) at the screening visit unless an alternate nonmalignant etiology exists (eg, Gilbert's disease)",
+        "  Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) < 3 times ULN or < 5 times ULN if patient has documented liver metastases",
+        "  Creatinine < 1.5 times ULN",
+        "  INR < 1.5 times ULN, or if on warfarin, can safely transition off for biopsy",
+        "  Willing to donate blood for research at 4 time points",
+        "  Written informed consent obtained prior to biopsies and blood samples",
+        "  Agreement to exercise appropriate use of contraception. Subjects should use 2 acceptable methods of birth control (one of which must include a condom as a barrier method of contraception) starting at the time of screening for an enzalutamide study and continuing throughout the course of treatment and for at least three months after enzalutamide is discontinued.",
+        "Exclusion Criteria:",
+        "  Current or previously treated brain or leptomeningeal metastases",
+        "  History of seizures",
+        "  Prior treatment with an anti-androgen (abiraterone, ARN-509, bicalutamide, enzalutamide, ODM-201, TAK-448, TAK-683, TAK-700, VT-464)",
+        "  Systemic estrogens or androgens within 14 days before initiating therapy. Vaginal estrogens are allowed if necessary for patient comfort."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Clinical Benefit Rate of the Combination of Enzalutamide/ Fulvestrant",
+        "  To determine the clinical benefit rate at 24 weeks of the combination of enzalutamide/fulvestrant. Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by CT scan or by caliper. Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), >=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR; clinical benefit rate (CBR) at 24 weeks (CR + PR + stable disease lasting at least 24 weeks.",
+        "  Time frame: 24 Weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Fulvestrant With Enzalutamide",
+        "  Arm/Group Description: 500mg of Fulvestrant will be given IM on days 1, 15, 28, then every 4 weeks as per standard of care (SOC) and 160mg of Enzalutamide will be given, in conjunction with Fulvestrant, PO daily.",
+        "  Fulvestrant with Enzalutamide: 500mg of Fulvestrant will be given IM on days 1, 15, 28, then every 4 weeks as per standard of care (SOC) and 160mg of Enzalutamide will be given PO daily. Patients will receive a tumor biopsy at the start of treatment and 4 weeks after the start of treatment, with an optional 3rd biopsy at the end treatment.",
+        "  Overall Number of Participants Analyzed: 32",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  7  21.9%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 2/32 (6.25%)",
+        "  myocardial infarction  [1]1/32 (3.13%)",
+        "  cholecystitis  [2]1/32 (3.13%)"
+    ]
+}

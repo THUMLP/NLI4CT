@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT02297412",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Arm I (Minocycline Hydrochloride)",
+        "  Patients receive minocycline hydrochloride PO BID on days 1-7. Treatment repeats every 7 days for up to 12 courses in the absence of disease progression or unacceptable toxicity.",
+        "INTERVENTION 2: ",
+        "  Arm II (Placebo)",
+        "  Patients receive a placebo PO BID on days 1-7. Treatment repeats every 7 days for up to 12 courses in the absence of disease progression or unacceptable toxicity."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Ability to complete questionnaires by themselves or with assistance",
+        "  Planned paclitaxel at a dose of 80 mg/m2 IV given, in the adjuvant breast cancer (postoperative or neo-adjuvant) setting, every week for a planned course of 12 weeks without any other concurrent cytotoxic chemotherapy (trastuzumab and/or other antibody and/or small molecule treatment is allowed, except for PARP inhibitors)",
+        "  Life expectancy > 6 months",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1",
+        "  Negative pregnancy test (serum or urine) done =< 7 days prior to registration, for women of childbearing potential only (determined per clinician discretion)",
+        "Exclusion Criteria:",
+        "  Any of the following:",
+        "  Pregnant women",
+        "  Nursing women",
+        "  Men or women of childbearing potential who are unwilling to employ adequate contraception",
+        "  Previous diagnosis of diabetic neuropathy or peripheral neuropathy from any cause",
+        "  History of allergic or other adverse reactions to minocycline",
+        "  Prior exposure to neurotoxic chemotherapy",
+        "  Diagnosis of fibromyalgia",
+        "  Current or planned use of methoxyflurane, oral contraceptives, isotretinoin, penicillin, or ergot alkaloids",
+        "  History of allergic or other adverse reactions to tetracycline"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Area Under the Curve (AUC) Per Assessment (aAUCpa) of Average Pain (Item 3 on the Daily Post-Paclitaxel Questionnaire)",
+        "  Average Area Under the Curve (AUC) per assessment (aAUCpa) of average pain (item 3 on the Daily Post-Paclitaxel Questionnaire; \"Please rate the same aches/pain by circling the ONE number that best describes your aches/pains on the AVERAGE in the last 24 hours.\") over 12 weeks. Scores are reported on a 0-100 scale, where 100=better outcome quality of life (QOL). The aAUCpa is the average of each AUC between each sequential assessment from treatment-initiation to the week-12 assessment.",
+        "  Time frame: Up to 12 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Arm I (Minocycline Hydrochloride)",
+        "  Arm/Group Description: Patients receive minocycline hydrochloride PO BID on days 1-7. Treatment repeats every 7 days for up to 12 courses in the absence of disease progression or unacceptable toxicity.",
+        "  Overall Number of Participants Analyzed: 20",
+        "  Median (Full Range)",
+        "  Unit of Measure: scores on a scale  96.0        (54.4 to 100.0)",
+        "Results 2: ",
+        "  Arm/Group Title: Arm II (Placebo)",
+        "  Arm/Group Description: Patients receive a placebo PO BID on days 1-7. Treatment repeats every 7 days for up to 12 courses in the absence of disease progression or unacceptable toxicity.",
+        "  Overall Number of Participants Analyzed: 20",
+        "  Median (Full Range)",
+        "  Unit of Measure: scores on a scale  84.3        (46.5 to 99.7)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 3/22 (13.64%)",
+        "  Lung infection 1/22 (4.55%)",
+        "  Lymphocyte count decreased 2/22 (9.09%)",
+        "  Rash maculo-papular 0/22 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 1/23 (4.35%)",
+        "  Lung infection 0/23 (0.00%)",
+        "  Lymphocyte count decreased 0/23 (0.00%)",
+        "  Rash maculo-papular 1/23 (4.35%)"
+    ]
+}

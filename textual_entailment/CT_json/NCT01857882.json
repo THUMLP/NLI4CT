@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT01857882",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Decision Support Workshop",
+        "  The decision support workshop will be 2 hours in duration on the morning of the consultation and will be facilitated by a dedicated social worker from psycho-oncology.",
+        "  Decision Support Workshop: Incorporates the key components of shared decision-making and decision support with the philosophy of delivering supportive care to cancer patients.",
+        "  Surgeon (30 mins): treatment options for breast reconstruction with indications/ contraindications, advantages / disadvantages, expected post-operative course, aesthetic result and complications with probabilities",
+        "  Registered nurse (30 mins): preparing for surgery, postoperative recovery and how to navigate the health care system",
+        "  Social worker (30 mins): values clarification exercise",
+        "  Breast reconstruction patient volunteer (30 mins) questions and answers about her personal experience",
+        "INTERVENTION 2: ",
+        "  Standard Care",
+        "  Routine pre-consultation education"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patient age: 18 - 79 years at the time of consultation",
+        "  In situ or invasive biopsy confirmed breast adenocarcinoma",
+        "  Considered for immediate or delayed breast reconstruction",
+        "  First consultation for breast reconstruction",
+        "Exclusion Criteria:",
+        "  Chest wall or atypical breast malignancy (ex: angiosarcoma) or inflammatory adenocarcinoma of the breast",
+        "  Completion any phase of reconstruction, or for revision reconstruction",
+        "  Patient cannot read or write in English.",
+        "  Cognitive impairment or uncontrolled psychiatric diagnosis"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Decision Self-efficacy Scale",
+        "  Decision self-efficacy (DSE) scale is a prospectively designed instrument to evaluate patient self-confidence in decision-making, including shared decision-making. It has been validated among women facing treatment decisions for osteoporosis and used in cancer patients. Psychometric evaluation has shown high levels of internal consistency (Cronbach alpha 0.90). Decision self-efficacy is correlated with decision conflict subscales of feeling informed (r = 0.47) and supported (r = 0.45). This instrument has never been tested in the breast cancer or breast reconstruction population.",
+        "  The total score is calculated by summing the 11 items, dividing by 11 and multiplying by 25. Scores range from 0 (extremely low self-efficacy) to 100 (extremely high self-efficacy).",
+        "  The mean and standard deviation (SD) were calculated at baseline and after the initial consultation. Change in score was defined as the difference in total score between baseline and after consultation.",
+        "  Time frame: Change from baseline decision self-efficacy at 1 week after surgical consultation",
+        "Results 1: ",
+        "  Arm/Group Title: Decision Support Workshop",
+        "  Arm/Group Description: The decision support workshop will be 2 hours in duration on the morning of the consultation and will be facilitated by a dedicated social worker from psycho-oncology.",
+        "  Decision Support Workshop: Incorporates the key components of shared decision-making and decision support with the philosophy of delivering supportive care to cancer patients.",
+        "  Surgeon (30 mins): treatment options for breast reconstruction with indications/ contraindications, advantages / disadvantages, expected post-operative course, aesthetic result and complications with probabilities",
+        "  Registered nurse (30 mins): preparing for surgery, postoperative recovery and how to navigate the health care system",
+        "  Social worker (30 mins): values clarification exercise",
+        "  Breast reconstruction patient volunteer (30 mins) questions and answers about her personal experience",
+        "  Overall Number of Participants Analyzed: 20",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  5.7         (12.8)",
+        "Results 2: ",
+        "  Arm/Group Title: Standard Care",
+        "  Arm/Group Description: Routine pre-consultation education",
+        "  Overall Number of Participants Analyzed: 19",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  5.1         (9.8)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/0",
+        "Adverse Events 2:",
+        "  Total: 0/0"
+    ]
+}

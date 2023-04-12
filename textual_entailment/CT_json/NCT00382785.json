@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT00382785",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Moderated Group",
+        "  one 12-week online support group led by a professional healthcare provider",
+        "INTERVENTION 2: ",
+        "  Non-facilitated (Peer-led)",
+        "  12-week online support in a peer-led format"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria: Clinical diagnosis of breast cancer",
+        "  Female",
+        "  At least 21 years of age",
+        "  Internet access; Able to read and write English",
+        "  Have completed treatment for breast cancer in the past 36 months or are receiving treatment",
+        "  Do not currently belong to an online or face-to-face cancer support group",
+        "  Internet access",
+        "Exclusion Criteria:",
+        "  Male",
+        "  not diagnosed with breast cancer",
+        "  under 21 years of age",
+        "  received treatment more than 36 months ago for breast cancer",
+        "  no Internet access",
+        "  unable to read and write English"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Scores on the Personal Resource Questionnaire 85.",
+        "  The Personal Resource Questionnaire 85 (PRQ85), Part II measures perceived social support and consists of 25 items in a seven-point Likert format which are rated from seven (7) strongly agree, to one (1) strongly disagree. Scores range from 25 to 175 with higher scores indicative of higher levels of perceived social support. Alpha reliability of the PRQ 85 has been demonstrated at >.90",
+        "  Time frame: 16 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Moderated Group",
+        "  Arm/Group Description: one 12-week online support group led by a professional healthcare provider",
+        "  Overall Number of Participants Analyzed: 25",
+        "  Mean (Standard Error)",
+        "  Unit of Measure: Scores on a scale  50.22         (3.23)",
+        "Results 2: ",
+        "  Arm/Group Title: Non-facilitated (Peer-led)",
+        "  Arm/Group Description: 12-week online support in a peer-led format",
+        "  Overall Number of Participants Analyzed: 26",
+        "  Mean (Standard Error)",
+        "  Unit of Measure: Scores on a scale  53.44         (3.08)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/25 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/26 (0.00%)"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT00450723",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Sentinel Lymph Node Biopsy",
+        "[Not Specified]"
+    ],
+    "Eligibility": [
+        "DISEASE CHARACTERISTICS:",
+        "  Histologically confirmed breast cancer",
+        "  Stage I or II disease (T1-T2, N0, M0/MX disease)",
+        "  No chest wall invasion by tumor (T3 disease)",
+        "  Medially or centrally located lesion",
+        "  No multicentric disease",
+        "  Multifocal disease allowed",
+        "  No clinically positive axillary nodes",
+        "  No enlarged internal mammary nodes by CT scan",
+        "  Hormone receptor status not specified",
+        "  PATIENT CHARACTERISTICS:",
+        "  Male or female",
+        "  Menopausal status not specified",
+        "  American Society of Anesthesiologists (ASA) physical status classification 1-2",
+        "  Not pregnant or nursing",
+        "  Negative pregnancy test",
+        "  No other concurrent known, invasive malignancy",
+        "  No known chronic pulmonary disease",
+        "  No known allergy to methylene blue or isosulfan blue",
+        "  PRIOR CONCURRENT THERAPY:",
+        "  No prior thoracic or cardiac surgery",
+        "  No prior ipsilateral chest tube placement",
+        "  Contralateral chest tube placement allowed",
+        "  No prior neoadjuvant chemotherapy",
+        "  No prior radiotherapy to the mediastinum"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Success Rate in Removing Sentinel Lymph Nodes by Thoracoscopy",
+        "  [Not Specified]",
+        "  Time frame: 5 years",
+        "Results 1: ",
+        "  Arm/Group Title: Sentinel Lymph Node Biopsy",
+        "  Arm/Group Description: [Not Specified]",
+        "  Overall Number of Participants Analyzed: 34",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  31"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/34 (0.00%)"
+    ]
+}

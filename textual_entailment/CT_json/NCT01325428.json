@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT01325428",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Part A: Afatinib Once Daily (OD).",
+        "  Part A: Patients received Afatinib tablets, 40 mg taken orally Once Daily (OD) until PD. In case of treatment-related AEs, the 40 mg dose could be reduced by increments of 10 mg to 30 mg once daily or 20 mg once daily.",
+        "  The 95% Confidence Interval is Exact Confidence Interval."
+    ],
+    "Eligibility": [
+        "Inclusion criteria:",
+        "  Female patients >=18 years with proven diagnosis of HER2-overexpressing, histologically confirmed breast cancer",
+        "  Locally advanced or metastatic disease",
+        "  Must have disease that can be evaluated according to RECIST 1.1 (Response Evaluation Criteria for Solid Tumours version 1.1)",
+        "  For trastuzumab pre-treated patients, must have failed prior trastuzumab treatment",
+        "  Investigator-confirmed diagnosis of Inflammatory Breast Cancer",
+        "  Must have biopsiable disease",
+        "Exclusion criteria:",
+        "  Prior treatment with HER2-targeted small molecules or antibodies other than trastuzumab (which must have been given in the trastuzumab-failure study population)",
+        "  Must not have received prior vinorelbine treatment"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Part A: Clinical Benefit (CB) Assessed by Complete Response (CR), Partial Response (PR) or Stable Disease (SD) for at Least 6 Months Using the Response Evaluation Criteria in Solid Tumours (RECIST 1.1).",
+        "  Tumour response was assessed separately for Part A and Part B according to the Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1. The primary endpoint of this study was confirmed clinical benefit, as assessed by Stable Disease (SD) for at least 6 months (defined as >182 days), Partial Response (PR), or Complete Response (CR) according to RECIST version 1.1 (only confirmed responses were considered).",
+        "  Time frame: This endpoint was assessed between the from first administration of trial medication in Part A and the earliest of PD, death or start of next treatment (either Part B combination therapy or new anti-cancer therapy) up to 929 days.",
+        "Results 1: ",
+        "  Arm/Group Title: Part A: Afatinib Once Daily (OD).",
+        "  Arm/Group Description: Part A: Patients received Afatinib tablets, 40 mg taken orally Once Daily (OD) until PD. In case of treatment-related AEs, the 40 mg dose could be reduced by increments of 10 mg to 30 mg once daily or 20 mg once daily.",
+        "  The 95% Confidence Interval is Exact Confidence Interval.",
+        "  Overall Number of Participants Analyzed: 26",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of participants  35        (17 to 56)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 12/26 (46.15%)",
+        "  Abdominal pain 0/26 (0.00%)",
+        "  Diarrhoea 3/26 (11.54%)",
+        "  Nausea 0/26 (0.00%)",
+        "  Vomiting 3/26 (11.54%)",
+        "  Asthenia 0/26 (0.00%)",
+        "  Fatigue 1/26 (3.85%)",
+        "  Pain 1/26 (3.85%)",
+        "  Hepatic lesion 1/26 (3.85%)",
+        "  Abscess limb 1/26 (3.85%)",
+        "  Cellulitis 1/26 (3.85%)",
+        "  Lower respiratory tract infection 1/26 (3.85%)",
+        "  Sepsis 1/26 (3.85%)",
+        "  Urinary tract infection 1/26 (3.85%)"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "Clinical Trial ID": "NCT00574145",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Radiotherapy/Supportive Care (A)",
+        "  Patients receive radiotherapy and healing touch therapy from a healing-touch therapist once a week for the duration of their radiotherapy",
+        "INTERVENTION 2: ",
+        "  Control ARM (B)",
+        "  Patients receive radiotherapy and sham healing touch therapy from a sham healing-touch therapist once a week for the duration of their radiotherapy"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically proven breast cancer",
+        "  Receiving post lumpectomy or post mastectomy radiation therapy (RT)",
+        "  Eastern Cooperative Oncology Group performance status of 0, 1 or 2",
+        "  Prescribed a minimum of 5 weeks of RT",
+        "  Between the ages of 21 and 75",
+        "  Able to speak English.",
+        "  Provides written informed consent",
+        "Exclusion Criteria:",
+        "  Documented active psychiatric illness",
+        "  Documented cognitive impairment that would preclude the ability to provide informed consent.",
+        "  Stage IV breast cancer",
+        "  Receiving concurrent chemotherapy and RT"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Fatigue Using the Brief Fatigue Inventory (BFI)",
+        "  9-items with an 11-point rating scale measures intensity of fatigue (3 items, 0 = no fatigue to 10 = fatigue as bad as you can imagine) and interference of fatigue on daily life (6 items, 0 = does not interfere to 10 = completely interferes. Each participant's score is summed with a possible minimum score of 0 and a possible maximum score of 90. A mean score was then determined.",
+        "  Time frame: 6 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Radiotherapy/Supportive Care (A)",
+        "  Arm/Group Description: Patients receive radiotherapy and healing touch therapy from a healing-touch therapist once a week for the duration of their radiotherapy",
+        "  Overall Number of Participants Analyzed: 20",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  2.786         (0.1963)",
+        "Results 2: ",
+        "  Arm/Group Title: Control ARM (B)",
+        "  Arm/Group Description: Patients receive radiotherapy and sham healing touch therapy from a sham healing-touch therapist once a week for the duration of their radiotherapy",
+        "  Overall Number of Participants Analyzed: 21",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  1.356         (0.1413)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/22 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/22 (0.00%)"
+    ]
+}

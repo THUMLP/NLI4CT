@@ -1,0 +1,45 @@
+{
+    "Clinical Trial ID": "NCT02306265",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Mammography FFDM and DBT",
+        "  Subjects underwent 2D breast imaging with full-field digital mammography (FFDM) followed by 3D breast imaging with digital breast tomosynthesis (DBT).",
+        "  Digital Breast Tomosynthesis: 3D imaging of the breast using Digital Breast Tomosynthesis (DBT) device",
+        "  Full-Field Digital Mammogram: 2D imaging of the breast using Full-Field Digital Mammography (FFDM) device"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women aged 30 years or older (  30 years old);",
+        "  Asymptomatic women scheduled for screening mammography or have completed a screening mammogram within the past 30 days;",
+        "  Mammography completed on a General Electric (GE) GE FFDM system (with craniocaudal (CC) and mediolateral oblique (MLO) views) at the site or another clinical facility;",
+        "  Are able and willing to comply with study procedures;",
+        "  Have signed and dated the informed consent form;",
+        "  Are either surgically sterile or postmenopausal or, if of childbearing potential, the possibility of pregnancy is remote based on a documented negative patient history and, optionally, a negative urine pregnancy test (if subject requests one).",
+        "Exclusion Criteria:",
+        "  Have been previously included in this study;",
+        "  Have a history of breast cancer and are in active treatment. However, subjects with a prior lumpectomy (> 5 years prior) who receive only routine screening mammography views can be included;",
+        "  Have breasts too large to be adequately positioned on 24 x 31 centimeter (cm) FFDM digital receptor without anatomical cut off during either FFDM or DBT examination;",
+        "  Have participated in (within the prior 30 days) another trial of an investigational product expected to interfere with study procedures or outcomes;",
+        "  Have breast implant(s);",
+        "  Have reconstructed breast(s)."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Imaging Data Collected",
+        "  Collect breast image data using two (2) methods: Digital Breast Tomosynthesis (DBT) and Full Field Digital Mammography (FFDM) from asymptomatic women undergoing screening mammography.",
+        "  Time frame: within 30 days of enrollment",
+        "Results 1: ",
+        "  Arm/Group Title: Mammography FFDM and DBT",
+        "  Arm/Group Description: Subjects underwent 2D breast imaging with full-field digital mammography (FFDM) followed by 3D breast imaging with digital breast tomosynthesis (DBT).",
+        "  Digital Breast Tomosynthesis: 3D imaging of the breast using Digital Breast Tomosynthesis (DBT) device",
+        "  Full-Field Digital Mammogram: 2D imaging of the breast using Full-Field Digital Mammography (FFDM) device",
+        "  Overall Number of Participants Analyzed: 250",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Participants with images collected by both methods: 249  99.6%",
+        "  Participants with image collected by one method: 1   0.4%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/250 (0.00%)"
+    ]
+}

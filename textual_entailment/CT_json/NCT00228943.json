@@ -1,0 +1,47 @@
+{
+    "Clinical Trial ID": "NCT00228943",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Full Strength Acute Tryptophan Depletion",
+        "[Not Specified]",
+        "INTERVENTION 2: ",
+        "  Half-Strength Tryptophan Depletion - Control",
+        "[Not Specified]"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  At least 18 years of age",
+        "  Willing and able to provide informed consent",
+        "  Reporting daily hot flashes",
+        "  Able to read, write, and speak English",
+        "  Postmenopausal to limit sample variability (> 12 months amenorrhea)",
+        "  Greater then 1 month but < 5 years post-treatment (surgery, radiation, chemotherapy) for non-metastatic breast cancer.",
+        "  These criteria allow inclusion of women successfully treated for recurrent breast cancer since there is no known reason to exclude them. Menopausal status is assessed using self-reports due to problems in reliably measuring follicle-stimulating hormone levels and estradiol in tamoxifen users.",
+        "Exclusion Criteria:",
+        "  Exclusion criteria are current depression, history of migraines or hepatitis, abnormal chemistry profile (e.g., sodium, potassium, glucose), or a positive urine drug screen for illegal substances."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Serum Tryptophan Levels",
+        "  Mean serum tryptophan levels (blood draw) at the end of the nadir period.",
+        "  Time frame: baseline, 1 hour, 2 hours, 3 hours, 4 hours, 5 hours, 6 hours, 7 hours, 8 hours",
+        "Results 1: ",
+        "  Arm/Group Title: Full Strength Acute Tryptophan Depletion",
+        "  Arm/Group Description: [Not Specified]",
+        "  Overall Number of Participants Analyzed: 24",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: nmol/ml  0.0034         (.0027)",
+        "Results 2: ",
+        "  Arm/Group Title: Half-Strength Tryptophan Depletion - Control",
+        "  Arm/Group Description: [Not Specified]",
+        "  Overall Number of Participants Analyzed: 23",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: nmol/ml  0.02         (0.02)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/0",
+        "Adverse Events 2:",
+        "  Total: 0/0"
+    ]
+}

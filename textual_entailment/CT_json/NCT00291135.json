@@ -1,0 +1,38 @@
+{
+    "Clinical Trial ID": "NCT00291135",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Letrozole",
+        "  Letrozole, 2.5 mg daily for six months"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  evidence of hyperplasia with/without atypia upon random periareolar fine needle aspiration of breast",
+        "  on hormone replacement therapy",
+        "  postmenopausal",
+        "  increased risk of developing breast cancer based on personal or family history",
+        "  never have taken aromatase inhibitors or selective estrogen receptor modulators in last six months",
+        "  women who have a high risk of breast cancer",
+        "  older than 18 years",
+        "Exclusion Criteria:",
+        "  anticoagulants",
+        "  marked breast tenderness",
+        "  pregnant or within twelve months of breast feeding/childbirth"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Proliferation of Breast Epithelial Cells Obtained by Random Periareolar Fine Needle Aspiration.",
+        "  Proliferation assessment by immunocytochemistry using Ki-67. Expressed as percent of cells staining positive for Ki-67.",
+        "  Time frame: Baseline, 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: Letrozole",
+        "  Arm/Group Description: Letrozole, 2.5 mg daily for six months",
+        "  Overall Number of Participants Analyzed: 42",
+        "  Median (Full Range)",
+        "  Unit of Measure: Change in % of cells positive for Ki-67  -2.3        (-21.0 to 7.8)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/42 (0.00%)"
+    ]
+}

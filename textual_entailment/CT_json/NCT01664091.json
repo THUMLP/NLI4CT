@@ -1,0 +1,46 @@
+{
+    "Clinical Trial ID": "NCT01664091",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  TE-ADM With PMRT",
+        "  Participants received immediate breast reconstruction using a sub-muscular tissue expander (TE) and acellular dermal matrix (ADM) sling placed during the same surgery. This was followed by post-mastectomy radiation therapy (PMRT) no sooner than a minimum of 6 weeks and optimally 6 months, if adjuvant chemotherapy was required. The prescribed chest-wall dose was 50 -50.4 gray (Gy) in 25-28 fractions given once daily over 5-7 weeks with a 0.5-centimeter (cm) bolus to the scar every other day. Permanent reconstruction was performed at least 5 months after completion of PMRT."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients must have newly diagnosed, clinical Stage I-III breast cancer with T1-T3 invasive tumors recently treated with mastectomy",
+        "  Patients must have had immediate reconstruction with a TE and ADM",
+        "  Participants must be candidates for postmastectomy radiation therapy (RT). Postmastectomy RT routinely is indicated for patients with pathologically-staged T3N1 (or higher stage) tumors, T1-T2 tumors with 4 or more positive nodes, some T1-T2 tumors with 1-3 positive nodes, and, infrequently, for some N0 tumors",
+        "  Axillary nodes may be positive or negative",
+        "  Microscopically positive margins are permitted",
+        "  Systemic therapy as recommended by a medical oncologist, pre-or post-mastectomy, is permitted",
+        "  Patients must agree to return for scheduled follow-up visits with their radiation oncologist 6, 12, 18 and 24 months after RT (+/- 1 month)",
+        "  18 years of age or older",
+        "Exclusion Criteria:",
+        "  Participants with T4 tumors",
+        "  Participants with recurrent breast cancer or a history of prior breast RT",
+        "  Uncontrolled intercurrent illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements",
+        "  Pregnant women are excluded from this study",
+        "  Individuals with a history of a different malignancy are ineligible except for the following circumstances. Individuals with a history of other malignancies are eligible if they have been disease-free for at least 5 years and are deemed by the investigator to be at low risk for recurrence of that malignancy. Individuals with the following cancers are eligible if diagnosed and treated within the past 5 years: cervical cancer in situ, and basal cell or squamous cell carcinoma of the skin",
+        "  HIV-positive individuals on combination antiretroviral therapy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Success Rate",
+        "  Success rate was defined as the percentage of participants experiencing all of the following: 1) completion of PMRT and placement of the permanent implant and/or flap reconstruction; 2) no major complications (infection requiring hospitalization, major revisions, early/severe capsular contracture, or pain requiring implant removal); and 3) a physician-reported 'excellent' or 'good' cosmetic result (not 'fair' or 'poor') at 2 years following PMRT (requiring a stable reconstruction with good symmetry and contour relative to the contralateral breast).",
+        "  Time frame: 2 years",
+        "Results 1: ",
+        "  Arm/Group Title: TE-ADM With PMRT",
+        "  Arm/Group Description: Participants received immediate breast reconstruction using a sub-muscular tissue expander (TE) and acellular dermal matrix (ADM) sling placed during the same surgery. This was followed by post-mastectomy radiation therapy (PMRT) no sooner than a minimum of 6 weeks and optimally 6 months, if adjuvant chemotherapy was required. The prescribed chest-wall dose was 50 -50.4 gray (Gy) in 25-28 fractions given once daily over 5-7 weeks with a 0.5-centimeter (cm) bolus to the scar every other day. Permanent reconstruction was performed at least 5 months after completion of PMRT.",
+        "  Overall Number of Participants Analyzed: 26",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  65.4        (44.3 to 82.8)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 4/31 (12.90%)",
+        "  Infection  1/31 (3.23%)",
+        "  Deflation  1/31 (3.23%)",
+        "  Asymmetry  1/31 (3.23%)",
+        "  Delayed Healing Wound  1/31 (3.23%)"
+    ]
+}

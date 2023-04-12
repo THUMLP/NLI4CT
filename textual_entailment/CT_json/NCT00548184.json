@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT00548184",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Lapatinib + Trastuzumab",
+        "  All study participants received lapatinib 1000mg daily and trauzumab 4mg/kg loading dose and then 2mg/kg every week"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  All patients must be female.",
+        "  Signed informed consent.",
+        "  Locally advanced breast cancers or primary breast cancers are eligible. Locally advanced cancers must be of clinical and/or radiologic size >3 cm, or >2 cm with clinical evidence of axillary nodal involvement. (If tumors are less than 3 cm, we will use radiologically measured tumor size to determine the minimal tumor size for eligibility and in assessing tumor size during follow-up).",
+        "  HER2 overexpressing tumors defined as HercepTest score of 3+, or > 10% cells moderately or strongly HER2 positive by other methods, or Allred semi-quantitative score of >5, or gene amplified.",
+        "  Negative serum pregnancy test (HCG) within 7 days of starting study, if of child-bearing potential.",
+        "  Kidney and liver function tests - all within 1.5 times the institution's upper limit of normal.",
+        "  Performance status (WHO scale) less than 2 and life expectancy more than 6 months.",
+        "  Age at least 18 years.",
+        "  No brain or leptomeningeal disease.",
+        "  No previous or current malignancies at other sites within the last 5 years, with exception of adequately treated cone-biopsied in situ carcinoma of the cervix uteri and basal or squamous cell carcinoma of the skin.",
+        "  Note: The presence of pathological involvement of axillary nodes will be assessed and agreed upon by two investigators.",
+        "Exclusion Criteria:",
+        "  Pregnancy or unwillingness to use a reliable contraceptive method in women of child-bearing potential.",
+        "  Severe underlying chronic illness or disease.",
+        "  Cardiomyopathy or baseline LVEF less than 50%.",
+        "  Other investigational drugs while on study.",
+        "  Severe or uncontrolled hypertension, history of congestive heart failure or severe coronary arterial disease.",
+        "  Malabsorption syndrome, disease significantly affecting gastrointestinal function, or resection of the stomach or small bowel. Subjects with ulcerative colitis are also excluded",
+        "  Taking any lapatinib-prohibited medication within 7 days of first dose of study medications. (See Prohibited Medications List in protocol.)"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Pathologic Assessment After Study Treatment",
+        "  Pathologic Assessment After 12 weeks of lapatinib and trastuzumab with or without endocrine therapy. Pathologic complete response: no invasive cancer in the residual breast. Near pathologic complete response: residual disease of less than 1 cm in breast.",
+        "  Time frame: 12 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Lapatinib + Trastuzumab",
+        "  Arm/Group Description: All study participants received lapatinib 1000mg daily and trauzumab 4mg/kg loading dose and then 2mg/kg every week",
+        "  Overall Number of Participants Analyzed: 64",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Complete Pathologic Response: 18",
+        "  Near Complete Pathologic Response: 16",
+        "  Not Pathologic response: 30"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 2/65 (3.08%)",
+        "  Cholecystitis  1/65 (1.54%)",
+        "  Hepatobiliary/Pancreas  1/65 (1.54%)",
+        "  ALT, SGPT (serum glutamic pyruvic transaminase)  1/65 (1.54%)",
+        "  AST, SGOT(serum glutamic oxaloacetic transaminase)  2/65 (3.08%)",
+        "  Alkaline phosphatase  1/65 (1.54%)",
+        "  Bilirubin (hyperbilirubinemia)  1/65 (1.54%)"
+    ]
+}

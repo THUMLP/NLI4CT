@@ -1,0 +1,53 @@
+{
+    "Clinical Trial ID": "NCT01237327",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Exemestane",
+        "  Exemestane 25 milligram (mg) oral tablet taken once daily",
+        "INTERVENTION 2: ",
+        "  Megestrol Acetate",
+        "  Megestrol acetate 160 mg tablet taken once daily"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Previous participation in study 971-ONC-0028-080.",
+        "Exclusion Criteria:",
+        "  Subjects who had not previously participated in study 971-ONC-0028-080."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Overall Survival",
+        "  Overall survival in months measured from date of starting treatment in core study to date of death for any reason.",
+        "  Time frame: Every 12 weeks up to 6 years",
+        "Results 1: ",
+        "  Arm/Group Title: Exemestane",
+        "  Arm/Group Description: Exemestane 25 milligram (mg) oral tablet taken once daily",
+        "  Overall Number of Participants Analyzed: 43",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: months  29.2        (22.9 to 47.8)",
+        "Results 2: ",
+        "  Arm/Group Title: Megestrol Acetate",
+        "  Arm/Group Description: Megestrol acetate 160 mg tablet taken once daily",
+        "  Overall Number of Participants Analyzed: 41",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: months  16.3        (11.6 to 27.6)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/41 (2.44%)",
+        "  Chest pain NEC 0/41 (0.00%)",
+        "  Back pain 0/41 (0.00%)",
+        "  Cerebral haemorrhage 0/41 (0.00%)",
+        "  Headache NOS 0/41 (0.00%)",
+        "  Spinal cord compression 0/41 (0.00%)",
+        "  Completed suicide 1/41 (2.44%)",
+        "Adverse Events 2:",
+        "  Total: 2/40 (5.00%)",
+        "  Chest pain NEC 1/40 (2.50%)",
+        "  Back pain 1/40 (2.50%)",
+        "  Cerebral haemorrhage 1/40 (2.50%)",
+        "  Headache NOS 1/40 (2.50%)",
+        "  Spinal cord compression 1/40 (2.50%)",
+        "  Completed suicide 0/40 (0.00%)"
+    ]
+}

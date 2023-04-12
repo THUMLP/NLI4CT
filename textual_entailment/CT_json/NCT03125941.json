@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT03125941",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Dexamethasone 8 mg",
+        "  Dexamethasone 8 mg pre-operative",
+        "  Dexamethasone: pre-operative intravenous administration",
+        "INTERVENTION 2: ",
+        "  Dexamethasone 24 mg",
+        "  Dexamethasone 24 mg pre-operative",
+        "  Dexamethasone: pre-operative intravenous administration"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  planned unilateral mastectomy with or without axillary dissection or sentinel node in the study period",
+        "  informed signed consent",
+        "Exclusion Criteria:",
+        "  Chronic/ongoing use of glucocorticoids (except inhalation therapy)",
+        "  ongoing use of immunosuppressive therapy",
+        "  insulin dependent diabetes",
+        "  pregnancy/breastfeeding",
+        "  allergies toward study medication, or medication in a standard treatment",
+        "  contralateral surgery (lumpectomy/mastectomy) at time of mastectomy",
+        "  surgery cannot be performed"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Transfer to Post-anesthesia Care Unit (PACU)",
+        "  Number of patients meeting criteria for transfer to PACU post-surgery",
+        "  Time frame: Within 1 hour post-surgery",
+        "Results 1: ",
+        "  Arm/Group Title: Dexamethasone 8 mg",
+        "  Arm/Group Description: Dexamethasone 8 mg pre-operative",
+        "  Dexamethasone: pre-operative intravenous administration",
+        "  Overall Number of Participants Analyzed: 65",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  23  35.4%",
+        "Results 2: ",
+        "  Arm/Group Title: Dexamethasone 24 mg",
+        "  Arm/Group Description: Dexamethasone 24 mg pre-operative",
+        "  Dexamethasone: pre-operative intravenous administration",
+        "  Overall Number of Participants Analyzed: 65",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  23  35.4%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 5/63 (7.94%)",
+        "  wound hemorrhage  5/63 (7.94%)",
+        "Adverse Events 2:",
+        "  Total: 3/64 (4.69%)",
+        "  wound hemorrhage  3/64 (4.69%)"
+    ]
+}

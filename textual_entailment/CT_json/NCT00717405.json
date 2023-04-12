@@ -1,0 +1,46 @@
+{
+    "Clinical Trial ID": "NCT00717405",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Bevacizumab + Trastuzumab",
+        "  Neoadjuvant treatment (Cycles 1-8, 3-week cycle): Participants received 15 mg/kg IV bevacizumab q3w for 8 cycles, 4 cycles of 500 mg/m^2 IV 5-fluorouracil, 100 mg/m^2 IV epirubicin, and 500 mg/m^2 IV cyclophosphamide, q3w, followed by 4 cycles of 100 mg/m^2 IV docetaxel q3w plus trastuzumab (loading dose of 8 mg/kg and then 6 mg/kg q3w). Participants underwent surgery (mastectomy) after neoadjuvant treatment, maintaining trastuzumab (6 mg/kg). Adjuvant treatment: Participants received radiotherapy 2-4 weeks after surgery and lasted for 4-6 weeks, 6 mg/kg IV trastuzumab q3w and 15 mg/kg IV bevacizumab q3w administered along with/after the radiotherapy (administered up to a cumulative [neoadjuvant + adjuvant] total of 18 injections each. Hormonal therapy (at investigator discretion) after the end of radiotherapy was administered for 5 years, if participant was hormone receptor positive."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  adult females, >=18 years of age;",
+        "  inflammatory breast cancer;",
+        "  HER2-positive tumors;",
+        "  performance status 0-2.",
+        "Exclusion Criteria:",
+        "  metastases;",
+        "  previous treatment with chemotherapy, radiation therapy or hormone therapy for a breast tumor;",
+        "  clinically significant cardiovascular disease, or history of thrombotic disorders."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With a Pathological Complete Response (PCR) According to the Sataloff Classification",
+        "  PCR was assessed at the time of definitive surgery according to Sataloff classification and centrally reviewed by an independent committee under blinded conditions. Pathological response was defined based on the therapeutic response at the primary tumor site and axillary lymph nodes. Primary tumor response criteria were as follows: T-A (Total / near total therapeutic effect), T-B (Subjectively greater than [>] 50 percent [%] therapeutic effect but less than [<] T-A), T-C (<50% therapeutic effect, but effect evident), T-D (No therapeutic effect). Axillary lymph node response: N-A (Evidence of therapeutic effect, no metastases), N-B (No therapeutic effect, no nodal metastases), N-C (Nodal metastasis but evident therapeutic effect), N-D (Nodal metastasis with no therapeutic effect). T-A and N-A or T-A and N-B responses were defined as PCR and all other tumor responses as non-responders. Participants with missing values were considered as non-responders.",
+        "  Time frame: From baseline through Week 25 (Up to 6 months)",
+        "Results 1: ",
+        "  Arm/Group Title: Bevacizumab + Trastuzumab",
+        "  Arm/Group Description: Neoadjuvant treatment (Cycles 1-8, 3-week cycle): Participants received 15 mg/kg IV bevacizumab q3w for 8 cycles, 4 cycles of 500 mg/m^2 IV 5-fluorouracil, 100 mg/m^2 IV epirubicin, and 500 mg/m^2 IV cyclophosphamide, q3w, followed by 4 cycles of 100 mg/m^2 IV docetaxel q3w plus trastuzumab (loading dose of 8 mg/kg and then 6 mg/kg q3w). Participants underwent surgery (mastectomy) after neoadjuvant treatment, maintaining trastuzumab (6 mg/kg). Adjuvant treatment: Participants received radiotherapy 2-4 weeks after surgery and lasted for 4-6 weeks, 6 mg/kg IV trastuzumab q3w and 15 mg/kg IV bevacizumab q3w administered along with/after the radiotherapy (administered up to a cumulative [neoadjuvant + adjuvant] total of 18 injections each. Hormonal therapy (at investigator discretion) after the end of radiotherapy was administered for 5 years, if participant was hormone receptor positive.",
+        "  Overall Number of Participants Analyzed: 52",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  63.46        (49.41 to 77.51)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 20/52 (38.46%)",
+        "  Febrile bone marrow aplasia * 5/52 (9.62%)",
+        "  Febrile neutropenia * 6/52 (11.54%)",
+        "  Leukopenia * 6/52 (11.54%)",
+        "  Atrial tachycardia * 1/52 (1.92%)",
+        "  Vomiting * 1/52 (1.92%)",
+        "  Tooth loss * 1/52 (1.92%)",
+        "  Hyperthermia * 1/52 (1.92%)",
+        "  Malaise * 1/52 (1.92%)",
+        "  Pyrexia * 1/52 (1.92%)",
+        "  Impaired healing * 3/52 (5.77%)",
+        "  Inflammation * 1/52 (1.92%)"
+    ]
+}

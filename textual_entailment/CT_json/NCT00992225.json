@@ -1,0 +1,47 @@
+{
+    "Clinical Trial ID": "NCT00992225",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  LY573636-sodium",
+        "  Dose was adjusted to target a specific maximum concentration (Cmax) based on patient laboratory parameters, administered intravenously every 28 days until disease progression or other criteria for patient discontinuation were met"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Received at least 2 or more prior chemotherapy regimens for metastatic breast cancer.",
+        "  Have discontinued all previous therapies for cancer, including chemotherapy, radiotherapy, cancer-related hormonal therapy, or other investigational therapy for at least 4 weeks. Patients who have received whole-brain radiation must wait 90 days.",
+        "Exclusion Criteria:",
+        "  Serious pre-existing medical condition.",
+        "  Have active central nervous system or leptomeningeal metastasis.",
+        "  Current hematologic malignancies, acute or chronic leukemia.",
+        "  Receiving Warfarin (Coumadin).",
+        "  Have a history of radiation therapy involving more than 25% of the bone marrow."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With an Objective Overall Response",
+        "  Objective overall response is complete response (CR) + partial response (PR), as classified by the investigators according to the Response Evaluation Criteria In Solid Tumors (RECIST) guidelines. CR is disappearance of all target and non-target lesions; PR is 30% decrease in sum of longest diameter of target lesions. It is calculated as a total number of participants with CR or PR divided by the total number of participants treated multiplied by 100.",
+        "  Time frame: Baseline to measured progressive disease or death from any cause up to 12 months",
+        "Results 1: ",
+        "  Arm/Group Title: LY573636-sodium",
+        "  Arm/Group Description: Dose was adjusted to target a specific maximum concentration (Cmax) based on patient laboratory parameters, administered intravenously every 28 days until disease progression or other criteria for patient discontinuation were met",
+        "  Overall Number of Participants Analyzed: 33",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  6.1        (1.1 to 17.9)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 10/33 (30.30%)",
+        "  Constipation 1/33 (3.03%)",
+        "  Dysphagia 1/33 (3.03%)",
+        "  Ileus 1/33 (3.03%)",
+        "  Nausea 1/33 (3.03%)",
+        "  Vomiting 1/33 (3.03%)",
+        "  Fatigue 1/33 (3.03%)",
+        "  Pain 1/33 (3.03%)",
+        "  Sepsis 2/33 (6.06%)",
+        "  Urinary tract infection 1/33 (3.03%)",
+        "  Alanine aminotransferase increased 1/33 (3.03%)",
+        "  Aspartate aminotransferase increased 1/33 (3.03%)",
+        "  Dehydration 2/33 (6.06%)"
+    ]
+}

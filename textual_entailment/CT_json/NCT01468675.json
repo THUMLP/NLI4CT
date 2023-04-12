@@ -1,0 +1,45 @@
+{
+    "Clinical Trial ID": "NCT01468675",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Intervention",
+        "  Validated, web-based risk assessment is being used to assess personalized risk and generate a risk report",
+        "  risk assessment survey; decision support for providers for prevention based on risk",
+        "INTERVENTION 2: ",
+        "  Control",
+        "Usual care"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Adults 18 - 75 Years old",
+        "  English or Spanish speaking",
+        "  Recent visit to a participating primary care practice",
+        "  Exclusion Criteria",
+        "  No phone number or email address listed in the EHR"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Subjects Who Discussed Disease Risk With Primary Care Provider",
+        "  [Not Specified]",
+        "  Time frame: 3 months following primary care visit",
+        "Results 1: ",
+        "  Arm/Group Title: Intervention",
+        "  Arm/Group Description: Validated, web-based risk assessment is being used to assess personalized risk and generate a risk report",
+        "  risk assessment survey; decision support for providers for prevention based on risk",
+        "  Overall Number of Participants Analyzed: 1673",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  905  54.1%",
+        "Results 2: ",
+        "  Arm/Group Title: Control",
+        "  Arm/Group Description: Usual care",
+        "  Overall Number of Participants Analyzed: 1847",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  841  45.5%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/1699 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/2004 (0.00%)"
+    ]
+}

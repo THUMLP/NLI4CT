@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT01671319",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Dose Dense TC + Pegfilgrastim",
+        "  Docetaxel + Cyclophosphamide chemotherapy given every 2 weeks x 4 cycles plus pegfilgrastim given 24-48 hours post day 1 of each cycle",
+        "  docetaxel + cyclophosphamide + pegfilgrastim: docetaxel 75 mg/m2 + cyclophosphamide 600 mg/m2 IV every 2 weeks x 4 cycles plus pegfilgrastim 6mg sq 24-48 hours post day 1 of each cycle"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  histologically confirmed invasive carcinoma of the female breast, status post definitive surgery (lumpectomy or mastectomy plus nodal evaluation if feasible). Patients must initiate therapy with ddTC within 84 days of the last breast or axillary surgery performed for curative intent",
+        "  candidate for chemotherapy by the treating oncologist",
+        "  Patients with pN2 or pN3 disease are NOT explicitly excluded. However, patients with N2 or N3 disease MUST be reviewed with the PI or study chair before being enrolled on the study as TC would not normally be considered adequate therapy for such patients.",
+        "  Patients with bilateral, synchronous invasive breast cancer are eligible as long as both primary tumors meet the eligibility criteria.",
+        "  Patients with estrogen-receptor (ER) and/or progesterone receptor (PR) negative, positive, or unknown tumors are eligible.",
+        "  Patients with HER2 positive, negative or unknown disease are eligible for this trial. Patients whose tumors are HER2 positive by either immunohistochemistry (IHC) 3+ staining or demonstrate gene amplification by FISH should receive trastuzumab, following completion of adjuvant cytotoxic therapy with 4 cycles of ddTC.",
+        "  There must be negative surgical margins for invasive cancer and DCIS. LCIS is acceptable at the margin.",
+        "  Patients with multi-centric breast cancer are eligible as long as all known disease is resected from the breast with negative margins.",
+        "  Age >18 years.",
+        "  ECOG performance status  1",
+        "  Women of childbearing potential should have a negative urine or blood beta-HCG, and must agree to contraception if engaging in sexual activity. Should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately. Women must not be pregnant or nursing as the chemotherapy drugs used in this study may cause harm to a fetus or newborn.",
+        "  Ability to understand and the willingness to sign a written informed consent document.",
+        "  Platelets >/=100,000/\u03bcl within 4 weeks of registration.",
+        "  Absolute neutrophil count (ANC) >/= 1,500/\u03bcl within 4 weeks of registration.",
+        "  Total bilirubin within normal institutional limits within 4 weeks of registration.",
+        "  Alkaline phosphatase (alk phos)  2.5 X institutional Upper Limit of Normal (ULN) within 4 weeks of registration.",
+        "  AST (SGOT)/ALT(SGPT)  1.5X ULN",
+        "  Creatinine within normal institutional limits OR Creatinine clearance>/= 60 mL/min/1.73 m2 for patients with creatinine levels above normal",
+        "  If patient has received tamoxifen or another selective estrogen receptor modulator (SERM) for prevention or for other indications (not for treatment of this cancer), they have been discontinued prior to enrollment.",
+        "Exclusion Criteria:",
+        "  Patient has received previous trastuzumab, chemotherapy, hormonal therapy, or other anti-cancer agents (including investigational agents) for this malignancy.",
+        "  Patient will be receiving GNRH agonists such as goserelin (Zoladex) or leuprolide acetate (Lupron) concomitantly with chemotherapy for the purpose of preventing breast cancer recurrence.",
+        "  Patient has inflammatory breast cancer (pT4d) or metastatic breast cancer.",
+        "  Patient has uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia or psychiatric illness/social situations that would limit compliance with study requirements.",
+        "  Patient has pre-existing persistent neuropathy.",
+        "  The patient has received prior chemotherapy or radiotherapy or any malignancy within the past 2 years.",
+        "  Patient has received prior docetaxel or cyclophosphamide within the past 5 years.",
+        "  Patient has known contraindication or hypersensitivity to docetaxel, cyclophosphamide or pegfilgrastim."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Feasibility for Dose-dense TC Therapy: Number of Participants Receiving at Least 90% of Total Dose of Therapy",
+        "  Evaluate feasibility of delivering 4 cycles (1 cycle = 2 weeks) of docetaxel and cyclophosphamide (TC) on a dose-dense (q2week) schedule with pegfilgrastim support. This regimen will be referred to as dose-dense (dd)TC. Feasibility defined by at least 60% of patients receiving 90% of the total dose of therapy within 10 weeks.",
+        "  Time frame: 4 cycles each 2 weeks in length for a total of 8 weeks, up to 10 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Dose Dense TC + Pegfilgrastim",
+        "  Arm/Group Description: Docetaxel + Cyclophosphamide chemotherapy given every 2 weeks x 4 cycles plus pegfilgrastim given 24-48 hours post day 1 of each cycle",
+        "  docetaxel + cyclophosphamide + pegfilgrastim: docetaxel 75 mg/m2 + cyclophosphamide 600 mg/m2 IV every 2 weeks x 4 cycles plus pegfilgrastim 6mg sq 24-48 hours post day 1 of each cycle",
+        "  Overall Number of Participants Analyzed: 41",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  37"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 4/42 (9.52%)",
+        "  Perforation, GI 1/42 (2.38%)",
+        "  Febrile neutropenia 1/42 (2.38%)",
+        "  Syncope 1/42 (2.38%)",
+        "  Rash/desquamation 1/42 (2.38%)"
+    ]
+}

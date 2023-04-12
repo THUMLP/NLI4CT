@@ -1,0 +1,52 @@
+{
+    "Clinical Trial ID": "NCT00416715",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Baseline",
+        "  All patients that are evaluable for joint aches and vitamin D levels.",
+        "INTERVENTION 2: ",
+        "  Post Vitamin D Repletion (1 Month)",
+        "  Patients with vitamin D deficiency who experience myalgias, arthralgias and/or joint stiffness."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients must have a histologically confirmed diagnosis of Stage I, II or III breast carcinoma",
+        "  Patients must be prescribed letrozole for adjuvant breast cancer treatment",
+        "  Prior adjuvant tamoxifen is permitted",
+        "  Patients must be postmenopausal; for study purposes, postmenopausal is defined as: a prior documented bilateral oophorectomy, or a history of at least 12 months without spontaneous menstrual bleeding, or have a persistently postmenopausal estradiol in the past 6 months without menses, and clinically in menopause at the judgment of the treating physician, or age 60 or older with a prior hysterectomy without oophorectomy, or age less than 60 with a prior hysterectomy without oophorectomy (or in whom the status of the ovaries is unknown), with a documented FSH level demonstrating confirmatory elevation in the postmenopausal range for the lab",
+        "Exclusion Criteria:",
+        "  Diagnosis of Stage IV breast carcinoma",
+        "  Pre-existing myalgias, arthralgias and/or joint stiffness >= Grade 1, as defined using CTEP CTC identified during baseline physical exam",
+        "  Inability to understand or cooperate with study procedures",
+        "  Receipt of investigational drug within 30 days before study entry",
+        "  Lack of physical integrity of the upper gastrointestinal tract or malabsorption syndrome",
+        "  Unwillingness to give informed consent",
+        "  Unwillingness to participate or inability to comply with the protocol for the duration of the study",
+        "  Patients with serum calcium >= 14 mg/dL",
+        "  Patients with renal dysfunction defined as glomerular filtration rate <10ml/min calculated using Cockroft-Gault equation"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Early Breast Cancer Patients Prescribed Adjuvant Letrozole That Are Vitamin D Deficient and Who Experience Myalgias, Arthralgias and/or Joint Stiffness",
+        "  Count of early breast cancer patients prescribed adjuvant letrozole that are vitamin D deficient and who experience myalgias, arthralgias and/or joint stiffness, assessed at baseline and 1 month after vitamin D repletion.",
+        "  Time frame: Baseline and 1 month post vitamin D repletion",
+        "Results 1: ",
+        "  Arm/Group Title: Baseline",
+        "  Arm/Group Description: All patients that are evaluable for joint aches and vitamin D levels.",
+        "  Overall Number of Participants Analyzed: 85",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  12  14.1%",
+        "Results 2: ",
+        "  Arm/Group Title: Post Vitamin D Repletion (1 Month)",
+        "  Arm/Group Description: Patients with vitamin D deficiency who experience myalgias, arthralgias and/or joint stiffness.",
+        "  Overall Number of Participants Analyzed: 12",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  1   8.3%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/100 (0.00%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

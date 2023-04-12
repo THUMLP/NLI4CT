@@ -1,0 +1,56 @@
+{
+    "Clinical Trial ID": "NCT01432886",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  E7389 With Weekly Trastuzumab",
+        "  Eribulin mesylate (E7389) was administered intravenously on Day 1 and Day 8 of each 3 week cycle. Trastuzumab was administered intravenously weekly, with an initial dose of 4 mg/kg followed by 2 mg/kg for the remaining doses.",
+        "INTERVENTION 2: ",
+        "  E7389 With Tri-weekly Trastuzumab",
+        "  Eribulin mesylate (E7389) was administered intravenously on Day 1 and Day 8 of each 3 week cycle. Trastuzumab was administered intravenously tri-weekly, with an initial dose of 8 mg/kg followed by 6 mg/kg for the remaining doses."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria",
+        "  Females aged greater than or equal to 20 years and less than 75 years at the time of informed consent.",
+        "  Histologically or cytologically confirmed with breast cancer",
+        "  Score 3+ by immunohistochemistry (IHC) or HER2 positive by Fluorescence in Situ Hybridization (FISH) method",
+        "  Subjects who meet any of the following criteria:",
+        "  Evidence of recurrence during adjuvant chemotherapy with trastuzumab and taxane",
+        "  Evidence of recurrence within 6 months after adjuvant chemotherapy with trastuzumab and taxane",
+        "  Experienced prior chemotherapy including trastuzumab and taxane for advanced or recurrent breast cancer",
+        "  Adequate organ function",
+        "  Eastern Cooperative Oncology Group (ECOG)-Performance Status (PS) is 0 or 1",
+        "  Subjects who have submitted written informed consent for study entry",
+        "  Exclusion Criteria",
+        "  Subjects with known brain metastasis accompanied by clinical symptoms or requiring active treatment",
+        "  Subjects with severe active infection requiring active treatment",
+        "  Subjects with large pleural effusions, ascites, or pericardial effusions requiring drainage.",
+        "  Hypersensitivity to trastuzumab, halicondrin B or halicondrin B chemical derivatives",
+        "  Known positive for human immunodeficiency virus (HIV) test or positive for hepatitis B surface (HBs antigen) or hepatitis C (HCV) by serum test.",
+        "  Subjects who are pregnant (positive B-hCG test) or breastfeeding",
+        "  Subjects judged to be ineligible for this study by the principal investigator or sub-investigator."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Dose Limiting Toxicity (DLT)",
+        "  For DLT evaluation, severity (grade) was classified according to common terminology criteria for adverse events version 4.0 (CTCAE v4.0). DLTs were defined as grade 4 neutropenia persisting for more than 7 days; grade 3 or above febrile neutropenia; grade 4 thrombocytopenia or grade 3 thrombocytopenia requiring blood transfusion; non-hematologic toxicity (excluding toxicity related to neutrophils, leukocytes, lymphocytes, platelets, CD4 lymphocytes, anemia, and bone marrow density) greater than or equal to grade 3 (Exceptions: Dose reduction was not required even when the following conditions were met: grade 3 nausea, vomiting, or diarrhea controllable with anti-emetic or anti-diarrheal medication and abnormal laboratory parameter not requiring treatment); and day 8 administration was delayed or skipped as a result of the subject did not meet the dosing riteria within cycle.",
+        "  Time frame: Up to 3 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: E7389 With Weekly Trastuzumab",
+        "  Arm/Group Description: Eribulin mesylate (E7389) was administered intravenously on Day 1 and Day 8 of each 3 week cycle. Trastuzumab was administered intravenously weekly, with an initial dose of 4 mg/kg followed by 2 mg/kg for the remaining doses.",
+        "  Overall Number of Participants Analyzed: 6",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  0",
+        "Results 2: ",
+        "  Arm/Group Title: E7389 With Tri-weekly Trastuzumab",
+        "  Arm/Group Description: Eribulin mesylate (E7389) was administered intravenously on Day 1 and Day 8 of each 3 week cycle. Trastuzumab was administered intravenously tri-weekly, with an initial dose of 8 mg/kg followed by 6 mg/kg for the remaining doses.",
+        "  Overall Number of Participants Analyzed: 6",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  0"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/6 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/6 (0.00%)"
+    ]
+}

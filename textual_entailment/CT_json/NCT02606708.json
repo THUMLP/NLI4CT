@@ -1,0 +1,40 @@
+{
+    "Clinical Trial ID": "NCT02606708",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Accelerated Intensity Modulated Radiation Therapy (AIMRT)",
+        "  All patients shall receive a total of 40.5 Gy to the entire breast in 2.7 Gy/fraction x 15 fractions, Monday to Friday for 3 weeks delivered prone in uniform daily doses through IMRT tangent fields. A concurrent boost to the original tumor bed of 0.50 Gy will be delivered.",
+        "  Accelerated intensity modulated radiation therapy (AIMRT)"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Pre- or post-menopausal women with Stage I and II breast cancer",
+        "  Biopsy-proven invasive breast cancer, excised with negative margins of at least 1 mm",
+        "  Status post segmental mastectomy. and after sentinel node biopsy and/or axillary node dissection",
+        "  At least 2 weeks from last chemotherapy",
+        "  Tumors < 5 mm do not require nodal assessment",
+        "Exclusion Criteria:",
+        "  Previous radiation therapy to the ipsilateral breast.",
+        "  More than 3 involved nodes identified at axillary staging, requiring adjuvant axillary radiation.",
+        "  Active connective tissue disorders, such as lupus or scleroderma.",
+        "  Prior or concurrent malignancy other than basal or squamous cell skin cancer or carcinoma in-situ of the cervix, unless disease-free > 5 years.",
+        "  Pregnant or lactating women."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Local Recurrence in Breast",
+        "  Defined by the discovery of invasive disease or DCIS in the same region of the breast after segmental mastectomy and radiation, by clinical or radiographic means.",
+        "  Time frame: 5 years",
+        "Results 1: ",
+        "  Arm/Group Title: Accelerated Intensity Modulated Radiation Therapy (AIMRT)",
+        "  Arm/Group Description: All patients shall receive a total of 40.5 Gy to the entire breast in 2.7 Gy/fraction x 15 fractions, Monday to Friday for 3 weeks delivered prone in uniform daily doses through IMRT tangent fields. A concurrent boost to the original tumor bed of 0.50 Gy will be delivered.",
+        "  Accelerated intensity modulated radiation therapy (AIMRT)",
+        "  Overall Number of Participants Analyzed: 314",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  6   1.9%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/314 (0.00%)"
+    ]
+}

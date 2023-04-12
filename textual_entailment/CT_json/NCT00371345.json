@@ -1,0 +1,62 @@
+{
+    "Clinical Trial ID": "NCT00371345",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Her2/Neu-amplified Tumor, 70 mg Twice Daily (BID) Dasatinib",
+        "  Participants with a Human epidermal growth factor (Her2/neu)-amplified tumor type (defined as 3+ by immunohistochemistry [IHC] or positive by fluorescent or chromogenic in situ hybridization [FISH or CISH] regardless of estrogen receptor [ER]/progesterone receptor [PgR] status) received orally 70 mg of dasatinib twice daily (BID) for a total daily dose (TDD) of 140 mg.",
+        "INTERVENTION 2: ",
+        "  Her2/Neu-amplified Tumor, 100 mg BID",
+        "  Participants with a Human epidermal growth factor (Her2/neu)-amplified tumor type (defined as 3+ by immunohistochemistry [IHC] or positive by fluorescent or chromogenic in situ hybridization [FISH or CISH] regardless of estrogen receptor [ER]/progesterone receptor [PgR] status) received orally 100 mg of dasatinib twice daily (BID) for a total daily dose (TDD) of 200 mg."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  females, 18 or older",
+        "  recurrent, locally advanced, or metastatic breast cancer with expression of ER/PR receptor and/or overexpression of Her2/neu",
+        "  paraffin-embedded tissue block must be available",
+        "  measurable disease",
+        "  prior chemotherapy with an anthracycline and/or a taxane (neoadjuvant, adjuvant, or metastatic setting)",
+        "  0, 1 or 2 chemotherapies in the metastatic setting",
+        "  adequate organ function",
+        "Exclusion Criteria:",
+        "  Metastatic disease confined to bone only",
+        "  Symptomatic central nervous system (CNS) metastasis",
+        "  Concurrent medical condition which may increase the risk of toxicity",
+        "  Unable to take oral medication"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Objective Response",
+        "  Tumor response was assessed according RECIST criteria: PR=at least 30% reduction in the sum of the LD of all target lesions in reference to the baseline sum LD, CR=Disappearance of all non-target lesions. Objective tumor response was defined as a PR or CR.",
+        "  Time frame: From day of first treatment through Week 25 or at time of discontinuation from study treatment.",
+        "Results 1: ",
+        "  Arm/Group Title: Her2/Neu-amplified Tumor, 70 mg Twice Daily (BID) Dasatinib",
+        "  Arm/Group Description: Participants with a Human epidermal growth factor (Her2/neu)-amplified tumor type (defined as 3+ by immunohistochemistry [IHC] or positive by fluorescent or chromogenic in situ hybridization [FISH or CISH] regardless of estrogen receptor [ER]/progesterone receptor [PgR] status) received orally 70 mg of dasatinib twice daily (BID) for a total daily dose (TDD) of 140 mg.",
+        "  Overall Number of Participants Analyzed: 15",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  0",
+        "Results 2: ",
+        "  Arm/Group Title: Her2/Neu-amplified Tumor, 100 mg BID",
+        "  Arm/Group Description: Participants with a Human epidermal growth factor (Her2/neu)-amplified tumor type (defined as 3+ by immunohistochemistry [IHC] or positive by fluorescent or chromogenic in situ hybridization [FISH or CISH] regardless of estrogen receptor [ER]/progesterone receptor [PgR] status) received orally 100 mg of dasatinib twice daily (BID) for a total daily dose (TDD) of 200 mg.",
+        "  Overall Number of Participants Analyzed: 9",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  1"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 20/70 (28.57%)",
+        "  NAUSEA 2/70 (2.86%)",
+        "  VOMITING 1/70 (1.43%)",
+        "  DIARRHOEA 2/70 (2.86%)",
+        "  ABDOMINAL PAIN 1/70 (1.43%)",
+        "  ABDOMINAL PAIN LOWER 1/70 (1.43%)",
+        "  FATIGUE 2/70 (2.86%)",
+        "  PYREXIA 1/70 (1.43%)",
+        "  OEDEMA PERIPHERAL 1/70 (1.43%)",
+        "  GENERAL PHYSICAL HEALTH DETERIORATION 3/70 (4.29%)",
+        "  PNEUMONIA 1/70 (1.43%)",
+        "  SINUSITIS 1/70 (1.43%)",
+        "  LOBAR PNEUMONIA 1/70 (1.43%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

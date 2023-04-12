@@ -1,0 +1,45 @@
+{
+    "Clinical Trial ID": "NCT03202472",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Diagnostic (Radiofrequency-guided Localization)",
+        "  Patients undergo mammogram or ultrasound for image-guided placement of the radiofrequency tag within 30 days of surgery and then undergo radiofrequency-guided localization during surgery.",
+        "  Implanted Medical Device: Radiofrequency tag",
+        "  Mammography: Undergo mammogram for image-guided placement of radiofrequency tag",
+        "  Questionnaire Administration: Ancillary studies",
+        "  Radiofrequency-Guided Localization: Undergo radiofrequency-guided localization",
+        "  Ultrasonography: Undergo ultrasound for image-guided placement of radiofrequency tag"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Able to give written informed consent to participate in the study",
+        "  Able to read and write English",
+        "  Patients with breast lesions that are non-palpable that require surgical removal",
+        "  Lesions and/or clip targetable with image guidance",
+        "Exclusion Criteria:",
+        "  Multicentric breast cancer",
+        "  Stage IV breast cancer",
+        "  Pregnant or lactating females"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Patients With Successful Placement of the Radiofrequency Tag Under Radiographic Guidance Confirmed by Mammography",
+        "  Patients with successful radiofrequency tag placement",
+        "  Time frame: at time of device placement, confirmed by mammography",
+        "Results 1: ",
+        "  Arm/Group Title: Diagnostic (Radiofrequency-guided Localization)",
+        "  Arm/Group Description: Patients undergo mammogram or ultrasound for image-guided placement of the radiofrequency tag within 30 days of surgery and then undergo radiofrequency-guided localization during surgery.",
+        "  Implanted Medical Device: Radiofrequency tag",
+        "  Mammography: Undergo mammogram for image-guided placement of radiofrequency tag",
+        "  Questionnaire Administration: Ancillary studies",
+        "  Radiofrequency-Guided Localization: Undergo radiofrequency-guided localization",
+        "  Ultrasonography: Undergo ultrasound for image-guided placement of radiofrequency tag",
+        "  Overall Number of Participants Analyzed: 50",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  50 100.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/50 (0.00%)"
+    ]
+}

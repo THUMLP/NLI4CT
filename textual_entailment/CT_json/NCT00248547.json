@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT00248547",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Aprepitant",
+        "  Loading dose of 125 mg capsule once a day for one day, then maintenance dose of 80 mg capsule daily through Day +4 of Bone Marrow Transplant",
+        "INTERVENTION 2: ",
+        "  Placebo (Sugar Pill)",
+        "  Loading dose of 125 mg capsule once a day for one day, then maintenance dose of 80 mg capsule daily through Day +4 of Bone Marrow Transplant"
+    ],
+    "Eligibility": [
+        "Inclusion:",
+        "  18 years of age or greater",
+        "  must be scheduled for an autologous or allogeneic bone marrow or peripheral stem cell transplant",
+        "  Eastern Cooperative Oncology Group(ECOG) performance status < or = 2",
+        "  patients must have signed informed consent",
+        "  must be able to swallow tablets and capsules",
+        "  must be receiving a cyclophosphamide containing regimen.",
+        "  Exclusion:",
+        "  patient has known sensitivity to aprepitant, ondansetron, or dexamethasone",
+        "  patient has received another investigational drug in the past 30 days",
+        "  patient has had emesis or requires antiemetic agents in the 48 hours prior to beginning conditioning therapy",
+        "  patient has taken neurokinin-1 antagonists for 14 days prior to enrollment",
+        "  patient is pregnant, has a positive serum human chorionic gonadotropin(hCg) or is lactating",
+        "  patient has serum creatinine level > or = 2*ULN",
+        "  patient has severe hepatic insufficiency (Child-Pugh score >9)",
+        "  patient drinks > 5 drinks/day for the last year",
+        "  patient with concurrent illness requiring systemic corticosteroid use other than planned dexamethasone during conditioning therapy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Emesis Free Participants During the Study Period.",
+        "  To compare the efficacy of aprepitant plus standard therapy to placebo plus standard therapy in control of nausea and vomiting during conditioning therapy for autologous or allogeneic hematopoietic stem cell transplantation (HSCT) as defined by the number of retch/emesis free days during the study period",
+        "  Time frame: Up to three weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Aprepitant",
+        "  Arm/Group Description: Loading dose of 125 mg capsule once a day for one day, then maintenance dose of 80 mg capsule daily through Day +4 of Bone Marrow Transplant",
+        "  Overall Number of Participants Analyzed: 20",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  13",
+        "Results 2: ",
+        "  Arm/Group Title: Placebo (Sugar Pill)",
+        "  Arm/Group Description: Loading dose of 125 mg capsule once a day for one day, then maintenance dose of 80 mg capsule daily through Day +4 of Bone Marrow Transplant",
+        "  Overall Number of Participants Analyzed: 20",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  5"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 2/20 (10.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/20 (0.00%)"
+    ]
+}

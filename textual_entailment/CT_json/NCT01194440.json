@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT01194440",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Arm I",
+        "  Patients receive zoledronic acid IV at months 1 and 6. Beginning 14 days after first zoledronic acid infusion, patients receive oral letrozole once daily for 12 months in the absence of disease progression or unacceptable toxicity.",
+        "  letrozole: Given orally",
+        "  zoledronic acid: Given IV",
+        "  laboratory biomarker analysis: Correlative studies",
+        "  enzyme-linked immunosorbent assay: Correlative studies",
+        "  mass spectrometry: Correlative studies",
+        "  bone scan: Correlative studies",
+        "  quality-of-life assessment: Ancillary studies",
+        "  questionnaire administration: Ancillary studies",
+        "  pharmacogenomic studies: Correlative studies",
+        "  high performance liquid chromatography: Correlative studies"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria",
+        "  Patients with histologically proven DCIS or stage I-III invasive carcinoma of the breast that is estrogen and/or progesterone receptor positive by immunohistochemical staining who are considering aromatase inhibitor therapy; women may receive the AI on this study as initial adjuvant hormonal treatment or following tamoxifen; patients must have completed any adjuvant chemotherapy; patients may have received preoperative chemotherapy",
+        "  Postmenopausal status, defined as: >= 60 years of age; or < 60 years of age and amenorrheic for >= 12 months prior to day 1 if intact uterus/ovaries; or < 60 years of age, and the last menstrual period 6-12 months prior to day 1, if intact uterus/ovaries and meets biochemical criteria for menopause (FSH and estradiol within institutional standards for postmenopausal status); or < 60 years of age, without a uterus, and meets biochemical criteria for menopause (FSH and estradiol within institutional standards for postmenopausal status); or < 60 years of age and history of bilateral oophorectomy; or prior radiation castration with amenorrhea for at least 6 months; < 60 years of age and taking medication designed to suppress ovarian function and meets biochemical criteria for menopause (estradiol levels within institutional standards for postmenopausal status; women would have had to be taking the drug for at least 30 days prior to day 1)",
+        "  ECOG performance status 0-2",
+        "  Patient is aware of the nature of her diagnosis, understands the study regimen, its requirements, risks, and discomforts, and is able and willing to sign an informed consent form",
+        "  Exclusion Criteria",
+        "  Concurrent use of hormone replacement therapy",
+        "  Concurrent use of tamoxifen; patients taking tamoxifen must discontinue the drug prior to first dose of zoledronic acid",
+        "  Concurrent use of other selective estrogen receptor modulator (SERM) such as raloxifene",
+        "  Concurrent consumption of soy supplements; routine dietary consumption of soy containing foods will be permitted",
+        "  Prior use of an aromatase inhibitor in any setting",
+        "  Current bisphosphonate use (oral or intravenous); prior bisphosphonate users would be eligible as long as the use was > 1 month ago for oral bisphosphonates and/or > 12 months ago for intravenous bisphosphonates, prior to starting study treatment",
+        "  Moderate to severe renal impairment (serum creatinine greater than 2 mg/dL or creatinine clearance less than 50 mL/min)",
+        "  Hypersensitivity to letrozole or zoledronic acid or any of its excipients",
+        "  Concomitant treatment with oral or intravenous corticosteroids",
+        "  Current active dental problems including infection or the teeth or jawbone (maxilla or mandibular); dental or fixture trauma, or a current or prior diagnosis of osteonecrosis of the jaw (ONJ), of exposed bone in the mouth, or of slow healing after dental procedures",
+        "  Recent (within 6 weeks) or planned dental or jaw surgery (e.g. extraction, implants)"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Aromatase Inhibitor Associated Musculoskeletal Symptoms (AIMSS)",
+        "  [Not Specified]",
+        "  Time frame: 12 months",
+        "Results 1: ",
+        "  Arm/Group Title: Arm I",
+        "  Arm/Group Description: Patients receive zoledronic acid IV at months 1 and 6. Beginning 14 days after first zoledronic acid infusion, patients receive oral letrozole once daily for 12 months in the absence of disease progression or unacceptable toxicity.",
+        "  letrozole: Given orally",
+        "  zoledronic acid: Given IV",
+        "  laboratory biomarker analysis: Correlative studies",
+        "  enzyme-linked immunosorbent assay: Correlative studies",
+        "  mass spectrometry: Correlative studies",
+        "  bone scan: Correlative studies",
+        "  quality-of-life assessment: Ancillary studies",
+        "  questionnaire administration: Ancillary studies",
+        "  pharmacogenomic studies: Correlative studies",
+        "  high performance liquid chromatography: Correlative studies",
+        "  Overall Number of Participants Analyzed: 59",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  22  37.3%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/59 (0.00%)"
+    ]
+}

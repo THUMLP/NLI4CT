@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT02964234",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Empowerment",
+        "  Behavior: Empowerment",
+        "  Empowerment: Three group sessions (breast cancer education; communication; volunteerism) 1.5 hours 3 times across 3 weeks",
+        "INTERVENTION 2: ",
+        "  Education",
+        "  Behavior: Education",
+        "  Education: Three group sessions (breast cancer education; diet; physical activity) 1.5 hours 3 times across 3 weeks"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Age 52-75 years old;",
+        "  Identification as Latina/Hispanic/Chicana female;",
+        "  Residence in Pilsen, Little Village, East Side or South Chicago;",
+        "  No history of health volunteerism;",
+        "  No history of breast cancer; and",
+        "  Lack of a mammogram within the last two years",
+        "Exclusion Criteria:",
+        "  Not meeting all inclusion criteria;",
+        "  Women will be excluded if they participated in formative focus groups"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants Who Have Obtained Breast Cancer Screening",
+        "  Receipt of mammogram based on medical records and self report within 6 months of baseline survey (Yes or No)",
+        "  Time frame: 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: Empowerment",
+        "  Arm/Group Description: Behavior: Empowerment",
+        "  Empowerment: Three group sessions (breast cancer education; communication; volunteerism) 1.5 hours 3 times across 3 weeks",
+        "  Overall Number of Participants Analyzed: 54",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  49  90.7%",
+        "Results 2: ",
+        "  Arm/Group Title: Education",
+        "  Arm/Group Description: Behavior: Education",
+        "  Education: Three group sessions (breast cancer education; diet; physical activity) 1.5 hours 3 times across 3 weeks",
+        "  Overall Number of Participants Analyzed: 56",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  29  51.8%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/76 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/69 (0.00%)"
+    ]
+}

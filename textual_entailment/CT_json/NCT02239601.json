@@ -1,0 +1,49 @@
+{
+    "Clinical Trial ID": "NCT02239601",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Physical Therapy",
+        "  4 Physical therapy treatment sessions provided prior to chemotherapy and a home program to continue throughout the trial.",
+        "  Physical Therapy: Physical therapy assessment and treatment for any positive signs of nerve entrapment prior to chemotherapy including nerve gliding exercises, education and splinting. A home program will be provided to continue throughout chemotherapy treatment",
+        "INTERVENTION 2: ",
+        "  Control",
+        "  chemotherapy as usual without physical therapy"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients diagnosed with stage I-III breast cancer undergoing regular docetaxel treatment either docetaxel-cyclophosphamide (TC) or 5FU-epirubicin-cyclophosphamide-docetaxel (FEC-D).",
+        "  Patients that have not had chemotherapy in the past and do not have identified risk factors (listed below in the exclusion criteria).",
+        "  All patients must be able to communicate in english or be able to have a translator present at all appointments.",
+        "Exclusion Criteria:",
+        "  Patients diagnosed with stage IV breast cancer or who have co-morbid conditions that are known to cause peripheral neuropathic symptoms, including previous chemotherapy, exposure to toxins (such as lead), Diabetes, Shingles, B12 deficiency, Alcoholism, Lyme disease, Syphilis, HIV, Hereditary disorders such as Charcot-Marie Tooth.",
+        "  Patients not planned to receive Docetaxel therapy.",
+        "  Patients who cannot communicate in English and unable to bring an interpreter will also be excluded."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With 'Pain' or 'no Pain' as Measured by the Numeric Pain Rating Scale",
+        "  Numeric Pain Rating Scale - pain rating scale 0-10 (0= no pain to 10= most pain imaginable). Reported as percentages of participants with pain (1-10) vs no pain (0)",
+        "  Time frame: Regression models of pain reported over time (mid-docetaxel chemotherapy- 6 months post-chemotherapy). Mid-chemotherapy time frame participants were re-assessed after the 2 round of TC and 4th round of FECD.",
+        "Results 1: ",
+        "  Arm/Group Title: Physical Therapy",
+        "  Arm/Group Description: 4 Physical therapy treatment sessions provided prior to chemotherapy and a home program to continue throughout the trial.",
+        "  Physical Therapy: Physical therapy assessment and treatment for any positive signs of nerve entrapment prior to chemotherapy including nerve gliding exercises, education and splinting. A home program will be provided to continue throughout chemotherapy treatment",
+        "  Overall Number of Participants Analyzed: 22",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  Percentage of Participants with Pain (1-10): 30",
+        "  Percentage of Participants with no pain (0): 70",
+        "Results 2: ",
+        "  Arm/Group Title: Control",
+        "  Arm/Group Description: chemotherapy as usual without physical therapy",
+        "  Overall Number of Participants Analyzed: 26",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  Percentage of Participants with Pain (1-10): 49",
+        "  Percentage of Participants with no pain (0): 51"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/0",
+        "Adverse Events 2:",
+        "  Total: 0/0"
+    ]
+}

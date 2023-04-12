@@ -1,0 +1,55 @@
+{
+    "Clinical Trial ID": "NCT00266110",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Dendritic Cell Vaccine",
+        "  Therapeutic autologous dendritic cells (Dendritic Cell Vaccine) i.d. injection, 20 x 106 DCs given per treatment Trastuzumab infusion Vinorelbine ditartrate infusion",
+        "  sargramostim: All patients will receive Leukine (GM-CSF) at 250 mcg/m2 starting one day after the administration of chemotherapy x 7 days. Patients with neutrophil counts below 1,000/mm3 on day 8 will continue GM-CSF therapy until the neutrophil count is greater than 1,000/mm3.",
+        "  therapeutic autologous dendritic cells: patients will receive (10 x 106) peptide-pulsed DCs given by i.d injection into either axilla or the inguinal region with each peptide given into a separate site. The total dose will be 20 x 106 DCs given per treatment.",
+        "  trastuzumab: Trastuzumab will be infused in the side-port of a freely flowing IV over 90 minutes and at 6mg/kg if the subject has not previously received Trastuzumab, or if it has been more than 30 days since any prior trastuzumab administration."
+    ],
+    "Eligibility": [
+        "PATIENT ELIGIBILITY",
+        "  4.1 Inclusion Criteria 4.1.1 Histologically proven metastatic breast cancer with measurable or evaluable disease per investigator discretion.",
+        "  4.1.2 Patients must be 18 years of age or older. Women of child bearing potential must be practicing barrier or oral contraception for the duration of the study, or documented as surgically sterile or one year post-menopausal.",
+        "  4.1.3 Eastern Cooperative Oncology Group (ECOG) performance status 0-2 (See Appendix A).",
+        "  4.1.5 Cardiac function by multigated acquisition scan (MUGA) with an ejection fraction (EF) > 45% or an echocardiogram that shows normal left ventricle (LV) function.",
+        "  4.1.6 Serum Creatinine < 2.0 mg/dl. 4.1.7 Hepatic transaminases (alanine aminotransferase (ALT) and aspartate aminotransferase (AST)) 3.0 times the upper limit of normal if no liver metastases or 5 times the upper limit of normal if liver metastases are present.",
+        "  4.1.8 Bilirubin no more than 2 times normal.",
+        "  4.1.9 Seronegative for HIV.",
+        "  4.1.10 Negative for Hepatitis B surface antigen.",
+        "  4.1.11 Signed and dated informed consent.",
+        "  4.1.12 HLA A0201+ by DNA genotyping.",
+        "  4.1.13 Absolute neutrophil count greater than 1,500/mm3. Platelet count greater 100,000/mm3 and hemoglobin greater than or equal to 10",
+        "  4.1.14. 3+ expression of HER-2/neu from original pathology (diagnostic) tumor sample by Immunohistochemistry (IHC) or 2+ expression by IHC with gene amplification by fluorescence in situ hybridization (FISH).",
+        "  4.1.15. Patients will be eligible even if they have failed treatment for metastatic breast cancer with trastuzumab and a chemotherapy agent other than vinorelbine or if they have progressed within 12 months of receiving adjuvant chemotherapy using trastuzumab and a taxane.",
+        "  4.2 Exclusion Criteria",
+        "  4.2.1 Patients with any serious medical, cardiac, or psychiatric condition which, in the opinion of the investigator, would make the patient unsuitable for study participation or would impede probable compliance with the protocol.",
+        "  4.2.2 Patients with central nervous system metastases must have stable disease for at least 3 months prior to study entry.",
+        "  4.2.3 Patient is currently taking steroid medications. Systemic steroid treatment is not allowed.",
+        "  4.2.4 Patients that have failed prior therapy with vinorelbine + trastuzumab will not be eligible for therapy.",
+        "  4.2.5 Patient has received hormonal or cytotoxic chemotherapy within 14 days of apheresis and within 28-30 days prior to study treatment."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Response",
+        "  Response: Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), >=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR.",
+        "  Time frame: 5-6 years",
+        "Results 1: ",
+        "  Arm/Group Title: Dendritic Cell Vaccine",
+        "  Arm/Group Description: Therapeutic autologous dendritic cells (Dendritic Cell Vaccine) i.d. injection, 20 x 106 DCs given per treatment Trastuzumab infusion Vinorelbine ditartrate infusion",
+        "  sargramostim: All patients will receive Leukine (GM-CSF) at 250 mcg/m2 starting one day after the administration of chemotherapy x 7 days. Patients with neutrophil counts below 1,000/mm3 on day 8 will continue GM-CSF therapy until the neutrophil count is greater than 1,000/mm3.",
+        "  therapeutic autologous dendritic cells: patients will receive (10 x 106) peptide-pulsed DCs given by i.d injection into either axilla or the inguinal region with each peptide given into a separate site. The total dose will be 20 x 106 DCs given per treatment.",
+        "  trastuzumab: Trastuzumab will be infused in the side-port of a freely flowing IV over 90 minutes and at 6mg/kg if the subject has not previously received Trastuzumab, or if it has been more than 30 days since any prior trastuzumab administration.",
+        "  Overall Number of Participants Analyzed: 17",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  0   0.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 2/17 (11.76%)",
+        "  Nausea * 1/17 (5.88%)",
+        "  Pain - Abdomen NOS * 1/17 (5.88%)",
+        "  Constipation * 1/17 (5.88%)"
+    ]
+}

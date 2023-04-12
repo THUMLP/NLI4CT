@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT03092934",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  LY3295668 Phase 1",
+        "  25 milligrams (mg) LY3295668 twice daily (BID) administered orally in 21-day cycles."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Have received at least 1 but no more than 4 prior systemic therapies",
+        "  Have adequate organ function",
+        "  Have a performance status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) scale",
+        "  Have estimated life expectancy greater than or equal to (  )12 weeks",
+        "  Have fully recovered from radiation therapy or surgery, and are recovering from any acute adverse effects of other cancer therapies",
+        "  Have discontinued all chemotherapy, investigational therapy, molecularly-targeted therapy, and cancer-related hormonal therapy at least 14 days prior, biologic or immunotherapeutic therapy at least 21 days prior, or mitomycin-C or nitrosoureas at least 6 weeks prior",
+        "  Female participants with reproductive potential agree to use 2 forms of highly effective contraception during the study and for the following 3 months",
+        "  Male participants must use a barrier method of contraception during the study and for the following 3 months",
+        "  Phase 1",
+        "  Have evidence of a solid tumor that is locally advanced and/or metastatic (excluding primary brain tumor)",
+        "  Phase 2",
+        "  Have disease measurable by Response Evaluation Criteria in Solid Tumors (RECIST) v.1.1",
+        "  Have evidence of a solid tumor that is locally advanced and/or metastatic, and in:",
+        "  Small Cell Lung Cancer (SCLC), must have failed platinum-containing therapy",
+        "  Breast Cancer, be Estrogen Receptor positive and/or Progesterone Receptor positive, but Human Epidermal Growth Factor Receptor 2 (HER2) negative, and must have failed a hormone therapy and a Cyclin-dependent kinase 4/6 (CDK4/6) inhibitor",
+        "  Triple negative breast cancer (TNBC) and failed standard therapy",
+        "  Squamous cell cancers of the head neck associated with the human papilloma virus (HPV), and have failed standard therapy",
+        "  Other solid tumor type that has been approved by the sponsor",
+        "Exclusion Criteria:",
+        "  Have symptomatic central nervous system (CNS) metastasis (unless asymptomatic and not current receiving corticosteroids) or a primary tumor of the CNS",
+        "  Have a medical condition that precludes participation (swallowing disorder, organ transplant, pregnant or nursing, HIV, active Hepatitis B or C, cardiac disease, history of major surgery in upper gastrointestinal (GI) tract or GI disease, hypokalemia, hypomagnesaemia or hypocalcaemia that cannot be controlled)"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Phase 1: Maximum Tolerated Dose",
+        "  Maximum Tolerated Dose (MTD) was defined as the dose immediately below the dose at which 2/3, 2/6, or 3/9 participants in a cohort experienced a dose limiting toxicity (DLT) during the first 21 days of treatment (Cycle 1) in Phase 1.",
+        "  Time frame: Cycle 1 (21 days)",
+        "Results 1: ",
+        "  Arm/Group Title: LY3295668 Phase 1",
+        "  Arm/Group Description: 25 milligrams (mg) LY3295668 twice daily (BID) administered orally in 21-day cycles.",
+        "  Overall Number of Participants Analyzed: 12",
+        "  Measure Type: Number",
+        "  Unit of Measure: milligram (mg)  25"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 4/9 (44.44%)",
+        "  Pericardial effusion 1/9 (11.11%)",
+        "  Corneal deposits 0/9 (0.00%)",
+        "  Diarrhoea 0/9 (0.00%)",
+        "  Stomatitis 0/9 (0.00%)",
+        "  Mucosal inflammation 0/9 (0.00%)",
+        "  Influenza 1/9 (11.11%)",
+        "  Pneumocystis jirovecii pneumonia 1/9 (11.11%)",
+        "  Pneumonia 1/9 (11.11%)",
+        "  Adenocarcinoma of colon 1/9 (11.11%)",
+        "  Presyncope 1/9 (11.11%)",
+        "  Pleuritic pain 1/9 (11.11%)"
+    ]
+}

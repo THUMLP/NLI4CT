@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT00633750",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Tarceva",
+        "  Following a pre-treatment core breast biopsy, participants are given Tarceva at a dose of 150 mg/day by mouth for 5-14 days. Within 24 hours of their last dose of Tarceva, participants undergo a post-treatment resection of their tumor."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Clinical stage I or II (T1 or T2, N0 or N1) invasive mammary carcinoma",
+        "  Diagnosis may be made by fine needle aspiration cytology or core biopsy",
+        "  A repeat core biopsy is not required for patients who have a paraffin embedded diagnostic core biopsy specimen available for immunohistochemical staining",
+        "Exclusion Criteria:",
+        "  Patients with locally advanced disease who are planning to undergo preoperative neoadjuvant therapy are not eligible*",
+        "  Locally advanced disease includes any of the following:",
+        "  Primary tumor  5 cm (T3)",
+        "  Tumor of any size with direct extension to the chest wall or skin (T4a-c)",
+        "  Inflammatory breast cancer (T4d)",
+        "  Fixed axillary lymph node metastases (N2)",
+        "  Metastasis to ipsilateral internal mammary node (N3) NOTE: *Patients with primary tumors  5 cm (T3) or tumors involving the chest wall or skin who are not candidates for preoperative chemotherapy or who decline preoperative chemotherapy are eligible",
+        "  Measurable residual tumor at the primary site",
+        "  Measurable disease is defined as any mass that can be reproducibly measured by physical examination",
+        "  Planning to undergo surgical treatment with either segmental resection or total mastectomy",
+        "  Patients with a prior history of contralateral breast cancer are eligible if they have no evidence of recurrence of their initial primary breast cancer",
+        "  No locally recurrent breast cancer",
+        "  No evidence of distant metastatic disease (i.e., lung, liver, bone, or brain metastases)",
+        "  Hormone receptor status not specified",
+        "  PATIENT CHARACTERISTICS:",
+        "  Menopausal status not specified",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 0-1",
+        "  ANC  1,000/mm^3",
+        "  Creatinine  1.5 times upper limit of normal (ULN)",
+        "  Total bilirubin  1.5 times ULN",
+        "  Serum glutamic oxaloacetic transminase (SGOT) and serum glutamic pyruvic transminase (SGPT)  1.5 times ULN",
+        "  Must be at least 18 years old",
+        "  Not pregnant or nursing",
+        "  Negative pregnancy test",
+        "  Fertile patients must use effective contraception",
+        "  No serious medical illness that, in the judgement of the treating physician, places the patient at high risk of operative mortality",
+        "  PRIOR CONCURRENT THERAPY:",
+        "  See Disease Characteristics",
+        "  No prior chemotherapy for this primary breast cancer",
+        "  At least 7 days since prior tamoxifen or raloxifene as a preventive agent"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants Experiencing in Situ Anti-tumor Effect of Tarceva",
+        "  In situ anti-tumor effect of Tarceva as measured by a minimum 75% reduction in Ki67 compared to pre-treatment tumor cells in patients with operable breast cancer.",
+        "  Time frame: 5-14 days",
+        "Results 1: ",
+        "  Arm/Group Title: Tarceva",
+        "  Arm/Group Description: Following a pre-treatment core breast biopsy, participants are given Tarceva at a dose of 150 mg/day by mouth for 5-14 days. Within 24 hours of their last dose of Tarceva, participants undergo a post-treatment resection of their tumor.",
+        "  Overall Number of Participants Analyzed: 34",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  8"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/47 (2.13%)"
+    ]
+}

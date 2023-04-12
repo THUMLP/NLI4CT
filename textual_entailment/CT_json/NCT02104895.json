@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT02104895",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Whole Breast Irradiation (WBI)",
+        "  Conventional whole breast irradiation (WBI)",
+        "  Whole breast irradiation (WBI): Conventional whole breast irradiation (WBI)",
+        "INTERVENTION 2: ",
+        "  Partial Breast Irradiation (APBI)",
+        "  Accelerated partial breast irradiation (APBI)",
+        "  Accelerated partial breast irradiation (APBI): Accelerated partial breast irradiation (APBI) using intensity modulated radiotherapy (IMRT)"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Age at presentation >40 y",
+        "  Tumor size <25 mm",
+        "  Wide excision or quadrantectomy with clear margins (>5 mm)",
+        "  Clips placed in tumor bed",
+        "  Full informed consent from patient",
+        "Exclusion Criteria:",
+        "  Cardiac dysfunction",
+        "  Forced expiratory volume in 1 second (FEV1) <1 L/m",
+        "  Extensive intraductal carcinoma",
+        "  Multifocal cancer",
+        "  Psychiatric problems",
+        "  Recurrent breast cancer"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Ipsilateral Breast Tumor Recurrence",
+        "  We defined local relapse (true recurrence) as the reappearance of the breast cancer in the index quadrant and ipsilateral breast tumours as any new breast cancer diagnosed in other quadrants of the same breast. The sum of local relapses and new ipsilateral breast tumours was defined as the ipsilateral breast tumour recurrence (IBTR). Locoregional tumour recurrence also included any recurrence in the ipsilateral axillary, supraclavicular, or internal mammary chain nodal regions.here we report the percentage of participants in each arm who experienced \"Ipsilateral Breast Tumor Recurrence\"",
+        "Time frame: 5-year",
+        "Results 1: ",
+        "  Arm/Group Title: Whole Breast Irradiation (WBI)",
+        "  Arm/Group Description: Conventional whole breast irradiation (WBI)",
+        "  Whole breast irradiation (WBI): Conventional whole breast irradiation (WBI)",
+        "  Overall Number of Participants Analyzed: 260",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  1.4",
+        "Results 2: ",
+        "  Arm/Group Title: Partial Breast Irradiation (APBI)",
+        "  Arm/Group Description: Accelerated partial breast irradiation (APBI)",
+        "  Accelerated partial breast irradiation (APBI): Accelerated partial breast irradiation (APBI) using intensity modulated radiotherapy (IMRT)",
+        "  Overall Number of Participants Analyzed: 260",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  1.5"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/260 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/246 (0.00%)"
+    ]
+}

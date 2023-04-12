@@ -1,0 +1,43 @@
+{
+    "Clinical Trial ID": "NCT00254592",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Chemotherapy With GM-CSF",
+        "  Doxorubicin and Cyclophosphamide (AC) with Granulocyte-macrophage colony-stimulating factor (GM-CSF) (days 4-13) Followed by Weekly Carboplatin/Nab- Paclitaxel"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients must be women with a histologically confirmed diagnosis of breast cancer that is more than 2 cm and/or lymph node positive. Histologic confirmation shall be by either core needle biopsy or incisional biopsy. Punch biopsy is allowed if invasive breast cancer is documented.",
+        "  Patients must meet one of the criteria defined below (indicate one):",
+        "  Selected Stage IIB (T3, N0, M0) or IIIA (T3, N1-2, M0) disease judged primarily unresectable by an experienced breast surgeon; or otherwise deemed - appropriate candidates for neoadjuvant treatment.",
+        "  Stage IIIB (T4, Any N, M0) or (Any T, N3, M0) disease.",
+        "  Physical examination, chest x-ray and any x-rays or scans needed for tumor assessment must be performed within 90 days prior to registration.",
+        "  All patients must have a multiple gated acquisition (MUGA) scan or echocardiogram scan performed within 90 days prior to registration and left ventricular ejection fraction (LVEF) percentage must be greater than the institutional lower limit of normal.",
+        "  Patients must have a serum creatinine and bilirubin  the institutional upper limit of normal, and an serum glutamate oxaloacetate transaminase (SGOT) or serum glutamate pyruvate transaminase (SGPT)  2x the institutional upper limit of normal. These tests must have been performed within 90 days prior to registration.",
+        "  Patients must have an absolute neutrophil count (ANC) of  1,500/\u03bcl and a platelet count of  100,000/\u03bcl. These tests must have been performed within 90 days prior to registration.",
+        "  Patients must have a performance status of 0-2 by Zubrod criteria",
+        "  In calculating days of tests and measurements, the day a test or measurement is done is considered Day 0. Therefore, if a test is done on a Monday, the Monday four weeks later would be considered Day 28. This allows for efficient patient scheduling without exceeding the guidelines. If Day 28 or 42 falls on a weekend or holiday, the limit may be extended to the next working day.",
+        "  All patients must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines.",
+        "Exclusion Criteria:",
+        "  Patients with the clinical diagnosis of congestive heart failure or angina pectoris are NOT eligible.",
+        "  Pregnant or nursing women may not participate due to the possibility of fetal harm or of harm to nursing infants from this treatment regimen. Women of reproductive potential may not participate unless they have agreed to use an effective contraceptive method. A urine pregnancy test is required for women of childbearing potential."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Overall Clinical Response to the Dose Dense Regimen",
+        "  Measure clinical response rates in patients with breast cancer more than 2 cm and/or lymph node positive breast cancer treated with 2- 4 cycles of biweekly doxorubicin, cyclophosphamide with GMCSF (day 4-13) followed by weekly carboplatin/nab-paclitaxel given for 3 weeks, followed by 1 week of rest, for a total of 9-12 doses. (Her-2 positive patients, in addition, will receive Trastuzumab weekly (12-16 doses) and Her-2 negative patients will receive Bevacizumab (6-8 doses) q 2 weeks).",
+        "  Time frame: 3 years",
+        "Results 1: ",
+        "  Arm/Group Title: Chemotherapy With GM-CSF",
+        "  Arm/Group Description: Doxorubicin and Cyclophosphamide (AC) with Granulocyte-macrophage colony-stimulating factor (GM-CSF) (days 4-13) Followed by Weekly Carboplatin/Nab- Paclitaxel",
+        "  Overall Number of Participants Analyzed: 43",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  43 100.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 4/43 (9.30%)",
+        "  Cardio Vascular Disease *1/43 (2.33%)",
+        "  Neutropenic fever  3/43 (6.98%)"
+    ]
+}

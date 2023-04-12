@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT00896454",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Denosumab",
+        "  Participants received denosumab at a dose of 120 mg subcutaneously (SC) every 4 weeks (Q4W) with a loading dose of 120 mg SC on study Days 8 and 15."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Hypercalcemia of Malignancy (HCM) as defined as documented histologically or cytologically confirmed cancer and a corrected serum calcium (CSC) > 12.5 mg/dL (3.1 millimoles /L) at screening by local laboratory",
+        "  Last IV bisphosphonate treatment must be >/= to 7 days and </= to 30 days before the screening corrected serum calcium",
+        "  Adults (>/=18 years)",
+        "  Adequate organ function as defined by the following criteria:",
+        "  serum aspartate aminotransferase (AST) </= 5 x upper limit of normal (ULN)",
+        "  serum alanine aminotransferase (ALT) </= 5 x upper limit of normal",
+        "  serum total bilirubin </= 2 x upper limit of normal",
+        "Exclusion Criteria:",
+        "  Evidence of benign hyperparathyroidism, hyperthyroidism, adrenal insufficiency, vitamin D intoxication, milk alkali syndrome, sarcoidosis, or other granulomatous disease",
+        "  Receiving dialysis for renal failure",
+        "  Treatment with thiazides, calcitonin, mithramycin, or gallium nitrate within their window of expected therapeutic effect (as determined by the physician) prior to the date of the screening CSC",
+        "  Treatment with cinacalcet within 4 weeks prior to the date of the screening CSC",
+        "  Thirty days or less since receiving an investigational product (other than denosumab) or device (ie, does not have marketing authorization; thalidomide use is allowed) in another clinical study",
+        "  Known sensitivity to any of the products to be administered during the study (eg, mammalian derived products)",
+        "  Female subject is pregnant or breast feeding, or planning to become pregnant within 7 months after the end of treatment",
+        "  Female subject of childbearing potential is not willing to use 2 highly effective methods of contraception during treatment and for 7 months after the end of treatment",
+        "  Subject will not be available for follow-up assessment.",
+        "  Any organic or psychiatric disorder that, in the opinion of the investigator, might prevent the subject from completing the study or interfere with the interpretation of the study results"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With a Response Within 10 Days of First Dose of Denosumab",
+        "  Response is defined as corrected serum calcium (CSC)  11.5 mg/dL, within 10 days after the first dose of denosumab. For all CSC values, if albumin was < 4 g/dL, the following formula was used to calculate CSC: CSC = Total serum calcium [mg/dL] + (0.8 x (4 - serum albumin [g/dL]))",
+        "  Time frame: 10 days",
+        "Results 1: ",
+        "  Arm/Group Title: Denosumab",
+        "  Arm/Group Description: Participants received denosumab at a dose of 120 mg subcutaneously (SC) every 4 weeks (Q4W) with a loading dose of 120 mg SC on study Days 8 and 15.",
+        "  Overall Number of Participants Analyzed: 33",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  63.6        (45.1 to 79.6)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 29/33 (87.88%)",
+        "  Anaemia 1/33 (3.03%)",
+        "  Pancytopenia 1/33 (3.03%)",
+        "  Cardiac arrest 1/33 (3.03%)",
+        "  Tachycardia 2/33 (6.06%)",
+        "  Hypercalcaemia of malignancy 1/33 (3.03%)",
+        "  Colitis 1/33 (3.03%)",
+        "  Diarrhoea 2/33 (6.06%)",
+        "  Nausea 1/33 (3.03%)",
+        "  Oesophageal obstruction 1/33 (3.03%)",
+        "  Vomiting 1/33 (3.03%)",
+        "  Pyrexia 1/33 (3.03%)",
+        "  Hepatic failure 1/33 (3.03%)"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Clinical Trial ID": "NCT01766102",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Intra-operative Mammography",
+        "  Intra-operative Specimen Mammography",
+        "  Intra-operative Mammography: The patient's breast specimen will be imagine in the operating room in an intra-operative imaging device - Biovision SN #30042",
+        "INTERVENTION 2: ",
+        "  Standard Mammography",
+        "  Standard Specimen Mammography",
+        "  Standard Mammography: There is not an added device associated with this arm."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Newly diagnosed with a breast abnormality undergoing an excisional biopsy with wire localization or newly diagnosed with invasive breast cancer or ductal carcinoma undergoing a lumpectomy with wire localization",
+        "  Ability to understand and willingness to sign a written informed consent document",
+        "Exclusion Criteria:",
+        "  Recurrent breast cancer",
+        "  Palpable masses not requiring wire localization"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Comparison of Operative Time Savings",
+        "  To compare the overall operative time savings using intra-operative digital mammography compared with standard specimen mammography.",
+        "  Time frame: At the time of the procedure (approximately 1 week after randomization)",
+        "Results 1: ",
+        "  Arm/Group Title: Intra-operative Mammography",
+        "  Arm/Group Description: Intra-operative Specimen Mammography",
+        "  Intra-operative Mammography: The patient's breast specimen will be imagine in the operating room in an intra-operative imaging device - Biovision SN #30042",
+        "  Overall Number of Participants Analyzed: 36",
+        "  Median (Full Range)",
+        "  Unit of Measure: Minutes  Procedure Time: 48.5        (17 to 138)",
+        "  OR Time: 68        (29 to 180)",
+        "Results 2: ",
+        "  Arm/Group Title: Standard Mammography",
+        "  Arm/Group Description: Standard Specimen Mammography",
+        "  Standard Mammography: There is not an added device associated with this arm.",
+        "  Overall Number of Participants Analyzed: 36",
+        "  Median (Full Range)",
+        "  Unit of Measure: Minutes  Procedure Time: 54        (17 to 140)",
+        "  OR Time: 74        (35 to 177)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/0",
+        "Adverse Events 2:",
+        "  Total: 0/0"
+    ]
+}

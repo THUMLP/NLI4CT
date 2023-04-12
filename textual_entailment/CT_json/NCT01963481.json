@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT01963481",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Exemestane and Cyclophosphamide",
+        "  A treatment cycle is defined as 4 weeks:",
+        "  One tablet (25 mg) of exemestane and one tablet (50 mg) of cyclophosphamide given daily by mouth until disease progression or unacceptable adverse events.",
+        "  Exemestane",
+        "Cyclophosphamide"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients must have histologically confirmed breast cancer that is ER positive and/or PR positive, and HER2/neu negative and have disease that is metastatic (stage IV)",
+        "  HER2/neu negative disease determined using commercially available/approved assay in local institutional or reference laboratory, according to American Society of Clinical Oncology (ASCO)/College of American Pathologists (CAP) guidelines (IHC 0-1+ or 2+ with HER2/17 ratio on FISH <= 1.8).",
+        "  ER/PR expression performed by standard immunohistochemical assay and classified as ER and/or PR-positive according to ASCO/CAP guidelines (1-100% expression)",
+        "  Histologic and/or cytologic confirmation of metastatic disease is encouraged whenever feasible, furthermore, if feasible, the biopsy should confirm that the metastatic tumor is ER and/or PR positive and HER2/neu negative. For patients in whom histologic biopsy confirmation and/or assessment of ER/PR/HER2 of metastatic disease is not feasible, it is required that the primary tumor be ER and/or PR-positive and HER2/neu negative.",
+        "  Measurable disease (RECIST 1.1) or non-measurable (assessable) disease",
+        "  Patients must have had progressive disease during at least one line of endocrine therapy for metastatic disease or have recurrent disease while or within 12 months of receiving adjuvant endocrine therapy. Prior treatments accepted include a non-steroidal aromatase inhibitor, tamoxifen, fulvestrant or combinations.",
+        "  Patients taking bisphosphonates for bone disease are permitted to enter the trial, but their bone lesions are not considered to be assessable for response, although they are assessable for progression.",
+        "  Female or male subjects age >= 18 years.",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 0, 1, or 2.",
+        "  Patients must have normal organ and marrow function as defined below:",
+        "  absolute neutrophil count >= 1,200/mcL",
+        "  platelets >= 100,000/mcL",
+        "  hemoglobin >= 9g/dl",
+        "  total bilirubin <= 2 X upper limit of normal (ULN) [unless due to Gilbert's disease]",
+        "  AST(SGOT) <= 2.5 X ULN",
+        "  ALT(SGPT) <= 2.5 X ULN",
+        "  creatinine <= 1.5 X ULN",
+        "  Patients must be able to swallow and tolerate oral medications.",
+        "  Postmenopausal status, defined as 60 years and older, being 45 years and older and having amenorrhea x 12 months or follicle stimulating hormone levels within postmenopausal range, OR having undergone a bilateral oophorectomy.",
+        "  Ability to understand and the willingness to sign a written informed consent document.",
+        "Exclusion Criteria:",
+        "  Patients may not be receiving any other investigational agents.",
+        "  Prior treatment for breast cancer with a steroidal aromatase inhibitor; with the exception of patients who were started on the combination of exemestane with everolimus less than 4 weeks prior to study entry and discontinued everolimus due to poor tolerability.",
+        "  Presence of life threatening metastatic visceral disease (defined as extensive hepatic involvement or symptomatic pulmonary lymphangitic spread) or uncontrolled brain metastases.",
+        "  Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Progression-free Survival (PFS) Rate at 3 Months",
+        "  PFS is defined as the time from first treatment day until objective disease progression or death from any cause. Assessment of disease progression based on Response Evaluation Criteria in Solid Tumor (RESIST) guideline version 1.1 is performed every 12 weeks on study. The percent of participants with PFS at 3 months will be reported.",
+        "  Time frame: 3 months",
+        "Results 1: ",
+        "  Arm/Group Title: Exemestane and Cyclophosphamide",
+        "  Arm/Group Description: A treatment cycle is defined as 4 weeks:",
+        "  One tablet (25 mg) of exemestane and one tablet (50 mg) of cyclophosphamide given daily by mouth until disease progression or unacceptable adverse events.",
+        "  Exemestane",
+        "  Cyclophosphamide",
+        "  Overall Number of Participants Analyzed: 23",
+        "  Measure Type: Number",
+        "  Unit of Measure: percent of participants  50.1        (33.0 to 76.0)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 10/23 (43.48%)",
+        "  pulmonary embolism  10/23 (43.48%)"
+    ]
+}

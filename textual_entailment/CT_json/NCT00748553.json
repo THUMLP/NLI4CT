@@ -1,0 +1,49 @@
+{
+    "Clinical Trial ID": "NCT00748553",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Phase 1",
+        "  Azacitidine (Vidaza): 50mg/m2, 75mg/m2 or 100mg/m2 daily for 5 days for each 4-week cycle",
+        "  Nab-paclitaxel (Abraxane): 100mg/m2 weekly for 3 weeks of each 4-week cycle"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  For phase I, any solid tumors, including lymphoma, that progressed or were stable as best response on at least one previous therapy and are evaluable.",
+        "  For phase II, pathologically confirmed breast cancer, measurable disease, no prior treatments for recurrent or metastatic breast cancer.",
+        "  Her-2/neu negative (Phase II)",
+        "  Negative pregnancy test for female subjects",
+        "  Women of childbearing potential should be advised to avoid becoming pregnant and men should be advised to not father a child while receiving treatment with azacitidine or nab-paclitaxel. investigator.",
+        "  Male or female for phase I and female for phase II, >19 years of age and any race.",
+        "Exclusion Criteria:",
+        "  Major surgery, radiotherapy, chemotherapy or investigational agents within 4 weeks of treatment day 1",
+        "  Known brain metastases",
+        "  Prior taxanes (except for adjuvant therapy more than 6 months prior to treatment day 1) (phase II)",
+        "  Active infection requiring antibiotic therapy",
+        "  History of allergy or hypersensitivity to nab-paclitaxel, albumin or a taxane",
+        "  Grade 2 or greater motor or sensory neuropathy",
+        "  Prior cytotoxic chemotherapy for recurrent or metastatic breast cancer (phase II portion)",
+        "  Uncontrolled hypertension, arrhythmia, congestive heart failure or angina. Patients who have had a myocardial infarction or cardiac surgery should be at least 6 months from the event and free of active symptoms.",
+        "  Known or suspected hypersensitivity to azacitidine or mannitol",
+        "  Pregnant or breast feeding",
+        "  Patients with advanced malignant hepatic tumors",
+        "  Malignancy other than breast carcinoma (phase II)",
+        "  Known HIV infection or chronic hepatitis B or C"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Phase I: Percentage of Participants Responding to Treatment",
+        "  Azacitidine is set at 75mg/m2 and Nab-paclitaxel is set at100mg/m2 based on the number of participants responding to treatment as measured per RECIST v1 criteria.",
+        "  Time frame: 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: Phase 1",
+        "  Arm/Group Description: Azacitidine (Vidaza): 50mg/m2, 75mg/m2 or 100mg/m2 daily for 5 days for each 4-week cycle",
+        "  Nab-paclitaxel (Abraxane): 100mg/m2 weekly for 3 weeks of each 4-week cycle",
+        "  Overall Number of Participants Analyzed: 13",
+        "  Measure Type: Number",
+        "  Unit of Measure: percent of participants with response  61.5        (35 to 87.95)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/30 (0.00%)"
+    ]
+}

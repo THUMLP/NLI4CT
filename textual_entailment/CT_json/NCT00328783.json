@@ -1,0 +1,40 @@
+{
+    "Clinical Trial ID": "NCT00328783",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Active Breathing Coordinator",
+        "  Patients breathe through the ABC device",
+        "  Active Breathing Coordinator (ABC) : The generated dose distributions from the free-breathing versus ABC plans will be compared to assess the volume of normal tissue, as well as target volume irradiated, utilizing dose-volume histograms."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Requiring adjuvant or post mastectomy radiation therapy with tangential fields or 3-fields",
+        "  Adequate pulmonary function",
+        "  Presence of 5 cc of the heart or liver with the simulation fields",
+        "  Karnofsky Performance Status (KPS) equal to or greater than 70",
+        "Exclusion Criteria:",
+        "  Pregnant women",
+        "  Patients who have had previous ipsilateral breast or thoracic radiation therapy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Dosimetric Evaluation Magnitude of Reduction in Irradiated Normal Tissues",
+        "  To evaluate the magnitude of reduction in irradiated normal tissues (heart and lung) when using the Active Breathing Coordinator (ABC) in breast patients, as compared to standard, free-breathing.",
+        "  The generated dose distributions from the free-breathing vs. ABC plans will be compared to assess the volume of normal tissue, as well as target volume irradiated, utilizing dose-volume histograms. Specifically, for the heart, the volume receiving 55 and 40 Gy will be evaluated; for the liver the volume receiving 50 and 36 Gy, and for the lung, the volume receiving 20 Gy. For the contralateral breast the volume receiving 20 Gy, 30 Gy and 50 Gy will be evaluated. Patients will be treated with the ABC device if there is at least 5 % relative reduction in the volume of a normal tissue irradiated to prescription dose.",
+        "  Time frame: At time of radiation",
+        "Results 1: ",
+        "  Arm/Group Title: Active Breathing Coordinator",
+        "  Arm/Group Description: Patients breathe through the ABC device",
+        "  Active Breathing Coordinator (ABC) : The generated dose distributions from the free-breathing versus ABC plans will be compared to assess the volume of normal tissue, as well as target volume irradiated, utilizing dose-volume histograms.",
+        "  Overall Number of Participants Analyzed: 86",
+        "  Mean (95% Confidence Interval)",
+        "  Unit of Measure: Gy  Free breathing (heart): 3.0        (2.6 to 3.3)",
+        "  ABC (heart): 1.1        (0.9 to 1.3)",
+        "  Free breathing (lung): 6.0        (5.3 to 6.8)",
+        "  ABC (lung): 5.4        (4.9 to 5.9)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/0"
+    ]
+}

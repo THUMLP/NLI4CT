@@ -1,0 +1,47 @@
+{
+    "Clinical Trial ID": "NCT02002533",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  All Participants",
+        "  All people that were enrolled in the study regardless of intervention assigned."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Newly diagnosed breast cancer (stage I, II, III)",
+        "  Be receiving chemotherapy in either weekly, 2-week or 3-week cycles and have at least 6 weeks of chemotherapy treatment remaining; patients are eligible any time before chemotherapy cycle 3 if on a 2- or 3-week cycle, or cycle 4 if on a 1-week cycle; (Note: use of biologics [e.g., Herceptin (trastuzumab)] is permitted)",
+        "  For patients on a weekly regimen, there should be at least 3 dosages of chemotherapy remaining",
+        "  For patients on either a 2 week or 3 week cycle, there should be at least 2 dosages of chemotherapy remaining",
+        "  Patients will not be dropped from the study if their chemotherapy is discontinued after they are enrolled",
+        "  Report sleep disturbance of 8 (sum total of all 7 items) or greater on the Insomnia Severity Index",
+        "  (Note: this measure will be repeated again at baseline assessment)",
+        "  Report sleep problems that began or got worse with the diagnosis of cancer or with chemotherapy; (did your sleep problems begin or get worse with the diagnosis of cancer or with chemotherapy?)",
+        "  Be able to speak and read English",
+        "  Patients can take sleep aids (e.g., hypnotics and sedatives) for insomnia if they use sleep aids as needed; patients taking sleep aids every night are excluded; use of melatonin every night is permitted and these patients are not excluded",
+        "  Be able and willing to wear an Actiwatch for the entire 24 hours of each day they are scheduled to wear it",
+        "Exclusion Criteria:",
+        "  Have diagnosis of breast cancer stage IV",
+        "  Have sleep problems that began before diagnosis and have not changed since diagnosis",
+        "  Self-report or have a medical record of an unstable comorbid medical or psychiatric condition that would make it unsafe or impossible to adhere to the study protocol",
+        "  Have a clinical diagnosis of sleep apnea or restless leg syndrome",
+        "  Be unable or unwilling to discontinue anxiolytic medication within 4 hours of intervention sessions",
+        "  Take medication for sleep (e.g., hypnotics and sedatives) every night; melatonin is permitted",
+        "  Patients who are shift workers are excluded; shift worker is defined as someone who has irregular work and sleep hours (such as working a non-traditional schedule: e.g., 4pm-midnight or 10pm-6am; a rotating schedule e.g., alternating between day and night shifts, or starting work between 4am and 7am)",
+        "  Have an implanted device for heart failure (e.g., pacemaker, defibrillator, left ventricular assist device, etc.)"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Eligible Patients Consented",
+        "  Will be evaluated by calculating the specific percentage (with 95% confidence interval) of the total number of participants approached that then consented and enrolled in the study.",
+        "  Time frame: baseline",
+        "Results 1: ",
+        "  Arm/Group Title: All Participants",
+        "  Arm/Group Description: All people that were enrolled in the study regardless of intervention assigned.",
+        "  Overall Number of Participants Analyzed: 92",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  77.17        (67.61 to 84.55)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/34 (0.00%)"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Clinical Trial ID": "NCT02550210",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Breast Cancer Locator (BCL)",
+        "  The Breast Cancer Locator (BCL) uses 3D printing to create a bra-like plastic form that matches the breast surface when the patient is in the supine MRI (and surgical) position. This locator will be constructed pre-operatively, sterilized and provided to the surgeon at the time of the procedure.",
+        "  Breast Cancer Locator (BCL): This locator is constructed pre-operatively, sterilized and provided to the surgeon at the time of the procedure. The outline of the breast cancer on the breast surface at the point where the cancer is closest to the skin is built into the locator so that the surgeon can simply apply the locator to the patient's breast and trace the tumor outline on the skin."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Age greater than or equal to 18 years",
+        "  Histologic diagnosis of palpable invasive breast cancer or ductal carcinoma in situ",
+        "  Patient desire to undergo breast surgery",
+        "  Ability to voluntarily provide informed consent to participate prior to any study-related assessments/procedures being conducted",
+        "  The cancer enhances on breast MRI imaging.",
+        "Exclusion Criteria:",
+        "  Absolute contraindication to MRI, including presence of implanted electrical device (pacemaker or neurostimulator), aneurysm clip, or metallic foreign body in or near eyes",
+        "  Severe claustrophobia",
+        "  Contraindication to use of gadolinium-based intravenous contrast, including life-threatening allergy or compromised renal function (creatinine > 2.0)",
+        "  History of median sternotomy",
+        "  Pregnancy. Patient attestation that they are not pregnant will be acceptable as per standard policy for MRIs at DHMC."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  The Distance Measured by Pathology From the Tumor Edge to the Center of the Ink Spots, as Marked by the Black Inked Pins.",
+        "  Five measurements will be made per patient and the mean difference in distance will be derived between the palpated and the co-registered supine MRI-optical scan image predicted tumor edges. The BCL will be considered accurate if all 5 measurements are > 0 cm from the tumor edge.",
+        "  Time frame: 30 Days",
+        "Results 1: ",
+        "  Arm/Group Title: Breast Cancer Locator (BCL)",
+        "  Arm/Group Description: The Breast Cancer Locator (BCL) uses 3D printing to create a bra-like plastic form that matches the breast surface when the patient is in the supine MRI (and surgical) position. This locator will be constructed pre-operatively, sterilized and provided to the surgeon at the time of the procedure.",
+        "  Breast Cancer Locator (BCL): This locator is constructed pre-operatively, sterilized and provided to the surgeon at the time of the procedure. The outline of the breast cancer on the breast surface at the point where the cancer is closest to the skin is built into the locator so that the surgeon can simply apply the locator to the patient's breast and trace the tumor outline on the skin.",
+        "  Overall Number of Participants Analyzed: 18",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: cm  1.7         (1.2)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/23 (0.00%)"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT01262027",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Dovitinib",
+        "  Dovitinib 500 mg single oral dose for 5 consecutive days, followed by a 2-day rest period (5 days on/2 days off schedule) for every 28 day cycle."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients have histological confirmation of breast carcinoma with a clinical diagnosis of IBC based on presence of inflammatory changes in the involved breast, including diffuse erythema and edema (peau d orange), with or without an underlying palpable mass involving the majority of the skin of the breast. Pathological evidence of dermal lymphatic invasion should be noted but is not required for diagnosis.",
+        "  Patients have stage IV disease with local or distant relapse",
+        "  Patients have negative HER2 expression by IHC (defined as 0 or1+), or fluorescence in situ hybridization (FISH). If HER2 is 2+, negative HER2 expression must be confirmed by FISH.",
+        "  Patients are able to swallow and retain oral medication.",
+        "  Patients have Eastern Cooperative Oncology Group (ECOG) performance status 0-2.",
+        "  Patients have received two or more standard chemotherapies for metastatic disease and have relapsed.",
+        "  Patients have ability and willingness to sign written informed consent.",
+        "  Patients are 18 years of age or older.",
+        "  Female patients of childbearing potential (A female not free from menses > 2 years or not surgically sterilized) must be willing to use highly effective contraception to prevent pregnancy or agree to abstain from heterosexual activity throughout the study. Highly effective contraception, defined as male condom with spermicide, diaphragm with spermicide, intra-uterine device. Highly effective contraception must be used by both sexes during the study and must be continued for 8 weeks after the end of study treatment. Oral, implantable, or injectable contraceptives may be affected by cytochrome P450 interactions, and are therefore not considered effective for this study.",
+        "  Female patients of childbearing potential must have negative serum pregnancy test </=14 days prior to starting study treatment.",
+        "  If Patients have been treated with anti-vascular endothelial growth factor (VEGF) agents, such as Bevacizumab, last dose must be > 4 weeks.",
+        "  Patients have biopsy tissue of the metastatic disease (including chest wall or regional nodes) available (paraffin blocks or up to 20 unstained slides), if no biopsy tissue available, a biopsy (or thoracentesis if patient has pleural effusion only) of the metastatic disease will be performed to confirm the diagnoses.",
+        "  Serum total bilirubin must be within Upper Limited Normal (T. Bilirubin upper limit of normal (ULN)=1.0 mg/dl)",
+        "  AST and ALT must be < 2.5 x ULN(with or without liver metastases).",
+        "Exclusion Criteria:",
+        "  Patients are receiving concurrent anti-cancer therapy (chemotherapy, immunotherapy, radiation therapy and biological therapy) while taking study medication.",
+        "  Cirrhosis of liver, or known hepatitis B or C infection have hepatic impairment Child-Pugh Score of B or worse.",
+        "  Absolute neutrophil count (ANC) < 1.5",
+        "  Patients have an active infection and require IV or oral antibiotics.",
+        "  Impaired cardiac function or clinically significant cardiac diseases, including any of the following: a) History or presence of serious uncontrolled ventricular arrhythmias or presence of atrial fibrillation; b) Clinically significant resting bradycardia (< 50 beats per minute); c) left ventricular ejection fraction (LVEF) assessed by 2-D echocardiogram (ECHO) < 50% or lower limit of normal (which ever is higher) or multiple gated acquisition scan (MUGA) < 45% or lower limit of normal (which ever is higher). d) Any of the following within 6 months prior to study entry: myocardial infarction (MI), severe/unstable angina, Coronary Artery Bypass Graft (CABG), Congestive Heart Failure (CHF), Cerebrovascular Accident (CVA), Transient Ischemic Attack (TIA), Pulmonary Embolism (PE); e) Uncontrolled hypertension defined by an SBP>150 and/or a diastolic blood pressure (DBP)>100 mm Hg with or without anti-hypertensive medication.",
+        "  History of gastrointestinal disorders (medical disorders or extensive surgery) which may interfere with the absorption of the study drug.",
+        "  Patients have a concurrent disease or condition that would make them inappropriate for study participation, or any serious medical disorder that would interfere with patients safety.",
+        "  Patients with only locally or regionally confined disease without evidence of metastatic disease."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Overall Response (Complete Response [CR], Partial Response [PR] or Stable Disease [SD]) of Participants",
+        "  Number of participants experiencing CR, PR or SD as defined by Response Evaluation Criteria In Solid Tumors (RECIST). Response is anyone who experiences SD, CR or PR in first 6 months. CR: Disappearance clinical evidence active tumor by evaluation, mammogram & ultrasound. No symptoms or evidence of residual invasive tumor, including no residual tumor in axillary lymph nodes. PR: 50%/> decrease for minimum 4 weeks in measurable lesion determined by product of perpendicular diameters of lesion. Every lesion should not regress to qualify as PR; however, if lesion progresses or if new lesions appear, response cannot be classified as PR. Minor Response [MR]: Decreases in tumor masses insufficient to qualify as partial remission, i.e. <50%. SD: Between MR & PD. PD: Increase 25% measured lesion from baseline. New lesions constitutes increasing disease. Mixed responses consid",
+        "  Time frame: 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: Dovitinib",
+        "  Arm/Group Description: Dovitinib 500 mg single oral dose for 5 consecutive days, followed by a 2-day rest period (5 days on/2 days off schedule) for every 28 day cycle.",
+        "  Overall Number of Participants Analyzed: 19",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Complete Response (CR): 0",
+        "  Partial Response (PR): 0",
+        "  Stable Disease (SD): 1"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/22 (4.55%)",
+        "  Blood bilirubin increased 1/22 (4.55%)",
+        "  Alkaline phosphatase increased 1/22 (4.55%)"
+    ]
+}

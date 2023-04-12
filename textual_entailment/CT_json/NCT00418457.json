@@ -1,0 +1,56 @@
+{
+    "Clinical Trial ID": "NCT00418457",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  General Anesthesia and Opioid",
+        "  General anesthesia followed by opioid administration",
+        "  General anesthesia and opioids: General anesthesia, usually with sevoflurane, and opioid analgesia",
+        "INTERVENTION 2: ",
+        "  Regional Analgesia and Propofol",
+        "  Regional anesthesia and analgesia (either epidural or paravertebral) combined with propofol",
+        "  Regional analgesia and propofol: Regional anesthesia and analgesia (either epidural or paravertebral), combined with deep sedation or general anesthesia"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Primary breast cancer without known extension beyond the breast and axillary nodes (i.e. believed to be Tumor Stage 1-3, Nodes 0-2)",
+        "  Scheduled for unilateral or bilateral mastectomy with or without implant (isolated \"lumpectomy\" will not qualify)",
+        "  Isolated \"lumpectomy\" with axillary node dissection (anticipated removal of at least five nodes)",
+        "  Written informed consent, including willingness to be randomized to morphine or regional analgesia",
+        "Exclusion Criteria:",
+        "  Previous surgery for breast cancer (except diagnostic biopsies)",
+        "  Inflammatory breast cancer",
+        "  Age < 18 or > 85 years old",
+        "  Scheduled free flap reconstruction",
+        "  ASA Physical Status  4",
+        "  Any contraindication to epidural or paravertebral anesthesia and analgesia (including coagulopathy, abnormal anatomy)",
+        "  Any contraindication to midazolam, propofol, sevoflurane, fentanyl, or morphine",
+        "  Other cancer not believed by the attending surgeon to be in long-term remission",
+        "  Systemic disease believed by the attending surgeon to present  25% two-year mortality"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants Who Had Breast Cancer Recurrence After Breast Cancer Surgery",
+        "  time to breast cancer recurrence from the end of surgery.",
+        "  Time frame: up to 10 years",
+        "Results 1: ",
+        "  Arm/Group Title: General Anesthesia and Opioid",
+        "  Arm/Group Description: General anesthesia followed by opioid administration",
+        "  General anesthesia and opioids: General anesthesia, usually with sevoflurane, and opioid analgesia",
+        "  Overall Number of Participants Analyzed: 1065",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  111",
+        "Results 2: ",
+        "  Arm/Group Title: Regional Analgesia and Propofol",
+        "  Arm/Group Description: Regional anesthesia and analgesia (either epidural or paravertebral) combined with propofol",
+        "  Regional analgesia and propofol: Regional anesthesia and analgesia (either epidural or paravertebral), combined with deep sedation or general anesthesia",
+        "  Overall Number of Participants Analyzed: 1043",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  102"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/1065 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/1043 (0.00%)"
+    ]
+}

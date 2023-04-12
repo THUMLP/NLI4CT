@@ -1,0 +1,34 @@
+{
+    "Clinical Trial ID": "NCT00232479",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Group 1",
+        "  patients received dose dense herceptin, carboplatin and taxotere"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  HER-2 overexpressing breast cancer",
+        "  Clinical stage 2-3B",
+        "  Normal ejection fraction",
+        "Exclusion Criteria:",
+        "  Metastatic disease",
+        "  Low ejection fraction"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Patients With Pathologic Complete Response (pCR)",
+        "  pCR is defined as the absence of invasive tumor from the surgical specimen of breast and axilla which is obtained after the chemotherapy regimen has been delivered.",
+        "  Time frame: determined at the time of surgery which is approximately 16 weeks from the beginning of treatment",
+        "Results 1: ",
+        "  Arm/Group Title: Group 1",
+        "  Arm/Group Description: patients received dose dense herceptin, carboplatin and taxotere",
+        "  Overall Number of Participants Analyzed: 44",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  19"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/46 (2.17%)",
+        "  hospitalization [1]1/46 (2.17%)"
+    ]
+}

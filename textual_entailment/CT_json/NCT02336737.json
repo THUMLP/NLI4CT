@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT02336737",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  SiennaXP Injection",
+        "  Single injection of SiennaXP in addition to comparator single dose of radioisotope (Technetium Tc99m Sulfur Colloid) and single dose of isosulfan blue dye.",
+        "  Lymph node localization using the SentiMag handheld intraoperative localization system in addition to localization with standard of care handheld gamma probe.",
+        "  SiennaXP: Sub-cutaneous injection of SiennaXP magnetic marker, followed by lymph node localization using the SentiMag handheld magnetic probe",
+        "  Technetium Tc99m Sulfur Colloid: Injection of a single dose of radioisotope (Technetium Tc99m Sulfur Colloid)",
+        "Isosulfan blue dye: Injection of a single dose of isosulfan blue dye"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Subjects with a diagnosis of primary breast cancer or subjects with pure ductal carcinoma in situ (DCIS).",
+        "  Subjects scheduled for surgical intervention, with a sentinel lymph node biopsy procedure being a part of the surgical plan.",
+        "  Subjects aged 18 years or more at the time of consent.",
+        "  Subjects with an ECOG (Eastern Cooperative Oncology Group) performance status of Grade 0 - 2.",
+        "  Subject has a clinical negative node status (i.e. T0-3, N0, M0).",
+        "Exclusion Criteria:",
+        "  The subject is pregnant or lactating.",
+        "  The subject has clinical or radiological evidence of metastatic cancer including palpably abnormal or enlarged lymph nodes.",
+        "  The subject has a known hypersensitivity to Isosulfan Blue Dye.",
+        "  The subject has participated in another investigational drug study within 30 days of scheduled surgery.",
+        "  Subject has had either a) previous axilla surgery, b) reduction mammoplasty, or c) lymphatic function that is impaired in the surgeon's judgment.",
+        "  Subject has had preoperative radiation therapy to the affected breast or axilla.",
+        "  Subject has received a Feraheme\u00ae (ferumoxytol) Injection within the past 6 months.",
+        "  Subject has intolerance or hypersensitivity to iron or dextran compounds or to SiennaXP.",
+        "  Subject has an iron overload disease.",
+        "  Subject has pacemaker or other implantable device in the chest wall."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Detected Lymph Nodes",
+        "  The proportion of lymph nodes detected intraoperatively by SentiMag and SiennaXP in relation the proportion of lymph nodes detected by the combination of Technetium Sulfur Colloid and Isosulfan blue dye",
+        "  Time frame: During surgical procedure <1 hour",
+        "Results 1: ",
+        "  Arm/Group Title: SiennaXP Injection",
+        "  Arm/Group Description: Single injection of SiennaXP in addition to comparator single dose of radioisotope (Technetium Tc99m Sulfur Colloid) and single dose of isosulfan blue dye.",
+        "  Lymph node localization using the SentiMag handheld intraoperative localization system in addition to localization with standard of care handheld gamma probe.",
+        "  SiennaXP: Sub-cutaneous injection of SiennaXP magnetic marker, followed by lymph node localization using the SentiMag handheld magnetic probe",
+        "  Technetium Tc99m Sulfur Colloid: Injection of a single dose of radioisotope (Technetium Tc99m Sulfur Colloid)",
+        "Isosulfan blue dye: Injection of a single dose of isosulfan blue dye",
+        "  Overall Number of Participants Analyzed: 146",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  145  99.3%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/147 (0.00%)"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT00290745",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Tamoxifen or Letrozole",
+        "  tamoxifen or letrozole work in treating women with ductal carcinoma in situ",
+        "  letrozole",
+        "  tamoxifen citrate",
+        "  conventional surgery",
+        "  neoadjuvant therapy"
+    ],
+    "Eligibility": [
+        "DISEASE CHARACTERISTICS:",
+        "  Diagnosis of ductal carcinoma in situ (DCIS) on core biopsy",
+        "  No evidence of contralateral breast disease or palpable masses on breast examination",
+        "  No presence or suspicion of invasive cancer, including contralateral invasive cancer, on core biopsy and MRI",
+        "  No documented ipsilateral axillary adenopathy",
+        "  Planning to undergo lumpectomy or mastectomy",
+        "  Estrogen receptor (ER)-positive tumor by immunohistochemistry",
+        "  PATIENT CHARACTERISTICS:",
+        "  Female patient",
+        "  Premenopausal or postmenopausal",
+        "  Postmenopausal is defined by any of the following:",
+        "  No spontaneous menses for >= 1 year",
+        "  Bilateral oophorectomy",
+        "  Radiation castration and amenorrheic for >= 3 months",
+        "  Follicle-stimulating hormone (FSH) > 20 IU/L AND off all hormonal therapy (e.g., hormone replacement therapy or birth control pills) for >= 1 month",
+        "  Not pregnant or nursing",
+        "  Negative pregnancy test",
+        "  Fertile patients must use effective contraception",
+        "  No co-morbidities contraindicating the use of tamoxifen, including any of the following:",
+        "  Prior history of thrombotic events",
+        "  History of hypercoagulable state",
+        "  History of endometrial hyperplasia",
+        "  Abnormal vaginal bleeding",
+        "  No history of contrast dye-related allergies/reactions",
+        "  No history of metal-containing prostheses or implants",
+        "  PRIOR CONCURRENT THERAPY:",
+        "  See Disease Characteristics"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Median Change in 6-month Tumor Volume Compared to Baseline Using Mammography",
+        "  Change in size of Ductal Carcinoma in situ (DCIS) for participants on hormonal therapy, as determined by mammography are determined by (1) largest diameter of tumor, as visualized on mammography (2) extent of disease on mammography (3) quantification of mammographically-detected change from baseline to 6-month and used to generate the change in tumor volume of mammographic extent of disease from baseline. Since values were not normally distributed, the median change was calculated, and Wilcoxon sign rank tests were used to evaluate the significance of these changes",
+        "  Time frame: Baseline and 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: Tamoxifen or Letrozole",
+        "  Arm/Group Description: tamoxifen or letrozole work in treating women with ductal carcinoma in situ",
+        "  letrozole",
+        "  tamoxifen citrate",
+        "  conventional surgery",
+        "  neoadjuvant therapy",
+        "  Overall Number of Participants Analyzed: 54",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: change in tumor volume (mm)  -5.0        (-10.4 to 0.4)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/0"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT00365599",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Vorinostat and Tamoxifen",
+        "  Vorinostat and Tamoxifen as outlined in Intervention Descriptions"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients must have cytologically/histologically documented locally advanced or metastatic breast cancer with either:",
+        "  Progression on treatment with any aromatase inhibitor for metastatic disease;",
+        "  Recurrence while on adjuvant aromatase inhibitors or within 12 months of completion;",
+        "  Recurrence after having completed adjuvant tamoxifen for at least 12 months;",
+        "  Patient who are not candidates for or are intolerant of aromatase inhibitor treatment;",
+        "  Patients are allowed (but not required) to have one prior chemotherapy regimen for metastatic disease.",
+        "  Tumors must express estrogen or progesterone receptor.",
+        "  Patients are eligible regardless of the menopausal status.",
+        "  Age > 18 years old",
+        "  Patients must have Eastern Cooperative Oncology Group (ECOG) performance status 0-2.",
+        "  Patients must be able to give informed consent and able to follow guidelines given in the study.",
+        "  Patients must have acceptable organ function, as defined by the following laboratory parameters: white blood count (WBC) >3.0 x 10^9/L; absolute neutrophil count (ANC) >1.5 x 10^9/L; hemoglobin (Hgb) >10.0g/dL; platelets (PLT) >100 x 10^9/L, Bilirubin < 2.0 mg/dl, aspartate aminotransferase/alanine aminotransferase (AST/ALT) < 2.5 X upper limit of normal (ULN), Creatinine <1.8 mg/dl (Creatinine clearance >60 ml/min).",
+        "  Women of childbearing age must have a negative pregnancy test. All patients of reproductive potential must use an effective method of contraception during the study and 6 months following termination of treatment. (Not applicable to patients with bilateral oophorectomy and/or hysterectomy or to female patients who are older than 50 years and have not had a menstrual cycle in more than one year.",
+        "  Patients must have measurable disease by RECIST criteria by staging studies performed within 30 days of enrollment. For patients with bone only disease: For this protocol isolated bone lesions can be classified as target lesions if they are measurable by MRI at screening and must be followed by MRI.",
+        "  Both men and women of all races and ethnic groups are eligible for this trial.",
+        "Exclusion Criteria:",
+        "  Patients must not have received tamoxifen for metastatic disease.",
+        "  Patients must not have evidence of significant active infection (e.g., pneumonia, cellulitis, wound abscess, etc.) at time of study entry.",
+        "  Patients must be disease-free of prior invasive malignancies for > 5 years with the exception of: curatively-treated basal cell or squamous cell carcinoma of the skin, carcinoma in situ of the cervix.",
+        "  Pregnant and breast-feeding women are excluded from the study because effects on the fetus are unknown and there may be a risk of increased fetal wastage.",
+        "  Patients with uncontrolled central nervous system (CNS) metastasis or a history of seizures are excluded. Patients with stable CNS metastasis (either surgically resected, treated with gamma knife or stable for 3 months following whole brain radiation therapy [WBRT] are eligible). Patients with stable brain metastases will need an MRI within 4 weeks prior to start of therapy.",
+        "  Patients may not be receiving any other investigational agents and must have stopped all other histone deacetylase inhibitors (including Valproic acid) or other hormonal therapies.",
+        "  Patients must have discontinued their prior therapies for breast cancer and radiation therapy for a minimum of 3 weeks, patient is excluded if radiation therapy was given to a single measurable lesion and the disease is otherwise not measurable.",
+        "  Patients are excluded if they have any known hypersensitivity reaction to tamoxifen.",
+        "  Patient with a history of blood clots are not eligible.",
+        "  Women who have abnormal vaginal bleeding and/or endometrial hyperplasia or cancer are not eligible.",
+        "  Patients with evidence of visceral crisis are not eligible for this study."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Objective Response (OR)",
+        "  The Objective Response Rate. Response and progression were evaluated in this study using the new international criteria proposed by the Response Evaluation Criteria in Solid Tumors (RECIST). Changes in only the largest diameter (unidimensional measurement) of the tumor lesions are used in the RECIST criteria. For the purposes of this study, patients were evaluated for response every 8 weeks. In addition to a baseline scan, confirmatory scans were also obtained  4 weeks following initial documentation of objective response.",
+        "  Time frame: 24 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Vorinostat and Tamoxifen",
+        "  Arm/Group Description: Vorinostat and Tamoxifen as outlined in Intervention Descriptions",
+        "  Overall Number of Participants Analyzed: 43",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  8"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 4/43 (9.30%)",
+        "  Hemoglobin  [1]1/43 (2.33%)",
+        "  Hemorrhage/Bleeding  [2]1/43 (2.33%)",
+        "  Neutrophils/granulocytes (ANC/AGC)  [3]1/43 (2.33%)",
+        "  Platelets  [4]1/43 (2.33%)",
+        "  Anorexia  [5]1/43 (2.33%)",
+        "  Sodium, serum-low (hyponatremia)  [1]1/43 (2.33%)",
+        "  Thrombosis/thrombus/embolism  [6]2/43 (4.65%)"
+    ]
+}

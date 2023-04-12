@@ -1,0 +1,53 @@
+{
+    "Clinical Trial ID": "NCT02518191",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  GnRHa (Gonadotrophin-releasing Hormone Analogues) Group",
+        "  Eligible patients with breast cancer treated with GnRHa (Gonadotrophin-releasing Hormone Analogues) while receiving chemotherapy.",
+        "  Goserelin 3.6mg, or leuprorelin 3.75mg subcutaneous injection every 28 days.Initiated 1-2 weeks before chemotherapy and ended 4-8 weeks after chemotherapy.",
+        "INTERVENTION 2: ",
+        "  None GnRHa (Gonadotrophin-releasing Hormone Analogues) Group",
+        "  Eligible patients with breast cancer treated without GnRHa (Gonadotrophin-releasing Hormone Analogues) while receiving chemotherapy."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Premenopausal women 18 to 49 years of age are eligible for enrollment",
+        "  Patients have operable stage I to IIIA breast cancer for which treatment with adjuvant or neoadjuvant cyclophosphamide-containing chemotherapy was planned.",
+        "  Eligible participants had taken no estrogens, antiestrogens, selective estrogen-receptor modulators, aromatase inhibitors, or hormonal contraceptives within the month before enrollment.",
+        "  Human chorionic gonadotropin negative by urine test before entering the group.",
+        "  Informed consent, understanding and compliance with the requirements of the study.",
+        "  No significant chronic disease and any organ dysfunction.",
+        "Exclusion Criteria:",
+        "  Exceptions were made for the use of hormonal contraception in women younger than 35 years of age that was discontinued before randomization.",
+        "  Use of hormonal treatment for up to 2 months for the purposes of in vitro fertilization and cryopreservation of embryos or oocytes before randomization.",
+        "  Patients with metastatic lesions or history of bilateral ovariectomy,ovarian radiation were excluded.",
+        "  Patients received previous adjuvant endocrine therapy for breast cancer are not suitable to this trial.",
+        "  Patients with uterine and/or adnexal diseases needing medical or surgical treatment are not suitable.",
+        "  Allergic to active or inactive excipients of GnRHa is an exclusion criterion."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Premature Ovarian Insufficiency",
+        "  The serum levels of anti-M\u00fcllerian hormone (AMH) were measured using human AMH ELISA kit (11351, Biofine)). POI (premature ovarian insufficiency) was defined as AMH<0.5ng/mL in this study.",
+        "  Time frame: 1 years",
+        "Results 1: ",
+        "  Arm/Group Title: GnRHa (Gonadotrophin-releasing Hormone Analogues) Group",
+        "  Arm/Group Description: Eligible patients with breast cancer treated with GnRHa (Gonadotrophin-releasing Hormone Analogues) while receiving chemotherapy.",
+        "  Goserelin 3.6mg, or leuprorelin 3.75mg subcutaneous injection every 28 days.Initiated 1-2 weeks before chemotherapy and ended 4-8 weeks after chemotherapy.",
+        "  Overall Number of Participants Analyzed: 165",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  10   6.1%",
+        "Results 2: ",
+        "  Arm/Group Title: None GnRHa (Gonadotrophin-releasing Hormone Analogues) Group",
+        "  Arm/Group Description: Eligible patients with breast cancer treated without GnRHa (Gonadotrophin-releasing Hormone Analogues) while receiving chemotherapy.",
+        "  Overall Number of Participants Analyzed: 165",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  38  23.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/165 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Clinical Trial ID": "NCT03283553",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Multicomponent Intervention",
+        "  1.) A one-page paper-pencil agenda setting checklist completed immediately before a regularly scheduled medical oncology visit to elicit and align patient and companion perspectives regarding issues to discuss with the provider, and to stimulate discussion about the role of the companion in the visit, 2.) facilitated registration for the patient portal (for patient and family member, as desired by the patient), and 3.) education (as relevant) on access to doctor's electronic visit notes.",
+        "INTERVENTION 2: ",
+        "  Usual Care",
+        "  Care as usual with the medical oncologist."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Medical oncology patient: Established patient of participating medical oncologist greater than 18 years of age, have a diagnosis of early stage or advanced breast cancer, are receiving active systemic therapy (in the form of IV adjuvant systemic therapy if early stage), are English speaking, able to provide informed consent themselves, and identify a family member who they would like to include in their care.",
+        "  Care partner: Family member (e.g. spouse, adult child, parent, adult sibling or other relative) or unpaid friend who regularly accompanies patient to medical oncology visits.",
+        "  Medical oncology provider: Practicing medical oncology provider at a participating clinic who provides care to patients with breast cancer.",
+        "Exclusion Criteria:",
+        "  Medical oncology patients: Younger than 18 years, pregnant, not being treated for breast cancer, do not attend medical oncology visits with family member or unpaid friend or unwilling for their family member or unpaid friend to be contacted.",
+        "  Care partner: Paid non-family member who accompanies patient to visits."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Between-group Differences in Patient Complete Illness Understanding at 9-months",
+        "  Illness understanding was measured by 4 questions regarding knowledge that is considered to be essential to making informed treatment decisions in serious illness, including: 1.) understanding of illness, 2.) knowledge of disease status, 3.) awareness of disease state, and 4.) expectation of duration of life. We summed responses to each item (coded 1 or 0 to reflect the presence or absence of understanding), yielding a score ranging from 0 to 4. Participants with perfect scores reflecting complete illness understanding (4 of 4 correct responses) were compared to all others.",
+        "  Time frame: 9 months",
+        "Results 1: ",
+        "  Arm/Group Title: Multicomponent Intervention",
+        "  Arm/Group Description: 1.) A one-page paper-pencil agenda setting checklist completed immediately before a regularly scheduled medical oncology visit to elicit and align patient and companion perspectives regarding issues to discuss with the provider, and to stimulate discussion about the role of the companion in the visit, 2.) facilitated registration for the patient portal (for patient and family member, as desired by the patient), and 3.) education (as relevant) on access to doctor's electronic visit notes.",
+        "  Overall Number of Participants Analyzed: 63",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Complete Illness Understanding at 9-Months: 42  66.7%",
+        "  Not Complete Illness Understanding at 9-Months: 21  33.3%",
+        "Results 2: ",
+        "  Arm/Group Title: Usual Care",
+        "  Arm/Group Description: Care as usual with the medical oncologist.",
+        "  Overall Number of Participants Analyzed: 55",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Complete Illness Understanding at 9-Months: 38  69.1%",
+        "  Not Complete Illness Understanding at 9-Months: 17  30.9%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/69 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/63 (0.00%)"
+    ]
+}

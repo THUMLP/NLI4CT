@@ -1,0 +1,38 @@
+{
+    "Clinical Trial ID": "NCT00428922",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Trastuzumab, Bevacizumab, and Docetaxel",
+        "  Trastuzumab [6mg/kg], Bevacizumab [15mg/kg], and Docetaxel [75 mg/M\u00b2]"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically confirmed breast cancer with evidence of metastatic disease",
+        "  HER2 3+ or FISH (fluorescent in situ hybridization)+",
+        "  Age  18 years",
+        "  No prior trastuzumab, except as given in the adjuvant or neoadjuvant setting.",
+        "  No prior chemotherapy in the metastatic setting.",
+        "Exclusion Criteria:",
+        "  CNS (central nervous system) metastases",
+        "  Prior radiation therapy within the last 4 weeks",
+        "  Pregnant (positive pregnancy test) or lactating women",
+        "  Major surgical procedure, open biopsy, non-healing wounds, or significant traumatic injury within 28 days prior to starting study or anticipation of need for major surgical procedure during the study",
+        "  Minor surgical procedures such as fine needle aspirations or core biopsies within 7 days prior to start of study."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Progression-free Survival (PFS) and to Evaluate Safety of the Trastuzumab, Bevacizumab and Docetaxel Regimen.",
+        "  The trial was designed as a single-stage phase II rather then usual two-stage design because of the progression free survival (PFS) primary endpoint, as it is impractical to wait to assess PFS for patients in the first stage. We will consider a PFS of 50% at twelve months (median PFS of 12 months) or less uninteresting and a PFS of 70% at twelve months (median PFS of twenty months) worthy of pursuing the regimen in a future trials. The single-stage design is as follows: p0=0.50, p1=0.70, \u03b1=0.10, \u03b2= 0.10. This leads to a total sample size of 39 patients, 24 or higher of who are progression-free at 12 months.",
+        "  Time frame: up to 3 years",
+        "Results 1: ",
+        "  Arm/Group Title: Trastuzumab, Bevacizumab, and Docetaxel",
+        "  Arm/Group Description: Trastuzumab [6mg/kg], Bevacizumab [15mg/kg], and Docetaxel [75 mg/M ]",
+        "  Overall Number of Participants Analyzed: 26",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: months  14.3        (9.3 to 35)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/26 (0.00%)"
+    ]
+}

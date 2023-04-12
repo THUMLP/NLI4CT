@@ -1,0 +1,62 @@
+{
+    "Clinical Trial ID": "NCT00371254",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Dasatinib 100 mg BID",
+        "  Participants were administered an oral dose of 100 mg dasatinib tablet twice daily for a total daily dose (TDD) of 200 mg. Study treatment continued for as long as it was tolerated, or until progressive disease (PD), defined as appearance of new lesion/s, or >=20% increase in the sum of the longest diameter (LD) of target lesions, relative to the smallest sum LD recorded since treatment start, or unequivocal progression of existing non-target lesions.",
+        "INTERVENTION 2: ",
+        "  Dasatinib 70 mg BID",
+        "  Participants were administered an oral dose of 70 mg dasatinib tablet twice daily for a TDD of 140 mg. Study treatment continued for as long as it was tolerated, or until PD, defined as appearance of new lesion/s, or >=20% increase in the sum of the LD of target lesions, relative to the smallest sum LD recorded since treatment start, or unequivocal progression of existing non-target lesions."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  females, 18 or older",
+        "  recurrent or progressive locally advanced, or 'triple negative' metastatic breast cancer",
+        "  paraffin-embedded tissue block must be available",
+        "  measurable disease",
+        "  prior chemotherapy with an anthracycline, a taxane, or both (neoadjuvant, adjuvant, or metastatic setting)",
+        "  0, 1 or 2 chemotherapies in the metastatic setting",
+        "  adequate organ function",
+        "Exclusion Criteria:",
+        "  Metastatic disease confined to bone only",
+        "  Symptomatic CNS metastasis",
+        "  Concurrent medical condition which may increase the risk of toxicity",
+        "  Unable to take oral medication"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Complete Response (CR) or Partial Response (PR)",
+        "  Tumor response was defined as the number of participants whose best response was CR or PR, per the Response Evaluation Criteria in Solid Tumor (RECIST): CR: disappearance of all target/non-target lesions; PR: >= 30% decrease in the sum of the LDs of target lesions relative to the baseline sum LD.",
+        "  Time frame: Baseline to end of study drug therapy (up to 65 weeks).",
+        "Results 1: ",
+        "  Arm/Group Title: Dasatinib 100 mg BID",
+        "  Arm/Group Description: Participants were administered an oral dose of 100 mg dasatinib tablet twice daily for a total daily dose (TDD) of 200 mg. Study treatment continued for as long as it was tolerated, or until progressive disease (PD), defined as appearance of new lesion/s, or >=20% increase in the sum of the longest diameter (LD) of target lesions, relative to the smallest sum LD recorded since treatment start, or unequivocal progression of existing non-target lesions.",
+        "  Overall Number of Participants Analyzed: 23",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  2",
+        "Results 2: ",
+        "  Arm/Group Title: Dasatinib 70 mg BID",
+        "  Arm/Group Description: Participants were administered an oral dose of 70 mg dasatinib tablet twice daily for a TDD of 140 mg. Study treatment continued for as long as it was tolerated, or until PD, defined as appearance of new lesion/s, or >=20% increase in the sum of the LD of target lesions, relative to the smallest sum LD recorded since treatment start, or unequivocal progression of existing non-target lesions.",
+        "  Overall Number of Participants Analyzed: 20",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  0"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 14/44 (31.82%)",
+        "  MYOPERICARDITIS 1/44 (2.27%)",
+        "  PERICARDIAL EFFUSION 2/44 (4.55%)",
+        "  NAUSEA 1/44 (2.27%)",
+        "  ASCITES 1/44 (2.27%)",
+        "  VOMITING 2/44 (4.55%)",
+        "  DYSPHAGIA 1/44 (2.27%)",
+        "  CONSTIPATION 1/44 (2.27%)",
+        "  ABDOMINAL PAIN 1/44 (2.27%)",
+        "  PYREXIA 2/44 (4.55%)",
+        "  GENERALISED OEDEMA 1/44 (2.27%)",
+        "  GENERAL PHYSICAL HEALTH DETERIORATION 1/44 (2.27%)",
+        "  INFECTION 1/44 (2.27%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

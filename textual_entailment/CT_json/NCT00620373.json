@@ -1,0 +1,58 @@
+{
+    "Clinical Trial ID": "NCT00620373",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Mammography Only",
+        "  For this reporting arm, the interpretation and analysis was done with mammography only.",
+        "INTERVENTION 2: ",
+        "  Gamma Imaging",
+        "  For this reporting arm, the interpretation and analysis was done with gamma imaging only."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Past prior screening mammography (SM) interpreted as negative or benign (This screening must have been performed at Mayo Clinic Rochester, Minnesota).",
+        "  Past prior SM interpreted as heterogeneously dense or extremely dense (This screening must have been performed at Mayo Clinic Rochester, Minnesota).",
+        "  Women younger than 50 years who had not undergone prior mammography, as most of these women have dense breasts.",
+        "  Subjects had to have at least one of the following risk factors:",
+        "  Known mutation in breast cancer susceptibility gene 1 (BRCA1) or breast cancer susceptibility gene 2 (BRCA2)",
+        "  History of chest, mediastinal, or axillary irradiation",
+        "  Personal history of breast cancer",
+        "  History of prior biopsy showing atypical ductal hyperplasia, atypical lobular hyperplasia, lobular carcinoma in situ, or atypical papilloma",
+        "  Gail or Claus model lifetime risk greater than or equal to 20%",
+        "  Gail model 5 year risk greater or equal to 2.5%",
+        "  Gail model 5 year risk greater or equal to 1.6%",
+        "  One first-degree relative with history of breast cancer",
+        "  Two second-degree relatives with history of breast cancer",
+        "Exclusion Criteria:",
+        "  They are unable to understand and sign the consent form",
+        "  They are pregnant or lactating",
+        "  They are physically unable to sit upright and still for 40 minutes.",
+        "  They have self-reported signs or symptoms of breast cancer (palpable mass, bloody nipple discharge, axillary mass etc.).",
+        "  They have had needle biopsy within 3 months, or breast surgery within 1 year prior to the study.",
+        "  They are currently taking tamoxifen, evista (raloxifene), or an aromatase inhibitor for adjuvant therapy or chemoprevention."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Diagnostic Yield",
+        "  Diagnostic yield is the likelihood that a test or procedure will provide the information needed to establish a diagnosis. In this case, it is the proportion of women with positive results of a screening test and positive results with the reference standard (verified cancer status).",
+        "  Time frame: 12 months after mammography and gamma imaging",
+        "Results 1: ",
+        "  Arm/Group Title: Mammography Only",
+        "  Arm/Group Description: For this reporting arm, the interpretation and analysis was done with mammography only.",
+        "  Overall Number of Participants Analyzed: 936",
+        "  Measure Type: Number",
+        "  Unit of Measure: cancers per 1000 women screened  3.2        (1.1 to 9.4)",
+        "Results 2: ",
+        "  Arm/Group Title: Gamma Imaging",
+        "  Arm/Group Description: For this reporting arm, the interpretation and analysis was done with gamma imaging only.",
+        "  Overall Number of Participants Analyzed: 936",
+        "  Measure Type: Number",
+        "  Unit of Measure: cancers per 1000 women screened  9.6        (5.1 to 18.2)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/969 (0.00%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

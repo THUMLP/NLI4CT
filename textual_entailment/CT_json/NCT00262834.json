@@ -1,0 +1,62 @@
+{
+    "Clinical Trial ID": "NCT00262834",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Vorinostat",
+        "  Women in the vorinostat group were scheduled to receive 6 doses of oral vorinostat at 300 mg twice daily (bid), with the last dose administered by study personnel approximately 2 hours before the scheduled breast surgery (or biopsy)."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  No prior or concurrent hormonal therapy for breast cancer",
+        "  Histologically confirmed breast cancer, stage I-III disease, scheduled to undergo definitive surgery or other primary treatment (e.g., preoperative/neoadjuvant systemic treatment) for breast cancer",
+        "  ECOG 0-2 OR Karnofsky 60-100%",
+        "  Absolute neutrophil count  1,500/mm^3",
+        "  Platelet count  100,000/mm^3",
+        "  Bilirubin normal",
+        "  AST and ALT  2.5 times upper limit of normal",
+        "  PT  14 seconds",
+        "  Creatinine normal",
+        "  No symptomatic congestive heart failure",
+        "  No unstable angina pectoris",
+        "  No cardiac arrhythmia",
+        "  Not pregnant or nursing",
+        "  Negative pregnancy test",
+        "  Fertile patients must use effective contraception",
+        "  No ongoing or active infection",
+        "  No psychiatric illness or social situation that would preclude study compliance",
+        "  No other uncontrolled intercurrent illness",
+        "  No history of allergic reaction attributed to compounds of similar chemical or biologic composition to vorinostat",
+        "  At least 30 days since prior hormone replacement therapy (e.g., estrogen and/or progestin)",
+        "  Concurrent vaginal hormone preparations (e.g., vagifem or estring) allowed",
+        "  No concurrent birth control pills",
+        "  No prior radiotherapy to the ipsilateral breast",
+        "  No prior or concurrent radiotherapy for breast cancer",
+        "  No prior or concurrent novel therapy for breast cancer",
+        "  At least 14 days since prior valproic acid or another histone deacetylase inhibitor",
+        "  No other concurrent investigational agents",
+        "  No concurrent combination antiretroviral therapy for HIV-positive patients",
+        "  No other concurrent therapy for this cancer",
+        "  WBC  3,000/mm^3",
+        "Exclusion criteria:",
+        "  Patients must not be recieving any other investigational agents",
+        "  History of allergic reactions attributed to compounds of similar chemical or biologic composition to SAHA.",
+        "  Patients may not be taking valproic acid or another histone deacetylase inhibitor for at least 2 weeks prior to initiating SAHA.",
+        "  Women who are pregnant."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Adverse Events",
+        "  Participants were evaluated for adverse events due to vorinostat to assess if it was safe to give the drug prior to surgery. 17 of 25 participants who received vorinostat experienced at least 1 adverse event believed to be related to the study drug; no adverse events were severe, and the treatment was considered safe.",
+        "  Time frame: After 3 days of vorinostat",
+        "Results 1: ",
+        "  Arm/Group Title: Vorinostat",
+        "  Arm/Group Description: Women in the vorinostat group were scheduled to receive 6 doses of oral vorinostat at 300 mg twice daily (bid), with the last dose administered by study personnel approximately 2 hours before the scheduled breast surgery (or biopsy).",
+        "  Overall Number of Participants Analyzed: 25",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  17"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/25 (0.00%)"
+    ]
+}

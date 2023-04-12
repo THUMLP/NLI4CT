@@ -1,0 +1,52 @@
+{
+    "Clinical Trial ID": "NCT01581619",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Partial Breast Irradiation",
+        "  Partial Breast Irradiation using 40 Gy in 10 fractions over 2 weeks",
+        "  External Beam Partial-Breast Irradiation: 40 Gy in ten daily fractions over two weeks"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Unicentric Stage I invasive ductal breast cancer or Grade I or II DCIS measuring less than or equal to 2cm on pathology and/or mammography",
+        "  Histologically negative tumor margin 2 mm or more from any inked edges, or no tumor in a re-excision specimen or final shaved specimen",
+        "  Clips must be placed in the lumpectomy cavity at the time of final excision in order to aid in the delineation of the tumor cavity at the time of simulation and radiation delivery",
+        "Exclusion Criteria:",
+        "  No distant metastasis",
+        "  Not pregnant or breastfeeding",
+        "  No diffuse suspicious microcalcifications",
+        "  No prior radiation therapy to the ipsilateral or contralateral breast or thorax",
+        "  No histologic evidence of lymphovascular invasion (LVI)",
+        "  No histologic evidence of EIC",
+        "  No history of cosmetic or reconstructive breast surgery",
+        "  No psychiatric illness that would prevent the patient from giving informed consent",
+        "  No medical conditions that, in the opinion of the treating physician would make this protocol unreasonably hazardous for the patient",
+        "  No other currently active second malignancy other than non-melanoma skin cancers"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Safety of External-beam PBI Utilizing 40Gy in Ten Daily Fractions Over Two Weeks",
+        "  The safety of external-beam PBI in selected stages 0 and I female breast cancer patients utilizing 40 Gy in ten daily fractions over two weeks. The study will be deemed too toxic if >10% of enrolled patients have at least one of the following outcomes within 24 months of completion of PBI.",
+        "  Grade 3 or 4 skin/subcutaneous or pulmonary toxicity.",
+        "  The development of clinical fat necrosis.",
+        "  The development of rib fracture on the ipsilateral treated side, detected either clinically and/or radiographically.",
+        "  The data is shown as the number of participants that experienced each of the specific toxicities.",
+        "  Time frame: 2 years",
+        "Results 1: ",
+        "  Arm/Group Title: Partial Breast Irradiation",
+        "  Arm/Group Description: Partial Breast Irradiation using 40 Gy in 10 fractions over 2 weeks",
+        "  External Beam Partial-Breast Irradiation: 40 Gy in ten daily fractions over two weeks",
+        "  Overall Number of Participants Analyzed: 53",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Grade 3 or 4 Skin/ Subcutaneous toxicity: 0   0.0%",
+        "  Grade 3 or 4 Pulmonary Toxicity: 0   0.0%",
+        "  Fat Necrosis: 0   0.0%",
+        "  Rib fractures on ipsilateral treated side: 0   0.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 2/53 (3.77%)",
+        "  Seroma 1/53 (1.89%)",
+        "  Skin Infection  [1]1/53 (1.89%)"
+    ]
+}

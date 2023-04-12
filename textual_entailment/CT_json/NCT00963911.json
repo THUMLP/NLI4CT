@@ -1,0 +1,42 @@
+{
+    "Clinical Trial ID": "NCT00963911",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Eligible Patients Assessable for the Primary Outcome Measure",
+        "  Patients older than 70 years and included either before any first-line treatment, or between any two steps of a pre-defined first-line treatment sequence (chemotherapy, endocrine therapy, targeted treatment, surgery or radiotherapy) for various types of histologically-confirmed cancer (colon, lung, upper aero digestive tract (UAT)/head and neck, breast, prostate, and non-Hodgkin's lymphomas (NHL)), and for whom G8 as well as at least one instrument of the multidimensional assessment were available."
+    ],
+    "Eligibility": [
+        "DISEASE CHARACTERISTICS:",
+        "  Histologically confirmed cancer including the following types:",
+        "  Colon",
+        "  Rectal",
+        "  Lung",
+        "  Squamous cell carcinoma of the head and neck",
+        "  Breast",
+        "  Prostate",
+        "  Non-Hodgkin lymphoma",
+        "  Planning to undergo first-time treatment comprising medicine, surgery, or radiotherapy",
+        "  PATIENT CHARACTERISTICS:",
+        "  No persons deprived of liberty or under guardianship",
+        "  No psychological, familial, social, or geographical reasons that would make monitoring clinically impossible",
+        "  PRIOR CONCURRENT THERAPY:",
+        "  See Disease Characteristics"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Sensitivity of the G8 Questionnaire",
+        "  Sensitivity of the G8 questionnaire measured as Percentage of Participants with a Positive G8 among patients with a positive MGA. The G8 consists of eight items: patient age (>85, 80-85, <80), and seven items from the original 18-item MNA (Mini Nutritional Assessment: appetite changes, weight loss, mobility, neuropsychological problems, body mass index, medication, and self-rated health). The total score ranges from 0 to 17, with lower scores indicating a higher risk of impairments. The cut-off value for an 'impaired' reference test score was <=14.",
+        "  Multidimensional geriatric assessment (MGA): Patients underwent a geriatric evaluation in the month following the completion of VES-13. The nurse completed six instruments of the MGA (MNA, Timed Get up and Go, Activities of Daily Living (ADL), Instrumental ADL, Mini Mental State Examination, and Geriatric Depression Scale, and the geriatrician rated comorbidity on the Cumulative Illnes Rating Scale.",
+        "  Time frame: at inclusion (at completion of the G8 questionnaire)",
+        "Results 1: ",
+        "  Arm/Group Title: Eligible Patients Assessable for the Primary Outcome Measure",
+        "  Arm/Group Description: Patients older than 70 years and included either before any first-line treatment, or between any two steps of a pre-defined first-line treatment sequence (chemotherapy, endocrine therapy, targeted treatment, surgery or radiotherapy) for various types of histologically-confirmed cancer (colon, lung, upper aero digestive tract (UAT)/head and neck, breast, prostate, and non-Hodgkin's lymphomas (NHL)), and for whom G8 as well as at least one instrument of the multidimensional assessment were available.",
+        "  Overall Number of Participants Analyzed: 1151",
+        "  Measure Type: Number",
+        "  Unit of Measure: % of Participants with a positive G8  76.5        (73.9 to 78.9)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/1674 (0.00%)"
+    ]
+}

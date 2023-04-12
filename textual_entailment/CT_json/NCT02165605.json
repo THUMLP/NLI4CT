@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT02165605",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  HylaCare",
+        "  Each patient will be randomized blindly as to whether the study serum will be applied to the medial or lateral portion of the treated breast, using the nipple as the dividing line. The product and placebo will also be applied to the contra-lateral breast in the same fashion, as a further control. The study drug and placebo will be applied three times daily, but not within four hours prior to radiation treatment. Each patient will use both HA study cream and placebo.",
+        "INTERVENTION 2: ",
+        "  Placebo",
+        "  Each patient will be randomized blindly as to whether the study serum will be applied to the medial or lateral portion of the treated breast, using the nipple as the dividing line. The product and placebo will also be applied to the contra-lateral breast in the same fashion, as a further control. The study drug and placebo will be applied three times daily, but not within four hours prior to radiation treatment. Each patient will use both HA study cream and placebo."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female, age 18 or older",
+        "  Diagnosis of breast cancer",
+        "  Intact breast (not surgically absent)",
+        "  Planned fractionated external beam radiotherapy to be delivered by opposing, tangential beams to 50.4 Gy in 28 fractions with a planned photon or electron boost of 10Gy in 5 fractions (for a total of 33 fractions)",
+        "  Ability to understand and comply with the requirements of this study",
+        "  Ability to give Informed Consent",
+        "  For sexually active females, patient agrees to use acceptable method of birth control",
+        "Exclusion Criteria:",
+        "  Women who are pregnant or lactating",
+        "  Use of concomitant skin care preparations at any of the treated or control portal areas to be observed",
+        "  Any infection or unhealed wound of the radiotherapy portal areas, or generalized dermatitis",
+        "  Severe renal failure creatinine > 3.0 within 6 months of study registration",
+        "  Allergic history, including anaphylaxis or severe allergies to products in study serum or placebo",
+        "  Planned relocation which would make follow-up visits impossible during the course of the study",
+        "  Collagen vascular disease such as Lupus, or scleroderma"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Acute Skin Toxicity Per NCI-CTC v4.0",
+        "  NCI-CTC (National Cancer Institute-Common Terminology Criteria) version 4.0 was used to assessed acute skin toxicity grade by physician. Toxicity grade range from Grade 0 to Grade 5, with higher grade indicating worst skin toxicity.",
+        "  Time frame: Week 5 during radiation therapy",
+        "Results 1: ",
+        "  Arm/Group Title: HylaCare",
+        "  Arm/Group Description: Each patient will be randomized blindly as to whether the study serum will be applied to the medial or lateral portion of the treated breast, using the nipple as the dividing line. The product and placebo will also be applied to the contra-lateral breast in the same fashion, as a further control. The study drug and placebo will be applied three times daily, but not within four hours prior to radiation treatment. Each patient will use both HA study cream and placebo.",
+        "  Overall Number of Participants Analyzed: 28",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Grade 0: 3  10.7%",
+        "  Grade 1: 19  67.9%",
+        "  Grade 2: 6  21.4%",
+        "  Grade   3: 0   0.0%",
+        "Results 2: ",
+        "  Arm/Group Title: Placebo",
+        "  Arm/Group Description: Each patient will be randomized blindly as to whether the study serum will be applied to the medial or lateral portion of the treated breast, using the nipple as the dividing line. The product and placebo will also be applied to the contra-lateral breast in the same fashion, as a further control. The study drug and placebo will be applied three times daily, but not within four hours prior to radiation treatment. Each patient will use both HA study cream and placebo.",
+        "  Overall Number of Participants Analyzed: 28",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Grade 0: 3  10.7%",
+        "  Grade 1: 18  64.3%",
+        "  Grade 2: 7  25.0%",
+        "  Grade   3: 0   0.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/28 (0.00%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Clinical Trial ID": "NCT00448279",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Chemotherapy Alone",
+        "  Participants received chemotherapy until disease progression, unacceptable toxicity, or death; the schedule and dose at the investigator's discretion and per local prescribing guidelines and standard center practice. Allowed chemotherapy regimens included paclitaxel, gemcitabine, platinum compounds, docetaxel, capecitabine, or vinorelbine.",
+        "INTERVENTION 2: ",
+        "  Chemotherapy + Trastuzumab",
+        "  Participants received trastuzumab at either 2 mg/kg, IV, every 7 days, or 6 mg/kg, IV, every 3 weeks, per the investigator's discretion. Participants also received chemotherapy; the schedule and dose at the investigator's discretion and per local prescribing guidelines and standard center practice. Allowed chemotherapy regimens included paclitaxel, gemcitabine, platinum compounds, docetaxel, capecitabine, or vinorelbine. Study treatment was administered until disease progression, unacceptable toxicity, or death."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  female patients, >=18 years of age;",
+        "  metastatic breast cancer;",
+        "  HER2 overexpression (IHC 3+ and/or FISH positive);",
+        "  disease progression during or after previous 1st line chemotherapy plus Herceptin;",
+        "  scheduled to receive 2nd line chemotherapy.",
+        "Exclusion Criteria:",
+        "  incompatibility with previous Herceptin therapy;",
+        "pregnancy."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Progression-Free Survival (PFS) - Percentage of Participants With an Event",
+        "  PFS was defined as the time from randomization to the date of documented disease progression according to Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1, or the date of occurrence of a second primary cancer, or date of death from any cause, whichever comes first. Participants were censored at the last tumour evaluation.",
+        "  Time frame: Baseline (BL) and every 8 weeks thereafter",
+        "Results 1: ",
+        "  Arm/Group Title: Chemotherapy Alone",
+        "  Arm/Group Description: Participants received chemotherapy until disease progression, unacceptable toxicity, or death; the schedule and dose at the investigator's discretion and per local prescribing guidelines and standard center practice. Allowed chemotherapy regimens included paclitaxel, gemcitabine, platinum compounds, docetaxel, capecitabine, or vinorelbine.",
+        "  Overall Number of Participants Analyzed: 29",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  58.6",
+        "Results 2: ",
+        "  Arm/Group Title: Chemotherapy + Trastuzumab",
+        "  Arm/Group Description: Participants received trastuzumab at either 2 mg/kg, IV, every 7 days, or 6 mg/kg, IV, every 3 weeks, per the investigator's discretion. Participants also received chemotherapy; the schedule and dose at the investigator's discretion and per local prescribing guidelines and standard center practice. Allowed chemotherapy regimens included paclitaxel, gemcitabine, platinum compounds, docetaxel, capecitabine, or vinorelbine. Study treatment was administered until disease progression, unacceptable toxicity, or death.",
+        "  Overall Number of Participants Analyzed: 29",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  58.6"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 4/26 (15.38%)",
+        "  Febrile neutropenia * 1/26 (3.85%)",
+        "  Gastric volvulus * 20/26 (0.00%)",
+        "  General Malaise * 21/26 (3.85%)",
+        "  Hospitalisation for intrapleuric chemotherapy and thoracentesis * 21/26 (3.85%)",
+        "  Acute renal failure * 21/26 (3.85%)",
+        "Adverse Events 2:",
+        "  Total: 1/28 (3.57%)",
+        "  Febrile neutropenia * 0/28 (0.00%)",
+        "  Gastric volvulus * 21/28 (3.57%)",
+        "  General Malaise * 20/28 (0.00%)",
+        "  Hospitalisation for intrapleuric chemotherapy and thoracentesis * 20/28 (0.00%)",
+        "  Acute renal failure * 20/28 (0.00%)"
+    ]
+}

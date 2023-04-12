@@ -1,0 +1,48 @@
+{
+    "Clinical Trial ID": "NCT01653964",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Molecular Breast Imaging",
+        "  Molecular breast imaging performed after injection of 4 mCi Tc-99m sestamibi and again after 8 mCi Tc-99m sestamibi."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Subgroup 1, Patients with breast lesions:",
+        "  -At least one breast lesion detected by mammogram, ultrasound or breast MRI that measures < 20 mm in greatest dimension, presents as a mass, is considered suspicious or highly suggestive of malignancy according to the Breast Imaging Reporting and Data System Atlas criteria (BIRADS 4 or 5), and is scheduled for core-needle biopsy or surgical biopsy.",
+        "  OR",
+        "  -At least one breast lesion that measures between > 10 mm but < 20 mm in greatest dimension, presents as a mass, is biopsy-proven as malignant, and is scheduled for surgical resection.",
+        "  AND",
+        "  Age > 40 years",
+        "  Negative pregnancy test, postmenopausal, or surgically sterilized",
+        "  Subgroup 2, Patients without known breast lesions:",
+        "  Negative screening mammogram performed at Mayo Clinic Rochester within 15 months prior to performance of study MBI",
+        "  No signs or symptoms of breast disease",
+        "  Age > 40 years",
+        "  Negative pregnancy test, postmenopausal, or surgically sterilized",
+        "Exclusion Criteria:",
+        "  Vacuum-assisted or excisional biopsy has been performed prior to the study MBI. Reason: these types of biopsies are more likely to remove all of the tumor",
+        "  MBI is performed after biopsy and neo-adjuvant chemotherapy is planned prior to surgery. Reason: true tumor size will not be able to be ascertained from the final pathology findings",
+        "  Breast implants. Reason: cases with breast implants will be easily identifiable on blinded interpretation to take place at the study end",
+        "  Suspected that breasts will not fit in the MBI field of view. Reason: cases that require tiled views or additional views will be easily identifiable on blinded interpretation to take place at the study end",
+        "  Only one breast remaining. Reason: unilateral cases will be easily identifiable on blinded interpretation to take place at the study end; injection timing is designed for bilateral views",
+        "  Pregnancy test (if necessary) is not negative, or the patient is unable to complete the pregnancy test",
+        "  Physically unable to sit upright and still remain still during two consecutive MBI studies over the course of a 2-hour period."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Compare the Diagnostic Accuracy of 8 mCi Molecular Breast Imaging (MBI) With 4 mCi MBI.",
+        "  [Not Specified]",
+        "  Time frame: At time of study (within 2 days after exam) and when enrollment has been reached (approximately 24 months)",
+        "Results 1: ",
+        "  Arm/Group Title: Molecular Breast Imaging",
+        "  Arm/Group Description: Molecular breast imaging performed after injection of 4 mCi Tc-99m sestamibi and again after 8 mCi Tc-99m sestamibi.",
+        "  Overall Number of Participants Analyzed: 34",
+        "  Measure Type: Number",
+        "  Unit of Measure: cancers detected  8 mCi: 30",
+        "4 mCi: 29"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/82 (0.00%)"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Clinical Trial ID": "NCT03069313",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Arm I",
+        "  Oral Vitamin B12",
+        "  Vitamin B12: Vitamin B12 2500 micrograms sublingually per day over the course of 90 days (+/- 10 days)"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Sign informed consent and Pain level > 4 in the BPI scale,",
+        "  Stage I-III",
+        "Exclusion Criteria:",
+        "  <18 yrs",
+        "  Stage IV",
+        "  BPI Score <4",
+        "Zubrod score >2"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage Change in Average Joint Pain in Women With Aromatase Inhibitor-associated Musculoskeletal Symptoms (AIMSS) Compared to Baseline as Measured by the Brief Pain Inventory Short Form (BPI-SF).",
+        "  The Brief Pain Inventory - Short Form (BPI- SF) average pain score used. This item has a scale of 0 to 10 with 0 indicating \"No pain\" and 10 indicating \"Pain as bad as you can imagine\" We expect at least 20% improvement in BPI-SF pain scores. Participants were asked to rate worst pain an average pain within the last 24 hours.",
+        "  Time frame: Baseline and 90 days (+/- 10 days)",
+        "Results 1: ",
+        "  Arm/Group Title: Arm I",
+        "  Arm/Group Description: Oral Vitamin B12",
+        "  Vitamin B12: Vitamin B12 2500 micrograms sublingually per day over the course of 90 days (+/- 10 days)",
+        "  Overall Number of Participants Analyzed: 36",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: Percentage change  -33.8         (34.1)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/36 (0.00%)"
+    ]
+}

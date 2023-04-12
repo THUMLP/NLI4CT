@@ -1,0 +1,53 @@
+{
+    "Clinical Trial ID": "NCT02010021",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  No Drug Treatment",
+        "  Post-menopausal women with stage I-III breast cancer with surgical resection of tumor and tumor tissue will be used to study cell growth signaling pathways ex-vivo.",
+        "INTERVENTION 2: ",
+        "  Letrozole-presurgical",
+        "  Patients received Letrozole for 10-21 days prior to surgical resection of tumor tissue. This tissue was used ex-vivo to study cell growth signaling pathway. The results will be compared to arm of the study with no intervention."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologic Documentation of invasive breast cancer by core needle or incisional biopsy. Excess baseline biopsy tumor tissue sufficient to make three 5-micron sections must be available for molecular analyses as part of this study.",
+        "  The invasive cancer must be estrogen receptor alpha (ER)-positive, with ER staining present in greater than 50% staining of invasive cancer cells by IHC.",
+        "  The invasive cancer must be human epidermal growth factor receptor 2 (HER2) negative (IHC 0-1+, or with a fluorescence in situ hybridization (FISH) ratio of <1.8 if IHC is 2+ or if IHC has not been done).",
+        "  Clinical stage I-III invasive breast cancer with the intent to treat with surgical resection of the primary tumor. Tumor must be  2cm to provide adequate tissue.",
+        "  Patients with multi-centric or bilateral disease are eligible if the target lesions meet the other eligibility criteria. Samples from all available tumors are requested for research purposes.",
+        "  Women  age 18, for whom adjuvant treatment with an aromatase inhibitor would be clinically indicated. Women must be either post-menopausal, or pre-menopausal having undergone oophorectomy.",
+        "  Patients must meet the following clinical laboratory criteria:",
+        "  Absolute neutrophil count (ANC) 1000/mm3 and platelet count  75,000/mm3. Total bilirubin  1.5 X the upper limit of normal range (ULN). Alanine aminotransferase (ALT) and aspartate aminotransferase (AST)  3 x ULN.",
+        "  - Ability to give informed consent.",
+        "Exclusion Criteria:",
+        "  Prior endocrine therapy for any histologically confirmed cancer is not allowed. Prior endocrine therapy that was administered  5 years ago for the prevention of breast cancer in patients with no history of breast cancer is allowed.",
+        "  Systemic drug treatment to induce ovarian suppression if woman is pre-menopausal.",
+        "  Any other neoadjuvant therapy for breast cancer (i.e., treatment with any other anti-cancer agent besides Letrozole (10-21)days before surgical resection of the primary tumor)."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Insulin Receptor Substrate 1 (IRS-1) / Phosphoinositide 3-kinase (PI3K) / Serine-threonine Protein Kinase (AKT) Pathway Activation",
+        "  The Primary Endpoint is to determine the effect of ex vivo mTORC1 inhibition with everolimus (RAD001) on IRS-1/PI3K/AKT pathway activation (as measured by phospho-AKT-T308 and phospho-AKT-S473) in ER+/human epidermal growth factor receptor 2 (HER2)- breast tumors treated with presurgical letrozole compared to ER+/HER2- breast tumors not treated with presurgical therapy.",
+        "  Time frame: baseline and surgery, approximately 30 days",
+        "Results 1: ",
+        "  Arm/Group Title: No Drug Treatment",
+        "  Arm/Group Description: Post-menopausal women with stage I-III breast cancer with surgical resection of tumor and tumor tissue will be used to study cell growth signaling pathways ex-vivo.",
+        "  Overall Number of Participants Analyzed: 10",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: % change  phospho-AKT-T308: 388         (623)",
+        "  phospho-AKT-S473: 157         (35)",
+        "Results 2: ",
+        "  Arm/Group Title: Letrozole-presurgical",
+        "  Arm/Group Description: Patients received Letrozole for 10-21 days prior to surgical resection of tumor tissue. This tissue was used ex-vivo to study cell growth signaling pathway. The results will be compared to arm of the study with no intervention.",
+        "  Overall Number of Participants Analyzed: 7",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: % change  phospho-AKT-T308: -10         (38)",
+        "  phospho-AKT-S473: 135         (91)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/10 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/7 (0.00%)"
+    ]
+}

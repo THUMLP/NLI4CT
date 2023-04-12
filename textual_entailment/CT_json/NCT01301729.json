@@ -1,0 +1,50 @@
+{
+    "Clinical Trial ID": "NCT01301729",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Trastuzumab",
+        "  Participants with metastatic breast cancer received a loading dose of 4 milligrams per kilograms (mg/kg) of trastuzumab intravenously (IV) followed by 2 mg/kg of trastuzumab IV once a week along with docetaxel 100 milligrams per meter square (mg/m^2), every 3 weeks or paclitaxel 90 mg/m^2 once a week until progression of disease, occurrence of intolerable toxicity, the participant discontinues the study or dies."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female participants , >/= 18 years of age",
+        "  Locally recurrent/metastatic breast cancer (relapse in supra- or infraclavicular lymph nodes is regarded as metastatic disease)",
+        "  HER2-positive primary disease",
+        "  Participants must have received Herceptin in the adjuvant and/or neoadjuvant setting",
+        "  Relapsed breast cancer >/= 6 months after discontinuing last drugs of Herceptin and/or chemotherapy in the adjuvant and/or neoadjuvant setting for HER2-positive breast cancer",
+        "  Measurable disease according to RECIST 1.0",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 0-2",
+        "  Maximum cumulative dose of doxorubicin </= 360 mg/m2 or of epirubicin </= 720 mg/m2 or no prior anthracyclines",
+        "  At least 3 weeks after prior surgery or radiotherapy",
+        "Exclusion Criteria:",
+        "  Pregnant or breastfeeding women",
+        "  Previous chemotherapy for metastatic breast cancer (prior endocrine therapy till progressive disease is allowed)",
+        "  Pleural effusions, ascites or bone lesions as only manifestation of disease",
+        "  Brain metastases",
+        "  Invasive malignancy other than metastatic breast cancer",
+        "  Inadequate bone marrow, hepatic or renal function",
+        "  Prior treatment with anti-HER therapies other than (neo)adjuvant Herceptin"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Progression-Free Survival (PFS)",
+        "  PFS was assessed according to Response Evaluation Criteria In Solid Tumors (RECIST) 1.0 and was defined as the time from the date when the participant signed the informed consent form (ICF) until death or progressive disease (PD). PD was defined as 20% increase in the sum of the longest diameter of target lesions. PFS and associated confidence intervals were calculated using the Kaplan-Meier method.",
+        "  Time frame: From the date of informed consent to the date of death or progressive disease (up to 28 months)",
+        "Results 1: ",
+        "  Arm/Group Title: Trastuzumab",
+        "  Arm/Group Description: Participants with metastatic breast cancer received a loading dose of 4 milligrams per kilograms (mg/kg) of trastuzumab intravenously (IV) followed by 2 mg/kg of trastuzumab IV once a week along with docetaxel 100 milligrams per meter square (mg/m^2), every 3 weeks or paclitaxel 90 mg/m^2 once a week until progression of disease, occurrence of intolerable toxicity, the participant discontinues the study or dies.",
+        "  Overall Number of Participants Analyzed: 32",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: months  9.9        (6.28 to 13.63)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 5/32 (15.63%)",
+        "  Leukopenia 1/32 (3.13%)",
+        "  Neutropenia 1/32 (3.13%)",
+        "  Cataract 1/32 (3.13%)",
+        "  Infection 1/32 (3.13%)",
+        "  Upper respiratory tract infection 1/32 (3.13%)",
+        "  Completed suicide 1/32 (3.13%)"
+    ]
+}

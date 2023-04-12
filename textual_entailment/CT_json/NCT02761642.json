@@ -1,0 +1,47 @@
+{
+    "Clinical Trial ID": "NCT02761642",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Epoetin Beta",
+        "  Anemic breast cancer participants received epoetin beta (NeoRecormon\u00ae) at a dose of 30000 International Units (IU) as subcutaneous (SC) injection once every week for a total of 12 weeks. Adjustments in the dose were implemented based on the participant's blood hemoglobin levels."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Adult female participants with histological diagnosis of breast cancer",
+        "  Any type of chemotherapy planned for greater than or equal to (>/=) 9 weeks",
+        "  Hemoglobin level less than (<) 11 grams per deciliter (g/dL)",
+        "  Participants able to receive iron supplement, if necessary",
+        "Exclusion Criteria:",
+        "  Known or suspected contraindications to epoetin beta",
+        "  Pregnancy or lactation period",
+        "  Diagnosis of anemia only due to iron-deficiency",
+        "  Diagnosis of thalasemic syndromes",
+        "  Epilepsy and/or cerebral metastasis",
+        "  Blood transfusion or treatment with any erythropoietic factor within 4 weeks before study start"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With Response to Treatment Based on Hemoglobin Levels",
+        "  Response was defined as increase of hemoglobin levels by at least 2 grams per deciliter (g/dL) as compared to baseline or the achievement of hemoglobin level of 12 g/dL after 12 weeks of treatment in the absence of red blood cells transfusion.",
+        "  Time frame: Week 12",
+        "Results 1: ",
+        "  Arm/Group Title: Epoetin Beta",
+        "  Arm/Group Description: Anemic breast cancer participants received epoetin beta (NeoRecormon  ) at a dose of 30000 International Units (IU) as subcutaneous (SC) injection once every week for a total of 12 weeks. Adjustments in the dose were implemented based on the participant's blood hemoglobin levels.",
+        "  Overall Number of Participants Analyzed: 197",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  46.2        (38.2 to 54.3)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 17/197 (8.63%)",
+        "  Neutropenia * 1/197 (0.51%)",
+        "  Pancytopenia * 1/197 (0.51%)",
+        "  Disease progression * 2/197 (1.02%)",
+        "  Fatigue * 1/197 (0.51%)",
+        "  General physical health deterioration * 1/197 (0.51%)",
+        "  Contrast media reaction * 1/197 (0.51%)",
+        "  Cachexia * 1/197 (0.51%)",
+        "  Bone pain * 1/197 (0.51%)",
+        "  Metastases to central nervous system * 1/197 (0.51%)"
+    ]
+}

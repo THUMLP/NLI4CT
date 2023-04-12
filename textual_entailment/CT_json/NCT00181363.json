@@ -1,0 +1,48 @@
+{
+    "Clinical Trial ID": "NCT00181363",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Prone",
+        "Prone position",
+        "INTERVENTION 2: ",
+        "  Supine",
+        "Supine position"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients should have had breast-conserving surgery for breast cancer or DCIS (Ductal Carcinoma in Situ)",
+        "  No indication for radiotherapy of regional nodes",
+        "  Large, pendulous breasts (bra size D and over)",
+        "Exclusion Criteria:",
+        "  Regional radiotherapy is indicated",
+        "  Unable to lie in prone position"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Dose Homogeneity 1: PTV",
+        "  Quantitatively compare the 3 D dose distribution in the PTV (Planning Target Volume) and normal tissues in prone position versus supine position",
+        "  Time frame: 1 day after treatment planning",
+        "Results 1: ",
+        "  Arm/Group Title: Prone",
+        "  Arm/Group Description: Prone position",
+        "  Overall Number of Participants Analyzed: 10",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: Gy  Dmin (Gy) PTV: 9.8         (6.7)",
+        "  Dmean (Gy) PTV: 48.2         (1.2)",
+        "  Dmax (Gy) PTV: 53.6         (0.6)",
+        "Results 2: ",
+        "  Arm/Group Title: Supine",
+        "  Arm/Group Description: Supine position",
+        "  Overall Number of Participants Analyzed: 10",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: Gy  Dmin (Gy) PTV: 8.2         (5.6)",
+        "  Dmean (Gy) PTV: 49.8         (0.8)",
+        "  Dmax (Gy) PTV: 54.8         (1.4)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/10 (0.00%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

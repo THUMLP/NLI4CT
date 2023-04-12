@@ -1,0 +1,53 @@
+{
+    "Clinical Trial ID": "NCT00213980",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Zoledronic Acid (ZA)",
+        "  ZA",
+        "  Zoledronic acid (ZA): 4 mg IV over 15 minutes administered once every 12 weeks for 4 cycles",
+        "INTERVENTION 2: ",
+        "  Observation",
+        "  Observation only for 12 months"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Postmenopausal women, Stage III or axillary node positive",
+        "  Currently disease free of breast cancer and other invasive malignancies at the time of registration",
+        "  No concurrent use of bisphosphonates",
+        "Exclusion Criteria:",
+        "Metastatic disease"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Bone Mineral Density (BMD) From Baseline to 1 Year",
+        "  To determine whether zoledronate 4 mg IV every 12 weeks x 4 doses is associated with increases in bone mineral density at the lumbar spine and femoral head, calculated from baseline and 1 year data. Participants who missed one or more DXA were not evaluated.",
+        "  Time frame: Up to 1 year",
+        "Results 1: ",
+        "  Arm/Group Title: Zoledronic Acid (ZA)",
+        "  Arm/Group Description: ZA",
+        "  Zoledronic acid (ZA): 4 mg IV over 15 minutes administered once every 12 weeks for 4 cycles",
+        "  Overall Number of Participants Analyzed: 29",
+        "  Mean (95% Confidence Interval)",
+        "  Unit of Measure: grams per cubic centimeter  Lumbar Spine L1-L4 (L1-L4): 0.048        (0.034 to 0.062)",
+        "  Femoral neck (FN): 0.014        (0.002 to 0.027)",
+        "  Total femur (TF): 0.019        (0.011 to 0.026)",
+        "  Trochanter (T): 0.023        (0.013 to 0.34)",
+        "  Calcaneal (OC): 0.010        (0.004 to 0.015)",
+        "Results 2: ",
+        "  Arm/Group Title: Observation",
+        "  Arm/Group Description: Observation only for 12 months",
+        "  Overall Number of Participants Analyzed: 27",
+        "  Mean (95% Confidence Interval)",
+        "  Unit of Measure: grams per cubic centimeter  Lumbar Spine L1-L4 (L1-L4): 0.007        (-0.020 to 0.034)",
+        "  Femoral neck (FN): 0.005        (-0.012 to 0.023)",
+        "  Total femur (TF): 0.004        (-0.006 to 0.015)",
+        "  Trochanter (T): 0.005        (-0.007 to 0.017)",
+        "  Calcaneal (OC): 0.001        (-0.007 to 0.005)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/32 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

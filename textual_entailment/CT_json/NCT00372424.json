@@ -1,0 +1,45 @@
+{
+    "Clinical Trial ID": "NCT00372424",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Sunitinib + Docetaxel + Trastuzumab",
+        "  Sunitinib 37.5 milligram (mg) capsule orally once daily continuously starting from Day 2 up to Day 15 in each cycle, in schedule 2/1 (2 week on treatment, 1 week off treatment) along with docetaxel 75 milligram/square meter (mg/m^2) intravenous infusion over 1 hour on Day 1 of each cycle and trastuzumab either weekly: loading dose of 4 milligram/kilogram (mg/kg) intravenous infusion over 90 minutes on Day 1 followed by weekly maintenance doses of 2 mg/kg intravenous infusion over 30 minutes; or every 3 weeks: loading dose of 8 mg/kg intravenous infusion over 90 minutes on Day 1 followed by maintenance doses of 6 mg/kg intravenous infusion over 90 minutes every 3 weeks. Cycle length was 3 weeks."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Breast cancer with evidence of unresectable, locally recurrent, or metastatic disease.",
+        "  Tumors over-expressing Her-2",
+        "  Candidate for treatment with docetaxel/trastuzumab",
+        "Exclusion Criteria:",
+        "  Histology of inflammatory carcinoma",
+        "  AST and/or ALT >1.5 x ULN concomitant with ALP >2.5 x ULN"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Treatment-Emergent Adverse Events (AEs) or Serious Adverse Events (SAEs)",
+        "  An AE was any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. A SAE was an AE resulting in any of following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life-threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly. Treatment-emergent are events between first dose of study drug and up to 28 days after last dose that were absent before treatment or that worsened relative to pretreatment state.",
+        "  Time frame: From screening until 28 days post last dose of study drug",
+        "Results 1: ",
+        "  Arm/Group Title: Sunitinib + Docetaxel + Trastuzumab",
+        "  Arm/Group Description: Sunitinib 37.5 milligram (mg) capsule orally once daily continuously starting from Day 2 up to Day 15 in each cycle, in schedule 2/1 (2 week on treatment, 1 week off treatment) along with docetaxel 75 milligram/square meter (mg/m^2) intravenous infusion over 1 hour on Day 1 of each cycle and trastuzumab either weekly: loading dose of 4 milligram/kilogram (mg/kg) intravenous infusion over 90 minutes on Day 1 followed by weekly maintenance doses of 2 mg/kg intravenous infusion over 30 minutes; or every 3 weeks: loading dose of 8 mg/kg intravenous infusion over 90 minutes on Day 1 followed by maintenance doses of 6 mg/kg intravenous infusion over 90 minutes every 3 weeks. Cycle length was 3 weeks.",
+        "  Overall Number of Participants Analyzed: 25",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  AEs: 24",
+        "SAEs: 11"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 11/25 (44.00%)",
+        "  Febrile neutropenia * 4/25 (16.00%)",
+        "  Neutropenia * 3/25 (12.00%)",
+        "  Diarrhoea * 1/25 (4.00%)",
+        "  Intestinal perforation * 1/25 (4.00%)",
+        "  Rectal haemorrhage * 1/25 (4.00%)",
+        "  Stomatitis * 1/25 (4.00%)",
+        "  Vomiting * 1/25 (4.00%)",
+        "  Fatigue * 1/25 (4.00%)",
+        "  Multi-organ failure * 1/25 (4.00%)",
+        "  Erysipelas * 1/25 (4.00%)",
+        "  Pseudomembranous colitis * 1/25 (4.00%)"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Clinical Trial ID": "NCT00357734",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Gefitinib (ZD1839)",
+        "  ZD1839 at a daily dose of 250 mg or 500 mg depending on final dose in parent trial"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Provision of written informed consent to participate in the trial.",
+        "  Female or male aged 18 years and over.",
+        "  Patients with previously diagnosed cancer who have been treated with ZD1839 in a parent ZD1839 clinical trial and may benefit from continuation",
+        "Exclusion Criteria:",
+        "  Known severe hypersensitivity to ZD1839",
+        "  Concomitant use of phenytoin, carbamazepine, rifampicin, barbiturates, or St John's Wort.",
+        "  Withdrawal from a parent ZD1839 trial because of tumor progress"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Serious Adverse Events (SAEs)",
+        "  Assessment of the long-term safety profile of ZD1839 therapy by assessing the incidence of adverse events. Any adverse events (AEs) and serious adverse events (SAEs) occurring during treatment and any SAEs occurring within 30 days after stopping the trial drug must be followed to resolution unless, in the investigator's opinion, the condition is unlikely to resolve because of the patient's underlying disease",
+        "  Time frame: Serious adverse events (SAEs) and non-serious AEs were collected from the start of study treatment until 30 days after the last dose of study treatment or 30 days after last visit (up to approximately 120 months)",
+        "Results 1: ",
+        "  Arm/Group Title: Gefitinib (ZD1839)",
+        "  Arm/Group Description: ZD1839 at a daily dose of 250 mg or 500 mg depending on final dose in parent trial",
+        "  Overall Number of Participants Analyzed: 14",
+        "  Measure Type: Number",
+        "  Unit of Measure: number of SAEs  13"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 4/14 (28.57%)",
+        "  Duodenitis  [1]1/14 (7.14%)",
+        "  Gastrooesophageal reflux disease  [1]1/14 (7.14%)",
+        "  Vomiting  [1]1/14 (7.14%)",
+        "  Ascites  [1]1/14 (7.14%)",
+        "  Haematemesis  [1]1/14 (7.14%)",
+        "  Death  [1]1/14 (7.14%)",
+        "  Asthenia  [1]1/14 (7.14%)",
+        "  General physical health deterioration  [1]1/14 (7.14%)",
+        "  Bronchopneumonia  [1]1/14 (7.14%)",
+        "  Pneumonia  [1]1/14 (7.14%)"
+    ]
+}

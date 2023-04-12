@@ -1,0 +1,56 @@
+{
+    "Clinical Trial ID": "NCT00297596",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Oxaliplatin/Trastuzumab",
+        "  Patients with HER2 positive breast cancer received treatment with oxaliplatin 130 mg/m2 IV day 1 and trastuzumab 6 mg/kg (following 8 mg/kg loading dose during cycle 1). Cycles were repeated every 21 days. Oxaliplatin : Oxaliplatin will be administered at a dose of 130 mg/ m2 over 120 minutes on day 1 of each cycle, following standard antiemetic premedications. 21 day cycles. For the first cycle, trastuzumab will be administered before oxaliplatin; however for subsequent cycles, oxaliplatin will be infused prior to trastuzumab Trastuzumab : Trastuzumab will be administered as an 8 mg/kg loading dose by intravenous (IV) infusion over 90 minutes on day 1 of cycle 1. Subsequent doses will be administered as a 6 mg/kg IV dose over 30 minutes."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Females  18 years of age",
+        "  Histologically confirmed breast cancer that is HER2/neu positive (3+ by IHC or FISH +) and evidence of metastatic disease. Tumor may be of any estrogen and progesterone receptor type",
+        "  Measurable disease by RECIST and an ECOG  2",
+        "  Patients with known evidence of brain metastases are eligible if they are asymptomatic and have completed all therapy (surgery, radiotherapy, and/or steroids)",
+        "  Baseline LVEF value within the institutional normal range",
+        "  Any number of prior hormonal therapy treatments in the adjuvant setting or for metastatic disease. A subject must have progressed on hormonal therapy and all hormonal therapy (including birth control pills) must be discontinued at study entry.",
+        "  Prior chemotherapy in the adjuvant setting and up to one prior chemotherapy regimen for metastatic disease is allowed.",
+        "  Patients may have received one prior trastuzumab/chemotherapy containing regimen or prior single agent trastuzumab.",
+        "  Prior radiation therapy in the adjuvant setting or for metastatic disease, provided it was not to the only site of evaluable disease.",
+        "  All prior chemotherapy, trastuzumab and radiation therapy should be completed > 2 weeks before enrollment.",
+        "  Patients receiving bisphosphonate therapy are eligible. However, if bisphosphonate were started within < 2 months prior to enrollment, the bone lesions will not be evaluated for response and the patient must have another site of metastatic disease that is either measurable or evaluable for response.",
+        "  Patients must have recovered from toxicities due to prior therapy.",
+        "  Lab values in accordance with the protocol",
+        "  Patients must be nonpregnant and nonlactating. Patients of childbearing potential must implement an effective method of contraception during the study (birth control pills are not allowed).",
+        "Exclusion Criteria:",
+        "  Bone only disease are ineligible",
+        "  Patients who received more than 1 prior chemotherapy regimen for metastatic disease are ineligible.",
+        "  Patients with a history of other cancers except curatively-treated carcinoma of the cervix in situ or non-melanomatous skin cancer.",
+        "  Active serious infection or other underlying medical condition that would impair their ability to receive protocol treatment.",
+        "  Uncontrolled nervous system metastases",
+        "  Dementia or significantly altered mental status that would interfere with proper consenting.",
+        "  Receiving other investigational therapy."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Objective Response Rate (ORR), the Percentage of Patients Who Experience an Objective Benefit From Treatment",
+        "  Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI or CT: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), >=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR.",
+        "  Time frame: 18 months",
+        "Results 1: ",
+        "  Arm/Group Title: Oxaliplatin/Trastuzumab",
+        "  Arm/Group Description: Patients with HER2 positive breast cancer received treatment with oxaliplatin 130 mg/m2 IV day 1 and trastuzumab 6 mg/kg (following 8 mg/kg loading dose during cycle 1). Cycles were repeated every 21 days. Oxaliplatin : Oxaliplatin will be administered at a dose of 130 mg/ m2 over 120 minutes on day 1 of each cycle, following standard antiemetic premedications. 21 day cycles. For the first cycle, trastuzumab will be administered before oxaliplatin; however for subsequent cycles, oxaliplatin will be infused prior to trastuzumab Trastuzumab : Trastuzumab will be administered as an 8 mg/kg loading dose by intravenous (IV) infusion over 90 minutes on day 1 of cycle 1. Subsequent doses will be administered as a 6 mg/kg IV dose over 30 minutes.",
+        "  Overall Number of Participants Analyzed: 25",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  20        (4.3 to 35.7)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 7/25 (28.00%)",
+        "  Perforated appendix 1/25 (4.00%)",
+        "  Allergic reaction 1/25 (4.00%)",
+        "  Pathologic fracture of let proximal humeral diaphysis 1/25 (4.00%)",
+        "  Pathologic fracture of right proximal humeral diaphysis 1/25 (4.00%)",
+        "  Respiratory failure secondary to metastatic disease 1/25 (4.00%)",
+        "  Breast cancer 1/25 (4.00%)",
+        "  Progressive disease 1/25 (4.00%)"
+    ]
+}

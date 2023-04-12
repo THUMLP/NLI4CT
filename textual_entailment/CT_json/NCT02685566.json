@@ -1,0 +1,45 @@
+{
+    "Clinical Trial ID": "NCT02685566",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  FFDM Plus DBT",
+        "  Breast Images with FFDM and DBT FFDM Plus DBT: FujiFilm Aspire Cristalle System.",
+        "  This endpoint will be evaluated qualitatively. The Pass Criteria require adequate performance in non-cancer cases (recall rate) and in cancer cases (detection rate).",
+        "INTERVENTION 2: ",
+        "  Full-Field Digital Mammography (FFDM)",
+        "  Breast Images with FFDM alone FFDM: FujiFilm Aspire Cristalle System.",
+        "  This endpoint will be evaluated qualitatively. The Pass Criteria require adequate performance in non-cancer cases (recall rate) and in cancer cases (detection rate)."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female subjects participating in FMSU004A protocol with known clinical status",
+        "Exclusion Criteria:",
+        "  Subjects with unknown clinical status not participating in FMSU004A protocol."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Assessing Adequacy of Training - Cancer Detection Threshold & Recall Rate",
+        "  This endpoint was evaluated qualitatively. Reported the number of readers meeting the Pass Criteria on the final FFDM plus DBT assessment case set, which requires adequate performance in cancer cases (detection rate) as well as non-cancer cases (recall rate). Per-subject BI-RADS, POM and recall scores were derived. Credit was only given for identifying a subject with cancer if the reader marked findings in at least one location with cancer. Findings that did not match the location of a malignant lesion were ignored for cancer cases in the per-subject analyses.",
+        "  Time frame: 4 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: FFDM Plus DBT",
+        "  Arm/Group Description: Breast Images with FFDM and DBT FFDM Plus DBT: FujiFilm Aspire Cristalle System.",
+        "  This endpoint will be evaluated qualitatively. The Pass Criteria require adequate performance in non-cancer cases (recall rate) and in cancer cases (detection rate).",
+        "  Overall Number of Participants Analyzed: 100",
+        "  Mean (95% Confidence Interval)",
+        "  Unit of Measure: probability  .805        (0.701 to 0.910)",
+        "Results 2: ",
+        "  Arm/Group Title: Full-Field Digital Mammography (FFDM)",
+        "  Arm/Group Description: Breast Images with FFDM alone FFDM: FujiFilm Aspire Cristalle System.",
+        "  This endpoint will be evaluated qualitatively. The Pass Criteria require adequate performance in non-cancer cases (recall rate) and in cancer cases (detection rate).",
+        "  Overall Number of Participants Analyzed: 100",
+        "  Mean (95% Confidence Interval)",
+        "  Unit of Measure: probability  0.756        (0.646 to 0.867)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/100 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/100 (0.00%)"
+    ]
+}

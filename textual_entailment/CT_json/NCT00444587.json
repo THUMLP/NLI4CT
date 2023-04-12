@@ -1,0 +1,50 @@
+{
+    "Clinical Trial ID": "NCT00444587",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Trastuzumab + 2nd Line Chemotherapy",
+        "  Eligible participants were administered trastuzumab 6 mg/kg of body weight (except in Israel, where the dose was 2 mg/kg body weight), IV infusion, every three weeks until disease progression, unacceptable toxicities, or withdrawal from study in combination with second line chemotherapy."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  female patients, >= 18 years of age;",
+        "  metastatic breast cancer;",
+        "  HER2 overexpression (IHC 3+ and/or FISH positive);",
+        "  disease progression during or after previous 1st line chemotherapy + Herceptin;",
+        "  scheduled to receive 2nd line chemotherapy.",
+        "Exclusion Criteria:",
+        "  concurrent immunotherapy or hormonal therapy;",
+        "  anthracyclines as part of previous 1st line chemotherapy or planned 2nd line chemotherapy;",
+        "  cardiac toxicity during previous 1st line chemotherapy + Herceptin;",
+        "  history of other malignancy within last 5 years."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Median Time to Disease Progression",
+        "  Time to disease progression (TTP) in days was defined as the time from enrollment to objective disease progression (all categories other than objective disease progression was set to be censored including death before progression). Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a nontarget lesion, or the appearance of new lesions. Tumor assessments were performed using computer tomography or magnetic resonance imaging. TTP as assessed by investigator, along with a recalculation done by computer algorithm is presented below. Median time was not assessed for 'Only Chemotherapy' group as randomization of participants was not feasible considering Trastuzumab widespread use in routine clinical practice.",
+        "  Time frame: Up to 5 years",
+        "Results 1: ",
+        "  Arm/Group Title: Trastuzumab + 2nd Line Chemotherapy",
+        "  Arm/Group Description: Eligible participants were administered trastuzumab 6 mg/kg of body weight (except in Israel, where the dose was 2 mg/kg body weight), IV infusion, every three weeks until disease progression, unacceptable toxicities, or withdrawal from study in combination with second line chemotherapy.",
+        "  Overall Number of Participants Analyzed: 73",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: Days  By Computer (n = 65): 171        (136 to 322)",
+        "  By Investigator (n = 73): 171        (136 to 265)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 20/93 (21.51%)",
+        "  Granulocytosis 1/93 (1.08%)",
+        "  Leukopenia 2/93 (2.15%)",
+        "  Angina pectoris 0/93 (0.00%)",
+        "  Atrial fibrillation 1/93 (1.08%)",
+        "  Cardiopulmonary failure 2/93 (2.15%)",
+        "  Retinal detachment 1/93 (1.08%)",
+        "  Diarrhoea 3/93 (3.23%)",
+        "  Nausea 1/93 (1.08%)",
+        "  Vomiting 1/93 (1.08%)",
+        "  Chest pain 1/93 (1.08%)",
+        "  Death 0/93 (0.00%)",
+        "  Pyrexia 1/93 (1.08%)"
+    ]
+}

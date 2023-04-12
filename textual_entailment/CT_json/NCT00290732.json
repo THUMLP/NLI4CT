@@ -1,0 +1,62 @@
+{
+    "Clinical Trial ID": "NCT00290732",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Intraductal Arm",
+        "  Participants received intraductal administration of dextrose or dextrose with pegylated liposomal doxorubicin hydrochloride (or PLD) prior to conventional surgery for breast cancer."
+    ],
+    "Eligibility": [
+        "DISEASE CHARACTERISTICS:",
+        "  Histologically confirmed infiltrating carcinoma of the breast meeting any of the following criteria:",
+        "  T1-3, any N disease",
+        "  Proven ductal carcinoma in situ",
+        "  Unresected disease",
+        "  Planned mastectomy as definitive surgical procedure",
+        "  Known or suspected metastatic disease allowed provided mastectomy is planned",
+        "  Nonpalpable tumor allowed (e.g., initial T2-3 tumor that responded to preoperative therapy)",
+        "  No inflammatory breast cancer or other T4 features",
+        "  Successful baseline ductogram",
+        "  Baseline nipple aspiration procedure must identify a duct productive of nipple aspirate fluid",
+        "  No severe nipple retraction",
+        "  Hormone receptor status not specified",
+        "  PATIENT CHARACTERISTICS:",
+        "  Female patients",
+        "  Menopausal status not specified",
+        "  ECOG performance status 0-2",
+        "  Absolute neutrophil count 1,500/mm^3",
+        "  Platelet count  100,000/mm^3",
+        "  Hemoglobin  9.0 g/dL",
+        "  Creatinine  2 times upper limit of normal (ULN)",
+        "  Bilirubin  2 times ULN",
+        "  AST and ALT  2.5 times ULN",
+        "  Not pregnant or nursing",
+        "  Negative pregnancy test",
+        "  Fertile patients must use effective contraception",
+        "  No significant history of severe allergy to iodinated contrast material or debilitating anxiety that may not allow for a ductogram",
+        "  PRIOR CONCURRENT THERAPY:",
+        "  See Disease Characteristics",
+        "  Prior preoperative chemotherapy, trastuzumab (Herceptin\u00ae), or hormonal therapy allowed provided it was completed 7-14 days prior to study treatment",
+        "  No prior radiation therapy, excisional biopsy, breast reduction, areolar surgery, or breast implant (present or past history of implant that was removed)",
+        "  No other prior procedure that may have altered the breast ductal system in the ipsilateral breast",
+        "  No other concurrent chemotherapy, radiotherapy, endocrine therapy, or biologic agents for breast cancer",
+        "  No other concurrent investigational drugs",
+        "  Concurrent bisphosphonates allowed"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Maximum Tolerated Dose (MTD)",
+        "  Maximum tolerated dose (MTD) of administering pegylated liposomal doxorubicin (PLD) into one duct of women with breast cancer awaiting mastectomy. MTD reflects highest dose of drug that did not cause Dose Limiting Toxicity (DLT) in more than 30% of patients.",
+        "  Time frame: Until up to 30 days after PLD administration",
+        "Results 1: ",
+        "  Arm/Group Title: Intraductal Arm",
+        "  Arm/Group Description: Participants received intraductal administration of dextrose or dextrose with pegylated liposomal doxorubicin hydrochloride (or PLD) prior to conventional surgery for breast cancer.",
+        "  Overall Number of Participants Analyzed: 15",
+        "  Measure Type: Number",
+        "  Unit of Measure: milligrams  10"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/3 (0.00%)",
+        "  Dermatology other (right areolar eschar)  [1]0/3 (0.00%)"
+    ]
+}

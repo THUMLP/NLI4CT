@@ -1,0 +1,49 @@
+{
+    "Clinical Trial ID": "NCT03273426",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Core Needle Biopsy",
+        "  Ultrasound-guided core needle biopsy (14G, 5 cores recommended) for complete clinical response (cCR) or near-cCR predicted by MRI.",
+        "INTERVENTION 2: ",
+        "  Vacuum-assisted Biopsy",
+        "  Vacuum-assisted biopsy (10G, 5 cores recommended) for complete clinical response (cCR) or near-cCR predicted by MRI."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients",
+        "  with unilateral primary cancer pathologically confirmed before neoadjuvant chemotherapy (NAC)",
+        "  who received NAC",
+        "  with detectable lesion / clip marker on ultrasound",
+        "  with cT1-T3 tumors",
+        "  clinical and imaging complete or near-complete response on MRI",
+        "  with informed consent",
+        "Exclusion Criteria:",
+        "  Multifocal cancer",
+        "  Residual microcalcification",
+        "  Contralateral breast cancer"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Negative Predictive Value",
+        "  Percentage of participants with pathologic complete response (pCR) confirmed by surgical excision in patients predicted by biopsy to have pCR",
+        "  Time frame: 2 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Core Needle Biopsy",
+        "  Arm/Group Description: Ultrasound-guided core needle biopsy (14G,   5 cores recommended) for complete clinical response (cCR) or near-cCR predicted by MRI.",
+        "  Overall Number of Participants Analyzed: 17",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  88.2        (71.94 to 95.64)",
+        "Results 2: ",
+        "  Arm/Group Title: Vacuum-assisted Biopsy",
+        "  Arm/Group Description: Vacuum-assisted biopsy (10G,   5 cores recommended) for complete clinical response (cCR) or near-cCR predicted by MRI.",
+        "  Overall Number of Participants Analyzed: 14",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  85.7        (64.37 to 95.22)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/20 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

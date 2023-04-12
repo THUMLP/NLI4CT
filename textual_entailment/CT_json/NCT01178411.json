@@ -1,0 +1,56 @@
+{
+    "Clinical Trial ID": "NCT01178411",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Tivantinib (Monotherapy or Combination)",
+        "  Participants received tivantinib 360 mg twice daily by mouth as monotherapy or combination therapy."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Signed written informed consent to participate in clinical study of tivantinib",
+        "  Male or female participants of the age defined in the original protocol they were enrolled.",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status (PS) 3 (or 2 for tivantinib-naive participants)",
+        "  Adequate bone marrow function:",
+        "  Absolute neutrophil count (ANC) 1.5 x 10^9/L",
+        "  Hemoglobin 8.0 g/dL (or  9.0 g/dL for tivantinib-na\u00efve participants)",
+        "  Enrollment within 14 days of the completion of End of Treatment Visit of the original study",
+        "  Participants, who participated in previous ARQ 197 studies that have reached their designated end-dates, who did not meet discontinuation criteria in their original study, and who may, in the opinion of the Investigator and the Sponsor, benefit from treatment",
+        "  Women of childbearing potential must have a negative pregnancy test performed within 14 days of the start of study drug. Both men and women enrolled in this study must agree to use adequate birth control measures while on study",
+        "Exclusion Criteria:",
+        "  Known or suspected allergy to ARQ 197",
+        "  Substance abuse, medical, psychological or social conditions that may interfere with the participant's participation in the study or evaluation of the study results",
+        "  Any condition that is unstable or which could jeopardize the safety of the participant and his/her compliance in the study",
+        "  A serious uncontrolled medical disorder/condition that in the opinion of the Investigator would impair the ability of the participant to receive protocol therapy",
+        "  Requirement to receive other concurrent chemotherapy (excluding combination therapy defined in original protocol), immunotherapy, radiotherapy, or any other investigational drug while on study. Palliative radiotherapy is allowed provided that:",
+        "  in the opinion of the Investigator, the participant does not have progressive disease",
+        "  the radiation field does not encompass a target lesion",
+        "  no more than 10% of the participant's bone marrow is irradiated"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Extent of Exposure to ARQ 197 in Participants Benefiting From Prior ARQ 197 Therapy",
+        "  The duration of ARQ 197 exposure in this study was calculated as [(date of last dose of study drug - date of first dose of study drug) + 1]. Results refer to duration of ARQ 197 treatment in the present study only (i.e., does not include treatment received during participation in \"feeder\" studies).",
+        "  Time frame: Up to 3,021 days (up to 14-Jan-2019)",
+        "Results 1: ",
+        "  Arm/Group Title: Tivantinib (Monotherapy or Combination)",
+        "  Arm/Group Description: Participants received tivantinib 360 mg twice daily by mouth as monotherapy or combination therapy.",
+        "  Overall Number of Participants Analyzed: 60",
+        "  Median (Full Range)",
+        "  Unit of Measure: Days  125        (5 to 3021)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 19/60 (31.67%)",
+        "  Anaemia 1/60 (1.67%)",
+        "  Febrile neutropenia 1/60 (1.67%)",
+        "  Atrial fibrillation 1/60 (1.67%)",
+        "  Cardiopulmonary failure 1/60 (1.67%)",
+        "  Abdominal mass 1/60 (1.67%)",
+        "  Abdominal pain 1/60 (1.67%)",
+        "  Diarrhoea 1/60 (1.67%)",
+        "  Duodenal ulcer 1/60 (1.67%)",
+        "  Nausea 1/60 (1.67%)",
+        "  Small intestinal obstruction 1/60 (1.67%)",
+        "  Vomiting 1/60 (1.67%)"
+    ]
+}

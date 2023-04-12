@@ -1,0 +1,36 @@
+{
+    "Clinical Trial ID": "NCT00429572",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Allogeneic Transplantation",
+        "  Intravenous Fludarabine 30 mg/m^2 daily on days 1-5, and Melphalan 70 mg/m^2 on days 4 and 5 followed by blood stem cell transplant on day 7."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Recurrent or residual metastatic breast carcinoma",
+        "  Zubrod performance status less than 2",
+        "  18-60 years old",
+        "  Related donor human leukocyte antigen (HLA)-compatible for allogeneic transplantation or unrelated HLA-compatible donor.",
+        "  No major organ dysfunction or active infection",
+        "Exclusion Criteria: None"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Tumor Response",
+        "  Best response recorded from start of treatment until disease progression/recurrence using World Health Organization (WHO) criteria of Complete Response: disappearance of all disease/symptoms > 4 weeks; Partial response, > 50% reduction in sum of products of diameters of each measurable lesion for more than 4 weeks; Stable Disease, no change in tumor size; and Progressive Disease, appearance of new lesions or > 25% increase in sum of products of diameters of any measurable lesions.",
+        "  Time frame: Baseline to measured progressive disease (post study follow-up period 24 months starting from the date of the last drug administration). Data collected every 4 months.",
+        "Results 1: ",
+        "  Arm/Group Title: Allogeneic Transplantation",
+        "  Arm/Group Description: Intravenous Fludarabine 30 mg/m^2 daily on days 1-5, and Melphalan 70 mg/m^2 on days 4 and 5 followed by blood stem cell transplant on day 7.",
+        "  Overall Number of Participants Analyzed: 18",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Complete Response: 5",
+        "  Stable Disease: 9",
+        "  Partial Response: 1",
+        "  Progressive Disease: 3"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/19 (0.00%)"
+    ]
+}

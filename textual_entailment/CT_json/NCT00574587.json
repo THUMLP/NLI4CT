@@ -1,0 +1,50 @@
+{
+    "Clinical Trial ID": "NCT00574587",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Stratum A: VR-Paclitaxel-Trastuzumab",
+        "  Stratum A: Vorinostat 200 (Dose Level 1) or 300 mg (Dose level 2) by mouth on days 1-3 plus weekly paclitaxel 80 mg x 12 weeks and trastuzumab 4 mg/kg, then 2 mg/kg x 12 weeks, followed by doxorubicin 60 mg/m2 -cyclophosphamide 600 mg/m2 every 2 weeks x 8 weeks, followed by surgery",
+        "INTERVENTION 2: ",
+        "  Stratum B: VR-Paclitaxel-Trastuzumab",
+        "  Stratum B: 300 mg by mouth on days 1-3 plus weekly paclitaxel 80 mg x 12 weeks and trastuzumab 4 mg/kg, then 2 mg/kg x 12 weeks, followed by doxorubicin 60 mg/m2 -cyclophosphamide 600 mg/m2 every 2 weeks x 8 weeks, followed by surgery"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically or cytologically confirmed adenocarcinoma of the breast associated with the following stages: IIB, IIIA, IIIB or IIIC.",
+        "  Tumor must be Her2/neu positive",
+        "  No prior chemotherapy, radiation or definitive therapeutic surgery",
+        "Exclusion Criteria:",
+        "  May not be receiving any other investigational agents",
+        "  Uncontrolled intercurrent illness"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Recommended Phase II Dose of Vorinostat in Combination With Weekly Paclitaxel/Trastuzumab",
+        "  Dose limiting toxicity in cycle 1",
+        "  Time frame: 3 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Stratum A: VR-Paclitaxel-Trastuzumab",
+        "  Arm/Group Description: Stratum A: Vorinostat 200 (Dose Level 1) or 300 mg (Dose level 2) by mouth on days 1-3 plus weekly paclitaxel 80 mg x 12 weeks and trastuzumab 4 mg/kg, then 2 mg/kg x 12 weeks, followed by doxorubicin 60 mg/m2 -cyclophosphamide 600 mg/m2 every 2 weeks x 8 weeks, followed by surgery",
+        "  Overall Number of Participants Analyzed: 6",
+        "  Measure Type: Number",
+        "  Unit of Measure: mg  300",
+        "Results 2: ",
+        "  Arm/Group Title: Stratum B: VR-Paclitaxel-Trastuzumab",
+        "  Arm/Group Description: Stratum B: 300 mg by mouth on days 1-3 plus weekly paclitaxel 80 mg x 12 weeks and trastuzumab 4 mg/kg, then 2 mg/kg x 12 weeks, followed by doxorubicin 60 mg/m2 -cyclophosphamide 600 mg/m2 every 2 weeks x 8 weeks, followed by surgery",
+        "  Overall Number of Participants Analyzed: 6",
+        "  Measure Type: Number",
+        "  Unit of Measure: mg  300"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/3 (0.00%)",
+        "  cardiac tamponade 0/3 (0.00%)",
+        "  congestive heart failure 0/3 (0.00%)",
+        "  pulmonary emobolism 0/3 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 2/23 (8.70%)",
+        "  cardiac tamponade 0/23 (0.00%)",
+        "  congestive heart failure 1/23 (4.35%)",
+        "  pulmonary emobolism 1/23 (4.35%)"
+    ]
+}

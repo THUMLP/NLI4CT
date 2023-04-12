@@ -1,0 +1,49 @@
+{
+    "Clinical Trial ID": "NCT01614210",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Tamoxifen Pre and Post Breast Surgery",
+        "  All patients enrolled in the study.",
+        "  Tamoxifen: All patients will take tamoxifen 20 mg po daily for 7 days prior to surgery and for 14 days after surgery.",
+        "  Breast cancer surgery: Breast cancer surgery"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Age > 18 years old",
+        "  Diagnosed with hormone receptor positive invasive breast cancer (estrogen receptor (ER) or progesterone receptor (PR) or both >1%) by core needle biopsy",
+        "  Clinical American Joint Committee on Cancer (AJCC) 7th edition Stage 1 or 2",
+        "  Candidate for surgical therapy",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 0,1, or 2",
+        "  No chemotherapy or endocrine therapy for breast cancer in last 5 years",
+        "  Paraffin fixed core needle tissue block, or biopsy punch available for central analysis for proliferative markers",
+        "  Not pregnant or lactating and practicing adequate birth control if premenopausal",
+        "  Able and willing to provide informed consent",
+        "Exclusion Criteria:",
+        "  Prior personal history of uterine cancer",
+        "  Prior personal history of stroke or deep vein thrombosis (DVT)",
+        "  Current therapy with strong CYP2D6 inhibitors The following medications should not be administered with tamoxifen (21 day treatment period) and will need to be stopped for the designated period of time prior to starting the study tamoxifen.",
+        "  No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated Stage 0, I or II cancer from which the patient is currently in complete remission, or any other cancer from which the patient has been disease-free for 5 years",
+        "  Fluoxetine - should be discontinued 30 days prior to starting tamoxifen Paroxetine - should be discontinued 5 days prior to starting tamoxifen Sertraline - should be discontinued 5 days prior to starting tamoxifen Bupropion - should be discontinued 5 days prior to starting tamoxifen",
+        "  Concurrent coumarin-type anticoagulation therapy",
+        "  Any other contraindications to tamoxifen therapy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Ki67 Expression in Tumors",
+        "  Demonstrate a significant change in Ki67 expression in tumors with 7 days of pre-surgical tamoxifen.",
+        "Time frame: 7 days",
+        "Results 1: ",
+        "  Arm/Group Title: Tamoxifen Pre and Post Breast Surgery",
+        "  Arm/Group Description: All patients enrolled in the study.",
+        "  Tamoxifen: All patients will take tamoxifen 20 mg po daily for 7 days prior to surgery and for 14 days after surgery.",
+        "  Breast cancer surgery: Breast cancer surgery",
+        "  Overall Number of Participants Analyzed: 44",
+        "  Mean (95% Confidence Interval)",
+        "  Unit of Measure: percentage change in Ki67  -40        (-63 to -29)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/52 (1.92%)",
+        "  Thromboembolic Event  1/52 (1.92%)"
+    ]
+}

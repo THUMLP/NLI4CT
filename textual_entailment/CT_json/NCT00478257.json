@@ -1,0 +1,48 @@
+{
+    "Clinical Trial ID": "NCT00478257",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Effect of Bright Light",
+        "  Effect of bright light on fatigue in women with breast cancer",
+        "INTERVENTION 2: ",
+        "  Effect of Red Light",
+        "  effect of red light on fatigue in women with breast cancer"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  stage I-III breast cancer",
+        "  adjuvant or neoadjuvant anthracycline-based chemotherapy",
+        "Exclusion Criteria:",
+        "  under age 18",
+        "  pregnancy",
+        "  metastatic or inoperable (including inflammatory) breast cancer",
+        "  confounding underlying medical illnesses",
+        "  history of mania",
+        "  history of other axis-I psychiatric disorder",
+        "  other physical or psychological impairments -"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Fatigue",
+        "  The Short Form of the Multidimensional Fatigue Symptom Inventory (MFSI-sf) was used to measure fatigue. The range of possible score for each subscale is 0 to 24, and the range for total score is -24 to 96, with a higher score indicating more severe fatigue, except for the Vigor subscale, where larger score indicates less fatigue.",
+        "  Time frame: four cycles of chemotherapy",
+        "Results 1: ",
+        "  Arm/Group Title: Effect of Bright Light",
+        "  Arm/Group Description: Effect of bright light on fatigue in women with breast cancer",
+        "  Overall Number of Participants Analyzed: 23",
+        "  Mean (Standard Error)",
+        "  Unit of Measure: units on a scale  15.25         (5.5)",
+        "Results 2: ",
+        "  Arm/Group Title: Effect of Red Light",
+        "  Arm/Group Description: effect of red light on fatigue in women with breast cancer",
+        "  Overall Number of Participants Analyzed: 16",
+        "  Mean (Standard Error)",
+        "  Unit of Measure: units on a scale  21.6         (7.2)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/23 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/16 (0.00%)"
+    ]
+}

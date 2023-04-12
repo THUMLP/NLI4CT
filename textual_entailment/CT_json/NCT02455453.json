@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT02455453",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Diagnostic FFNP-PET/CT Scan",
+        "  (2) 18F-FFNP-PET/CT scans",
+        "  First one prior to estradiol challenge test",
+        "  Second one immediately following one day of estradiol challenge test",
+        "  (1) FDG-PET/CT scan at screening",
+        "  The estradiol challenge test will consist of administering a total of 6 mg of estradiol dosed orally as three 2 mg tablets with each tablet being administered approximately 8 hours apart and within a 24 hour period. This estradiol medication will be provided to the patient by the study."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patient must be postmenopausal defined as meeting one or more of the following:",
+        "  Age  60 years",
+        "  Amenorrheic for at least 12 months",
+        "  Surgically sterile- having undergone bilateral oophorectomy,",
+        "  FSH level in postmenopausal range according to institutional standards (note follicle-stimulating hormone (FSH) laboratory testing must be ordered as standard of care to determine optimal treatment and should not be ordered simply to confirm eligibility to this study)",
+        "  OR Pre-menopausal for whom standard estradiol treatment (ET) is planned with ovarian suppression (imaging on study should be completed prior to start of ovarian suppression)",
+        "  Patient must have histological or cytological confirmed breast cancer and fall into one of the following categories:",
+        "  New diagnosis with plans for at least 6 months of neoadjuvant ET or any amount of neoadjuvant ET if surgery is planned as this will be used for response assessment .",
+        "  Patients with newly diagnosed metastatic breast cancer or patient with known metastatic disease who has progressed while on therapy (no washout period is needed if the patient was treated with AIs or chemotherapy, but 2 months washout period is needed if the patient was treated with tamoxifen) who are going to be treated with ET.",
+        "  Patient must have any one of the following types of breast cancer (primary or metastatic): ER+/PgR+/HER2- or ER+/PgR-/HER2-.",
+        "  ER+ is defined as Allred score of at least 4 and greater.",
+        "  PgR+ is defined as Allred score of at least 4 and greater.",
+        "  Immunohistochemistry (IHC) is the primary assay methodology for HER2. HER2- refers to HER2 of 0, 1+ by IHC or negative by fluorescence in situ hybridization (FISH)",
+        "  Patient must have at least one measurable lesion according to RECIST 1.1 by radiological evaluation (ultrasound, mammography, MRI, CT, PET) or physical examination.",
+        "  Patients with evaluable osseous metastasis that are lytic or mixed lytic-sclerotic are eligible.",
+        "  Patients with hepatic lesions may be eligible provided the location of the lesion is peripheral or not too close to hepatic ducts. Decision on hepatic lesion eligibility will be made by the principal investigator or sub-investigator after careful review of all available imaging to ensure evaluation of the lesion will not be obscured by normal hepatobiliary excretion of 18F-FFNP.",
+        "  Patient must be able to understand and willing to sign a written informed consent document.",
+        "  Prior chemotherapy or endocrine therapy is allowed",
+        "  The patient must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-2 or, based on the judgment of the treating medical oncologist, can tolerate imaging and at least 6 months of ET",
+        "  The patient should have a life expectancy of > 6 months.",
+        "Exclusion Criteria:",
+        "  Patient with other invasive malignancies, with the exception of non-melanoma skin cancer or cervical carcinoma in-situ, who had (or have) any evidence of the other cancer present within the last 5 years",
+        "  Unable to tolerate up to 60 min of PET imaging per imaging session.",
+        "  Patients with non-measurable non-evaluable lesions such as pleural effusion are not eligible to participate.",
+        "  Patients with vertebral lesions that, in the opinion of the Principal Investigator and the treating medical oncologist, pose an imminent risk for cord compression."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Primary Tumor FFNP Uptake Before and After Estradiol Challenge as Measured by Percent Change in Standardized Uptake Value (SUV)",
+        "  [Not Specified]",
+        "  Time frame: Completion of second FFNP-PET/CT scan (up to 4 weeks)",
+        "Results 1: ",
+        "  Arm/Group Title: Diagnostic FFNP-PET/CT Scan",
+        "  Arm/Group Description: (2) 18F-FFNP-PET/CT scans",
+        "  First one prior to estradiol challenge test",
+        "  Second one immediately following one day of estradiol challenge test",
+        "  (1) FDG-PET/CT scan at screening",
+        "  The estradiol challenge test will consist of administering a total of 6 mg of estradiol dosed orally as three 2 mg tablets with each tablet being administered approximately 8 hours apart and within a 24 hour period. This estradiol medication will be provided to the patient by the study.",
+        "  Overall Number of Participants Analyzed: 45",
+        "  Median (Full Range)",
+        "  Unit of Measure: percent change in SUV  11.0        (-46.0 to 306.0)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/47 (0.00%)"
+    ]
+}

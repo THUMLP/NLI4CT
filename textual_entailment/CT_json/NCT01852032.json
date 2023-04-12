@@ -1,0 +1,47 @@
+{
+    "Clinical Trial ID": "NCT01852032",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Breast Cancer Patients",
+        "  Tomosynthesis Breast Scanning is done and breast CT Scanning is done."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  35 years of age or older",
+        "  While male patients will not be explicitly excluded, it is expected that all patients in this study will be women",
+        "  Diagnostic findings from prior mammography suspicious for, or highly suggestive of, breast malignancy -BIRADS (Breast Imaging Reporting and Data System) categories 4 and 5",
+        "  Scheduled for ultrasound or stereotactic core biopsy",
+        "  Ability to lie still on a table top for up to 10 minutes, longer than the typical breast CT duration.",
+        "  Ability to understand risks, procedures, and benefits involved",
+        "Exclusion Criteria:",
+        "  Recent breast biopsy",
+        "  History of breast augmentation implant",
+        "  Pregnant or Positive urine pregnancy test (UPT) or currently breast-feeding",
+        "  History of moderate or severe adverse reaction to iodinated contrast injection",
+        "  Recent serum creatinine  1.5 mg/dL",
+        "  History of Diabetes Mellitus",
+        "  Currently taking Glucophage or Glucovance (Metformin)",
+        "  History of chronic asthma",
+        "  History of allergy to iodine",
+        "  Multiple food and/or drug allergy",
+        "  Renal disease",
+        "  History of pulmonary disease, phobia of breath holding, or other condition that could prevent the subject from being able to perform the 16 second breath hold"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Beta of CT Coronal View",
+        "  frequency range corresponding to noise power spectrum (NPS) where beta = NPS(f) = af^-B.",
+        "  beta is calculated as noise corresponding to frequency. The values of the exponent, beta, range from 1.5 to 3.5 Lower Beta values correspond to better image quality (less noise, increased cancer detection).",
+        "Time frame: Day 1",
+        "Results 1: ",
+        "  Arm/Group Title: Breast Cancer Patients",
+        "  Arm/Group Description: Tomosynthesis Breast Scanning is done and breast CT Scanning is done.",
+        "  Overall Number of Participants Analyzed: 23",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: power-law slope(B)  1.75         (0.424)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/23 (0.00%)"
+    ]
+}

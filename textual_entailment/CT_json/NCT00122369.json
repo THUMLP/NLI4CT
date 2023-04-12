@@ -1,0 +1,43 @@
+{
+    "Clinical Trial ID": "NCT00122369",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Standard of Care",
+        "  As standard care, the biopsy team attempted to comfort patients in their usual way: they warned of upcoming stimuli, asked patients about their experience, commiserated with them about discomfort, and generally expressed sympathy.",
+        "INTERVENTION 2: ",
+        "  Empathic Attention",
+        "  The Empathy condition was defined by a set of structured attentive behaviors engaged in by a research assistant. These behaviors were standardized according to a manual and proven suitable for invasive procedures in radiology (Lang and Berbaum 1997; Lang et al. 1999)"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients presenting for large core breast biopsy in the Radiology Department at the Beth Israel Deaconess Medical Center Boston.",
+        "Exclusion Criteria:",
+        "  Patients are excluded if :",
+        "  They are unable to give informed consent, or pass screening for impaired mental function or psychosis.",
+        "  They are unable to hear or understand English."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Anxiety Ratings at Specified Time Point During the Procedure",
+        "  Self-reported anxiety on a scale of 0-10 with 0=no anxiety to 10=worst possible anxiety. Patients self-reported anxiety at the beginning (time 0), every 10 minutes, and at the end of their biopsy procedure on a 0-10 numeric verbal anxiety scale (0=no anxiety at all, 10=worst possible anxiety). Participants were followed for the duration of the biopsy procedure, an average of 43 min.",
+        "Time frame: 0 min",
+        "Results 1: ",
+        "  Arm/Group Title: Standard of Care",
+        "  Arm/Group Description: As standard care, the biopsy team attempted to comfort patients in their usual way: they warned of upcoming stimuli, asked patients about their experience, commiserated with them about discomfort, and generally expressed sympathy.",
+        "  Overall Number of Participants Analyzed: 76",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: units on a scale  4.5        (2 to 6)",
+        "Results 2: ",
+        "  Arm/Group Title: Empathic Attention",
+        "  Arm/Group Description: The Empathy condition was defined by a set of structured attentive behaviors engaged in by a research assistant. These behaviors were standardized according to a manual and proven suitable for invasive procedures in radiology (Lang and Berbaum 1997; Lang et al. 1999)",
+        "  Overall Number of Participants Analyzed: 82",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: units on a scale  5        (3 to 7)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/76 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

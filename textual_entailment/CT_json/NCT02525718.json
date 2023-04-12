@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT02525718",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Placebo",
+        "  Subjects will be randomly selected to receive saline (placebo), administered to the breast area to cover the intercostal nerves supplying the breast tissue during surgery.",
+        "  Saline: If randomized to this arm, subjects will receive an intraoperative injection of saline. (2.5 mg/ml)",
+        "INTERVENTION 2: ",
+        "  0.25 % Bupivacaine w/ Epinephrine & 4mg Dexamethasone",
+        "  Subjects will be randomly selected to receive selective block with a local anesthetic solution containing 0.25 % bupivacaine (2.5 mg/ml) with 1:100,000 epinephrine and 4 mg dexamethasone. The injection will be performed in certain locations of the breast area to cover the intercostal nerves supplying the breast tissue.",
+        "  Subjects will be randomly selected to receive the local anesthetic solution containing 0.25 % bupivacaine (2.5 mg/ml) with 1:100,000 epinephrine and 4 mg dexamethasoneadministered to the breast area to cover the intercostal nerves supplying the breast tissue during surgery.",
+        "  0.25 % bupivacaine (2.5 mg/ml) w/ 1:100,000 epinephrine & 4 mg dexamethasone: If randomized to this arm, subjects will receive a selective block with a local anesthetic solution containing 0.25 % bupivacaine.",
+        "(2.5 mg/ml) with 1:100,000 epinephrine and 4 mg dexamethasone intraoperatively."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients who undergo mastectomy surgery with immediate reconstruction involving insertion of a tissue expander performed by the principal investigator beginning from the time of study approval until study enrollment is complete.",
+        "Exclusion Criteria:",
+        "  Patients under the age of 18, or over the age of 79",
+        "  Allergy to local anesthetics or corticosteroids",
+        "  Patients with history of chronic pain or with chronic use of opioid analgesics",
+        "  Patients with history of lung disease or prior anterior thoracotomy or median sternotomy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Quality of Recovery Score",
+        "  The primary outcome measure is a well-validated and widely used survey measuring the quality of recovery from anesthesia entitled the \"Global 40 Item Quality of Recovery\" survey. This is a 40 question survey administered to patients to allow them to rate their quality of recovery along a number of different dimensions, including emotional state, physical comfort, psychological support, physical independence, and pain. The score ranges from 40 to 200, with 40 representing a very poor overall quality of recovery and 200 representing the best possible recovery. The following reference explains the Global 40 Item Quality of Recovery survey in detail:",
+        "  Myles, P.S., et al., Validity and reliability of a postoperative quality of recovery score: the QoR-40. Br J Anaesth, 2000. 84(1): p. 11-5.",
+        "  PMID: 10740540",
+        "  Time frame: 24 hours post-operatively",
+        "Results 1: ",
+        "  Arm/Group Title: Placebo",
+        "  Arm/Group Description: Subjects will be randomly selected to receive saline (placebo), administered to the breast area to cover the intercostal nerves supplying the breast tissue during surgery.",
+        "  Saline: If randomized to this arm, subjects will receive an intraoperative injection of saline. (2.5 mg/ml)",
+        "  Overall Number of Participants Analyzed: 22",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: score on a scale  165        (143 to 179)",
+        "Results 2: ",
+        "  Arm/Group Title: 0.25 % Bupivacaine w/ Epinephrine & 4mg Dexamethasone",
+        "  Arm/Group Description: Subjects will be randomly selected to receive selective block with a local anesthetic solution containing 0.25 % bupivacaine (2.5 mg/ml) with 1:100,000 epinephrine and 4 mg dexamethasone. The injection will be performed in certain locations of the breast area to cover the intercostal nerves supplying the breast tissue.",
+        "  Subjects will be randomly selected to receive the local anesthetic solution containing 0.25 % bupivacaine (2.5 mg/ml) with 1:100,000 epinephrine and 4 mg dexamethasoneadministered to the breast area to cover the intercostal nerves supplying the breast tissue during surgery.",
+        "  0.25 % bupivacaine (2.5 mg/ml) w/ 1:100,000 epinephrine & 4 mg dexamethasone: If randomized to this arm, subjects will receive a selective block with a local anesthetic solution containing 0.25 % bupivacaine.",
+        "(2.5 mg/ml) with 1:100,000 epinephrine and 4 mg dexamethasone intraoperatively.",
+        "  Overall Number of Participants Analyzed: 23",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: score on a scale  169        (155 to 182)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/22 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/23 (0.00%)"
+    ]
+}
