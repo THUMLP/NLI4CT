@@ -1,0 +1,55 @@
+{
+    "Clinical Trial ID": "NCT00586326",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Treated",
+        "  Subjects enrolled with device placed and treated with partial breast irradiation"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Pre-Surgery:",
+        "  Unicentric pure DCIS",
+        "  Lesions should have a greatest dimension of 3 cm or less as determined by pre-surgery mammography and MRI",
+        "  Post-Surgery:",
+        "  Negative histological margins confirmed prior to beginning radiation therapy.",
+        "  Margins are positive if there is tumor at the inked margin.",
+        "  Classified as low (NG1), intermediate (NG2) or high (NG3) nuclear grade DCIS, using the Philadelphia Consensus Conference Guidelines are eligible",
+        "  Clinically node negative",
+        "Exclusion Criteria:",
+        "  Distance from the balloon surface to the surface of the skin < 5mm as determined by CT imaging.",
+        "  Distant metastases.",
+        "  Invasive or in-situ lobular carcinoma (post-surgery assessment).",
+        "  Nonepithelial breast malignancies such as sarcoma or lymphoma.",
+        "  DCIS that is multicentric in the ipsilateral breast.",
+        "  Pregnant or lactating.",
+        "  Prior non-hormonal therapy for the present breast cancer, including radiation therapy and/or chemotherapy.",
+        "  Collagen vascular diseases",
+        "  Coexisting medical conditions with life expectancy < 2 years.",
+        "  Serious psychiatric or addictive disorder",
+        "  Previously treated contralateral breast carcinoma",
+        "  Synchronous bilateral breast carcinoma.",
+        "  Other malignancy, except non-melanoma skin cancer, < 5 years prior to participation in the study; the disease free interval from any prior carcinoma must be continuous.",
+        "  Patients with diffuse disease"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Local Control Rate for Follow-up Period of 5 Years.",
+        "  Failure of local control was defined as a histologically confirmed recurrence (invasive or non-invasive) within the prescription isodose volume. All recurrences were to have histological evaluation per the protocol; however, the case report forms did not provide space for this data to be captured. Ipsilateral axillary, infraclavicular, internal mammary, or supraclavicular recurrence or distant metastases were not considered treatment failures unless accompanied by ipsilateral breast failure.",
+        "  Time frame: Data collected at the time of implant, radiation therapy, and at the patient's 3 month, 6 month, 1 year, 2 year, 3 year, 4 year and 5 year follow-up visits.",
+        "Results 1: ",
+        "  Arm/Group Title: Treated",
+        "  Arm/Group Description: Subjects enrolled with device placed and treated with partial breast irradiation",
+        "  Overall Number of Participants Analyzed: 100",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of subjects  99"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 6/118 (5.08%)",
+        "  Cellulitis [1]1/118 (0.85%)",
+        "  Infection [2]1/118 (0.85%)",
+        "  Lung cancer with metastases to the brain [3]1/118 (0.85%)",
+        "  Abnormal uterine bleeding [4]1/118 (0.85%)",
+        "  Cerebral Vascular Accident [5]2/118 (1.69%)"
+    ]
+}

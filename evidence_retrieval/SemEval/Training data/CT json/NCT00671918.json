@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT00671918",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Intent-To-Treat",
+        "  Participants received a single dose of 50 \u03bcg Lymphoseek radiolabeled with 0.5 or 1.0 mCi Tc 99m and blue dye for lymphatic mapping and surgical resection of lymph nodes."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  The patient has provided written informed consent with HIPAA authorization before participating in the study, as has his/her responsible caregiver, if applicable.",
+        "  The patient is a candidate for surgical intervention, with lymph node mapping being a part of the surgical plan.",
+        "  The patient is at least 18 years of age at the time of consent.",
+        "  The patient has an ECOG performance status of Grade 0 - 2 [8].",
+        "  The patient has a clinical negative node status at the time of study entry.",
+        "  If of child bearing potential, the patient has a negative pregnancy test within 72 hours prior to administration of Lymphoseek, has been surgically sterilized, or has been postmenopausal for at least 1 year.",
+        "  The patient is currently not participating in another investigational drug study.",
+        "  Melanoma Patients",
+        "  The patient has a diagnosis of primary melanoma.",
+        "  Breast Cancer Patients",
+        "  The patient has a diagnosis of primary breast cancer.",
+        "  Patients with pure ductal carcinoma in situ (DCIS) or non-invasive carcinoma if lymph node biopsy is part of the surgical plan.",
+        "Exclusion Criteria:",
+        "  The patient is pregnant or lactating;",
+        "  The patient has clinical or radiological evidence of metastatic cancer including palpably abnormal or enlarged lymph nodes (i.e., all patients should be any T,N0,M0);",
+        "  The patient has a known hypersensitivity to Lymphazurin or Patent Bleu V.",
+        "  Melanoma Patients",
+        "  The patient has a tumor with a Breslow depth less than 0.75mm.;",
+        "  Patients that have had preoperative chemotherapy, immunotherapy or radiation therapy;",
+        "  Patients diagnosed with a prior invasive melanoma that would occur on the same body region or potentially draining to the same nodal basin or patients with truncal or extremity primary melanoma who has had a prior breast cancer potentially draining to the same axillary nodal basin;",
+        "  Patients who have undergone node basin surgery of any type or radiation to the nodal basin(s) potentially draining the primary melanoma;",
+        "  Patients who have undergone a wide excision for their primary melanoma (>1 cm in dimension) or complex reconstruction (rotation, free flap or skin graft of any type).",
+        "  Breast Cancer Patients",
+        "  The patient has bilateral primary breast cancers or multiple tumors within their breast;",
+        "  Patients that have had prior surgical procedures such as breast implants, reduction mammoplasty or axillary surgery;",
+        "  Patients scheduled for bilateral mastectomy for any reason;",
+        "  Patients that have had preoperative radiation therapy to the affected breast or axilla"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Concordance of Blue Dye and Lymphoseek",
+        "  The proportion of lymph nodes detected intraoperatively by blue dye that were also detected by Lymphoseek.",
+        "  Time frame: Surgery after injections of Lymphoseek and blue dye",
+        "Results 1: ",
+        "  Arm/Group Title: Intent-To-Treat",
+        "  Arm/Group Description: Participants received a single dose of 50 \u03bcg Lymphoseek radiolabeled with 0.5 or 1.0 mCi Tc 99m and blue dye for lymphatic mapping and surgical resection of lymph nodes.",
+        "  Overall Number of Participants Analyzed: 136",
+        "  Overall Number of Units Analyzed",
+        "  Type of Units Analyzed: Lymph Nodes  Measure Type: NumberNumber (95% Confidence Interval)Unit of Measure: Proportion of Lymph Nodes: 0.9767        (0.9466 to 0.9924)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 4/179 (2.23%)",
+        "  Myocardial Infarction  [1]1/179 (0.56%)",
+        "  Nausea  [1]1/179 (0.56%)",
+        "  Vomiting  [1]1/179 (0.56%)",
+        "  Cellulitis  [1]1/179 (0.56%)",
+        "  Modified Radical Mastectomy  [1]1/179 (0.56%)"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Clinical Trial ID": "NCT00270894",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Neoadjuvant Therapy",
+        "  Neoadjuvant therapy will consist of epirubicin (100 mg/m^2) + cyclophosphamide (600 mg/m^2) every 2 weeks for 4 cycles; followed by a 3-week break; followed by docetaxel (75 mg/m^2) every 2 weeks for 4 cycles + trastuzumab (6 mg/kg [loading dose] once then 4 mg/kg [maintenance dose]) every 2 weeks for 4 treatments."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Non-pregnant females =/> 18 years of age",
+        "  Non-inflammatory breast cancer stage IIA - IIIC or high risk node negative",
+        "  Core biopsy of breast demonstrating invasive cancer and documented ER/PgR receptor status",
+        "  Normal cardiac function and adequate hematologic function",
+        "  Human epidermal growth factor receptor 2 protein (HER2) positive",
+        "  No evidence of metastatic disease",
+        "  ECOG Performance Status 0 - 1",
+        "  Women of childbearing potential must agree to using effective contraception while on treatment and for at least 3 months post-treatment",
+        "Exclusion Criteria:",
+        "  Treated with other investigational drugs within 30 days",
+        "  Uncontrolled intercurrent disease or active infection",
+        "  Known sensitivity to e. coli-derived proteins or polysorbate 80",
+        "  Psychiatric illness or social situation that would limit study compliance",
+        "  Pre-existing peripheral neuropathy > Grade 1",
+        "  Cancer within 5 years of screening with the exception of surgically cured nonmelanomatous skin cancer; in-situ carcinoma of the cervix; or in-situ carcinoma of the breast",
+        "  Bilateral synchronous breast cancer",
+        "  Inflammatory breast cancer",
+        "  Women who are pregnant or breast feeding"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Subjects Able to Complete > 85% of the Planned Dose on Schedule",
+        "  Feasibility will be determined by evaluating the percentage of subjects able to complete the neoadjuvant portion of the study on time with > 85% of the protocol-specified dose.",
+        "  Time frame: From the start of treatment through the neoadjuvant treatment period (approximately 20 weeks)",
+        "Results 1: ",
+        "  Arm/Group Title: Neoadjuvant Therapy",
+        "  Arm/Group Description: Neoadjuvant therapy will consist of epirubicin (100 mg/m^2) + cyclophosphamide (600 mg/m^2) every 2 weeks for 4 cycles; followed by a 3-week break; followed by docetaxel (75 mg/m^2) every 2 weeks for 4 cycles + trastuzumab (6 mg/kg [loading dose] once then 4 mg/kg [maintenance dose]) every 2 weeks for 4 treatments.",
+        "  Overall Number of Participants Analyzed: 30",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  60"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 4/30 (13.33%)",
+        "  Congestive heart failure * 1/30 (3.33%)",
+        "  Pneumonia * 1/30 (3.33%)",
+        "  Medical Error * 1/30 (3.33%)",
+        "  Interstitial lung disease * 1/30 (3.33%)"
+    ]
+}

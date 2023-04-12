@@ -1,0 +1,47 @@
+{
+    "Clinical Trial ID": "NCT01231659",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Everolimus + Letrozole",
+        "  All patients received 2 tablets (5 mg each) of Everolimus (a total of 10 mg) + 1 tablet of Letrozole (2.5 mg) daily until disease progression or as described in the protocol."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Postmenopausal women with estrogen receptor positive locally advanced or metastatic breast cancer after documented recurrence or progression on Tamoxifen, Anastrozole or Examestane.",
+        "  Refractory disease to hormonal therapy is defined as:",
+        "  Recurrence while on, or within 12 month of end of, adjuvant treatment with Tamoxifen , Anastrozole, or Exemestane.",
+        "  Recurrence while on, or within 24 month of end of, adjuvant treatment with Letrozole.",
+        "  Progression while on Tamoxifen, Anastrozole or Exemestane treatment for locally advanced or metastatic breast cancer.",
+        "Exclusion Criteria:",
+        "  Prior use of chemotherapy and letrozole for Advanced Breast Cancer and mTOR inhibitors as the last anticancer treatment prior to study entry.",
+        "  Patients must have radiological evidence of recurrence or progression on last therapy prior to study entry."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With Overall Response Rate (ORR)",
+        "  Overall Response Rate (ORR) was defined as the proportion of patients whose best overall response was either complete response (CR) or partial response (PR) according to RECIST 1.0 for target lesions and assessed by CT: Complete Response (CR), disappearance of all target lesions for a period of at least one month; Partial Response (PR), >=30% decrease in the sum of the longest diameter of target lesions; Overall Response (ORR) = CR + PR. Only descriptive statistics.",
+        "  Time frame: From the date of randomization until the date of the first documented disease progression or date of death from any cause whichever came first, assessed for approximately 15 months",
+        "Results 1: ",
+        "  Arm/Group Title: Everolimus + Letrozole",
+        "  Arm/Group Description: All patients received 2 tablets (5 mg each) of Everolimus (a total of 10 mg) + 1 tablet of Letrozole (2.5 mg) daily until disease progression or as described in the protocol.",
+        "  Overall Number of Participants Analyzed: 43",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of Participants  37.2"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 26/72 (36.11%)",
+        "  Anaemia 5/72 (6.94%)",
+        "  Cardiac arrest 1/72 (1.39%)",
+        "  Cardiac failure congestive 1/72 (1.39%)",
+        "  Hypercalcaemia 1/72 (1.39%)",
+        "  Nausea 1/72 (1.39%)",
+        "  Vomiting 3/72 (4.17%)",
+        "  Death 1/72 (1.39%)",
+        "  Disease progression 2/72 (2.78%)",
+        "  Infusion related reaction 1/72 (1.39%)",
+        "  Pyrexia 3/72 (4.17%)",
+        "  Cholecystitis 1/72 (1.39%)",
+        "  Cellulitis 2/72 (2.78%)"
+    ]
+}

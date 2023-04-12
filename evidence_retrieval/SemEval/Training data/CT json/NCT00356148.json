@@ -1,0 +1,48 @@
+{
+    "Clinical Trial ID": "NCT00356148",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Prophylaxis Group",
+        "  patients who are BMI over 25 and receiving ampicillin/sulbactam prophylaxis",
+        "INTERVENTION 2: ",
+        "  No Prophylaxis Group",
+        "  Patients who are BMI over 25 and not receive antibiotic prophylaxis"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women at any age with early stage breast cancer (stage I-II) and American Society of Anesthesiologists (ASA) score of I-II.",
+        "Exclusion Criteria:",
+        "  Ductal carcinoma in situ (DCIS; stage 0 cancer),",
+        "  Advanced or distant metastatic stage,",
+        "  Receiving any neoadjuvant therapy,",
+        "  History of receiving any antibiotics within prior 3 months,",
+        "  History of immunodeficiency,",
+        "  Having a remote infection,",
+        "  History of reaction to study antibiotics,",
+        "  Denial of signing the consent form."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Patients With Body Mass Index (BMI) Over 25 Who Developed Surgical Site Infection (SSI) in Groups Who Received Antibiotic Prophylaxis (Prophylaxis Group) and no Prophylaxis (No Prophylaxis Group).",
+        "  [Not Specified]",
+        "  Time frame: 1 month",
+        "Results 1: ",
+        "  Arm/Group Title: Prophylaxis Group",
+        "  Arm/Group Description: patients who are BMI over 25 and receiving ampicillin/sulbactam prophylaxis",
+        "  Overall Number of Participants Analyzed: 187",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  9",
+        "Results 2: ",
+        "  Arm/Group Title: No Prophylaxis Group",
+        "  Arm/Group Description: Patients who are BMI over 25 and not receive antibiotic prophylaxis",
+        "  Overall Number of Participants Analyzed: 182",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  25"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/189 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/183 (0.00%)"
+    ]
+}

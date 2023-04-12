@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT01419717",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Denosumab",
+        "  Participants received 120 milligrams of denosumab injected subcutaneously every 4 weeks until denosumab was approved and available for sale."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Subject was previously enrolled in a denosumab phase 3 study and participated in the Open-label Extension portion of that study.",
+        "  Subject or subject's legally acceptable representative has provided informed consent.",
+        "Exclusion Criteria:",
+        "  Subject is of child bearing potential and planning to become pregnant within 7 months after the end of treatment.",
+        "  Subject is of child bearing potential and is not willing to use, in combination with her partner, two highly effective methods of contraception during treatment and for 7 months after the end of treatment.",
+        "  Subject has known sensitivity to any of the products to be administered during dosing.",
+        "  Subject will not be available for protocol required study visits or procedures, to the best of the subject and investigator's knowledge.",
+        "  Subject has any kind of disorder that, in the opinion of the investigator, may compromise the ability of the subject to give written informed consent and/or to comply with all required study procedures."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Adverse Events",
+        "  An adverse event (AE) is defined as any untoward medical occurrence in a clinical trial participant. The event does not necessarily have a causal relationship with study treatment.",
+        "  Each AE was graded for severity according to the Common Terminology Criteria for Adverse Events (CTCAE) version 3.0, where Grade 1 = Mild AE Grade 2 = Moderate AE Grade 3 = Severe AE Grade 4 = Life-threatening or disabling AE Grade 5 = Death related to AE. Treatment-related adverse events (TRAEs) includes events for which the investigator indicated there was a reasonable possibility they may have been caused by investigational product.",
+        "  Time frame: From first dose of denosumab in Study 20110113 to end of study; median (minimum, maximum) time on study was 13.93 (0.0, 74.7) months.",
+        "Results 1: ",
+        "  Arm/Group Title: Denosumab",
+        "  Arm/Group Description: Participants received 120 milligrams of denosumab injected subcutaneously every 4 weeks until denosumab was approved and available for sale.",
+        "  Overall Number of Participants Analyzed: 128",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  All adverse events: 98  76.6%",
+        "  Serious adverse events: 45  35.2%",
+        "  AE leading to discontinuation of denosumab: 28  21.9%",
+        "  AE leading to discontinuation from study: 22  17.2%",
+        "  Fatal adverse events: 18  14.1%",
+        "  AE grade 3, 4, or 5: 46  35.9%",
+        "  Treatment-related adverse event: 26  20.3%",
+        "  Treatment-related serious adverse event: 10   7.8%",
+        "  TRAE leading to discontinuation of denosumab: 18  14.1%",
+        "  TRAE leading to discontinuation from study: 16  12.5%",
+        "  Treatment-related fatal adverse events: 0   0.0%",
+        "  Treatment-related AE grade 3, 4, or 5: 8   6.3%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 45/128 (35.16%)",
+        "  Anaemia 3/128 (2.34%)",
+        "  Febrile neutropenia 2/128 (1.56%)",
+        "  Arrhythmia 1/128 (0.78%)",
+        "  Cardiac arrest 1/128 (0.78%)",
+        "  Cardiac failure 1/128 (0.78%)",
+        "  Cardiopulmonary failure 1/128 (0.78%)",
+        "  Abdominal pain 2/128 (1.56%)",
+        "  Ascites 2/128 (1.56%)",
+        "  Intestinal obstruction 2/128 (1.56%)",
+        "  Melaena 1/128 (0.78%)",
+        "  Nausea 1/128 (0.78%)",
+        "  Vomiting 2/128 (1.56%)"
+    ]
+}

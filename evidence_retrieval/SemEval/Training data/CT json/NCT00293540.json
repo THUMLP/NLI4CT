@@ -1,0 +1,44 @@
+{
+    "Clinical Trial ID": "NCT00293540",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  A Mid-luteal Surgery",
+        "[Not Specified]",
+        "INTERVENTION 2: ",
+        "  B Mid-follicular Surgery",
+        "[Not Specified]"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Estrogen receptor or progesterone receptor positive breast cancer",
+        "  Premenopausal with regular menstrual cycles",
+        "Exclusion Criteria:",
+        "  Current oral contraceptives"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Overall Survival",
+        "  Assess whether patients who undergo surgical oophorectomy in the history-estimated mid-luteal phase of their menstrual cycles survive longer than patients who undergo this surgery in the history-estimated mid-follicular phase of their menstrual cycles.",
+        "  Time frame: Up to 9 years",
+        "Results 1: ",
+        "  Arm/Group Title: A Mid-luteal Surgery",
+        "  Arm/Group Description: [Not Specified]",
+        "  Overall Number of Participants Analyzed: 115",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: years  2.14        (1.53 to 2.67)",
+        "Results 2: ",
+        "  Arm/Group Title: B Mid-follicular Surgery",
+        "  Arm/Group Description: [Not Specified]",
+        "  Overall Number of Participants Analyzed: 119",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: years  2.00        (1.61 to 2.31)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/115 (0.00%)",
+        "  Deep vein thrombosis * [1]0/115 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 1/119 (0.84%)",
+        "  Deep vein thrombosis * [1]1/119 (0.84%)"
+    ]
+}

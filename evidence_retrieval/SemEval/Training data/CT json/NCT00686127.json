@@ -1,0 +1,49 @@
+{
+    "Clinical Trial ID": "NCT00686127",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Lidocaine Patch",
+        "  Lidocaine patch 5% (Lidoderm\u00ae, Endo Pharmaceuticals Inc.): 1 patch was applied topically to the affected site(s) for 12 hours each day.",
+        "INTERVENTION 2: ",
+        "  Placebo Patch",
+        "  Placebo patch: 1 patch was applied topically to the affected site(s) for 12 hours each day."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Adult women >18 years who develop neuropathic pain in the breast scar area and/or ipsilateral arm following breast cancer surgery",
+        "  Has a healed incision(s)",
+        "  Has no recurrent disease in the painful area",
+        "  Is able to read, write and understand English",
+        "Exclusion Criteria:",
+        "  Presence of another type of pain that is more severe than the neuropathic pain",
+        "  Use of an opioid analgesic of greater than 60 mg codeine/day",
+        "  Is actively trying to become pregnant",
+        "  Has a medical contraindication to the use of lidocaine",
+        "  Has an allergy to lidocaine",
+        "  Is taking a coanalgesic for neuropathic pain."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Pain Intensity on an 11-point Scale From Baseline to 12 Weeks",
+        "  Patients scored their pain intensity in the breast and/or ipsilateral arm using a 0 to 10 numeric rating scale, ranging from no pain (0) to worst pain imaginable (10). The change in pain intensity was calculated from two time points as the later time point (12 weeks) minus the earlier time point (Baseline).",
+        "  Time frame: Baseline, 12 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Lidocaine Patch",
+        "  Arm/Group Description: Lidocaine patch 5% (Lidoderm  , Endo Pharmaceuticals Inc.): 1 patch was applied topically to the affected site(s) for 12 hours each day.",
+        "  Overall Number of Participants Analyzed: 0",
+        "  Measure Type: Number",
+        "  Unit of Measure: units on a scale  ",
+        "Results 2: ",
+        "  Arm/Group Title: Placebo Patch",
+        "  Arm/Group Description: Placebo patch: 1 patch was applied topically to the affected site(s) for 12 hours each day.",
+        "  Overall Number of Participants Analyzed: 1",
+        "  Measure Type: Number",
+        "  Unit of Measure: units on a scale  4"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/14 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/7 (0.00%)"
+    ]
+}

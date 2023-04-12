@@ -1,0 +1,45 @@
+{
+    "Clinical Trial ID": "NCT01985971",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  EF5 PET/CT Imaging",
+        "PET/CT Imaging"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Subjects with measurable brain metastases of at least 1 cm in any plane based on anatomic imaging.",
+        "  Subjects with prior resection of brain metastases with progressions on brain MRI.",
+        "  Histologic confirmation of breast cancer.",
+        "  Age of study subject must be > 18 years.",
+        "  ECOG Performance Status  2.",
+        "  Ability to undergo brain MR and PET imaging",
+        "  Study subjects must have normal organ and marrow function as defined below:",
+        "  WBC >2,000/mm\u1d9f, platelets >90,000/mm\u1d9f, total bilirubin <2.0 mg/dl, creatinine <2.0 mg/dl.",
+        "  The effects of EF5 on the developing human fetus are unknown. For this reason, women of childbearing potential must agree to use adequate contraception (hormonal or barrier method of birth control) prior to study entry and for the duration of study participation (1 month). Should a woman become pregnant pr suspect she is pregnant while participating in this study, she should inform her treating physician immediately. Women of childbearing potential will have a urine pregnancy test the day of the F18 -EF5 PET scan prior to the F18 -EF5 injection.",
+        "  Ability to understand, participate and provide a documented signed informed consent.",
+        "  Subjects who are allergic to gadolinium will have MRI scans without gadolinium contrast.",
+        "Exclusion Criteria:",
+        "  History of allergic reactions attributed to Flagyl (metronidazole), which has a chemical structure similar to EF5.",
+        "  Pregnant women are excluded because EF5 has an unknown risk for adverse events in fetuses and nursing infants secondary the administration of EF5 to the mother. Breastfeeding should be discontinued if EF5 is administered to the mother.",
+        "  Subject has any other condition or personal circumstance that, in the judgement of the investigator, might interfere with the collection of complete good quality data.",
+        "  Subjects who are unable to provide informed consent.",
+        "  Patients with prior whole brain radiotherapy.",
+        "  Patients with moderate to severe renal failure, defined as estimated GFR less than 30 ml/Lmin 1.73m\u00b2"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Adverse Events",
+        "  [Not Specified]",
+        "Time frame: 2 year",
+        "Results 1: ",
+        "  Arm/Group Title: EF5 PET/CT Imaging",
+        "  Arm/Group Description: PET/CT Imaging",
+        "  Overall Number of Participants Analyzed: 2",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  0   0.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/2 (0.00%)"
+    ]
+}

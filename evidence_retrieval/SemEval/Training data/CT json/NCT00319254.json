@@ -1,0 +1,46 @@
+{
+    "Clinical Trial ID": "NCT00319254",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Bosutinib",
+        "  Four bosutinib 100 milligram (mg) capsules, equivalent to 400 mg bosutinib orally once daily for 48 weeks, or until disease progression, unacceptable toxicity or withdrawal of consent occurred."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Stage IIIB, IIIC or IV breast cancer not curable with available therapy.",
+        "  Patients must have progressed after 1 but not more than 3 prior chemotherapy regimens.",
+        "  Life expectancy of at least 16 weeks.",
+        "  Ability to swallow whole capsules.",
+        "Exclusion Criteria:",
+        "  Use of or requirement for bisphosphonates within 8 weeks prior to screening.",
+        "  Any other cancer within 5 years of screening, except for basal cell carcinoma or cervical carcinoma in situ",
+        "  Uncontrolled cardiac disease including congestive heart failure, angina, heart attack, etc.",
+        "  Recent or ongoing significant gastrointestinal disorder"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Progression-Free Survival (PFS) Rate",
+        "  PFS was based on Kaplan-Meier estimates. PFS was defined as time in weeks from start of study treatment to first documentation of objective tumor progression or death due to any cause. PFS was calculated as (first event date minus the date of first dose of study medication plus 1) divided by 7. Tumor progression was determined from oncologic assessment data (where data meet the criteria for progressive disease [PD]), or from death case report forms (CRFs). Percentage of participants who had not experienced progression or death by Week 16 is reported.",
+        "  Time frame: Baseline up to Week 16",
+        "Results 1: ",
+        "  Arm/Group Title: Bosutinib",
+        "  Arm/Group Description: Four bosutinib 100 milligram (mg) capsules, equivalent to 400 mg bosutinib orally once daily for 48 weeks, or until disease progression, unacceptable toxicity or withdrawal of consent occurred.",
+        "  Overall Number of Participants Analyzed: 73",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  39.6        (28.1 to 50.8)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 24/73 (32.88%)",
+        "  Diarrhoea * 2/73 (2.74%)",
+        "  Ileus * 1/73 (1.37%)",
+        "  Vomiting * 1/73 (1.37%)",
+        "  Disease progression * 2/73 (2.74%)",
+        "  Oedema peripheral * 2/73 (2.74%)",
+        "  Chest discomfort * 1/73 (1.37%)",
+        "  General physical health deterioration * 1/73 (1.37%)",
+        "  Performance status decreased * 1/73 (1.37%)",
+        "  Cytolytic hepatitis * 1/73 (1.37%)",
+        "  Hepatic failure * 1/73 (1.37%)"
+    ]
+}

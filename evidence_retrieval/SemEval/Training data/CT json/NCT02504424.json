@@ -1,0 +1,48 @@
+{
+    "Clinical Trial ID": "NCT02504424",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  AeroForm Tissue Expander",
+        "  AeroForm Tissue Expansion inflation with carbon dioxide by remote control",
+        "  AeroForm Tissue Expander: The AeroForm Tissue Expander is a breast tissue expander implanted following mastectomy and activated by remote control to release small doses of carbon dioxide from an internal reservoir to fill and inflate the expander."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Subject is female between the ages of 18-70",
+        "  Subject requires tissue expansion as part of breast reconstruction",
+        "  Subject is able to provide written informed consent",
+        "  Subject is able and willing to comply with all of the study requirements",
+        "  Subject has the physical, perceptual and cognitive capacity to understand and manage the at home dosing regimen",
+        "Exclusion Criteria:",
+        "  Subject's tissue integrity is unsuitable for tissue expansion",
+        "  Subject has residual gross malignancy at the intended expansion site",
+        "  Subject has current or prior infection at the intended expansion site",
+        "  Subject has a history of failed tissue expansion or breast reconstruction",
+        "  Subject has any co-morbid condition determined by the Investigator to place the subject at an increased risk of complications (e.g., severe collagen vascular disease, poorly managed diabetes)",
+        "  Subject is taking any concomitant medications determined by the Investigator to place the subject at an increased risk of complications (e.g., Prednisone, Coumadin)."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Breasts With Successful Tissue Expansion With Exchange to a Permanent Breast Implant Unless Exchange is Precluded by a Non-device Related Event",
+        "  The primary endpoint is analyzed per breast. Breasts in which the expander is removed and/or replaced due to a device related adverse event or a device malfunction are counted as failures.",
+        "  Time frame: 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: AeroForm Tissue Expander",
+        "  Arm/Group Description: AeroForm Tissue Expansion inflation with carbon dioxide by remote control",
+        "  AeroForm Tissue Expander: The AeroForm Tissue Expander is a breast tissue expander implanted following mastectomy and activated by remote control to release small doses of carbon dioxide from an internal reservoir to fill and inflate the expander.",
+        "  Overall Number of Participants Analyzed: 48",
+        "  Overall Number of Units Analyzed",
+        "  Type of Units Analyzed: Breasts  Count of UnitsUnit of Measure: breasts: 80 100.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 11/50 (22.00%)",
+        "  neutropenic fever, weakness 1/50 (2.00%)",
+        "  urinary tract infection 1/50 (2.00%)",
+        "  cellulitis 4/50 (8.00%)",
+        "  wound dehiscence 1/50 (2.00%)",
+        "  hematoma 1/50 (2.00%)",
+        "  seroma 1/50 (2.00%)",
+        "  inflammation (red breast syndrome) 2/50 (4.00%)"
+    ]
+}

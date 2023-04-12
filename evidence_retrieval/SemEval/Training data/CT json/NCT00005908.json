@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT00005908",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Dose A-Cohort 1-Arm 1-Docetaxel & Capecitabine",
+        "  Docetaxel 75 mg/m^2 intravenous day 1, capecitabine 1000 mg/m^2 orally twice daily day 2-15 for 4 cycles Once the dose was deemed to be too toxic, subsequent patients were enrolled on dose B.",
+        "INTERVENTION 2: ",
+        "  Dose B-Cohort 2-Arm 2 Reduced Dose-Docetaxel & Capecitabine",
+        "  Docetaxel 60 mg/m^2 intravenous day 1 capecitabine 937.5 mg/m^2 orally twice daily day 2-15"
+    ],
+    "Eligibility": [
+        "INCLUSION CRITERIA:",
+        "  Stage II or III breast cancer with a tumor size of greater than 2 cm. Patients with a previous biopsy are eligible provided adequate tumor tissue remains for biopsy in this study.",
+        "  At least 18 years of age.",
+        "  Adequate hematopoietic function as defined by absolute neutrophil count greater than 1200/mm^3 and platelet count greater than 100,000/mm^3.",
+        "  Adequate renal function as defined by creatinine less than 1.6 mg/dL.",
+        "  Adequate hepatic function as defined by total (T.) bilirubin less than 1.4 mg/dL and serum glutamic oxaloacetic transaminase (SGOT)/serum glutamic pyruvic transaminase (SGPT) less than 1.5 times the upper limit of normal and alkaline phosphatase less than 2.5 times upper limit of normal",
+        "  Zubrod Performance status 0-2.",
+        "EXCLUSION CRITERIA:",
+        "  Medical or psychiatric condition that, in the opinion of the Principal Investigator, would preclude chemotherapy administration. Patients may be evaluated by psychiatry or medical subspecialties as appropriate.",
+        "  Pregnant or lactating women",
+        "  Known bleeding disorders",
+        "  Hypersensitivity to Tween 80 (Polysorbate)",
+        "  Cardiac ejection fraction below normal limits, myocardial infarction within the past 12 months, or symptomatic arrhythmia requiring medical intervention.",
+        "  Prior chemotherapy or hormonal therapy for breast cancer. Patients treated with hormonal chemoprevention (tamoxifen or raloxifene) will be eligible.",
+        "  Active malignancy diagnosed within the last 5 years. (Cervical cancer or non-melanomatous skin cancer that has been treated with curative intent will be eligible)."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Adverse Events",
+        "  Here is the number of participants with adverse events. For the detailed list of adverse events see the adverse event module.",
+        "  Time frame: 6 years",
+        "Results 1: ",
+        "  Arm/Group Title: Dose A-Cohort 1-Arm 1-Docetaxel & Capecitabine",
+        "  Arm/Group Description: Docetaxel 75 mg/m^2 intravenous day 1, capecitabine 1000 mg/m^2 orally twice daily day 2-15 for 4 cycles Once the dose was deemed to be too toxic, subsequent patients were enrolled on dose B.",
+        "  Overall Number of Participants Analyzed: 9",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  9",
+        "Results 2: ",
+        "  Arm/Group Title: Dose B-Cohort 2-Arm 2 Reduced Dose-Docetaxel & Capecitabine",
+        "  Arm/Group Description: Docetaxel 60 mg/m^2 intravenous day 1 capecitabine 937.5 mg/m^2 orally twice daily day 2-15",
+        "  Overall Number of Participants Analyzed: 20",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  20"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 29/30 (96.67%)",
+        "  Febrile neutropenia  [1]3/30 (10.00%)",
+        "  Lymphatics 1/30 (3.33%)",
+        "  Diarrhea (without colostomy) 5/30 (16.67%)",
+        "  Abdominal pain or cramping 2/30 (6.67%)",
+        "  Colitis 1/30 (3.33%)",
+        "  Dehydration 1/30 (3.33%)",
+        "  Nausea 1/30 (3.33%)",
+        "  Stomatitis/pharyngitis (oral/pharyngeal/mucositis) 1/30 (3.33%)",
+        "  Vomiting 1/30 (3.33%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

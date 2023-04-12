@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT01000662",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  ARM 1 Daily Boost",
+        "  Radiation Therapy",
+        "  Radiation Therapy: Arm 1= 15 daily radiation fractions of 2.7 Gy, Monday to Friday for 3 weeks, to the whole breast with a daily concomitant boost of 0.5 Gy to the tumor bed, for a total daily dose of 3.2 Gy to the tumor bed (2.7Gy+0.5 Gy). The overall dose will be 40.5 Gy to the breast and 48.0 Gy to the tumor bed.",
+        "  Arm 2= 15 daily radiation fractions of 2.7 Gy Monday to friday for three weeks to the entire breast with a Friday boost of 2.0 Gy to the tumor bed, for a total dose to the tumor bed on each friday of 4.7 Gy (2.7 Gy+ 2.0 Gy). The overall dose will be 40.5 Gy to the breast and 46.5 gy to the tumor bed.",
+        "INTERVENTION 2: ",
+        "  ARM 2 Weekly Boost",
+        "  Radiation Therapy",
+        "  Radiation Therapy: Arm 1= 15 daily radiation fractions of 2.7 Gy, Monday to Friday for 3 weeks, to the whole breast with a daily concomitant boost of 0.5 Gy to the tumor bed, for a total daily dose of 3.2 Gy to the tumor bed (2.7Gy+0.5 Gy). The overall dose will be 40.5 Gy to the breast and 48.0 Gy to the tumor bed.",
+        "  Arm 2= 15 daily radiation fractions of 2.7 Gy Monday to friday for three weeks to the entire breast with a Friday boost of 2.0 Gy to the tumor bed, for a total dose to the tumor bed on each friday of 4.7 Gy (2.7 Gy+ 2.0 Gy). The overall dose will be 40.5 Gy to the breast and 46.5 gy to the tumor bed."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Pre or post-menopausal women with stage 0,I, and II breast cancer",
+        "  Biopsy-proven invasive breast cancer, excised with negative margins of at least 1 mm",
+        "  Status post segmental mastectomy, after sentinel node biopsy and/or axillary node dissection (DCIS and Tumors <5mm do not require nodal assessment)",
+        "  At least 2 weeks from last chemotherapy",
+        "  Patient needs to be able to understand and demonstrate willingness to sign a written informed consent document",
+        "Exclusion Criteria:",
+        "  Previous radiation therapy to the ipsilateral breast",
+        "  More than 3 involved nodes identified at axillary staging, requiring adjuvant axillary radiation",
+        "  Active connective tissue disorders, such as lupus or scleroderma",
+        "  Prior or concurrent malignancy other than basal or squamous cell skin cancer or carcinoma in-situ of the cervix, unless disease-free >3 years",
+        "  Pregnant or lactating women"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Acute Radiation Toxicities Recorded According to Radiation Therapy Oncology Group (RTOG)",
+        "  Number of patients with a grade 2 or greater toxicity after 3 weeks of whole breast IMRT with a once/week boost compared to those patients treated with a daily boost: 0 - no symptoms, 5 - death directly related to radiation effects",
+        "Time frame: Day 60",
+        "Results 1: ",
+        "  Arm/Group Title: ARM 1 Daily Boost",
+        "  Arm/Group Description: Radiation Therapy",
+        "  Radiation Therapy: Arm 1= 15 daily radiation fractions of 2.7 Gy, Monday to Friday for 3 weeks, to the whole breast with a daily concomitant boost of 0.5 Gy to the tumor bed, for a total daily dose of 3.2 Gy to the tumor bed (2.7Gy+0.5 Gy). The overall dose will be 40.5 Gy to the breast and 48.0 Gy to the tumor bed.",
+        "  Arm 2= 15 daily radiation fractions of 2.7 Gy Monday to friday for three weeks to the entire breast with a Friday boost of 2.0 Gy to the tumor bed, for a total dose to the tumor bed on each friday of 4.7 Gy (2.7 Gy+ 2.0 Gy). The overall dose will be 40.5 Gy to the breast and 46.5 gy to the tumor bed.",
+        "  Overall Number of Participants Analyzed: 202",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  22",
+        "Results 2: ",
+        "  Arm/Group Title: ARM 2 Weekly Boost",
+        "  Arm/Group Description: Radiation Therapy",
+        "  Radiation Therapy: Arm 1= 15 daily radiation fractions of 2.7 Gy, Monday to Friday for 3 weeks, to the whole breast with a daily concomitant boost of 0.5 Gy to the tumor bed, for a total daily dose of 3.2 Gy to the tumor bed (2.7Gy+0.5 Gy). The overall dose will be 40.5 Gy to the breast and 48.0 Gy to the tumor bed.",
+        "  Arm 2= 15 daily radiation fractions of 2.7 Gy Monday to friday for three weeks to the entire breast with a Friday boost of 2.0 Gy to the tumor bed, for a total dose to the tumor bed on each friday of 4.7 Gy (2.7 Gy+ 2.0 Gy). The overall dose will be 40.5 Gy to the breast and 46.5 gy to the tumor bed.",
+        "  Overall Number of Participants Analyzed: 198",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  16"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/202 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

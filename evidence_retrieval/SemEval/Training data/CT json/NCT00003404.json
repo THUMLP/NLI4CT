@@ -1,0 +1,55 @@
+{
+    "Clinical Trial ID": "NCT00003404",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Adjuvant Radiotherapy",
+        "  Adjuvant radiation was started within 12 weeks of local excision or breast re-excision.",
+        "  Adjuvant Radiotherapy: Adjuvant radiation therapy"
+    ],
+    "Eligibility": [
+        "DISEASE CHARACTERISTICS:",
+        "  Histologically proven phyllodes tumors of the breast with borderline or malignant grade, defined as 1 of the following:",
+        "  Borderline, defined as 5-9 mitoses/10 high power fields (HPF), pushing or infiltrating margins, 2+ atypia",
+        "  Malignant, defined as 10 or more mitoses/10 HPF, predominantly infiltrating margins, usually 3+ atypia with occasional 2+ atypia",
+        "  Must have been excised with breast-conserving resection and no positive margins",
+        "  Local recurrence of a previously excised phyllodes tumor allowed if the recurrence is in the area of the prior excision",
+        "  No prior breast carcinoma or ductal carcinoma in situ in the ipsilateral breast",
+        "  Hormone receptor status: Not specified",
+        "  PATIENT CHARACTERISTICS:",
+        "  Age: 18 and over",
+        "  Sex: Female",
+        "  Menopausal status: Not specified",
+        "Performance status: Not specified",
+        "  Life expectancy: Not specified",
+        "  Hematopoietic: Not specified",
+        "  Hepatic: Not specified",
+        "  Renal: Not specified",
+        "  Other:",
+        "  Not pregnant",
+        "  Negative pregnancy test",
+        "  Fertile patients must use effective contraception",
+        "  PRIOR CONCURRENT THERAPY:",
+        "  Biologic therapy: Not specified",
+        "  Chemotherapy: Not specified",
+        "  Endocrine therapy: Not specified",
+        "  Radiotherapy: No prior radiotherapy to the ipsilateral breast",
+        "  Surgery: See Disease Characteristics"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Local Recurrence Rate",
+        "  Local recurrence rate of phyllodes tumors",
+        "  Time frame: 36 months after initial excision",
+        "Results 1: ",
+        "  Arm/Group Title: Adjuvant Radiotherapy",
+        "  Arm/Group Description: Adjuvant radiation was started within 12 weeks of local excision or breast re-excision.",
+        "  Adjuvant Radiotherapy: Adjuvant radiation therapy",
+        "  Overall Number of Participants Analyzed: 46",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  0   0.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/46 (0.00%)"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "Clinical Trial ID": "NCT02222337",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Usual Care Survivors",
+        "  Survivors randomized to usual care as provided by each of our 4 community-based organization partners. Usual care can include but is not limited to support groups, patient navigation, individual, couple or family therapy.",
+        "INTERVENTION 2: ",
+        "  Usual Care Caregivers",
+        "  Caregivers randomized to usual care as provided by each of our 4 community-based organization partners. Usual care can include but is not limited to support groups, patient navigation, individual, couple or family therapy."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Survivors: Latina, has been diagnosed with breast cancer, speaks English or Spanish, has a Caregiver who is willing to participate.",
+        "  Caregivers: a primary caregiver for a Latina breast cancer survivor, speak English or Spanish",
+        "Exclusion Criteria:",
+        "  Inability to understand spoken English and/or Spanish and/or",
+        "  Cognitive impairment that precludes informed consent (determined by the PIs or Co-Investigators who are mental health professionals)."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  PROMIS Physical Functioning",
+        "  Measure Quality of Life physical functioning; 6 items; Sum and then use IRT to standardize the score. Mean of 50; SD of 10. Range of the raw score = 6-28; A higher score = higher physical functioning",
+        "  Time frame: 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: Usual Care Survivors",
+        "  Arm/Group Description: Survivors randomized to usual care as provided by each of our 4 community-based organization partners. Usual care can include but is not limited to support groups, patient navigation, individual, couple or family therapy.",
+        "  Overall Number of Participants Analyzed: 57",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  44.61         (8.71)",
+        "Results 2: ",
+        "  Arm/Group Title: Usual Care Caregivers",
+        "  Arm/Group Description: Caregivers randomized to usual care as provided by each of our 4 community-based organization partners. Usual care can include but is not limited to support groups, patient navigation, individual, couple or family therapy.",
+        "  Overall Number of Participants Analyzed: 51",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  53.82         (7.34)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/140 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/130 (0.00%)"
+    ]
+}

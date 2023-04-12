@@ -1,0 +1,55 @@
+{
+    "Clinical Trial ID": "NCT00569166",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Paced Breathing (15 Min Once Daily, 6 Breaths/Min)",
+        "  Patients practice paced breathing for 15 minutes once daily, 6 breaths/min, 5-7 days weekly, following an instructional compact disc (CD), for 8 weeks.",
+        "INTERVENTION 2: ",
+        "  Paced Breathing (15 Min Twice Daily, 6 Breaths/Min)",
+        "  Patients practice paced breathing for 15 minutes twice daily, 6 breaths/min, 5-7 days weekly, following an instructional compact disc (CD), for 8 weeks."
+    ],
+    "Eligibility": [
+        "DISEASE CHARACTERISTICS:",
+        "  History of breast cancer including ductal carcinoma in situ or lobular carcinoma in situ",
+        "  - Treated with surgery and/or adjuvant therapy with a curative intent or patients not preferring to take hormones because of concern for breast cancer",
+        "  Frequent hot flashes ( 14 per week) of sufficient severity to make the patient desire treatment",
+        "  Presence of hot flashes for  1 month prior to study entry",
+        "  Hormone receptor status not specified",
+        "  PATIENT CHARACTERISTICS:",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1",
+        "  Pre- or post-menopausal",
+        "  Must possess a compact disc (CD) player",
+        "  Able to complete questionnaires alone or with assistance",
+        "  No active medical conditions preventing compliance with a practice of slow deep breathing including active asthma, chronic obstructive pulmonary disease, or congestive heart failure",
+        "  No uncontrolled hypertension (defined as systolic blood pressure (BP)  160 mm Hg and/or diastolic BP  100 mm Hg on 2 separate visits)",
+        "  PRIOR CONCURRENT THERAPY:",
+        "  No current (within the past month) practice of yoga or breathing exercises",
+        "  No other concurrent agents for treating hot flashes (e.g., gabapentin, venlafaxine, paroxetine, citalopram, sertraline, natural products such as soy or sage supplements, flaxseed, or black cohosh)",
+        "  - Concurrent stable dose antidepressants started within the past 30 days allowed",
+        "  No concurrent hormonal agents and/or antineoplastic chemotherapy - Tamoxifen, raloxifene, and aromatase inhibitors are allowed if patient has been on a constant dose for  4 weeks and does not plan to stop the treatment during the course of the study"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  The Difference in Hot Flash Score (Frequency and Severity) Between Baseline (Week 1) and Week 9",
+        "  Hot flash severity were graded from 1 to 4, as they range from mild, moderate, severe, or very severe. A hot flash score is defined by multiplying the daily frequency with the average hot flash severity. These scores are aggregated into average weekly hot flash activity scores for each patient.",
+        "  Time frame: Week 1 and Week 9",
+        "Results 1: ",
+        "  Arm/Group Title: Paced Breathing (15 Min Once Daily, 6 Breaths/Min)",
+        "  Arm/Group Description: Patients practice paced breathing for 15 minutes once daily, 6 breaths/min, 5-7 days weekly, following an instructional compact disc (CD), for 8 weeks.",
+        "  Overall Number of Participants Analyzed: 30",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  -6.5         (5.38)",
+        "Results 2: ",
+        "  Arm/Group Title: Paced Breathing (15 Min Twice Daily, 6 Breaths/Min)",
+        "  Arm/Group Description: Patients practice paced breathing for 15 minutes twice daily, 6 breaths/min, 5-7 days weekly, following an instructional compact disc (CD), for 8 weeks.",
+        "  Overall Number of Participants Analyzed: 31",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  -7.5         (8.14)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/30 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

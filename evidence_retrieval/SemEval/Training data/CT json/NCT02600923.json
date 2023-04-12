@@ -1,0 +1,62 @@
+{
+    "Clinical Trial ID": "NCT02600923",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Palbociclib+Letrozole",
+        "  Participants received palbociclib orally once daily at 125 mg for 21 days followed by 7 days off treatment for each 28-day cycle, and letrozole orally at 2.5 mg QD as a continuous daily dosing schedule. Participants continued to receive treatments with palbociclib+letrozole until disease progression, symptomatic deterioration, unacceptable toxicity, death, withdrawal of consent, or time of commercial availability of palbociclib, whichever occurred first."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Adult women with proven diagnosis of advanced adenocarcinoma of the breast (locoregional recurrent or metastatic disease).",
+        "  Women who are not of childbearing potential.",
+        "  ER-positive and/or Progesterone receptor (PgR)-positive tumor based on local laboratory results (test as per local practice).",
+        "  HER2-negative breast cancer based on local laboratory results (test as per local practice or local guidelines).",
+        "  Patients must be appropriate candidates for letrozole therapy.",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 0-2.",
+        "  Adequate bone marrow function.",
+        "  Adequate liver function",
+        "  Adequate renal function.",
+        "Exclusion Criteria:",
+        "  Known hypersensitivity to letrozole, or any of its excipients, or to any palbociclib excipients.",
+        "  Current use of food or drugs known to be potent inhibitors or inducers of CYP3A4 isoenzymes within 7 days prior to study entry.",
+        "  Prior treatment with any CDK inhibitor.",
+        "  Previous participation in a palbociclib clinical study.",
+        "  Participation in other studies involving investigational drug(s) within 2 weeks prior to study entry and/or during study participation.",
+        "  QTc >480 msec; history of QT syndrome, Brugada syndrome or known history of QTc prolongation, or Torsade de Pointes.",
+        "  High cardiovascular risk, including, but not limited to recent myocardial infarction, severe/unstable angina and severe cardiac dysrhythmias in the past 6 months prior to enrollment.",
+        "  Diagnosis of any second invasive malignancy within the last 3 years prior to enrollment. Note: patients with adequately treated basal cell or squamous cell skin cancer, a history of intraepithelial neoplasia or in situ disease (eg, carcinoma in situ of the cervix or melanoma in situ) may enter.",
+        "  Active uncontrolled or symptomatic brain metastases. Previously treated and clinically stable, brain metastases are permitted.",
+        "  Other severe acute or chronic medical or psychiatric conditions.",
+        "  Patients who are investigational site staff members directly involved in the conduct of the study and their family members, site staff members otherwise supervised by the investigator, or patients who are Pfizer employees directly involved in the conduct of the study."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With All-causality Treatment-emergent Adverse Events (TEAEs)",
+        "  An adverse event (AE) was any untoward medical occurrence in a clinical investigation participant administered a product; the event did not need to have a causal relationship with the treatment. All AEs reported after initiation of study drug treatment were considered as TEAE. AE severity was graded according to Common Terminology Criteria for AEs (CTCAE) version 4.03. Grade 1 AEs are mild AEs; Grade 2 AEs are moderate AEs; Grade 3 AEs are severe AEs, Grade 4 AEs are life-threatening consequences and Grade 5 AEs are deaths related to AEs. Each AE was counted once for the participant in the most severe severity.",
+        "  Time frame: 3 years",
+        "Results 1: ",
+        "  Arm/Group Title: Palbociclib+Letrozole",
+        "  Arm/Group Description: Participants received palbociclib orally once daily at 125 mg for 21 days followed by 7 days off treatment for each 28-day cycle, and letrozole orally at 2.5 mg QD as a continuous daily dosing schedule. Participants continued to receive treatments with palbociclib+letrozole until disease progression, symptomatic deterioration, unacceptable toxicity, death, withdrawal of consent, or time of commercial availability of palbociclib, whichever occurred first.",
+        "  Overall Number of Participants Analyzed: 130",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Grade 1: 0   0.0%",
+        "  Grade 2: 17  13.1%",
+        "  Grade 3: 82  63.1%",
+        "  Grade 4: 23  17.7%",
+        "Grade 5: 7   5.4%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 32/130 (24.62%)",
+        "  Anaemia * 1/130 (0.77%)",
+        "  Febrile neutropenia * 1/130 (0.77%)",
+        "  Neutropenia * 1/130 (0.77%)",
+        "  Pancytopenia * 1/130 (0.77%)",
+        "  Arteriosclerosis coronary artery * 1/130 (0.77%)",
+        "  Ascites * 1/130 (0.77%)",
+        "  Chest pain * 1/130 (0.77%)",
+        "  Disease progression * 2/130 (1.54%)",
+        "  General physical health deterioration * 1/130 (0.77%)",
+        "  Cellulitis * 1/130 (0.77%)"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Clinical Trial ID": "NCT02781051",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Physical Activity Intervention",
+        "  Participants will participate in a multi-component physical activity intervention for 12 weeks with a 6 month follow up.",
+        "  Print-based education: Subjects were given a copy of Exercise for Health: An Exercise Guide for Breast Cancer Survivors. Topics covered within the book include benefits of exercise; recommendations on type, duration, frequency and intensity of exercise; goal-setting; and advice on overcoming barriers.",
+        "  Fitbit: Subjects were provided with a Fitbit and instructed to wear the device daily.",
+        "  Active Living counseling: The Active Living counseling program consists of 12 weekly group educational sessions. These sessions involved discussion of topics related to increasing physical activity, including: identifying and overcoming barriers, setting goals, and time management.",
+        "  Facility Access: Subjects will have access to the exercise lab in the UT Southwestern Depression Center consisting of equipment for aerobic exercise (treadmills, stationary bikes, etc.)."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Positive depression screen (PHQ-9) or current antidepressant treatment",
+        "  Report <150 minutes of weekly moderate-to-vigorous physical activity (MVPA) on the GPAQ",
+        "  Physically able to engage in physical activity",
+        "  Written and verbal fluency in English",
+        "Exclusion Criteria:",
+        "  Medical condition contraindicating physical activity participation",
+        "  Recurrence of breast cancer",
+        "  Ductal carcinoma in situ (DCIS) diagnosis",
+        "  Cognitively unable to give informed consent",
+        "  Non-English speaking"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Moderate-to-vigorous Physical Activity Measured by Actigraph Accelerometer",
+        "  Assess changes in physical activity at 6 months following physical activity intervention.",
+        "  Time frame: 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: Physical Activity Intervention",
+        "  Arm/Group Description: Participants will participate in a multi-component physical activity intervention for 12 weeks with a 6 month follow up.",
+        "  Print-based education: Subjects were given a copy of Exercise for Health: An Exercise Guide for Breast Cancer Survivors. Topics covered within the book include benefits of exercise; recommendations on type, duration, frequency and intensity of exercise; goal-setting; and advice on overcoming barriers.",
+        "  Fitbit: Subjects were provided with a Fitbit and instructed to wear the device daily.",
+        "  Active Living counseling: The Active Living counseling program consists of 12 weekly group educational sessions. These sessions involved discussion of topics related to increasing physical activity, including: identifying and overcoming barriers, setting goals, and time management.",
+        "  Facility Access: Subjects will have access to the exercise lab in the UT Southwestern Depression Center consisting of equipment for aerobic exercise (treadmills, stationary bikes, etc.).",
+        "  Overall Number of Participants Analyzed: 12",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: minutes per week  56.2         (23.4)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/16 (0.00%)"
+    ]
+}

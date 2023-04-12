@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT00398567",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Part 2 - Expanded MTD Cohort",
+        "  All subjects receiving HKI-272 (neratinib) in combination with trastuzumab (Herceptin) HKI-272: neratinib 240 mg daily by mouth Herceptin: Herceptin 4 mg/kg IV as a loading dose followed by Herceptin 2 mg/kg weekly thereafter"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Pathologic diagnosis of breast cancer with current stage IIIB, IIIC or IV not curable by available therapy",
+        "  Progression following at least one Herceptin-containing cytotoxic chemotherapy regimen (neoadjuvant, adjuvant, or metastatic setting)",
+        "  HER2 positive breast cancer",
+        "  At least one measurable target lesion",
+        "  Adequate performance status",
+        "  Adequate cardiac, kidney, and liver function",
+        "  Adequate blood counts",
+        "  Willingness of all subjects who are not surgically sterile or post menopausal to use acceptable methods of birth control",
+        "Exclusion Criteria:",
+        "  More than 3 prior cytotoxic chemotherapy regimens for locally advanced or metastatic disease",
+        "  Major surgery, chemotherapy, radiotherapy, investigational agents, Herceptin or other cancer therapy within 2 weeks of treatment day 1",
+        "  Prior treatment with anthracyclines with cumulative dose of >400 mg/m^2",
+        "  Extensive visceral disease",
+        "  Active central nervous system metastases",
+        "  Pregnant or breast feeding women",
+        "  Significant chronic or recent acute gastrointestinal disorder with diarrhea as a major symptom",
+        "  Prior exposure to HKI-272 or other HER2 targeted agents (except Herceptin and Tykerb)",
+        "  Significant cardiac disease or dysfunction",
+        "  History of life-threatening hypersensitivity to Herceptin",
+        "  Inability or unwillingness to swallow HKI-272 capsules",
+        "  Any other cancer within 5 years with the exception of contralateral breast cancer, adequately treated cervical carcinoma in situ, or adequately treated basal or squamous cell carcinoma of the skin"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  16-week Progression-free Survival (PFS) Rate",
+        "  16-week progression-free survival (PFS) rate for subjects with advanced breast cancer who receive neratinib at the maximum tolerated dose (MTD) in combination with trastuzumab, evaluable population.",
+        "  Time frame: From first dose date to progression status (PD or death) at 16-week",
+        "Results 1: ",
+        "  Arm/Group Title: Part 2 - Expanded MTD Cohort",
+        "  Arm/Group Description: All subjects receiving HKI-272 (neratinib) in combination with trastuzumab (Herceptin) HKI-272: neratinib 240 mg daily by mouth Herceptin: Herceptin 4 mg/kg IV as a loading dose followed by Herceptin 2 mg/kg weekly thereafter",
+        "  Overall Number of Participants Analyzed: 28",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of population  44.8        (25.9 to 62.1)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/4 (25.00%)",
+        "  Vertigo 0/4 (0.00%)",
+        "  Abdominal adhesions 0/4 (0.00%)",
+        "  Abdominal distension 0/4 (0.00%)",
+        "  Abdominal pain 0/4 (0.00%)",
+        "  Diarrhoea 0/4 (0.00%)",
+        "  Nausea 0/4 (0.00%)",
+        "  Vomiting 0/4 (0.00%)",
+        "  Disease progression 0/4 (0.00%)",
+        "  Influenza 0/4 (0.00%)",
+        "  Nasopharyngitis 0/4 (0.00%)",
+        "  Lumbar vertebral fracture 0/4 (0.00%)",
+        "  Hyponatraemia 0/4 (0.00%)",
+        "  Ataxia 0/4 (0.00%)"
+    ]
+}

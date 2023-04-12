@@ -1,0 +1,50 @@
+{
+    "Clinical Trial ID": "NCT00903162",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Letrozole-Leuprolide",
+        "  Patients will receive 2.5mg oral letrozole daily and either 7.5mg monthly of Leuprolide IM or 22.5mg every three months of Leuprolide IM. Zoledronic acid 4mg IV every 6 months x 4 will also be offered optionally.",
+        "  leuprolide: Given intramuscularly beginning on day 1 and then either 7.5 mg every month or 22.5 mg every 3 months for two years",
+        "  letrozole: Taken orally once a day 6-8 weeks after initial leuprolide administration",
+        "  zoledronic acid: If desired, given intravenously every 6 months for a total of 4 injections (optional)"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women 18 years of age or older",
+        "  History of invasive ER+ or PR+ breast cancer treated with at least 4.5 years of tamoxifen",
+        "  No current evidence of recurrent invasive disease or metastatic disease. Patients may have a history of bilateral breast cancer",
+        "  Premenopausal (estradiol level in premenopausal range, >20pg/ml, within the prior 28 days)",
+        "  Liver function tests and creatinine <2.5 times the upper limit of normal within the 28 days prior to enrollment",
+        "  ECOG Performance Status 0-1",
+        "  Must agree to use non-hormonal contraception (condoms, diaphragm, IUD, sterilization, abstinence, etc) and no other hormonal therapy during trial and until 3 months after letrozole is stopped",
+        "  Negative pregnancy test within 14 days prior to enrollment",
+        "  Patient must be able to speak, read and write in English",
+        "Exclusion Criteria:",
+        "  Previous treatment with an oral or IV bisphosphonate in the prior two years",
+        "  History of cancer other than breast cancer within 5 years excluding basal/squamous cell skin carcinoma in situ of the cervix",
+        "  Women with evidence of current local recurrence or metastatic breast cancer",
+        "  Pregnant women",
+        "  Nursing women",
+        "  Women who are currently taking tamoxifen and are unwilling to stop this medication",
+        "  Women with a known deleterious BRCA 1 or BRCA 2 mutation"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Tolerability at One Year of Ovarian Function Suppression (OFS) Using Leuprolide and Letrozole.",
+        "  The tolerability at one year of ovarian function suppression (OFS) using leuprolide and letrozole in this patient population. Specifically, the number of patients who discontinued treatment prior to one year due to toxicity.",
+        "Time frame: 1 year",
+        "Results 1: ",
+        "  Arm/Group Title: Letrozole-Leuprolide",
+        "  Arm/Group Description: Patients will receive 2.5mg oral letrozole daily and either 7.5mg monthly of Leuprolide IM or 22.5mg every three months of Leuprolide IM. Zoledronic acid 4mg IV every 6 months x 4 will also be offered optionally.",
+        "  leuprolide: Given intramuscularly beginning on day 1 and then either 7.5 mg every month or 22.5 mg every 3 months for two years",
+        "  letrozole: Taken orally once a day 6-8 weeks after initial leuprolide administration",
+        "  zoledronic acid: If desired, given intravenously every 6 months for a total of 4 injections (optional)",
+        "  Overall Number of Participants Analyzed: 16",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  4"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/17 (0.00%)"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT00688740",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  TAC (Docetaxel)",
+        "  docetaxel in combination with doxorubicin and cyclophosphamide",
+        "INTERVENTION 2: ",
+        "  FAC (5-fluorouracil)",
+        "  5-fluorouracil in combination with doxorubicin and cyclophosphamide"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically proven breast cancer (invasive adenocarcinoma with at least one axillary lymph node showing evidence of tumor among a minimum of six resected lymph nodes).",
+        "  Definitive surgical treatment must be either mastectomy, or breast conserving surgery with axillary lymph node dissection for operable breast cancer. Margins of resected specimen from definitive surgery must be histologically free of invasive adenocarcinoma and ductal carcinoma.",
+        "Exclusion criteria:",
+        "  Prior systemic anticancer therapy for breast cancer (immunotherapy, hormonotherapy, chemotherapy).",
+        "  Prior anthracycline therapy or taxoids (paclitaxel, docetaxel) for any malignancy."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Disease-Free Survival Events",
+        "  Disease-Free Survival (DFS)- are defined as local, regional or metastatic relapse or the date of second primary cancer or death from any cause whichever occurs first.",
+        "  Time frame: up to 10 year follow-up",
+        "Results 1: ",
+        "  Arm/Group Title: TAC (Docetaxel)",
+        "  Arm/Group Description: docetaxel in combination with doxorubicin and cyclophosphamide",
+        "  Overall Number of Participants Analyzed: 745",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  287",
+        "Results 2: ",
+        "  Arm/Group Title: FAC (5-fluorouracil)",
+        "  Arm/Group Description: 5-fluorouracil in combination with doxorubicin and cyclophosphamide",
+        "  Overall Number of Participants Analyzed: 746",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  333"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 267/744 (35.89%)",
+        "  Neutropenia *2/744 (0.27%)",
+        "  Anaemia *1/744 (0.13%)",
+        "  Leukopenia *1/744 (0.13%)",
+        "  Thrombocytopenia *1/744 (0.13%)",
+        "  Thrombotic thrombocytopenic purpura *1/744 (0.13%)",
+        "  Atrial flutter *1/744 (0.13%)",
+        "  Cardiac arrest *1/744 (0.13%)",
+        "  Myocardial ischaemia *1/744 (0.13%)",
+        "  Arrhythmia *0/744 (0.00%)",
+        "  Cardiac failure congestive *0/744 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 67/736 (9.10%)",
+        "  Neutropenia *1/736 (0.14%)",
+        "  Anaemia *0/736 (0.00%)",
+        "  Leukopenia *0/736 (0.00%)",
+        "  Thrombocytopenia *0/736 (0.00%)",
+        "  Thrombotic thrombocytopenic purpura *0/736 (0.00%)",
+        "  Atrial flutter *0/736 (0.00%)",
+        "  Cardiac arrest *0/736 (0.00%)",
+        "  Myocardial ischaemia *0/736 (0.00%)",
+        "  Arrhythmia *2/736 (0.27%)",
+        "  Cardiac failure congestive *1/736 (0.14%)"
+    ]
+}

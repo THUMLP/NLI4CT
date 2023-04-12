@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT00201851",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  A - Scheduled Surgery",
+        "  Patient scheduled for mid-luteal phase surgical oophorectomy/mastectomy plus Tamoxifen",
+        "  Tamoxifen: 20 mg po daily x 5 years",
+        "  Surgery: Oophorectomy: Group A-Surgical oophorectomy and mastectomy in estimated 5 days in mid-luteal phase of menstrual cycle (b, c) Group B-Surgical oophorectomy and mastectomy (1-6 days from randomization)(b, c) Group C-Surgical oophorectomy and mastectomy(1-6 days from registration)(c)",
+        "INTERVENTION 2: ",
+        "  B - Immediate Surgery",
+        "  Patient assigned to immediate surgical oophorectomy/mastectomy and Tamoxifen",
+        "  Tamoxifen: 20 mg po daily x 5 years",
+        "  Surgery: Oophorectomy: Group A-Surgical oophorectomy and mastectomy in estimated 5 days in mid-luteal phase of menstrual cycle (b, c) Group B-Surgical oophorectomy and mastectomy (1-6 days from randomization)(b, c) Group C-Surgical oophorectomy and mastectomy(1-6 days from registration)(c)"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Open for accrual in Asia only",
+        "  Female age 18-50,",
+        "  premenopausal with regular cycles (>25-35 in length)",
+        "  fine-needle aspiration diagnosis",
+        "  Stage II-IIIA hormone receptor positive invasive breast cancer",
+        "  No prior radiation or chemotherapy",
+        "  Must be surgical candidate for bilateral oophorectomy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Disease-free Survival",
+        "  5-year disease-free survival",
+        "  Time frame: two- to three-year accrual and initial two or more years of follow-up period",
+        "Results 1: ",
+        "  Arm/Group Title: A - Scheduled Surgery",
+        "  Arm/Group Description: Patient scheduled for mid-luteal phase surgical oophorectomy/mastectomy plus Tamoxifen",
+        "  Tamoxifen: 20 mg po daily x 5 years",
+        "  Surgery: Oophorectomy: Group A-Surgical oophorectomy and mastectomy in estimated 5 days in mid-luteal phase of menstrual cycle (b, c) Group B-Surgical oophorectomy and mastectomy (1-6 days from randomization)(b, c) Group C-Surgical oophorectomy and mastectomy(1-6 days from registration)(c)",
+        "  Overall Number of Participants Analyzed: 244",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  64",
+        "Results 2: ",
+        "  Arm/Group Title: B - Immediate Surgery",
+        "  Arm/Group Description: Patient assigned to immediate surgical oophorectomy/mastectomy and Tamoxifen",
+        "  Tamoxifen: 20 mg po daily x 5 years",
+        "  Surgery: Oophorectomy: Group A-Surgical oophorectomy and mastectomy in estimated 5 days in mid-luteal phase of menstrual cycle (b, c) Group B-Surgical oophorectomy and mastectomy (1-6 days from randomization)(b, c) Group C-Surgical oophorectomy and mastectomy(1-6 days from registration)(c)",
+        "  Overall Number of Participants Analyzed: 255",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  71"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/244 (0.00%)",
+        "  Pregnancy *0/244 (0.00%)",
+        "  Endocervical cancer *0/244 (0.00%)",
+        "  Nosocomial pneumonia *0/244 (0.00%)",
+        "  Venous thrombosis *0/244 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 5/255 (1.96%)",
+        "  Pregnancy *1/255 (0.39%)",
+        "  Endocervical cancer *1/255 (0.39%)",
+        "  Nosocomial pneumonia *2/255 (0.78%)",
+        "  Venous thrombosis *1/255 (0.39%)"
+    ]
+}

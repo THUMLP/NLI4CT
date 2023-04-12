@@ -1,0 +1,50 @@
+{
+    "Clinical Trial ID": "NCT00721409",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Phase 1 (Palbociclib + Letrozole)",
+        "  In Cycle 1 (3 weeks), participants received single agent palbociclib 125 mg/d orally for 2 weeks followed by 1 week off treatment. In Cycles 2 and beyond (4 weeks each), participants received letrozole 2.5 mg/d in a continuous regimen plus Palbociclib 125 mg/d orally for 3 weeks followed by 1 week off treatment."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Inoperable estrogen receptor positive and HER2 negative breast cancer.",
+        "  Postmenopausal status.",
+        "  Tumor tissue (archived acceptable) available for biomarker studies. For Phase 2 Part 2 - CCND1 amplification and/or loss of p16 as determined by the central laboratory.",
+        "  Acceptable bone marrow, liver and kidney function.",
+        "Exclusion Criteria:",
+        "  Prior or concomitant treatment for advanced breast cancer.",
+        "  Other major cancer in the past 3 years.",
+        "  Important cardiovascular events in the past 6 months."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Treatment-Emergent Adverse Events (TEAEs; All Causalities) at Phase 1",
+        "  An adverse event (AE) was any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. Serious adverse event (SAE) was an AE resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life-threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly.",
+        "  Time frame: Maximum treatment duration (approximately 55 months)",
+        "Results 1: ",
+        "  Arm/Group Title: Phase 1 (Palbociclib + Letrozole)",
+        "  Arm/Group Description: In Cycle 1 (3 weeks), participants received single agent palbociclib 125 mg/d orally for 2 weeks followed by 1 week off treatment. In Cycles 2 and beyond (4 weeks each), participants received letrozole 2.5 mg/d in a continuous regimen plus Palbociclib 125 mg/d orally for 3 weeks followed by 1 week off treatment.",
+        "  Overall Number of Participants Analyzed: 12",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  Participants with AEs: 12",
+        "  Participants with SAEs: 2",
+        "  Participants with Grade 3 or 4 AEs: 11",
+        "  Participants with Grade 5 AEs: 0"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 2/12 (16.67%)",
+        "  Anaemia * 0/12 (0.00%)",
+        "  Cardiac failure * 0/12 (0.00%)",
+        "  Abdominal pain * 0/12 (0.00%)",
+        "  Colitis ischaemic * 0/12 (0.00%)",
+        "  Diarrhoea * 0/12 (0.00%)",
+        "  Gastrointestinal disorder * 0/12 (0.00%)",
+        "  Ileus * 0/12 (0.00%)",
+        "  Oesophageal achalasia * 0/12 (0.00%)",
+        "  Nausea * 1/12 (8.33%)",
+        "  Vomiting * 1/12 (8.33%)",
+        "  Gastritis * 0/12 (0.00%)",
+        "  Inguinal hernia * 0/12 (0.00%)"
+    ]
+}

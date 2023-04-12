@@ -1,0 +1,52 @@
+{
+    "Clinical Trial ID": "NCT02692755",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Palbociclib + Letrozole or Fulvestrant",
+        "  Palbociclib + Letrozole or Fulvestrant: Palbociclib x 21 days with a 7 day rest plus 2.5 mg Letrozole QD (no break) or Fulvestrant 500mg IM every 2 weeks for 3 doses and then every 4 weeks until progression or maximum of 12 months"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Self-identified Black, African or African American women of  18 years of age with proven diagnosis of advanced adenocarcinoma of the breast (locoregionally recurrent or metastatic disease)",
+        "  ER-positive and/or PgR-positive tumor based on local laboratory results",
+        "  HER2-negative breast cancer based on local laboratory results (test to be used as per local practice)",
+        "  Patients must be appropriate candidates for letrozole or fulvestrant therapy",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 0-2",
+        "  Adequate bone marrow function:",
+        "  Absolute Neutrophil Count (ANC)  1,000/mm3 (1.0 x 109/L);",
+        "  Platelets 100,000/mm3 (100 x 109/L);",
+        "  Hemoglobin 9 g/dL (90 g/L).",
+        "Exclusion Criteria:",
+        "  Current use of food or drugs known to be potent inhibitors or inducers of CYP3A4",
+        "  Active uncontrolled or symptomatic brain metastases. Previously treated and clinically stable, as per Investigator's judgment, brain metastases are permitted.",
+        "  Previous CDK4/6 inhibitor",
+        "-"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Patients Who Complete Planned Oncologic Therapy Without the Development of a Hematological Event",
+        "  For study purpose febrile neutropenia will be defined according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) v4.0: \"ANC less than 1000/mm3 with a single temperature of >38.3 degrees Celsius (101 degrees Fahrenheit) or a sustained temperature of 38 degrees Celsius (100.4 degrees Fahrenheit) for more than one hour.\"",
+        "  Planned oncology therapy is defined as completion of one year of therapy for advanced breast cancer in the absence of disease progression or cessation of study drug due to progressive disease or non-hematological toxicity.",
+        "  Time frame: 12 months",
+        "Results 1: ",
+        "  Arm/Group Title: Palbociclib + Letrozole or Fulvestrant",
+        "  Arm/Group Description: Palbociclib + Letrozole or Fulvestrant: Palbociclib x 21 days with a 7 day rest plus 2.5 mg Letrozole QD (no break) or Fulvestrant 500mg IM every 2 weeks for 3 doses and then every 4 weeks until progression or maximum of 12 months",
+        "  Overall Number of Participants Analyzed: 35",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  35 100.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 8/35 (22.86%)",
+        "  Heart failure 1/35 (2.86%)",
+        "  Colitis 1/35 (2.86%)",
+        "  Diarrhea 1/35 (2.86%)",
+        "  Fever 1/35 (2.86%)",
+        "  Upper respiratory infection 1/35 (2.86%)",
+        "  Urinary tract infection 1/35 (2.86%)",
+        "  Neutrophil count decreased 1/35 (2.86%)",
+        "  Anorexia 1/35 (2.86%)",
+        "  Suicidal ideation 1/35 (2.86%)",
+        "  Acute kidney injury 1/35 (2.86%)"
+    ]
+}

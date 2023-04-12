@@ -1,0 +1,43 @@
+{
+    "Clinical Trial ID": "NCT02635737",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Sentimark Device Placement",
+        "  Sentimark device placed in women having mastectomy surgery",
+        "  Sentimark: Placement of a metallic clip with paramagnetic properties for tumour localisation"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Participant is willing and able to give informed consent for participation in the study;",
+        "  Female, aged 18 years or above;",
+        "  Diagnosed with breast cancer (invasive or dcis);",
+        "  Willing to allow his or her General Practitioner and consultant, if appropriate, to be notified of participation in the study;",
+        "  Undergoing mastectomy breast surgery.",
+        "Exclusion Criteria:",
+        "  Patients with a Pacemaker or implanted device;",
+        "  Patients requiring an MRI scan prior to surgery;",
+        "  Patients with known coagulopathy or receiving anticoagulant medication including warfarin, heparin, clopidogrel or rivaroxaban;",
+        "  Patients receiving Neoadjuvant chemotherapy;",
+        "  Patients who are pregnant or lactating;",
+        "  Patients scheduled for immediate breast reconstruction;",
+        "  Patients who have received Sienna (iron oxide) injection in the previous six months;",
+        "  Patients with an existing breast haematoma close to the target lesion."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Migration of Sentimark Device",
+        "  Migration of the device>10mm between mammograms, clip position >40mm from target lesion",
+        "  Time frame: 1-4 weeks from placement",
+        "Results 1: ",
+        "  Arm/Group Title: Sentimark Device Placement",
+        "  Arm/Group Description: Sentimark device placed in women having mastectomy surgery",
+        "  Sentimark: Placement of a metallic clip with paramagnetic properties for tumour localisation",
+        "  Overall Number of Participants Analyzed: 28",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of Magseed migrating >10mm  100"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/29 (0.00%)"
+    ]
+}

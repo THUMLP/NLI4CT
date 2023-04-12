@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT01332630",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  TPI 287",
+        "  TPI 287 administered at 160 mg/m2 by vein on Day 1 and repeated every three weeks. Day 1 of each subsequent cycle is equivalent of day 22 of the previous cycle; pre TPI 287: Dexamethasone 6 mg by mouth at 12 hours and 6 hours prior to treatment. As alternative and based on the treating physician discretion, Dexamethasone 10 mg by vein may be given 30-60 minutes prior to treatment with TPI 287, Benadryl 12.5-25 mg IV push over 30-60 minutes, and Ranitidine 1mg/kg IV over 30-60 minutes."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients must have histologically proven breast cancer with metastatic disease to the brain.",
+        "  Patients must have measurable disease on MRI that has progressed after prior therapy. PD will be defined as a>/= 25% increase in the sum of the products of greatest perpendicular diameters of all measurable disease over the smallest sum observed (since treatment started) on Gd-MRI, the appearance of new lesions on scan, or clinical or neurologic worsening despite stable disease on the last 2 scans.",
+        "  Patients may have had any number of prior surgeries, radiation and/or chemotherapy regimens as adjuvant, neoadjuvant or palliative therapy for the treatment of their disease",
+        "  Patients must be >/=18 years of age.",
+        "  Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0,1 or 2.",
+        "  Patients must have adequate bone marrow function as evidenced by an absolute neutrophil count >/=1,500/microliters and a platelet count >/=100,000/microliter, adequate renal function as evidenced by serum creatinine </=2.0 mg/dL, adequate hepatic function as evidenced by serum total bilirubin </=2.0 mg/dL, AST/serum glutamate oxaloacetate transaminase (SGOT) and ALT/serum glutamate pyruvate transaminase (SGPT) </= 3X the upper limit of normal (ULN).",
+        "  Patients must have recovered and healed from the effects of any prior surgery, must have received prior chemotherapy at least 2 weeks prior to dosing with adequate recovery of white blood cell count (WBC) and platelet counts, and at least 12 weeks must have elapsed from the completion of radiotherapy, unless there are new lesions appearing on imaging within this 12 weeks frame.",
+        "  Women of child-bearing potential (i.e. </= 50 years of age or has had menstrual cycle within the past 12 months, if > 50 years of age. If in doubt, check FSH, LH and estradiol level) must have a negative urine or serum pregnancy test at screening.",
+        "  Sexually active patients must agree to use adequate contraception (abstinence or barrier contraceptives must be used throughout the trial and one month after end of treatment) for the duration of the study .",
+        "  Patients or their legal representative must be able to read, understand and sign an informed consent form (ICF).",
+        "  TPI 287 may interfere with coumadin dosing and patients who are taking this combination will require monitoring of their PT, PTT and international normalized ratio (INR).",
+        "Exclusion Criteria:",
+        "  Patients who are receiving concurrent enzyme-inducing anti-epileptic drugs (EIAEDs) (e.g., carbamazepine, oxcarbazepine, phenytoin, fosphenytoin, phenobarbital and primidone) or who received EIAEDs within 2 weeks prior to the first dose of study drug.",
+        "  Patients with uncontrolled intracranial hypertension syndrome (defined as: persistence of headache, transient visual obscurations, and/or diplopia despite optimal clinical management) or uncontrolled seizure activity (i.e. recorded despite optimal medical management).",
+        "  Patients who are not on a stable or decreasing steroid dose for the previous week prior to the first dose of study enrollment",
+        "  Patients who are taking bevacizumab or have taken bevacizumab within the past 2 weeks for treatment of their brain metastases",
+        "  Patients with an active infection (i.e., clinical signs or symptoms, including, but not limited to: bleeding/pustulant skin infections; productive cough associated with fever) on antibiotics or with a fever >/=38.5\u00b0C within 3 days prior to registration (i.e. date when the patient signs the consent and/or the patient is registered in CORE).",
+        "  Patients with New York Heart Association (NYHA) Class 3 or 4 congestive heart failure.",
+        "  Patients with known HIV or Hepatitis B or C",
+        "  Patients who are pregnant or lactating or not practicing adequate contraception",
+        "  Patients with any other medical condition, including mental illness or substance abuse, deemed by the Investigator to be likely to interfere with the patient's ability to sign the ICF or his/her ability to cooperate and participate in the study, or to interfere with the interpretation of the results.",
+        "  Patients who are receiving concomitant systemic therapy for breast cancer.",
+        "  Patients with leptomeningeal disease (LMD) or with a history of LMD will be excluded."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Overall Response Rate (ORR)",
+        "  Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), >=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR.\"",
+        "  Time frame: 8-24 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: TPI 287",
+        "  Arm/Group Description: TPI 287 administered at 160 mg/m2 by vein on Day 1 and repeated every three weeks. Day 1 of each subsequent cycle is equivalent of day 22 of the previous cycle; pre TPI 287: Dexamethasone 6 mg by mouth at 12 hours and 6 hours prior to treatment. As alternative and based on the treating physician discretion, Dexamethasone 10 mg by vein may be given 30-60 minutes prior to treatment with TPI 287, Benadryl 12.5-25 mg IV push over 30-60 minutes, and Ranitidine 1mg/kg IV over 30-60 minutes.",
+        "  Overall Number of Participants Analyzed: 21",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  21 100.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 6/21 (28.57%)",
+        "  Hypertension 3/21 (14.29%)",
+        "  Edema 3/21 (14.29%)",
+        "  Nausea 2/21 (9.52%)",
+        "  Fracture 1/21 (4.76%)",
+        "  Dizziness 3/21 (14.29%)",
+        "  Syncope 2/21 (9.52%)",
+        "  Headache 2/21 (9.52%)",
+        "  Dyspnea 2/21 (9.52%)",
+        "  Hypoxia 3/21 (14.29%)"
+    ]
+}

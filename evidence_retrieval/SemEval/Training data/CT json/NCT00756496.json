@@ -1,0 +1,47 @@
+{
+    "Clinical Trial ID": "NCT00756496",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  FFDM Mammography Exam - LIP Algorithm",
+        "  Screening or diagnostic Full Field Digital Mammography (FFDM) exam",
+        "INTERVENTION 2: ",
+        "  FFDM Mammography Exam - SIP Algorithm",
+        "  The same 130 raw data images were externally reprocessed with the Siemens processing algorithm."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female",
+        "  > 40 years",
+        "Exclusion Criteria:",
+        "  Pregnant women, or women who may become pregnant",
+        "  Mammographic evidence of breast surgery, prior radiation to the breast, needle projection or pre-biopsy markings are evident in the mammogram (but may include breast implants)",
+        "  Palpable lesion or one that is visible by another modality",
+        "Inmates"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Area Under the Receiver Operating Characteristic (ROC) Curve to Compare Diagnostic Accuracy of 2 Algorithms in Breast Cancer Diagnosis",
+        "  The primary objective of this study was to demonstrate non-inferiority of the Siemens' processing algorithm to Lorad's processing algorithm with regards to readers' diagnostic accuracy in detecting and characterizing breast lesions. The non-inferiority analyses were performed by comparing the area under the ROC curve (AUC) for the two algorithms & to compare false positive marks per subject.",
+        "  The ROC curve incorporates both sensitivity (true positive rate) and specificity (true negative rate) providing a single assessment incorporating both measures. It shows in a graphical way the trade-off between clinical sensitivity and specificity for every possible cut-off for a test, and gives an idea about the benefit of using the test in question. The higher the total area under the curve, the greater the predictive power of the reader assessments.",
+        "  A breast-based analysis was used for the primary AUC comparison in order to obtain additional power by having more normal/benign breasts.",
+        "  Time frame: ~1 year. Women with negative or biopsy benign findings at baseline (study entry) were followed for 1 year to confirm the negative status at 1-year follow-up mammography exam. Women diagnosed with cancer were not followed up.",
+        "Results 1: ",
+        "  Arm/Group Title: FFDM Mammography Exam - LIP Algorithm",
+        "  Arm/Group Description: Screening or diagnostic Full Field Digital Mammography (FFDM) exam",
+        "  Overall Number of Participants Analyzed: 130",
+        "  Overall Number of Units Analyzed",
+        "  Type of Units Analyzed: Breasts  Mean (Standard Error)Unit of Measure: probability: 0.884         (0.008)",
+        "Results 2: ",
+        "  Arm/Group Title: FFDM Mammography Exam - SIP Algorithm",
+        "  Arm/Group Description: The same 130 raw data images were externally reprocessed with the Siemens processing algorithm.",
+        "  Overall Number of Participants Analyzed: 130",
+        "  Overall Number of Units Analyzed",
+        "  Type of Units Analyzed: Breasts  Mean (Standard Error)Unit of Measure: probability: 0.880         (0.008)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/442 (0.00%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Clinical Trial ID": "NCT00662025",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  SUNITINIB+CAPECITABINE",
+        "  Sunitinib was administered orally from Day 1 at the starting dose of 37.5 mg/day on a continuous daily dosing schedule in 21-day cycles. Capecitabine was administered orally from Days 1 to 14 every 21 days at a starting dose of 2,000 mg/m^2/day. Participants were monitored for toxicity, and sunitinib and/or capecitabine dosing could be interrupted or reduced according to individual tolerance. Participants with progressive disease (PD) or intolerable toxicity were considered for discontinuation from the study."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically- or cytologically-proven diagnosis of breast adenocarcinoma that is not amenable to surgery, radiation, or combined modality therapy with curative intent",
+        "  Measurable disease as per RECIST. Measurable lesions that have been previously irradiated will not be considered target lesions unless increase in size has been observed following completion of radiation therapy.",
+        "  Prior treatment with an anthracycline and a taxane in the neoadjuvant, adjuvant or metastatic disease settings.",
+        "Exclusion Criteria:",
+        "  Histology of inflammatory carcinoma with no other measurable disease. Patients with histology of inflammatory carcinoma are allowed on study if they have measurable disease.",
+        "  Brain metastases, spinal cord compression, or carcinomatous meningitis, or leptomeningeal disease.",
+        "  Prior treatment with 5-fluorouracil (5-FU) and 5-FU derivatives such as Furtulon (5'-DFUR), Futraful/ Sunfural (tegafur), UFT/UFT-E (tegafur/uracil), TS-1 (tegafur/gimeracil/oteracil) or Mifurol (carmofur) in metastatic disease setting"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Objective Response Based on Data Review Committee's Assessment",
+        "  Number of participants with objective response based on assessment of confirmed complete response (CR) or confirmed partial response (PR) according to Response Evaluation Criteria in Solid Tumors version 1.0 (RECIST). CR is defined as disappearance of all target and non-target lesions. PR is defined as 30% decrease in sum of the longest dimensions (LDs) of the target lesions taking as reference the baseline sum LD according to RECIST. Confirmed responses are those that persist on repeat evaluation 4 weeks after initial documentation of response.",
+        "  Time frame: Day 1 of Cycle 2, every 6 weeks after Cycle 2, and at the end of Cycle 8.",
+        "Results 1: ",
+        "  Arm/Group Title: SUNITINIB+CAPECITABINE",
+        "  Arm/Group Description: Sunitinib was administered orally from Day 1 at the starting dose of 37.5 mg/day on a continuous daily dosing schedule in 21-day cycles. Capecitabine was administered orally from Days 1 to 14 every 21 days at a starting dose of 2,000 mg/m^2/day. Participants were monitored for toxicity, and sunitinib and/or capecitabine dosing could be interrupted or reduced according to individual tolerance. Participants with progressive disease (PD) or intolerable toxicity were considered for discontinuation from the study.",
+        "  Overall Number of Participants Analyzed: 63",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Total Number of Participants with CR+PR: 19",
+        "  Complete Response (CR): 0",
+        "  Partial Response (PR): 19"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 17/63 (26.98%)",
+        "  Febrile neutropenia 1/63 (1.59%)",
+        "  Leukopenia 1/63 (1.59%)",
+        "  Thrombocytopenia 3/63 (4.76%)",
+        "  Anemia 1/63 (1.59%)",
+        "  Ascites 1/63 (1.59%)",
+        "  Diarrhoea 1/63 (1.59%)",
+        "  Gingival bleeding 1/63 (1.59%)",
+        "  Vomiting 1/63 (1.59%)",
+        "  Gastrointestinal haemorrhage 1/63 (1.59%)",
+        "  Fatigue 2/63 (3.17%)",
+        "  Malaise 2/63 (3.17%)",
+        "  Pyrexia 2/63 (3.17%)"
+    ]
+}

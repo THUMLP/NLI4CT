@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT01340300",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Exercise Training With Metformin",
+        "  Exercise training with exercise physiologist with oral metformin",
+        "  Exercise training plus metformin: Two supervised exercise sessions per week. Oral metformin QD for 2 weeks, then BID",
+        "INTERVENTION 2: ",
+        "  Exercise Training",
+        "  Exercise training with exercise physiologist",
+        "  Exercise training: Two supervised exercise sessions per week"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically confirmed stage I-III colorectal or breast cancer",
+        "  Undergone curative-intent complete surgical resection and completed all adjuvant therapy (if indicated) at least 2 months prior to enrollment",
+        "  Note: Breast cancer subjects on hormonal therapy or trastuzumab only therapy and colorectal cancer subjects on adjunctive therapies not considered cytotoxic chemotherapy (including those participating in CALGB 80702 receiving only celecoxib/placebo) are eligible.",
+        "  Participants will be allowed to receive concomitant adjuvant endocrine therapy for breast cancer; however, all endocrine agents must be initiated at least 1 month prior to enrollment in the study and continued throughout the duration of study participation.",
+        "  Less than 120 minutes of exercise per week",
+        "  Approval by oncologist or surgeon",
+        "  English speaking and able to read English",
+        "  No planned surgery anticipated in the 3 month intervention period",
+        "  At least one month from any major surgery to start of intervention including colostomy reversal",
+        "Exclusion Criteria:",
+        "  Concurrent other malignancy or history of other malignancy treated within the past 3 years (other than non-melanoma skin cancer or in-situ cervical cancer)",
+        "  Metastatic disease",
+        "  Scheduled to receive any form of further adjuvant cancer therapy",
+        "  Currently on medication for diabetes treatment",
+        "  Pregnant or breast-feeding",
+        "  Any condition associated with increased risk of metformin-associated lactic acidosis (prior renal failure or liver failure, history of acidosis of any type; habitual intake of 3 or more alcoholic beverages per day)",
+        "  Known hypersensitivity or intolerance to metformin"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Fasting Insulin Level",
+        "  Determine whether supervised exercise training alone and metformin, either alone or in combination can decrease fasting insulin level from baseline to 3 months in patients who completed standard therapy for stage I-III colorectal or breast cancer. Fasting insulin levels in blood will be drawn at baseline, 3 months and 6 months. Negative least square means indicate a decrease at 3 month comparing to baseline value.",
+        "  Time frame: 0 and 3 months (change between 0 and 3 months)",
+        "Results 1: ",
+        "  Arm/Group Title: Exercise Training With Metformin",
+        "  Arm/Group Description: Exercise training with exercise physiologist with oral metformin",
+        "  Exercise training plus metformin: Two supervised exercise sessions per week. Oral metformin QD for 2 weeks, then BID",
+        "  Overall Number of Participants Analyzed: 33",
+        "  Least Squares Mean (Standard Error)",
+        "  Unit of Measure: mU/L  -2.47         (1.07)",
+        "Results 2: ",
+        "  Arm/Group Title: Exercise Training",
+        "  Arm/Group Description: Exercise training with exercise physiologist",
+        "  Exercise training: Two supervised exercise sessions per week",
+        "  Overall Number of Participants Analyzed: 34",
+        "  Least Squares Mean (Standard Error)",
+        "  Unit of Measure: mU/L  -0.08         (1.06)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/35 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/35 (0.00%)"
+    ]
+}

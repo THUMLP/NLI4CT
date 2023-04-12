@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT00322348",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  ZOLADEX 10.8 mg",
+        "  ZOLADEX (goserelin acetate) 10.8 mg intramuscular depot for injection every 12 weeks",
+        "INTERVENTION 2: ",
+        "  ZOLADEX 3.6 mg",
+        "  ZOLADEX (goserelin acetate) 3.6 mg intramuscular depot for injection every 4 weeks"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Pre-menopausal women aged 18 years or over with histologically/cytologically-confirmed oestrogen receptor positive (ER +ve) breast cancer",
+        "  World Health Organization (WHO) performance status of 0, 1, or 2",
+        "  Provided written informed consent",
+        "Exclusion Criteria:",
+        "  Treatment with tamoxifen or other hormonal therapies as early breast cancer (EBC) adjuvant in the previous 24 weeks",
+        "  Received radiotherapy within the past 4 weeks",
+        "  History of systemic malignancy other than breast cancer within the previous 3 years",
+        "  Estimated survival less than 24 weeks"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With Progression Free Survival (PFS) at Week 24",
+        "  The number of participants for whom neither objective disease progression or death (due to any cause) has been observed at Week 24 over the number of randomised participants x 100.",
+        "  Time frame: Objective tumour assessments carried out every 12 weeks (+/- 7 days) until Week 24, and then every 24 weeks (+/- 14 days) until Week 96 or objective progression is confirmed according to Response Evaluation Criteria in Solid Tumours (RECIST).",
+        "Results 1: ",
+        "  Arm/Group Title: ZOLADEX 10.8 mg",
+        "  Arm/Group Description: ZOLADEX (goserelin acetate) 10.8 mg intramuscular depot for injection every 12 weeks",
+        "  Overall Number of Participants Analyzed: 49",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of participants  69.4",
+        "Results 2: ",
+        "  Arm/Group Title: ZOLADEX 3.6 mg",
+        "  Arm/Group Description: ZOLADEX (goserelin acetate) 3.6 mg intramuscular depot for injection every 4 weeks",
+        "  Overall Number of Participants Analyzed: 49",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of participants  73.5"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 2/50 (4.00%)",
+        "  Peritonsillar Abscess 0/50 (0.00%)",
+        "  Humerus Fracture 1/50 (2.00%)",
+        "  Endometrial Hyperplasia 1/50 (2.00%)",
+        "  Haematoma 0/50 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 3/48 (6.25%)",
+        "  Peritonsillar Abscess 1/48 (2.08%)",
+        "  Humerus Fracture 0/48 (0.00%)",
+        "  Endometrial Hyperplasia 1/48 (2.08%)",
+        "  Haematoma 1/48 (2.08%)"
+    ]
+}

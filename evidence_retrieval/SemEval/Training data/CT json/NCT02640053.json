@@ -1,0 +1,52 @@
+{
+    "Clinical Trial ID": "NCT02640053",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Arm I (Cryotherapy)",
+        "  Patients receive topical cryotherapy for 15 minutes prior to each paclitaxel dose, during paclitaxel infusion and for 15 minutes following paclitaxel completion. Therapy repeats every week for a planned course of 12 weeks of adjuvant paclitaxel.",
+        "INTERVENTION 2: ",
+        "  Arm II (Control)",
+        "  Patients receive the standard of care only (paclitaxel at a dose of 80 mg/m2 IV) every week for a planned course of 12 weeks."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Ability to complete questionnaires by themselves or with assistance",
+        "  Planned paclitaxel at a dose of 80 mg/m^2 intravenously (I.V.) given, in the adjuvant breast cancer (postoperative or neo-adjuvant) setting, every week for a planned course of 12 weeks without any other concurrent cytotoxic chemotherapy (NOTE: trastuzumab and/or other antibody and/or small molecule treatment is allowed, except for poly adenosine diphosphate ribose polymerase [PARP] inhibitors), at the entering Academic and Community Cancer Research United (ACCRU) institution",
+        "  Life expectancy > 6 months",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1",
+        "  Patient has score of 0 or 1 on the neurotoxicity evaluation, as determined by the healthcare provider",
+        "Exclusion Criteria:",
+        "  Previous diagnosis of diabetic neuropathy or peripheral neuropathy from any cause",
+        "  Diagnosis of fibromyalgia",
+        "  Any prior exposure to neurotoxic chemotherapy",
+        "  History of Raynaud?s disease, cryoglobulinemia"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Area Under the Curve (AUC) EORTC CIPN20 Sensory Neuropathy Subscale Adjusting for Baseline",
+        "  Average Area Under the Curve per assessment (aAUCpa) of EORTC Chemotherapy-Induced Peripheral Neuropathy Module (EORTC QLQ-CIPN20) Sensory Neuropathy Subscale adjusting for baseline. The EORTC CIPN20 scoring algorithm was used for the sensory (items 31-36, 39, 40 and 48) subscale scores on a 0-100 scale, with higher scores represent fewer symptoms (better QOL). The aAUCpa for the subscale is calculated as the average of each AUC between each sequential assessment from pre-treatment-initiation to the week-12 assessment then subtract the corresponding baseline Sensory Neuropathy subscale score, with positive scores represent symptoms has improved from baseline and negative scores represent symptoms has worsen from baseline.",
+        "  Time frame: Up to 12 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Arm I (Cryotherapy)",
+        "  Arm/Group Description: Patients receive topical cryotherapy for 15 minutes prior to each paclitaxel dose, during paclitaxel infusion and for 15 minutes following paclitaxel completion. Therapy repeats every week for a planned course of 12 weeks of adjuvant paclitaxel.",
+        "  Overall Number of Participants Analyzed: 19",
+        "  Median (Full Range)",
+        "  Unit of Measure: Average(subscale value*assessment)  -1.4        (-11.7 to 6.8)",
+        "Results 2: ",
+        "  Arm/Group Title: Arm II (Control)",
+        "  Arm/Group Description: Patients receive the standard of care only (paclitaxel at a dose of 80 mg/m2 IV) every week for a planned course of 12 weeks.",
+        "  Overall Number of Participants Analyzed: 20",
+        "  Median (Full Range)",
+        "  Unit of Measure: Average(subscale value*assessment)  -4.4        (-57.1 to 16.2)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/21 (0.00%)",
+        "  Lung infection 0/21 (0.00%)",
+        "  Respiratory failure 0/21 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 1/21 (4.76%)",
+        "  Lung infection 1/21 (4.76%)",
+        "  Respiratory failure 1/21 (4.76%)"
+    ]
+}

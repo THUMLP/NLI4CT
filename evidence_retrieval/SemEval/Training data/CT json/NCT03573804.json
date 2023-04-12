@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT03573804",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Prone to Supine MRI Evaluated by Radiologist A",
+        "  Radiologist A, number of participants successfully segmented",
+        "INTERVENTION 2: ",
+        "  Prone to Supine MRI Evaluated by Radiologist B",
+        "  Radiologist B, number of participants successfully segmented"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Age > 18 years.",
+        "  Female gender.",
+        "  Histologic diagnosis of invasive breast cancer or ductal carcinoma in situ",
+        "  Tumor size at least 1 cm in diameter as visualized on mammogram or US.",
+        "  A diagnostic breast MRI is considered to be clinically indicated.",
+        "  Ability to voluntarily provide informed consent to participate prior to any study-related assessments/procedures being conducted.",
+        "Exclusion Criteria:",
+        "  Absolute contraindication to MRI, including presence of implanted electrical device (pacemaker or neurostimulator), aneurysm clip, or metallic foreign body in or near eyes.",
+        "  Severe claustrophobia.",
+        "  Contraindication to use of gadolinium-based intravenous contrast, including life- threatening allergy or compromised renal function (eGFR < 30 ml/min/1.73m2).",
+        "  History of median sternotomy.",
+        "  Pregnancy. Patient attestation that they are not pregnant will be acceptable.",
+        "  Patients who have received neoadjuvant chemotherapy."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Successful Segmentation of Supine MRI Images",
+        "  Determine what number of cases that can be successfully segmented both from using post-contrast prone MRI images and also from using post contrast supine MRI images.",
+        "  Time frame: 30 minutes",
+        "Results 1: ",
+        "  Arm/Group Title: Prone to Supine MRI Evaluated by Radiologist A",
+        "  Arm/Group Description: Radiologist A, number of participants successfully segmented",
+        "  Overall Number of Participants Analyzed: 62",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  54  87.1%",
+        "Results 2: ",
+        "  Arm/Group Title: Prone to Supine MRI Evaluated by Radiologist B",
+        "  Arm/Group Description: Radiologist B, number of participants successfully segmented",
+        "  Overall Number of Participants Analyzed: 62",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  61  98.4%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/62 (0.00%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

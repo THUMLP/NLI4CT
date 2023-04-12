@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT00186121",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Anastrozole + Goserelin",
+        "  Participants received goserelin 3.6 mg subcutaneously monthly. Beginning on Day 22 after the first dose of goserelin, participants began taking anastrozole 1 mg orally daily."
+    ],
+    "Eligibility": [
+        "INCLUSION CRITERIA",
+        "  Histologically-confirmed, bi-dimensionally measurable, recurrent or metastatic carcinoma of the breast that is progressive",
+        "  Premenopausal, defined as any of:",
+        "  Last menstrual period within 3 months, or",
+        "  Post-hysterectomy without bilateral oophorectomy and with follicle-stimulating hormone (FSH) in the premenopausal range, or,",
+        "  If tamoxifen administered within the past 3 months, plasma estradiol must be in the premenopausal range",
+        "  Either positive estrogen and/or progesterone receptor determination by Immunohistochemistry (IHC) or competitive binding assay on metastatic disease, or if not performed on their metastatic disease a positive result on their primary breast cancer specimen.",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2",
+        "  Granulocytes > 1500/mm^3",
+        "  Platelets > 100,000/mm^3",
+        "  Serum glutamic oxaloacetic transaminase (SGOT) < 2.5 x upper limit of normal",
+        "  Total bilirubin < 1.5 mg/dL",
+        "  May have received irradiation to bony sites of disease for pain control or for prevention of fracture. The irradiated site(s) will NOT be evaluable for disease response.",
+        "  Must be using effective contraception or not be of childbearing potential",
+        "  Signed written informed consent",
+        "  INCLUSION CRITERIA",
+        "  Active, unresolved infection",
+        "  Active malignancy other than breast cancer, in situ carcinoma of the cervix, or non-melanomatous skin cancers in the past 5 years",
+        "  Prior treatment with an aromatase inhibitor or inactivator",
+        "  Prior treatment with an luteinizing hormone-releasing hormone (LH/RH) agonist/antagonist",
+        "  Adjuvant chemotherapy within 6 months of study entry.",
+        "  Received chemotherapy or hormonal therapy in the 3 weeks prior to enrollment",
+        "  Central nervous system metastasis",
+        "  Lymphangitic pulmonary metastasis",
+        "  Pregnant or lactating"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Objective Response Rate (ORR)",
+        "  ORR was determined as the sum of the Complete Response (CR) rate + Partial Response (PR) rates.",
+        "  CR = Complete disappearance of all clinically- or pathologically-detectable malignant disease for at least 4 weeks.",
+        "  PR =  50% decrease in tumor size for at least 4 weeks, without any new lesion or any  25% increase in size of any lesion.",
+        "  All measurements by ruler or calipers.",
+        "  Time frame: 3 months",
+        "Results 1: ",
+        "  Arm/Group Title: Anastrozole + Goserelin",
+        "  Arm/Group Description: Participants received goserelin 3.6 mg subcutaneously monthly. Beginning on Day 22 after the first dose of goserelin, participants began taking anastrozole 1 mg orally daily.",
+        "  Overall Number of Participants Analyzed: 32",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  37.5        (21 to 56)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/32 (0.00%)"
+    ]
+}

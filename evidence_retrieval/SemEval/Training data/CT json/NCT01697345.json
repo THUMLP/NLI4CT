@@ -1,0 +1,48 @@
+{
+    "Clinical Trial ID": "NCT01697345",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  FSFI Total Score (Pretest)",
+        "  Administered to participants prior to starting vaginal testosterone therapy.",
+        "INTERVENTION 2: ",
+        "  FSFI Total Score (Postteset)",
+        "  Testosterone USP micronized powder supplied by Medisca Pharmacy was compounded by Precision Compounding pharmacy as testosterone 0.3% per 0.5 milliliters (mL) in pharmabase cream. The compounded testosterone vaginal cream was supplied in pre-filled syringes and each 0.5 mL dose delivered 300 mcg of testosterone daily. The cream was applied to the vaginal opening once daily for four weeks (28 days)."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women with breast cancer",
+        "  Currently taking an aromatase inhibitor (AI)",
+        "  Age > 50 years of age",
+        "  Postmenopausal, or two years since last menstrual cycle",
+        "  Urogenital/vulvovaginal symptoms such as vaginal dryness and pain with intercourse",
+        "  Changes in sexual health quality of life/sexual functioning since starting AI therapy",
+        "Exclusion Criteria:",
+        "  The use of other treatments for breast cancer such as chemotherapy or radiation within the past 12 months",
+        "  A known sensitivity to medications containing testosterone",
+        "  The use of exogenous hormone replacement therapy (HRT) in the past three months, including systemic and local estrogen or testosterone therapy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Total Female Sexual Function Index (FSFI) Score",
+        "  The Female Sexual Function Index (FSFI) questionnaire was administered to participants prior to starting vaginal testosterone therapy and the survey was repeated after using the study drug for 4 weeks. The participants served as their own controls. The FSFI assesses six domains of sexual functioning (desire, arousal, lubrication, orgasm, satisfaction, and pain) over the past 4 weeks. The sum of all domain scores equals the total FSFI score. The total FSFI score ranges from 2-36 and a total FSFI score < 26.5 suggests female sexual dysfunction.",
+        "  Time frame: Baseline, 4 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: FSFI Total Score (Pretest)",
+        "  Arm/Group Description: Administered to participants prior to starting vaginal testosterone therapy.",
+        "  Overall Number of Participants Analyzed: 12",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  8.691         (3.803)",
+        "Results 2: ",
+        "  Arm/Group Title: FSFI Total Score (Postteset)",
+        "  Arm/Group Description: Testosterone USP micronized powder supplied by Medisca Pharmacy was compounded by Precision Compounding pharmacy as testosterone 0.3% per 0.5 milliliters (mL) in pharmabase cream. The compounded testosterone vaginal cream was supplied in pre-filled syringes and each 0.5 mL dose delivered 300 mcg of testosterone daily. The cream was applied to the vaginal opening once daily for four weeks (28 days).",
+        "  Overall Number of Participants Analyzed: 12",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  18.783         (7.050)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/13 (0.00%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

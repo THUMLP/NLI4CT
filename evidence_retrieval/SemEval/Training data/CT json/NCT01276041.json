@@ -1,0 +1,58 @@
+{
+    "Clinical Trial ID": "NCT01276041",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Pertuzumab in Combination With Trastuzumab and Paclitaxel",
+        "  This is a phase II study of pertuzumab in combination with trastuzumab and paclitaxel for the treatment of patients with Stage IV HER2 (+) breast cancer."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Age 18",
+        "  Stage IV HER2 (+) breast cancer.",
+        "  Histologically documented HER2 (+) breast cancer as defined as IHC 3+ or FISH amplification of  2.0 of primary or metastatic site; results from the local lab are acceptable. (Optional tumor sample collection from primary or metastatic site may be obtained for HER2 testing at MSKCC).",
+        "  ECOG performance 0 -1 (Appendix A)",
+        "  0-1 prior treatment in the metastatic setting (ie: hormone, chemotherapy, biologic, targeted agents). Prior anthracycline, paclitaxel, and trastuzumab in the adjuvant setting are allowed. If the patient has one trastuzumab-based treatment in the metastatic setting and is given a break (even intermittently) from the partner drug given with trastuzumab and is continued on trastuzumab alone, this would still be considered as one treatment. For example, if the patient was given paclitaxel + trastuzumab and was later continued on trastuzumab alone or then restarted on paclitaxel + trastuzumab (at the physician's discretion for any reason), the regimen paclitaxel + trastuzumab followed by trastuzumab alone (or followed by paclitaxel + trastuzumab again) may be considered as one treatment.",
+        "  Measurable or non-measurable disease. Measurable lesions are defined as those that can be measured accurately in at least one diameter, that is 20 mm using conventional imaging techniques (including incremental CT) or 10 mm using spiral CT equipment and a lymph node 15 mm along the short axis. Non-measurable lesions are all other lesions, including small lesions (longest diameter <10mm pathological a lymph nodes with 10 to less than 15mm along the short axis, bony metastases, leptomeningeal disease, ascites, pleural/pericardial effusions, inflammatory breast cancer, lymphangitis carcinomatosis, and heavily calcified and cystic/necrotic lesions.",
+        "  LVEF  50%",
+        "  Hematologic parameters: white blood cell (WBC) count of  3000/ul, absolute neutrophil count (ANC) 1500/ul, platelets  100,000/ul, hemoglobin  10.0 g/dl",
+        "  Non-hematologic parameters: bilirubin  1.5 mg/dl, AST/ALT  2.5 x upper limit of normal (ULN), alkaline phosphatase  5 x ULN.",
+        "  Creatinine  1.5 mg/dl",
+        "  Patients with stable and treated brain lesions of a duration of  2 months may be enrolled.",
+        "Exclusion Criteria:",
+        "  History of prior cardiac morbidities within 12 months (unstable angina, myocardial infarction, CHF, uncontrolled ventricular arrhythmias)",
+        "  Prior pertuzumab",
+        "  History of prior  G 3 hypersensitivity (HSR) or any toxicity to trastuzumab that warranted permanent cessation of this antibody",
+        "  History of prior  G 3 HSR or any toxicity to paclitaxel warranted permanent cessation of this chemotherapy",
+        "  > G 2 peripheral neuropathy",
+        "  Patients with a history of chronic hepatitis B or C should be excluded from the study as paclitaxel is potentially hepatotoxic",
+        "Pregnant patients"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Patients Who Are Progression Free at 6 Months or Later.",
+        "  Patients who are considered progression-free at 6 months are deemed successes. Failures are those patients who progressed before the 6 month mark. Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions",
+        "  Time frame: 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: Pertuzumab in Combination With Trastuzumab and Paclitaxel",
+        "  Arm/Group Description: This is a phase II study of pertuzumab in combination with trastuzumab and paclitaxel for the treatment of patients with Stage IV HER2 (+) breast cancer.",
+        "  Overall Number of Participants Analyzed: 70",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of partcipants  86        (75 to 93)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 18/70 (25.71%)",
+        "  Cardiac arrest  1/70 (1.43%)",
+        "  Pericardial effusion  1/70 (1.43%)",
+        "  Ear pain  1/70 (1.43%)",
+        "  Blurred vision  1/70 (1.43%)",
+        "  Eye disorders - Other, specify  2/70 (2.86%)",
+        "  Abdominal Pain  5/70 (7.14%)",
+        "  Colitis  1/70 (1.43%)",
+        "  Diarrhea  2/70 (2.86%)",
+        "  Nausea  2/70 (2.86%)",
+        "  Death NOS  1/70 (1.43%)",
+        "  Edema limbs  1/70 (1.43%)",
+        "  Fatigue  3/70 (4.29%)"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Clinical Trial ID": "NCT00676793",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  ECGC and Breast Cancer",
+        "  Single arm for a phase II study of EGCG extract and breast cancer. Subjects are asked to take 4 polyphenol E (200mg) capsules daily with a meal for the duration of the study. Biomarkers are measured at baseline and then again at presurgery, the end point for the study."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Definitive biopsy demonstrating primary breast cancer",
+        "  Residual breast cancer requiring additional surgical resection",
+        "  Stage I, II or III disease",
+        "  Patient has ability to give signed informed consent",
+        "  Normal hepatic and renal function (creatinine<1.5, transaminases <1.5 times upper limit of normal).",
+        "  ECOG Performance status of 0 or 1.",
+        "  Age  21 years and less than 75",
+        "Exclusion Criteria:",
+        "  Prior hormonal or surgical therapy for breast cancer",
+        "  Abnormal liver function test",
+        "  Liver or kidney problems that would interfere with metabolism of study drug",
+        "  Any condition that would hamper informed consent or ability to comply with study protocol",
+        "  Participation in another research study in the last three months",
+        "  Known malignancy at any site other than breast",
+        "  Recent consumption of green tea (5 or more cups per day, within one week prior to biopsy)",
+        "  Allergy or intolerance to any component of green tea",
+        "  Inability or refusal to comply with definitive surgical therapy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Serum VEGF in Breast Cancer",
+        "  Change in serum VEGF from baseline to post treatment with polyphenon E.",
+        "  Time frame: Baseline and 4 to 6 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: ECGC and Breast Cancer",
+        "  Arm/Group Description: Single arm for a phase II study of EGCG extract and breast cancer. Subjects are asked to take 4 polyphenol E (200mg) capsules daily with a meal for the duration of the study. Biomarkers are measured at baseline and then again at presurgery, the end point for the study.",
+        "  Overall Number of Participants Analyzed: 19",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: pg/ml  270        (-142.5 to 581.25)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/32 (0.00%)"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT01373671",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  FFDM and DBT",
+        "  FFDM exam and DBT scan on Siemens MAMMOMAT Inspiration",
+        "INTERVENTION 2: ",
+        "  FFDM Only",
+        "FFDM exam only"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  All subjects enrolled into the collection study must:",
+        "  Provide signed informed consent after receiving a verbal and written explanation of the purpose and nature of the study",
+        "  be females, 40 years of age or older at the screening mammographic evaluation or age 30 or older presenting for a biopsy and have one of the following mammograms:",
+        "  o Normal cases at screening (BI-RADS\u00ae 1, 2 and 3):",
+        "  have a screening mammogram that includes the four standard screening views (RCC, RMLO, LCC and LMLO), as well as have both MLO and CC DBT scans of each breast,",
+        "  o Actionable cases at screening (BI-RADS\u00ae 0, 4 or 5) with final BI-RADS\u00ae 1, 2, 3, 4 or 5:",
+        "  have a screening mammogram with four SSVs and any clinically necessary diagnostic mammographic views, such as straight lateral projections, rolled, magnification view and spot compression views, and, both MLO and CC DBT scans of each breast plus 4 SSVs repeated at the diagnostic or biopsy visit if the screening images are unavailable or were acquired more than 45 days prior to DBT acquisition,",
+        "  have supporting ground-truth documentation for the final BI-RADS\u00ae assessment as follows:",
+        "  A one (1) year FFDM follow up without evidence of cancer for normal cases not undergoing biopsy",
+        "  A six (6) or twelve (12) month FFDM follow up confirming benign status for biopsy proven benign cases",
+        "  Pathology report for either benign or malignant biopsy finding",
+        "Exclusion Criteria:",
+        "  Subjects with any of the following conditions or who have had the following procedures will be excluded from this study:",
+        "  Pregnant women or women who believe they may be pregnant or are trying to become pregnant.",
+        "  Mastectomy patients",
+        "  Subjects who have had lumpectomy  5 years prior to the study entry",
+        "  Inmates (in accordance with 45 CFR 46.306) or mentally disabled individuals",
+        "  BI-RADS\u00ae Category 6 (e.g., for which the mammogram was performed for the purpose of planning cancer therapy)",
+        "  BI-RADS\u00ae Category 4 or 5 without confirming pathology reports will be considered incomplete",
+        "  Subjects with mammograms that lack the required views or with views judged to be technically inadequate will be considered incomplete and the cases will not be considered for the MRMC reader studies",
+        "  Subjects being accrued from the screening population who know that they will not be in the United States or available for follow up mammograms in one year."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Efficacy Based on the Area Under the Receiver Operating Characteristic (ROC) Curve in Breasts Analyzed With DBT as an Adjunct to FFDM vs. FFDM Alone",
+        "  The primary objective of this study was to demonstrate the superiority of DBT and FFDM images together in comparison to FFDM images alone with respect to the ability of readers to detect and diagnose malignant lesions. A comparison of the breast-level ROC areas was used to evaluate the superiority of DBT as an adjunct to FFDM vs. FFDM alone.",
+        "Time frame: 1 year",
+        "Results 1: ",
+        "  Arm/Group Title: FFDM and DBT",
+        "  Arm/Group Description: FFDM exam and DBT scan on Siemens MAMMOMAT Inspiration",
+        "  Overall Number of Participants Analyzed: 300",
+        "  Overall Number of Units Analyzed",
+        "  Type of Units Analyzed: Breasts  Mean (Standard Error)Unit of Measure: unitless: 0.8527         (0.0268)",
+        "Results 2: ",
+        "  Arm/Group Title: FFDM Only",
+        "  Arm/Group Description: FFDM exam only",
+        "  Overall Number of Participants Analyzed: 300",
+        "  Overall Number of Units Analyzed",
+        "  Type of Units Analyzed: Breasts  Mean (Standard Error)Unit of Measure: unitless: 0.7516         (0.0281)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 2/764 (0.26%)",
+        "  Ovarian cancer * [1]1/764 (0.13%)",
+        "  Pneumonia * [2]1/764 (0.13%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT00475670",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Trastuzumab Monotherapy",
+        "  Participants received either an initial loading dose of trastuzumab 4 mg/kg, IV, on Day 1, followed by 2 mg/kg, IV, once per week, or an initial loading dose of 8 mg/kg IV on Day 1, followed by 6 mg/kg IV once every 3 weeks, until disease progression, unacceptable toxicity, withdrawal or death.",
+        "INTERVENTION 2: ",
+        "  Trastuzumab, Taxane",
+        "  Participants received either an initial loading dose of trastuzumab 4 mg/kg IV on Day 1, followed by 2 mg/kg IV once per week, or an initial loading dose of 8 mg/kg IV on Day 1, followed by 6 mg/kg IV every 3 weeks, until disease progression, unacceptable toxicity, withdrawal or death. Participants also received one of the following taxanes (at the investigator's discretion) for at least 18 weeks: docetaxel 100 mg/m^2, IV, once every 3 weeks, OR, paclitaxel 75 mg/m^2, IV, once per week, OR, paclitaxel 175 mg/m^2, IV, once every 3 weeks."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  at least 10 months of Herceptin treatment for HER2-positive early breast cancer;",
+        "  metastatic breast cancer >=12 months after discontinuation of Herceptin;",
+        "  measurable disease.",
+        "Exclusion Criteria:",
+        "  previous chemotherapy for metastatic breast cancer;",
+        "  brain metastases;",
+        "  invasive malignancy other than metastatic breast cancer."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants Achieving Complete Response (CR) or Partial Response (PR) According to the Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.0 Guidelines",
+        "  CR was defined for target lesions (TLs) as the disappearance of all lesions, and for nontarget lesions (NTLs) as the disappearance of all nontarget nonmeasurable lesions. PR was defined for TLs as at least a 30 percent (%) decrease from baseline (BL) in the sum of longest diameter (SLD) of TLs. 95% confidence interval for one-sample binomial using Pearson-Clopper method.",
+        "  Time frame: Baseline (BL); Day 1 of Weeks 7, 13, 19, 25, 37, and 52, at the last administration of study treatment, every 24 weeks thereafter until disease progression for up to 6 months after the last participant was recruited",
+        "Results 1: ",
+        "  Arm/Group Title: Trastuzumab Monotherapy",
+        "  Arm/Group Description: Participants received either an initial loading dose of trastuzumab 4 mg/kg, IV, on Day 1, followed by 2 mg/kg, IV, once per week, or an initial loading dose of 8 mg/kg IV on Day 1, followed by 6 mg/kg IV once every 3 weeks, until disease progression, unacceptable toxicity, withdrawal or death.",
+        "  Overall Number of Participants Analyzed: 0",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  ",
+        "Results 2: ",
+        "  Arm/Group Title: Trastuzumab, Taxane",
+        "  Arm/Group Description: Participants received either an initial loading dose of trastuzumab 4 mg/kg IV on Day 1, followed by 2 mg/kg IV once per week, or an initial loading dose of 8 mg/kg IV on Day 1, followed by 6 mg/kg IV every 3 weeks, until disease progression, unacceptable toxicity, withdrawal or death. Participants also received one of the following taxanes (at the investigator's discretion) for at least 18 weeks: docetaxel 100 mg/m^2, IV, once every 3 weeks, OR, paclitaxel 75 mg/m^2, IV, once per week, OR, paclitaxel 175 mg/m^2, IV, once every 3 weeks.",
+        "  Overall Number of Participants Analyzed: 41",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  61.0        (48.7 to 80.4)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/3 (0.00%)",
+        "  Febrile Neutropenia * 0/3 (0.00%)",
+        "  Neutropenia * 0/3 (0.00%)",
+        "  Sudden Death * 0/3 (0.00%)",
+        "  Bacterial Infection * 0/3 (0.00%)",
+        "  Bronchitis * 0/3 (0.00%)",
+        "  Sepsis * 0/3 (0.00%)",
+        "  Lymphoedema * 0/3 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 6/41 (14.63%)",
+        "  Febrile Neutropenia * 1/41 (2.44%)",
+        "  Neutropenia * 1/41 (2.44%)",
+        "  Sudden Death * 1/41 (2.44%)",
+        "  Bacterial Infection * 1/41 (2.44%)",
+        "  Bronchitis * 1/41 (2.44%)",
+        "  Sepsis * 1/41 (2.44%)",
+        "  Lymphoedema * 1/41 (2.44%)"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Clinical Trial ID": "NCT00076024",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Axitinib + Docetaxel (Phase 2, Double-blind)",
+        "  Axitinib (AG-013736) 5 mg tablet orally BID starting from Day 1 of Cycle 1, in cycles of 3 weeks. Docetaxel 80 mg/m^2 1 hr IV infusion on Day 1 of each cycle, in cycles of 3 weeks. Treatment was continued until disease progression, intolerable toxicity, or for 2 cycles after complete response.",
+        "INTERVENTION 2: ",
+        "  Docetaxel + Placebo (Phase 2, Double-blind)",
+        "  Placebo matched to axitinib (AG-013736) tablet orally BID starting from Day 1 of Cycle 1, in cycles of 3 weeks. Docetaxel 80 mg/m^2 1 hr IV infusion on Day 1 of each cycle, in cycles of 3 weeks. Treatment was continued until disease progression, intolerable toxicity, or for 2 cycles after complete response. Participants with disease progression after consent were continued to open-label phase."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female patients with histologically/cytologically proven metastatic breast carcinoma (stage IV, or recurrent with local or regional spread or distant metastatic disease)",
+        "  Adequate bone marrow, liver, and renal function",
+        "Exclusion Criteria:",
+        "  Adjuvant chemotherapy given in the past 12 months",
+        "  Uncontrolled brain metastases"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Time to Tumor Progression (TTP)",
+        "  Time in days from start of study treatment to first documentation of objective tumor progression or death due to cancer, whichever comes first. TTP was calculated as first event date minus the date of first dose of study medication plus 1. Tumor progression was determined from oncologic assessment data (where data meet the criteria for progressive disease [PD]).",
+        "  Time frame: Phase 2 double-blind baseline until tumor progression or death or discontinuation from study treatment, assessed every 9 weeks up to 129 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Axitinib + Docetaxel (Phase 2, Double-blind)",
+        "  Arm/Group Description: Axitinib (AG-013736) 5 mg tablet orally BID starting from Day 1 of Cycle 1, in cycles of 3 weeks. Docetaxel 80 mg/m^2 1 hr IV infusion on Day 1 of each cycle, in cycles of 3 weeks. Treatment was continued until disease progression, intolerable toxicity, or for 2 cycles after complete response.",
+        "  Overall Number of Participants Analyzed: 112",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: days  247        (208 to 265)",
+        "Results 2: ",
+        "  Arm/Group Title: Docetaxel + Placebo (Phase 2, Double-blind)",
+        "  Arm/Group Description: Placebo matched to axitinib (AG-013736) tablet orally BID starting from Day 1 of Cycle 1, in cycles of 3 weeks. Docetaxel 80 mg/m^2 1 hr IV infusion on Day 1 of each cycle, in cycles of 3 weeks. Treatment was continued until disease progression, intolerable toxicity, or for 2 cycles after complete response. Participants with disease progression after consent were continued to open-label phase.",
+        "  Overall Number of Participants Analyzed: 55",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: days  215        (191 to 247)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/6 (16.67%)",
+        "  Agranulocytosis * 0/6 (0.00%)",
+        "  Febrile neutropenia * 1/6 (16.67%)",
+        "  Neutropenia * 0/6 (0.00%)",
+        "  Arrhythmia supraventricular * 0/6 (0.00%)",
+        "  Left ventricular dysfunction * 0/6 (0.00%)",
+        "  Palpitations * 0/6 (0.00%)",
+        "  Pericardial effusion * 0/6 (0.00%)",
+        "  Restrictive cardiomyopathy * 0/6 (0.00%)",
+        "  Hypothyroidism * 0/6 (0.00%)",
+        "  Angle closure glaucoma * 0/6 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 54/111 (48.65%)",
+        "  Agranulocytosis * 0/111 (0.00%)",
+        "  Febrile neutropenia * 9/111 (8.11%)",
+        "  Neutropenia * 10/111 (9.01%)",
+        "  Arrhythmia supraventricular * 1/111 (0.90%)",
+        "  Left ventricular dysfunction * 1/111 (0.90%)",
+        "  Palpitations * 1/111 (0.90%)",
+        "  Pericardial effusion * 1/111 (0.90%)",
+        "  Restrictive cardiomyopathy * 1/111 (0.90%)",
+        "  Hypothyroidism * 0/111 (0.00%)"
+    ]
+}

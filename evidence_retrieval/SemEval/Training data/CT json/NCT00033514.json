@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT00033514",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Treatment Phase 1 Plus Phase 2",
+        "  trastuzumab: Day 1 4mg/kg IV 2 mg/kg IV weekly.",
+        "  erlotinib hydrochloride: 150 mg daily."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women aged > 18 years",
+        "  Histologically documents metastatic breast cancer",
+        "  HER2 positive using Fluorescence In Situ Hybridization (FISH)",
+        "  For phase I, patients who have previously received treatment for their metastatic disease are allowed to participate.",
+        "  For the phase II portion of the study, patients must have measureable disease (> 2 cm; > 1 cm on spiral CT scan)",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2",
+        "  A life expectancy of > 3 months",
+        "  Use of effective means of contraception",
+        "Exclusion Criteria:",
+        "  For Phase II, prior cytotoxic chemotherapy and/or prior Herceptin for their metastatic disease. Prior treatment in the adjuvant setting is allowed."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  The Objective Response Rate as Defined as Stable Disease or the Rate of Complete and Partial Responses Determined on Two Consecutive Occasions Greater Than or Equal to 4 Weeks Apart.",
+        "  Complete Response:",
+        "  The disappearance of all signs of cancer in response to treatment. This does not always mean the cancer has been cured. Also called complete remission.",
+        "  Partial Response:",
+        "  A decrease in the size of a tumor, or in the extent of cancer in the body, in response to treatment. Also called partial remission.",
+        "  Time frame: 5 years",
+        "Results 1: ",
+        "  Arm/Group Title: Treatment Phase 1 Plus Phase 2",
+        "  Arm/Group Description: trastuzumab: Day 1 4mg/kg IV 2 mg/kg IV weekly.",
+        "  erlotinib hydrochloride: 150 mg daily.",
+        "  Overall Number of Participants Analyzed: 12",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Partial Response: 4",
+        "Stable Disease: 1"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 16/27 (59.26%)",
+        "  Dyspnea * 6/27 (22.22%)",
+        "  hypertension with headache * 1/27 (3.70%)",
+        "  pain/chest pressure/SOB *  [1]1/27 (3.70%)",
+        "  LVEF less than the lower limit of normal * 2/27 (7.41%)",
+        "  subendocardial myocardial infarction * 1/27 (3.70%)",
+        "  dehydration/pain management * 1/27 (3.70%)",
+        "  gastroenteritis *  [2]1/27 (3.70%)",
+        "  progressive brain mets * 2/27 (7.41%)"
+    ]
+}

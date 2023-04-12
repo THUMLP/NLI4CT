@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT00429182",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  High-dose Chemotherapy",
+        "  Carboplatin + Cyclophosphamide + Thiotepa",
+        "  Carboplatin : Target AUC of 20, then divided into 4 doses given by vein (IV) days -6, -5, -4, -3 prior to stem cell infusion.",
+        "  Thiotepa : 120 mg/m^2 by vein days -6, -5, -4, -3 prior to stem cell infusion.",
+        "  Stem Cell Transplant : Stem Cell Transplant on Day 0.",
+        "  Cyclophosphamide : 1.5 gm/m^2 by vein days -6, -5, -4, -3 prior to stem cell infusion."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  18 to 55 years old",
+        "  Metastatic breast carcinoma.",
+        "  Histological confirmation of invasive breast carcinoma",
+        "  Complete or partial response to pre-transplant standard-dose chemotherapy, or hormonal therapy. For bone disease, stable disease (SD) is allowed.",
+        "  Patient must have tumor assessed for estrogen-receptor (ER) and progesterone-receptor (PR).",
+        "  Persistent detectable or non-detectable CTCs by Veridex Technology after completion of standard therapy.",
+        "  Zubrod performance status 0 or 1.",
+        "  Patients must have adequate hematological parameters (White Blood Count/WBC >= 3,000/mm3; platelet count >= 100,000/mm3)",
+        "  Adequate renal function (serum creatinine <= 1.5mg/dl)",
+        "  Adequate liver function (total bilirubin, serum glutamate pyruvate transaminase (SGPT) <= 2 times normal).",
+        "  Adequate cardiac function (Left ventricular ejection fraction (LVEF)>= 50%).",
+        "  Adequate pulmonary function (Carbon Monoxide Diffusing Capacity (DLCO)>= 50% of predicted value).",
+        "  Females of childbearing (women who are post-menopausal < 1 year, not surgically sterilized, or not abstinent) potential must use adequate contraception.",
+        "  Patients must sign an informed consent.",
+        "Exclusion Criteria:",
+        "  Prior HDCT with Autologous hematopoietic stem cell transplantation (AHST) in adjuvant setting.",
+        "  History or presence of brain/leptomeningeal metastasis.",
+        "  History of other malignancies except cured non-melanoma skin cancer or cured cervical carcinoma in situ.",
+        "  Presence of other severe medical illnesses or conditions. Severe heart disease, (myocardial ischemia, myocardial infarction, etc.) Pulmonary disease (COPD, asthma,etc). Renal failure and hepatic failure.",
+        "  Clinically significant active infections (patient requiring IV antibiotics, uncontrolled infections, or hospitalized due to infections).",
+        "  HIV infection.",
+        "  Pregnant or lactating women.",
+        "  Medical, social or psychologic factors which would prevent the patient from receiving or cooperating with the full course of therapy or understanding the informed consent procedure."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Reduction in CTCs Following High-dose Chemotherapy With Purged Autologous Stem Cell Products",
+        "  Number of circulating tumor cells (CTCs) measured at one month post autologous hematopoietic stem cell transplantation (AHST), considered both as longitudinal values and compared to the baseline number of CTCs.",
+        "  Time frame: Baseline to 1 month post AHST",
+        "Results 1: ",
+        "  Arm/Group Title: High-dose Chemotherapy",
+        "  Arm/Group Description: Carboplatin + Cyclophosphamide + Thiotepa",
+        "  Carboplatin : Target AUC of 20, then divided into 4 doses given by vein (IV) days -6, -5, -4, -3 prior to stem cell infusion.",
+        "  Thiotepa : 120 mg/m^2 by vein days -6, -5, -4, -3 prior to stem cell infusion.",
+        "  Stem Cell Transplant : Stem Cell Transplant on Day 0.",
+        "  Cyclophosphamide : 1.5 gm/m^2 by vein days -6, -5, -4, -3 prior to stem cell infusion.",
+        "  Overall Number of Participants Analyzed: 21",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  9"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 2/32 (6.25%)",
+        "  Thrombocytopenia 1/32 (3.13%)",
+        "  Death 1/32 (3.13%)"
+    ]
+}

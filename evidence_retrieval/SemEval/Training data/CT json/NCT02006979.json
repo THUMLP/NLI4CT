@@ -1,0 +1,55 @@
+{
+    "Clinical Trial ID": "NCT02006979",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Exercise",
+        "  an acute bout of exercise performed 24 hours prior to each cycle of anthracyclines and no exercise for 48 hours post exercise",
+        "INTERVENTION 2: ",
+        "  Usual Care",
+        "  no exercise for 72 hours prior or 48 hours post each cycle of anthracyclines"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  newly diagnosed with stage I-IIIA breast cancer",
+        "  scheduled to receive neoadjuvant or adjuvant doxorubicin chemotherapy in cycles of 2-3 weeks long",
+        "  receive their oncologist's approval to exercise",
+        "  be able to complete first time point of data collection prior to first chemotherapy cycle",
+        "  be able to understand and provide written informed consent in English",
+        "Exclusion Criteria:",
+        "  concurrent participation in a structured exercise program or study",
+        "  have orthopedic limitations to exercise",
+        "  pre-existing cardiovascular disease",
+        "  uncontrolled hypertension (blood pressure  140/90 mmHg)",
+        "  uncontrolled diabetes",
+        "  respiratory disease",
+        "  current smoking status"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Global Longitudinal Strain",
+        "  Assessed with 2D speckle tracking echocardiography",
+        "  Time frame: 24-48 hours after first doxorubicin and 7-14 days after completion of last doxorubicin cycle",
+        "Results 1: ",
+        "  Arm/Group Title: Exercise",
+        "  Arm/Group Description: an acute bout of exercise performed   24 hours prior to each cycle of anthracyclines and no exercise for 48 hours post exercise",
+        "  Overall Number of Participants Analyzed: 13",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: % deformation  Baseline: 19.2         (1.9)",
+        "  24-48 h post first doxorubicin: 21.4         (1.8)",
+        "  7-14 days post last doxorubicin: -18.7         (1.4)",
+        "Results 2: ",
+        "  Arm/Group Title: Usual Care",
+        "  Arm/Group Description: no exercise for 72 hours prior or 48 hours post each cycle of anthracyclines",
+        "  Overall Number of Participants Analyzed: 11",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: % deformation  Baseline: -19.6         (1.9)",
+        "  24-48 h post first doxorubicin: -21.5         (1.6)",
+        "  7-14 days post last doxorubicin: -20.3         (1.6)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/13 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/11 (0.00%)"
+    ]
+}

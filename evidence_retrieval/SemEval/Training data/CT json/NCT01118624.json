@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT01118624",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Pralatrexate",
+        "  Study drug 190 mg/m^2 for 2 to 4 weeks."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  HER-2 negative advanced or metastatic breast cancer",
+        "  Disease has become worse after at least 1 prior chemotherapy regimen for advanced or metastatic disease",
+        "  Advanced or metastatic disease resistant to both a taxane and an anthracycline-containing chemotherapy regimen, or resistant to taxanes and for whom further anthracycline therapy is not indicated",
+        "  Patients with controlled brain metastases must have finished receiving radiation therapy and if on corticosteroids, be on a stable or tapering dose of  10 mg/day of prednisone or equivalent for at least 28 days prior to study entry",
+        "  Measurable disease",
+        "  Female 18 years of age or older",
+        "  Performance status less than or equal to 2",
+        "  Life expectancy of more than 3 months",
+        "  Blood, liver and kidney laboratory test results that meet protocol requirements",
+        "  Patients must have a negative serum pregnancy test within 14 days before enrollment and agree to use medically acceptable and effective birth control from enrollment until at least 30 days after the last dose of pralatrexate. Patients who are postmenopausal for at least 1 year (more than 12 months since last menses) or are surgically sterilized do not require this test.",
+        "  Willing to attend visits for repeat dosing and follow up",
+        "  Give written informed consent",
+        "Exclusion Criteria:",
+        "  Patients with only bone metastasis",
+        "  Patients with a single metastatic site without histological proof that the lesion is metastatic breast cancer",
+        "  Patients with inflammatory breast cancer",
+        "  Treatment with systemic chemotherapy, hormone therapy, radiation therapy, or other investigational therapy within 3 weeks (6 weeks for nitrosoureas, mitomycin C) prior to enrollment, except for the following:",
+        "  Bisphosphonates, if ongoing",
+        "  Prior treatment with methotrexate",
+        "  Prior treatment with anti-angiogenics within 6 months prior to enrollment",
+        "  Have received more than 2 prior chemotherapy regimens (more than 3 if one of the treatments was neoadjuvant or adjuvant chemotherapy)",
+        "  Have previously received pralatrexate",
+        "  Have received more than the allowed maximum total dose of anthracycline",
+        "  Prior radiation therapy on more than 30% of bone marrow reserve or prior bone marrow/stem cell transplantation",
+        "  Congestive heart failure Class III/IV",
+        "  Uncontrolled hypertension (high blood pressure)",
+        "  Active infection or any serious medical condition, which would impair the ability of the patient to receive protocol treatment",
+        "  Females who are pregnant or breastfeeding",
+        "  Major surgery within 14 days of enrollment",
+        "  Another active cancer in addition to advanced or metastatic breast cancer, except well treated in situ cervical cancer and basal cell skin cancer",
+        "  Dementia or other altered mental status that would prevent the patient from understanding and giving informed consent or limit her ability to follow the study requirements",
+        "  Patients who are human immunodeficiency virus (HIV)-positive and have a CD4 count of less than 100 mm3 or detectable viral load within past 3 months and is receiving anti-retroviral therapy",
+        "  Patients with hepatitis B virus (HBV) or hepatitis C virus (HCV) who have a detectable viral load or immunological evidence of chronic active disease or receiving/requiring antiviral therapy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Objective Response Rate (ORR)",
+        "  Tumor response evaluation was performed using RECIST 1.0 using CT/MRI. Proportion of patients achieving a CR or PR is considered in the overall response.",
+        "  Time frame: Assessed at the end of each even-numbered cycle (every 8 weeks), or per standard of care but no less than 4 weeks and nor more than every 12 weeks (+/- 1 week) if treatment has ended.",
+        "Results 1: ",
+        "  Arm/Group Title: Pralatrexate",
+        "  Arm/Group Description: Study drug 190 mg/m^2 for 2 to 4 weeks.",
+        "  Overall Number of Participants Analyzed: 22",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  1"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 6/22 (27.27%)",
+        "  THROMBOCYTOPENIA 2/22 (9.09%)",
+        "  MUCOSAL INFLAMMATION 2/22 (9.09%)",
+        "  PLEURAL EFFUSION 2/22 (9.09%)"
+    ]
+}

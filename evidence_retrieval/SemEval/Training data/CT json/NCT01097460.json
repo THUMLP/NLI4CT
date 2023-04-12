@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT01097460",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  MM-111 + Herceptin",
+        "  MM-111 will be combined with Herceptin",
+        "  MM-111 and Herceptin: For Phase 1: Dose escalation cohorts, MM-111 and Herceptin are administered weekly or bi-weekly via IV"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients must have histologically or cytologically confirmed advanced breast cancer that is amplified for HER2, based on archived tumor biopsy (IHC 2+ or greater)",
+        "  Patients must have histologically or cytologically confirmed advanced breast cancer that is heregulin positive based on fresh tumor tissue biopsy",
+        "  The patient's cancer must have recurred, progressed or not responded to standard chemotherapy or other standard treatment. Prior therapies may include but are not limited to Herceptin, Tykerb (lapatinib), anthracyclines, and taxanes",
+        "  Patients must be  18 years of age",
+        "  Patients or their legal representatives must be able to understand and sign an informed consent",
+        "  Patients may have measurable (per RECIST 1.1) or non-measurable tumor(s) (for Phase 1)",
+        "  Patients should have ECOG Performance Score (PS) 0, 1 or 2 (for Phase 1).",
+        "  Patients should have a life expectancy of at least 12 weeks",
+        "  Patients must have adequate bone marrow reserves",
+        "  Patients must have adequate hepatic function",
+        "  Patients must have adequate renal function",
+        "  Patients must be recovered from the effects of any prior surgery, radiotherapy or other antineoplastic therapy.",
+        "  Women of childbearing potential as well as fertile men and their partners must agree to abstain from sexual intercourse or to use an effective form of contraception during the study and for 90 days following the last dose of MM-111.",
+        "Exclusion Criteria:",
+        "  Patients who are pregnant or lactating",
+        "  Patients with an active infection or with an unexplained fever > 38.5\u00b0C (101.3\u00b0 F) during screening visits or on the first scheduled day of dosing.",
+        "  Patients with untreated and/or symptomatic metastatic CNS malignancies.",
+        "  Patients with known hypersensitivity to any of the components of MM-111 or who have had hypersensitivity reactions to fully human monoclonal antibodies, including Herceptin.",
+        "  Patients who have received other recent antitumor therapy including:",
+        "  Treatment with Herceptin within the 28 days prior to the first scheduled day of dosing with MM-111",
+        "  Investigational therapy administered within the 28 days prior to the first scheduled day of dosing MM-111 (Dosing in less than 28 days' since receiving investigational therapy is acceptable once a time interval equal to at least five half-lives of the investigational agent has passed.)",
+        "  Any standard chemotherapy, Tykerb (lapatinib) or radiation within 14 days (and having passed the time of any actual or anticipated toxicities) prior to the first scheduled dose of MM-111",
+        "  Patients who have previously received MM-111",
+        "  Patients with NYHA Class III or IV congestive heart failure or LVEF < 50%",
+        "  Patients with a history of allogeneic transplant",
+        "  Patients with known HIV, hepatitis B or C (if patients have previously been treated for hepatitis C and have undetectable viral loads, they can be considered eligible for the trial)",
+        "  Patients with any other medical or psychological condition deemed by the Investigator to be likely to interfere with a patient's ability to sign informed consent, cooperate and participate in the study, or interfere with the interpretation of the results"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Incidence of Treatment-emergent AE's",
+        "  [Not Specified]",
+        "  Time frame: 2 years",
+        "Results 1: ",
+        "  Arm/Group Title: MM-111 + Herceptin",
+        "  Arm/Group Description: MM-111 will be combined with Herceptin",
+        "  MM-111 and Herceptin: For Phase 1: Dose escalation cohorts, MM-111 and Herceptin are administered weekly or bi-weekly via IV",
+        "  Overall Number of Participants Analyzed: 16",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  16"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 2/16 (12.50%)",
+        "  PERICARDIAL EFFUSION * 1/16 (6.25%)",
+        "  TRACHEAL OBSTRUCTION * 1/16 (6.25%)",
+        "  PLEURAL EFFUSION * 1/16 (6.25%)",
+        "  DEEP VEIN THROMBOSIS * 1/16 (6.25%)"
+    ]
+}

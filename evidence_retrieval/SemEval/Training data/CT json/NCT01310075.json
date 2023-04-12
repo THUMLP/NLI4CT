@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT01310075",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Arm 1",
+        "Surgimend",
+        "INTERVENTION 2: ",
+        "  Arm 2",
+        "Alloderm"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients undergoing immediate tissue expander reconstruction following mastectomy by any of the surgeon co-investigators are eligible for the study.",
+        "  Patients 18 years of age or older are eligible for the study.",
+        "  Patients undergoing skin-sparing mastectomy utilizing bioprosthetic mesh are eligible for the study.",
+        "  Patients who have not undergone autologous tissue breast reconstruction and intend to undergo implant only breast reconstruction.",
+        "  Patients who intend to remain under the MDACC surgeon's care until completion of the reconstruction.",
+        "Exclusion Criteria:",
+        "  Patients with prior radiation to the breast/chest wall of the ipsilateral breast .",
+        "  Patients who cannot be effectively reconstructed without the use of bioprosthetic mesh.",
+        "  Patients who are current smokers.",
+        "  Patients requiring additional intra-operative skin resections of greater than 1cm beyond the skin edge as a result of mastectomy flap devascularization.",
+        "  Patients who have a history of breast tissue expander or implant placement."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Complications After Tissue Expander Replacement With Implant",
+        "  [Not Specified]",
+        "  Time frame: through study completion, an average of 1 year",
+        "Results 1: ",
+        "  Arm/Group Title: Arm 1",
+        "  Arm/Group Description: Surgimend",
+        "  Overall Number of Participants Analyzed: 31",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  10",
+        "Results 2: ",
+        "  Arm/Group Title: Arm 2",
+        "  Arm/Group Description: Alloderm",
+        "  Overall Number of Participants Analyzed: 35",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  10"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 3/31 (9.68%)",
+        "  Pain 1/31 (3.23%)",
+        "  Infection 1/31 (3.23%)",
+        "  Hypophosphatemia 0/31 (0.00%)",
+        "  Muscle spasms 0/31 (0.00%)",
+        "  Delayed wound healing 1/31 (3.23%)",
+        "Adverse Events 2:",
+        "  Total: 2/35 (5.71%)",
+        "  Pain 0/35 (0.00%)",
+        "  Infection 0/35 (0.00%)",
+        "  Hypophosphatemia 1/35 (2.86%)",
+        "  Muscle spasms 1/35 (2.86%)",
+        "  Delayed wound healing 0/35 (0.00%)"
+    ]
+}

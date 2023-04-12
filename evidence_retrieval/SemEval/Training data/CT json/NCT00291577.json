@@ -1,0 +1,50 @@
+{
+    "Clinical Trial ID": "NCT00291577",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Sunitinib in Combination With Docetaxel",
+        "  Sunitinib (SU011248) orally (PO) for 2 weeks every 3 weeks (2 weeks on, then 1 week off = Schedule 2/1) starting on Day 2 (Cycle 2, Day 3 only for those subjects included in the Pharmacokinetic [PK] study); starting dose 37.5 milligrams (mg) daily (QD). Docetaxel (Taxotere) administered Day 1 of each cycle via intravenous (IV) infusion every 3 weeks; starting dose 75 mg/m2."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Breast cancer with evidence of unresectable, locally recurrent or metastatic disease",
+        "  Candidate for treatment with docetaxel",
+        "Exclusion Criteria:",
+        "  Prior chemotherapy in the advanced disease setting",
+        "  Inflammatory breast cancer",
+        "  HER2 positive disease"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Time to Reach Maximum Plasma Concentration (Tmax): Sunitinib (SU011248), Sunitinib Metabolite (SU012662), and Total Drug PK Parameters",
+        "  Median Tmax = time for maximum plasma concentration (Cmax) for SU011248, SU012662, and combined SU011248 and SU012662 (total drug); collected C1D2, C2D3. Paired observation.",
+        "  Time frame: 1, 2, 4, 6, 8, 12, 24 hours postdose",
+        "Results 1: ",
+        "  Arm/Group Title: Sunitinib in Combination With Docetaxel",
+        "  Arm/Group Description: Sunitinib (SU011248) orally (PO) for 2 weeks every 3 weeks (2 weeks on, then 1 week off = Schedule 2/1) starting on Day 2 (Cycle 2, Day 3 only for those subjects included in the Pharmacokinetic [PK] study); starting dose 37.5 milligrams (mg) daily (QD). Docetaxel (Taxotere) administered Day 1 of each cycle via intravenous (IV) infusion every 3 weeks; starting dose 75 mg/m2.",
+        "  Overall Number of Participants Analyzed: 11",
+        "  Median (Full Range)",
+        "  Unit of Measure: hours  SU011248 C1D2: 6.0        (4.0 to 24.0)",
+        "  SU011248 C2D3: 6.0        (2.0 to 8.0)",
+        "  SU012662 C1D2: 6.0        (2.0 to 24.0)",
+        "  SU012662 C2D3: 6.0        (4.0 to 24.0)",
+        "  Total drug C1D2: 6.0        (2.0 to 24.0)",
+        "  Total drug C2D3: 6.0        (2.0 to 8.0)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 11/22 (50.00%)",
+        "  Febrile neutropenia 4/22 (18.18%)",
+        "  Leukopenia 1/22 (4.55%)",
+        "  Neutropenia 2/22 (9.09%)",
+        "  Stomatitis 1/22 (4.55%)",
+        "  Fatigue 1/22 (4.55%)",
+        "  Oedema peripheral 1/22 (4.55%)",
+        "  Pyrexia 1/22 (4.55%)",
+        "  Jaundice 1/22 (4.55%)",
+        "  Back pain 1/22 (4.55%)",
+        "  Musculoskeletal pain 1/22 (4.55%)",
+        "  Cerebral haemorrhage 1/22 (4.55%)",
+        "  Headache 1/22 (4.55%)"
+    ]
+}

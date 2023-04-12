@@ -1,0 +1,41 @@
+{
+    "Clinical Trial ID": "NCT00559754",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Doxorubicin + Cyclophosphamide/Bevacizumab + Docetaxel",
+        "  Participants received doxorubicin 60 mg/m^2 IV followed by cyclophosphamide 600 mg/m^2 IV on Day 1, repeated every 3 weeks for a maximum of 4 cycles. Participants then received bevacizumab 15 mg/kg IV followed by docetaxel 75 mg/m^2 IV on Day 1, repeated every 3 weeks for a maximum of 4 cycles."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  female patients, >=18 years of age;",
+        "  primary HER2-negative operable breast cancer;",
+        "  tumor >2cm in size;",
+        "  ECOG performance status 0-1.",
+        "Exclusion Criteria:",
+        "  previous treatment for breast cancer;",
+        "  metastatic disease;",
+        "  current or recent (within 10 days of first dose of Avastin) use of aspirin (>325mg/day) or full-dose anticoagulants for therapeutic purposes;",
+        "  clinically significant cardiovascular disease."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With Pathological Complete Response (pCR)",
+        "  The percentage of participants with pCR was determined by anatomopathological study after completion of 8 cycles of study treatment. The anatomopathological study of the surgical piece was performed and assessed according to the Miller-Payne criteria: 1) the primary tumor was Grade 5 (no malignant cells identified at the location of the primary tumor (ductal carcinoma in situ may be present); 2) no involvement was identified in the lymph nodes; 3) the tumour size at evaluation of the surgical piece was 0 centimeters (cm); and 4) the pathological staging of the tumour from the surgical piece was pT0pN0pM0, the stage is not applicable (NA). It will only be considered pCR in the case of absence of invasive tumour cells in the breast and lymph nodes.",
+        "  Time frame: After Week 24 (surgery)",
+        "Results 1: ",
+        "  Arm/Group Title: Doxorubicin + Cyclophosphamide/Bevacizumab + Docetaxel",
+        "  Arm/Group Description: Participants received doxorubicin 60 mg/m^2 IV followed by cyclophosphamide 600 mg/m^2 IV on Day 1, repeated every 3 weeks for a maximum of 4 cycles. Participants then received bevacizumab 15 mg/kg IV followed by docetaxel 75 mg/m^2 IV on Day 1, repeated every 3 weeks for a maximum of 4 cycles.",
+        "  Overall Number of Participants Analyzed: 66",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  24.2        (14.5 to 36.4)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 13/72 (18.06%)",
+        "  Neutrophils/granulocytes * 24/72 (5.56%)",
+        "  Mucositis/stomatitis * 22/72 (2.78%)",
+        "  Vomiting * 21/72 (1.39%)",
+        "  Febrile neutropaenia * 6/72 (8.33%)",
+        "  Infection with normal absolute neutrophil count (ANC) or grade 1 or 2 neutrophils * 21/72 (1.39%)"
+    ]
+}

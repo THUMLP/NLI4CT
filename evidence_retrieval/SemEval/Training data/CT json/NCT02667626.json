@@ -1,0 +1,52 @@
+{
+    "Clinical Trial ID": "NCT02667626",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  SCPR Intervention",
+        "  Young breast cancer participants will receive their SCPR and access to additional web-based educational reproductive health information, including resource lists of helpful websites, followed by regular reproductive health prompts and study adherence reminders for 24 weeks.",
+        "  Reproductive Health Survivorship Care Plan (SCPR): The reproductive health survivorship care plan (SCPR) is a web-based educational tool that will include information on how to manage various reproductive health issues such as hot flashes, fertility concerns, contraception practices, and sexual function. The intervention also includes additional web-based information and resource lists, text-based reproductive health and study adherence",
+        "INTERVENTION 2: ",
+        "  Control",
+        "  Young breast cancer participants randomized to the waitlist control arm will receive access to the web-based resources and study adherence reminders. At completion of the 24 weeks of follow up, they will have access to their SCPR.",
+        "  Control: Web-based resource lists and text-based study adherence reminders"
+    ],
+    "Eligibility": [
+        "Inclusion:",
+        "  Breast cancer (Stages 0-III) diagnosis",
+        "  Breast cancer diagnosis age  45 years",
+        "   5 years since breast cancer diagnosis",
+        "  Current age 18 to 50 years",
+        "  Completed treatment with surgery, radiation and chemotherapy (if applicable)",
+        "  Able to read English",
+        "  Able to consent to the study",
+        "  Access to an Internet connection",
+        "  Exclusion:",
+        " Women who are pregnant at recruitment"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With a 50% Decrease in Hot Flash Score",
+        "  50% decrease in hot flash score. The hot flash score is calculated as the weighted sum of the number of hot flashes in each severity category multiplied by a severity-exclusive weight (1-mild, 2-moderate, 3-severe, 4-very severe). The minimum is 0 and there is no maximum. For example a woman can experience an unlimited number of hot flashes per day. Higher score indicates worse outcome.",
+        "  Time frame: Baseline and 24 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: SCPR Intervention",
+        "  Arm/Group Description: Young breast cancer participants will receive their SCPR and access to additional web-based educational reproductive health information, including resource lists of helpful websites, followed by regular reproductive health prompts and study adherence reminders for 24 weeks.",
+        "  Reproductive Health Survivorship Care Plan (SCPR): The reproductive health survivorship care plan (SCPR) is a web-based educational tool that will include information on how to manage various reproductive health issues such as hot flashes, fertility concerns, contraception practices, and sexual function. The intervention also includes additional web-based information and resource lists, text-based reproductive health and study adherence",
+        "  Overall Number of Participants Analyzed: 86",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  50  58.1%",
+        "Results 2: ",
+        "  Arm/Group Title: Control",
+        "  Arm/Group Description: Young breast cancer participants randomized to the waitlist control arm will receive access to the web-based resources and study adherence reminders. At completion of the 24 weeks of follow up, they will have access to their SCPR.",
+        "  Control: Web-based resource lists and text-based study adherence reminders",
+        "  Overall Number of Participants Analyzed: 96",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  53  55.2%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/86 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/96 (0.00%)"
+    ]
+}

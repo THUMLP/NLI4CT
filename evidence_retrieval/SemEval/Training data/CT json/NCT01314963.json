@@ -1,0 +1,50 @@
+{
+    "Clinical Trial ID": "NCT01314963",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Intraoperative Handheld Gamma Camera (pIHGC)",
+        "  The prototype intraoperative handheld gamma camera (pIHGC)",
+        "  radioactive Tc99M: Lymphoscintigraphy involves injection of 0.4 to 1.0 mCi of radioactive Tc99M sulfur colloid around at the tumor site.",
+        "INTERVENTION 2: ",
+        "  Gamma Probes (GP)",
+        "  Lymphoscintigraphy with standard of care intraoperative gamma probes (GP)",
+        "  radioactive Tc99M: Lymphoscintigraphy involves injection of 0.4 to 1.0 mCi of radioactive Tc99M sulfur colloid around at the tumor site."
+    ],
+    "Eligibility": [
+        "INCLUSION CRITERIA",
+        "  Malignancy for which sentinel node biopsy with lymphoscintigraphy are indicated as part of the standard of care for tumor staging",
+        "  Age 18 or greater.",
+        "  Healthy enough for surgery",
+        "  Able to understand and willing to sign a written informed consent document.",
+        "  EXCLUSION CRITERIA",
+        "  No exclusion requirements due to co-morbid disease or intercurrent illness.",
+        "  Documented allergy to colloid.",
+        "  Lymphoscintigraphy presents excessive high risk, eg, a consideration if pregnant or lactating"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Relative Node Detection Sensitivity",
+        "  Relative node detection sensitivity (S) was defined as the proportion of sentinel lymph nodes (SLNs) that were identified with each instrument, with the proportion determined as the number of true positives (TP) divided by the total evaluated (N). The outcome result is expressed as the percentage for each device with 95% confidence intervals.",
+        "Time frame: 1 day",
+        "Results 1: ",
+        "  Arm/Group Title: Intraoperative Handheld Gamma Camera (pIHGC)",
+        "  Arm/Group Description: The prototype intraoperative handheld gamma camera (pIHGC)",
+        "  radioactive Tc99M: Lymphoscintigraphy involves injection of 0.4 to 1.0 mCi of radioactive Tc99M sulfur colloid around at the tumor site.",
+        "  Overall Number of Participants Analyzed: 50",
+        "  Overall Number of Units Analyzed",
+        "  Type of Units Analyzed: Sentinel lymph nodes (SLNs)  Measure Type: NumberNumber (95% Confidence Interval)Unit of Measure: Percentage (%) of SLNs detected: 88.5        (82.3 to 94.6)",
+        "Results 2: ",
+        "  Arm/Group Title: Gamma Probes (GP)",
+        "  Arm/Group Description: Lymphoscintigraphy with standard of care intraoperative gamma probes (GP)",
+        "  radioactive Tc99M: Lymphoscintigraphy involves injection of 0.4 to 1.0 mCi of radioactive Tc99M sulfur colloid around at the tumor site.",
+        "  Overall Number of Participants Analyzed: 50",
+        "  Overall Number of Units Analyzed",
+        "  Type of Units Analyzed: Sentinel lymph nodes (SLNs)  Measure Type: NumberNumber (95% Confidence Interval)Unit of Measure: Percentage (%) of SLNs detected: 94.2        (89.7 to 98.7)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/50 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/50 (0.00%)"
+    ]
+}

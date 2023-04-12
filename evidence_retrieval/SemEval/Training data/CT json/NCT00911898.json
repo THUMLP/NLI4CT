@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT00911898",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  MM-111",
+        "All participants"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients must have histologically or cytologically confirmed advanced cancer that is:",
+        "  HER2 amplified (IHC 2+ or greater) based on archived tumor evaluation",
+        "  Heregulin positive based on a study required fresh biopsy sample performed at screening and confirmed by central laboratory",
+        "  Patients must have blocks of archived formalin-fixed, paraffin-embedded tumor tissue available for sectioning and immunohistochemical staining",
+        "  Patient's cancer must have recurred or progressed following standard therapy, have not responded to standard therapy, or for which no standard therapy exists.",
+        "  Patients must be >= 18 years of age",
+        "  Patients or their legal representatives must be able to understand and sign an informed consent",
+        "  Patients may have measurable or non-measurable tumor(s)",
+        "  Patients should have ECOG Performance Score (PS) 0 or 1",
+        "  Patients must have adequate bone marrow reserves as evidenced by:",
+        "  Absolute neutrophil count (ANC) >= 1,500/uL and",
+        "  Platelet count >= 100,000/uL",
+        "  Hemoglobin >= 9 g/dL",
+        "  Patients must have tumor tissue amenable to biopsy",
+        "  Patients must be willing to undergo biopsy prior to treatment to MM-111",
+        "Exclusion Criteria:",
+        "  Patients for whom potentially curative antineoplastic therapy is available",
+        "  Patients who are pregnant or lactating",
+        "  Patients with an active infection or with an unexplained fever greater than 38.5 C during screening visits or on the first scheduled day of dosing. (At the discretion of the investigator, patients with tumor fever may be enrolled)",
+        "  Patients with untreated and/or symptomatic primary or metastatic CNS malignancies (patients with CNS metastases who have undergone surgery or radiotherapy, whose disease is stable, and who have been on a stable dose of corticosteroids for at least 2 weeks prior to the first scheduled day of dosing will be eligible for the trial",
+        "  Patients with known hypersensitivity to any of the components of MM-111 or who have had hypersensitivity reactions to fully human monoclonal antibodies (patients with a history of hypersensitivity to trastuzumab, a humanized antibody, are not excluded)",
+        "  Patients with known HIV, hepatitis B or C (if patients have previously been treated for C and have undetectable viral loads, they can be considered eligible for the trial)"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Maximum Tolerated Dose (MTD) or Maximum Feasible Dose",
+        "  The Maximum Tolerated Dose (MTD) was defined as the highest dose level in which a DLT is experienced by fewer than two patients in a cohort of 3 - 6 patients. If a DLT is observed in at least two patients in a cohort of 3 - 6 patients, the MTD will be determined to have been exceeded and an additional three patients (up to a total of six) are to be treated at the next lower dose level.",
+        "  Time frame: 28 days",
+        "Results 1: ",
+        "  Arm/Group Title: MM-111",
+        "  Arm/Group Description: All participants",
+        "  Overall Number of Participants Analyzed: 20",
+        "  Measure Type: Number",
+        "  Unit of Measure: mg/kg  NA  [1]"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 3/20 (15.00%)",
+        "  Disease Progression1/20 (5.00%)",
+        "  Acute viral myocarditis1/20 (5.00%)"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Clinical Trial ID": "NCT04396665",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Intervention Group",
+        "  Women in the intervention group",
+        "INTERVENTION 2: ",
+        "  Control Group",
+        "  Women in the control group"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Informed consent signed",
+        "  Capability to use internet",
+        "Exclusion Criteria:",
+        "  Breast cancer diagnosis duting the intervention"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Feasibility of an Educational Intervention: Adherence to the Intervention",
+        "  Participants that finish the intervention",
+        "  Time frame: 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: Intervention Group",
+        "  Arm/Group Description: Women in the intervention group",
+        "  Overall Number of Participants Analyzed: 134",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  99  73.9%",
+        "Results 2: ",
+        "  Arm/Group Title: Control Group",
+        "  Arm/Group Description: Women in the control group",
+        "  Overall Number of Participants Analyzed: 90",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  83  92.2%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/0",
+        "Adverse Events 2:",
+        "  Total: 0/0"
+    ]
+}

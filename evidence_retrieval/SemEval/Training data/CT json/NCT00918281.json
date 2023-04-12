@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT00918281",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Imaging Session 1",
+        "  Fluciclatide Injection (AH111585 (18F) Injection) at 10mCi [370 megabecquerels (MBq)]",
+        "INTERVENTION 2: ",
+        "  Imaging Session 2",
+        "  Fluciclatide Injection (AH111585 (18F) Injection)"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  The subject has been diagnosed with at least one solid primary or metastatic tumor greater than 2.0 cm in diameter, including but not limited to NSCLC, RCC, GBM, melanoma, sarcoma, breast and H&N cancers.",
+        "  The subject has received clinical routine imaging diagnostic work-up within 8 weeks prior to the first [18F]AH111585 PET scan.",
+        "  The subject has a clinically acceptable (as judged by the investigator) physical examination at screening and is capable of self-care.",
+        "Exclusion Criteria:",
+        "  The subject has known hyper- or hypo-coagulation syndromes.",
+        "  The subject has received chemotherapy within 3 weeks, or received radiotherapy, surgery or any other treatment against cancer within 4 weeks prior to the first [18F]AH111585 PET scan.",
+        "  The subject is scheduled to undergo chemotherapy, radiotherapy, surgery or any other treatment against cancer between the first and second [18F]AH111585 PET scans.",
+        "  The subject is scheduled to undergo biopsy for the target tumour between the first and second [18F]AH111585 PET scans.",
+        "  The subject has intra-hepatic tumour(s) only.",
+        "  For the immuno-histochemistry group, the subject's target tumour has been biopsied less than or equal to 1 week prior to the first [18F]AH111585 PET scan."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Test Image and Retest Image Reproducibility of Fluciclatide Injection ([18F]AH111585) Uptake by Solid Tumors Following Intravenous Administration of AH111585 (18F) Injection Via PET Imaging.",
+        "  Mean relative differences of Standardized uptake value (SUV) following intravenous administration of AH111585 (F18) Injection between the two PET imaging sessions.",
+        "  Time frame: Forty minutes, 65 minutes and 90 minutes post Fluciclatide administration.",
+        "Results 1: ",
+        "  Arm/Group Title: Imaging Session 1",
+        "  Arm/Group Description: Fluciclatide Injection (AH111585 (18F) Injection) at 10mCi [370 megabecquerels (MBq)]",
+        "  Overall Number of Participants Analyzed: 39",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: Standardized Uptake Value  40 Minute Post Injection: 4.536         (2.2113)",
+        "  65 Minute Post Injection: 4.584         (2.3266)",
+        "  90 Minute Post Injection: 4.404         (2.2761)",
+        "Results 2: ",
+        "  Arm/Group Title: Imaging Session 2",
+        "  Arm/Group Description: Fluciclatide Injection (AH111585 (18F) Injection)",
+        "  Overall Number of Participants Analyzed: 39",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: Standardized Uptake Value  40 Minute Post Injection: 4.671         (2.4485)",
+        "  65 Minute Post Injection: 4.675         (2.4489)",
+        "  90 Minute Post Injection: 4.691         (2.6445)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 7/49 (14.29%)",
+        "  Lower respiratory Tract Infection * 1/49 (2.04%)",
+        "  Back Pain * 1/49 (2.04%)",
+        "  Carcinoma / Metastases * 3/49 (6.12%)",
+        "  Spinal Cord Compression * 1/49 (2.04%)",
+        "  Lymphadenectomy * 1/49 (2.04%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

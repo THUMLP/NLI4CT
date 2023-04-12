@@ -1,0 +1,58 @@
+{
+    "Clinical Trial ID": "NCT00631852",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  American Ginseng Root",
+        "  four, 250mg tablets daily 5-14 days prior to surgery",
+        "  American Ginseng root: four, 250mg tablets daily 5-14 days prior to surgery"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients with cytologically confirmed breast cancer with biopsy showing invasive or non-invasive (DCIS) at least 1.0 cm greatest diameter on imaging",
+        "  Surgical patients undergoing lumpectomy, subtotal or total mastectomy",
+        "  18 years of age or greater",
+        "  female",
+        "  available tissue blocks from diagnostic biopsy",
+        "  negative pregnancy test, medical history of surgical sterilization, or 1 year post menopausal",
+        "  must be willing to forego surgery for minimum of 5 days",
+        "  ability and willingness to sign written consent",
+        "  if hypertensive, on stable dose of medication at least 30 days",
+        "  if diabetic, well controlled (HbA1C < 8.5 within past 60 days or documented FPG < 140 mg/dl for 3 consecutive days",
+        "  ECOG status < 2 or Karnofsky of 60% or greater",
+        "Exclusion Criteria:",
+        "  previous or current malignancy, excluding non-melanomic skin cancer",
+        "  evidence of distant metastatic disease",
+        "  history of chemotherapy, biologic or radiotherapy with 6 months of biopsy",
+        "  usage of herbal supplements or alternative medications not approved by the FDA within 1 week of starting study drug. LEAG or related ginseng products, and combination products containing ginseng, should be discontinued within 6 weeks of starting study drug",
+        "  history of allergic reactions attributed to compounds of similar chemical or biologic composition to LEAG",
+        "  history of chronic inflammatory process, including, but not limited to, rheumatoid arthritis and lupus. This includes patients on concurrent systemic steroids or anti-inflammatory medications",
+        "  active bleeding or a pathological condition that carries a high risk of bleeding",
+        "  any swallowing dysfunction",
+        "  uncontrolled intercurrent illness",
+        "  poorly controlled diabetes (control indicated with HbA1c < 8.5 within past 60 days or documented fasting blood glucose < 140 mg/dl for three consecutive days)",
+        "  known diabetics who have experienced episodes of symptomatic hypoglycemia in the last 6 months are also considered poorly controlled and will be excluded from study participation.",
+        "  uncontrolled hypertension (SBP > 140 mmHg or DBP > 90 mmHG)",
+        "  pregnant or breast feeding women Women must be willing to use birth control throughout study duration.",
+        "  current investigational medications or treatment with an investigational agent within 6 weeks prior to biopsy",
+        "  current coumadin therapy or who have been treated with coumadin within the 2 weeks prior to biopsy",
+        "  current monoamine oxidase inhibitors treatment"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Adiponectin",
+        "  Change from baseline to completion of treatment with LEAG.",
+        "  Time frame: mean of 11.8 days",
+        "Results 1: ",
+        "  Arm/Group Title: American Ginseng Root",
+        "  Arm/Group Description: four, 250mg tablets daily 5-14 days prior to surgery",
+        "  American Ginseng root: four, 250mg tablets daily 5-14 days prior to surgery",
+        "  Overall Number of Participants Analyzed: 11",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: pg/ml  1308         (11,985)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/16 (6.25%)",
+        "  hemorrhage/ bleeding * [1]1/16 (6.25%)"
+    ]
+}

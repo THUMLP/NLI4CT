@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT02835625",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Digital Breast Tomosynthesis",
+        "  Digital Breast Tomosynthesis + Synthetic Mammography (DBT)",
+        "  The DBT was independently read by two radiologists. A consensus meeting decided whether to recall the woman or not.",
+        "  Women selected for further assessment (positive screening exam) was recalled.",
+        "  Digital Breast Tomosynthesis + Synthetic Mammography: Two-view tomosynthesis performed with GE SenoClaire 3D Breast Tomosynthesis.",
+        "INTERVENTION 2: ",
+        "  Digital Mammography",
+        "  The digital mammograms was independently read by two radiologists. A consensus meeting decided whether to recall the woman or not.",
+        "  Women selected for further assessment (positive screening exam) was recalled.",
+        "  Digital mammography: Two-view digital mammography performed with GE SenoClaire 3D Breast Tomosynthesis."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Informed consent",
+        "Exclusion Criteria:",
+        "Breast implants"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Screen-Detected Breast Cancer",
+        "  Comparison of rates of screen-detected breast cancer in tomosynthesis versus digital mammography as performed in a population based screening program.",
+        "  Time frame: 36 months from start up of the trial",
+        "Results 1: ",
+        "  Arm/Group Title: Digital Breast Tomosynthesis",
+        "  Arm/Group Description: Digital Breast Tomosynthesis + Synthetic Mammography (DBT)",
+        "  The DBT was independently read by two radiologists. A consensus meeting decided whether to recall the woman or not.",
+        "  Women selected for further assessment (positive screening exam) was recalled.",
+        "  Digital Breast Tomosynthesis + Synthetic Mammography: Two-view tomosynthesis performed with GE SenoClaire 3D Breast Tomosynthesis.",
+        "  Overall Number of Participants Analyzed: 14380",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  95   0.7%",
+        "Results 2: ",
+        "  Arm/Group Title: Digital Mammography",
+        "  Arm/Group Description: The digital mammograms was independently read by two radiologists. A consensus meeting decided whether to recall the woman or not.",
+        "  Women selected for further assessment (positive screening exam) was recalled.",
+        "  Digital mammography: Two-view digital mammography performed with GE SenoClaire 3D Breast Tomosynthesis.",
+        "  Overall Number of Participants Analyzed: 14369",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  87   0.6%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/14734 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/14719 (0.00%)"
+    ]
+}

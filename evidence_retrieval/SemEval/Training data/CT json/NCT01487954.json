@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT01487954",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Arm I: Alkaline Water",
+        "  Patients undergo external beam radiation therapy QD, 5 days a week for 6 weeks. Patients drink 8 ounces of alkaline water within 30 minutes immediately prior to and after undergoing radiation therapy.",
+        "  alkaline water: Patients drink 8 ounces of alkaline water within 30 minutes immediately prior to and after undergoing radiation therapy.",
+        "  external beam radiation therapy (EBRT): Patients undergo external beam radiation therapy QD, 5 days a week for 6 weeks.",
+        "INTERVENTION 2: ",
+        "  Arm II: Distilled Water",
+        "  Patients undergo external beam radiation therapy as in arm I. Patients also drink 8 ounces of distilled water within 30 minutes immediately prior to and after undergoing radiation therapy",
+        "  distilled water: Patients also drink 8 ounces of distilled water within 30 minutes immediately prior to and after undergoing radiation therapy.",
+        "  external beam radiation therapy (EBRT): Patients undergo external beam radiation therapy QD, 5 days a week for 6 weeks."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients must have histologically or cytologically confirmed stage 0-IV breast cancer and have a treatment plan consisting of 62Gy (31 fractions) of total breast radiation therapy to be eligible; patients are eligible if they have received any number of prior chemotherapies; patients having received chemotherapy prior to radiation will be stratified among randomization groups during the second phase of this study",
+        "  Life expectancy of greater than 3 months",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)",
+        "  Ability to understand and the willingness to sign a written informed consent document",
+        "Exclusion Criteria:",
+        "  Patients receiving any investigational chemotherapeutic agents during planned radiation or any prior breast or chest wall radiation treatments are excluded",
+        "  Patients receiving concurrent chemotherapy are excluded because of an increased relative risk of skin toxicity; patients taking daily proton-pump inhibitor or H2-blocker antacid medications are excluded because of predicted interference of alkaline water consumption and stomach pH; herceptin for the purposes of this clinical trial would be considered a chemotherapy, and as such, patients receiving herceptin chemotherapy during radiation would not be eligible for participation in this protocol",
+        "  Patients with a history of any prior malignancy except non-melanoma skin cancer or carcinoma in-situ of the cervix not in remission for twelve months are excluded; patients with known brain metastases are excluded from this clinical trial because of their overall poor prognosis",
+        "  Pregnancy excludes female patients from this study because radiation is potentially teratogenic and abortifacient; screening beta-hcg levels and clinically-indicated diagnostic tests will be used to determine eligibility"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Acute and Grade 2 or Higher Radiation-related Skin Toxicity as Assessed by Common Terminology Criteria for Adverse Events (CTCAE) Version 3.0",
+        "  Information will include the type, severity, time of onset and resolution of its onset, and its probable association with the study regimen. Frequency tables will be constructed to summarize observed incidents by severity and type of toxicity during weekly radiation treatment and 1 month after radiation treatment. Observed toxicity differences among the treatment arms may be reported in frequency tables.",
+        "  Time frame: at 1 month after treatment",
+        "Results 1: ",
+        "  Arm/Group Title: Arm I: Alkaline Water",
+        "  Arm/Group Description: Patients undergo external beam radiation therapy QD, 5 days a week for 6 weeks. Patients drink 8 ounces of alkaline water within 30 minutes immediately prior to and after undergoing radiation therapy.",
+        "  alkaline water: Patients drink 8 ounces of alkaline water within 30 minutes immediately prior to and after undergoing radiation therapy.",
+        "  external beam radiation therapy (EBRT): Patients undergo external beam radiation therapy QD, 5 days a week for 6 weeks.",
+        "  Overall Number of Participants Analyzed: 29",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  38",
+        "Results 2: ",
+        "  Arm/Group Title: Arm II: Distilled Water",
+        "  Arm/Group Description: Patients undergo external beam radiation therapy as in arm I. Patients also drink 8 ounces of distilled water within 30 minutes immediately prior to and after undergoing radiation therapy",
+        "  distilled water: Patients also drink 8 ounces of distilled water within 30 minutes immediately prior to and after undergoing radiation therapy.",
+        "  external beam radiation therapy (EBRT): Patients undergo external beam radiation therapy QD, 5 days a week for 6 weeks.",
+        "  Overall Number of Participants Analyzed: 16",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  38"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/29 (3.45%)",
+        "  Skin infection *  [1]0/29 (0.00%)",
+        "  Alanine aminotransferase increased *  [2]1/29 (3.45%)",
+        "  Aspartate aminotransferase increased *  [3]1/29 (3.45%)",
+        "  Chest wall pain *  [4]1/29 (3.45%)",
+        "Adverse Events 2:",
+        "  Total: 1/16 (6.25%)",
+        "  Skin infection *  [1]1/16 (6.25%)",
+        "  Alanine aminotransferase increased *  [2]0/16 (0.00%)",
+        "  Aspartate aminotransferase increased *  [3]0/16 (0.00%)",
+        "  Chest wall pain *  [4]0/16 (0.00%)"
+    ]
+}

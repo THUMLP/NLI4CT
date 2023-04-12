@@ -1,0 +1,43 @@
+{
+    "Clinical Trial ID": "NCT03167359",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Participants With Stage 0-III Breast Cancer",
+        "  Women with Stage 0-III breast cancer, treated with breast conserving surgery or mastectomy and clear margins, will receive 15 doses of radiation over three weeks.",
+        "  Hypofractionated Simultaneous Integrated Boost Radiotherapy: Participants will receive radiotherapy treatments to the whole breast or chest wall to a dose of 2.66 Gy per day x 15 fractions simultaneously with a boost treatment. The boost treatment will be given on the same days as the whole breast treatment. The lumpectomy cavity + scar (in lumpectomy patients) or chest wall scar (mastectomy patients) will receive 0.54 Gy per day x 15 fractions."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Participants must have one or more of the following characteristics and be eligible for breast or chest wall with or without regional nodal radiotherapy:",
+        "  Prior Chemotherapy for Breast Cancer",
+        "  Greater than 25 cm of breast separation (the largest distance on an axial slice of the planning CT simulation scan between the entry and exit points of the radiation beam on the body)",
+        "  Non-Caucasian Race",
+        "  Less than or equal to 50 years of age",
+        "  Requiring regional nodal irradiation without evidence of N3 disease",
+        "Exclusion Criteria:",
+        "  Males will be excluded",
+        "  Women who are pregnant or nursing a child may not take part in this study"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants Per Cutaneous Toxicity Grade (0, 1, 2, 3, 4)",
+        "  Cutaneous toxicity rate will be assessed by the National Cancer Institute - Common Toxicity Criteria (NCI-CTC) v.3 grading scale. THe NCI CTCAE grades go from 0 to 4. Grade 0: none. Grade 1: Mild or localized; topical intervention indicated. Grade 2: Intense or widespread; intermittent; skin changes from scratching (e.g., edema, papulation, excoriations, lichenification, oozing/crusts); limiting instrumental ADLs. Grade 3-4: Severe or life-threatening. The higher the grade, the worse the outcome.",
+        "  Time frame: Duration of Study (Up to 18 months)",
+        "Results 1: ",
+        "  Arm/Group Title: Participants With Stage 0-III Breast Cancer",
+        "  Arm/Group Description: Women with Stage 0-III breast cancer, treated with breast conserving surgery or mastectomy and clear margins, will receive 15 doses of radiation over three weeks.",
+        "  Hypofractionated Simultaneous Integrated Boost Radiotherapy: Participants will receive radiotherapy treatments to the whole breast or chest wall to a dose of 2.66 Gy per day x 15 fractions simultaneously with a boost treatment. The boost treatment will be given on the same days as the whole breast treatment. The lumpectomy cavity + scar (in lumpectomy patients) or chest wall scar (mastectomy patients) will receive 0.54 Gy per day x 15 fractions.",
+        "  Overall Number of Participants Analyzed: 71",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Grade 0: 60  84.5%",
+        "  Grade 1: 11  15.5%",
+        "  Grade 2: 0   0.0%",
+        "  Grade 3: 0   0.0%",
+        "Grade 4: 0   0.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 3/74 (4.05%)",
+        "  Recurrance *3/74 (4.05%)"
+    ]
+}

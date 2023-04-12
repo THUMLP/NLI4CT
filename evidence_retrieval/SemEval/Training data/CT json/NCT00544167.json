@@ -1,0 +1,62 @@
+{
+    "Clinical Trial ID": "NCT00544167",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Doxorubicin/Cyclophosphamide Then Paclitaxel/Sorafenib",
+        "[Not Specified]"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients must have histologically-confirmed breast cancer with an interval between definitive surgery that includes axillary lymph node involvement assessment and initiation of study treatment of less than or equal to 84 days.",
+        "  Definitive surgery - either mastectomy with axillary node involvement assessment, or breast conserving surgery with axillary node assessment. Margins of resected specimen must be free of invasive disease and/or ductal carcinoma in situ (DCIS).",
+        "  Stage I, II, IIIA, and IIIC (T1-3, N3a only). Patients must be either lymph node positive or high-risk node negative.",
+        "  Age > 18 years.",
+        "  ECOG performance status 0 or 1.",
+        "  Normal cardiac function must be confirmed by left ventricular ejection fraction (LVEF) by Echocardiography or MUGA scan and electrocardiogram (ECG) within 35 days prior to initiation of study treatment.",
+        "  Patients must have adequate bone marrow function",
+        "  Patients must have normal liver function (",
+        "  Serum creatinine <= 2mg/dl",
+        "  INR < 1.5 or a PT/PTT within normal limits. Patients receiving anti-coagulation treatment with an agent such as warfarin or heparin may be allowed to participate. For patients on warfarin, the INR should be measured prior to initiation of sorafenib and monitored.",
+        "Exclusion Criteria:",
+        "  Prior systemic anticancer therapy for breast cancer (immunotherapy, chemotherapy, hormonal therapy).",
+        "  Patients with HER2 positive breast cancer as determined by FISH or IHC3+ standing are ineligible for this trial.",
+        "  Prior anthracycline or taxane therapy.",
+        "  Prior radiation therapy for breast cancer.",
+        "  Bilateral invasive disease.",
+        "  Pre-existing motor or sensory neurotoxicity of a severity  2 by NCI CTCAE v 3.0 criteria.",
+        "  Cardiac disease that includes: myocardial infarction; angina, congestive heart failure, arrhythmia; valvular heart disease; cardiomegaly on chest imaging or ventricular hypertrophy on ECG - unless the LVEF is within normal range for the institution; patients with poorly controlled hypertension (defined as systolic blood pressure > 150 and /or diastolic blood pressure > 100 mmHg on antihypertensive medications); patients who receive medications for angina, arrhythmias, or congestive heart failure.",
+        "  Current therapy with raloxifene, tamoxifen or other selective estrogen receptor modulator",
+        "  Concurrent treatment with ovarian hormonal replacement therapy.",
+        "  History of prior malignancy within 5 years with the exception of skin cancer or cervical carcinoma in situ.",
+        "  Women who are pregnant (positive pregnancy test) or breast feeding. Subjects of childbearing potential must use effective birth control measures during treatment.",
+        "  Treatment with a non-approved or investigational drug within 30 days before day 1 of trial treatment.",
+        "  Patients with neurological symptoms must undergo a CT scan/MRI of the brain to exclude brain metastasis.",
+        "  Thrombotic or embolic events such as a stroke and transient ischemic attack within the past 6 months.",
+        "  Pulmonary hemorrhage/bleeding event  NCI CTCAE v3.0 Grade 2 within 4 weeks of first dose of study drug.",
+        "  Any other hemorrhage/bleeding event  NCI CTCAE v3.0 Grade 3 within 4 weeks of first dose of study drug."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  The Safety and Tolerability of Protocol Treatment, Defined as the Percentage of Patients Experiencing Severe or Life-threatening Side Effects Per CTCAE Version 3.0.",
+        "  [Not Specified]",
+        "  Time frame: 18 Months",
+        "Results 1: ",
+        "  Arm/Group Title: Doxorubicin/Cyclophosphamide Then Paclitaxel/Sorafenib",
+        "  Arm/Group Description: [Not Specified]",
+        "  Overall Number of Participants Analyzed: 45",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of patients  40"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 7/45 (15.56%)",
+        "  Febrile neutropenia 1/45 (2.22%)",
+        "  Cardiac ischemia/infarction 1/45 (2.22%)",
+        "  Ventricular arrhythmia - left ventricular systolic dysfunction 1/45 (2.22%)",
+        "  Hemmorhage - GI 1/45 (2.22%)",
+        "  Pancreatitis 1/45 (2.22%)",
+        "  Infection - pneumonia 1/45 (2.22%)",
+        "  Infection - Streptococcus 1/45 (2.22%)",
+        "  Abcess of Bartholin's cyst 1/45 (2.22%)"
+    ]
+}

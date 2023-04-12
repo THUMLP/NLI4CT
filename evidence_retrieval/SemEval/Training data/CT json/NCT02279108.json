@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT02279108",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Double Detection Indocyanine + Isotope",
+        "  intradermal injection of 2.5 milligrams of indocyanine green and 20 MBq of technetium 99 before breast surgery",
+        "  indocyanine green: One injection, 2.5 milligrams per patient, intradermal use",
+        "  isotope: One injection, 20 MBq techntium99, intradermal use",
+        "INTERVENTION 2: ",
+        "  Isotope Detection Alone",
+        "  intradermal injection of 20 MBq of technetium 99 before breast surgery",
+        "  isotope: One injection, 20 MBq techntium99, intradermal use"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically proved infiltrating breast cancer (ductal, lobular carcinoma\u2026) or a carcinoma in-situ with an elevated risk of micro-invasion. (High grade with necrosis, radiologically evaluated size more than 40mm, or immediate mastectomy\u2026)",
+        "  Unifocal or multifocal but in same quarter",
+        "  Size < 5cm clinically palpable or not",
+        "  Clinically or ultrasound axillary N0",
+        "  Isotopic sentinel node detection",
+        "  Adult patient",
+        "  Signed informed consent by patient or legally responsable authority",
+        "  Patient registered to a social security system",
+        "  No surgical contra-indication",
+        "Exclusion Criteria:",
+        "  Mammary carcinoma recurrence",
+        "  Previous same side mammary reduction",
+        "  Previous lumpectomy",
+        "  Contra-indication to surgery",
+        "  Pregnant or breast feeding patient",
+        "  Denial of participation"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Patients With Less Than Two Lymph Nodes Detected",
+        "  Number of patients with less than two lymph nodes detected by indocyanine (ICG) + isotope versus isotope detection alone",
+        "  Time frame: peroperative",
+        "Results 1: ",
+        "  Arm/Group Title: Double Detection Indocyanine + Isotope",
+        "  Arm/Group Description: intradermal injection of 2.5 milligrams of indocyanine green and 20 MBq of technetium 99 before breast surgery",
+        "  indocyanine green: One injection, 2.5 milligrams per patient, intradermal use",
+        "  isotope: One injection, 20 MBq techntium99, intradermal use",
+        "  Overall Number of Participants Analyzed: 50",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  22  44.0%",
+        "Results 2: ",
+        "  Arm/Group Title: Isotope Detection Alone",
+        "  Arm/Group Description: intradermal injection of 20 MBq of technetium 99 before breast surgery",
+        "  isotope: One injection, 20 MBq techntium99, intradermal use",
+        "  Overall Number of Participants Analyzed: 49",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  20  40.8%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/50 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

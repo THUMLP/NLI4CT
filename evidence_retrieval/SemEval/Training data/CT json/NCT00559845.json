@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT00559845",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Bevacizumab",
+        "  FEC, followed by paclitaxel, given concomitantly with bevacizumab for approximately 3-12 months.",
+        "  FEC: 5-Fluorouracil 600 mg/m^2 i.v. bolus over 15 min; epirubicin 90 mg/m^2 i.v. infusion over 1 hour; cyclophosphamide 600 mg/m^2 i.v. infusion over 1 hour every 3 weeks for 4 cycles.",
+        "  Paclitaxel: 80 mg/m^2 i.v. over 1 hour weekly for 12 weeks.",
+        "  Bevacizumab: 10 mg/kg i.v. every 2 weeks for 6 cycles."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  female participants, >=18 years of age;",
+        "  stage III, or inflammatory breast cancer;",
+        "  estrogen receptor/progesterone receptor (ER/PgR) positive or negative and human epidermal growth factor receptor 2 (HER-2) negative;",
+        "  normal left ventricular ejection fraction (LVEF).",
+        "Exclusion Criteria:",
+        "  previous chemotherapy/endocrine therapy;",
+        "  evidence of distant metastatic disease;",
+        "  other primary tumors in last 5 years (except for adequately treated cancer in situ of the cervix, or basal cell skin cancer);",
+        "  chronic daily treatment with >325 milligram per day (mg/day) aspirin, or >75mg/day clopidogrel."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With Pathological Complete Response Following Principle Investigator Review",
+        "  Pathological complete response was defined as absence of invasive neoplastic cells at microscopic examination of the tumor remnants after surgery following primary systemic therapy.",
+        "  Time frame: Up to 7.5 years",
+        "Results 1: ",
+        "  Arm/Group Title: Bevacizumab",
+        "  Arm/Group Description: FEC, followed by paclitaxel, given concomitantly with bevacizumab for approximately 3-12 months.",
+        "  FEC: 5-Fluorouracil 600 mg/m^2 i.v. bolus over   15 min; epirubicin 90 mg/m^2 i.v. infusion over 1 hour; cyclophosphamide 600 mg/m^2 i.v. infusion over 1 hour every 3 weeks for 4 cycles.",
+        "  Paclitaxel: 80 mg/m^2 i.v. over 1 hour weekly for 12 weeks.",
+        "  Bevacizumab: 10 mg/kg i.v. every 2 weeks for 6 cycles.",
+        "  Overall Number of Participants Analyzed: 56",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  23.2"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 8/54 (14.81%)",
+        "  Anaemia 1/54 (1.85%)",
+        "  Febrile Neutropenia 1/54 (1.85%)",
+        "  Retinopathy Hypertensive 1/54 (1.85%)",
+        "  Febrile Infection 1/54 (1.85%)",
+        "  Postoperative Wound Complication 1/54 (1.85%)",
+        "  Cardiac Imaging Procedure Abnormal 1/54 (1.85%)",
+        "  Malignant Melanoma In Situ 1/54 (1.85%)",
+        "  Suicide Attempt 1/54 (1.85%)",
+        "  Dyspnoea 1/54 (1.85%)"
+    ]
+}

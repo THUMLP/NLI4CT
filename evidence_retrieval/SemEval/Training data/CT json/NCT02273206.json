@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT02273206",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Collaborative Care Intervention (CCI)",
+        "  Participants assigned to the CCI group received the Prevention Care Management (PCM) intervention, as well as motivational support to initiate or follow up on mental health treatment and linkages to social support services",
+        "INTERVENTION 2: ",
+        "  Prevention Care Management (PCM)",
+        "  The PCM intervention consisted of cancer screening telephone support, including education, patient navigation, and motivational interviewing to overcome barriers to screening"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Resident of the Bronx",
+        "  Overdue for breast, cervical or colorectal cancer screening",
+        "  Screen positive for depression",
+        "  No cancer diagnosis within the past six months"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Assessment of Colorectal, Breast, and Cervical Cancer Screening Up to Date Status",
+        "  Comparison of the proportion of patients who were up to date for colorectal cancer, breast cancer and cervical cancer screenings before and after the intervention. (Chart Review)",
+        "  Time frame: Baseline - 12 months",
+        "Results 1: ",
+        "  Arm/Group Title: Collaborative Care Intervention (CCI)",
+        "  Arm/Group Description: Participants assigned to the CCI group received the Prevention Care Management (PCM) intervention, as well as motivational support to initiate or follow up on mental health treatment and linkages to social support services",
+        "  Overall Number of Participants Analyzed: 378",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage (%) of Participants  Colorectal Cancer Screening - Baseline: 22.0",
+        "  Colorectal Cancer Screening - Follow Up: 56.9",
+        "  Breast Cancer Screening - Baseline: 43.9",
+        "  Breast Cancer Screening - Follow Up: 66.7",
+        "  Cervical Cancer Screening - Baseline: 42.3",
+        "  Cervical Cancer Screening - Follow Up: 61.6",
+        "Results 2: ",
+        "  Arm/Group Title: Prevention Care Management (PCM)",
+        "  Arm/Group Description: The PCM intervention consisted of cancer screening telephone support, including education, patient navigation, and motivational interviewing to overcome barriers to screening",
+        "  Overall Number of Participants Analyzed: 379",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage (%) of Participants  Colorectal Cancer Screening - Baseline: 26.9",
+        "  Colorectal Cancer Screening - Follow Up: 52.8",
+        "  Breast Cancer Screening - Baseline: 42.0",
+        "  Breast Cancer Screening - Follow Up: 66.8",
+        "  Cervical Cancer Screening - Baseline: 41.7",
+        "  Cervical Cancer Screening - Follow Up: 64.6"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/378 (0.26%)",
+        "  Stroke *1/378 (0.26%)",
+        "Adverse Events 2:",
+        "  Total: 0/379 (0.00%)",
+        "  Stroke *0/379 (0.00%)"
+    ]
+}

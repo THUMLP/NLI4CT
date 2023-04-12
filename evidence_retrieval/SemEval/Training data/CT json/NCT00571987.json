@@ -1,0 +1,53 @@
+{
+    "Clinical Trial ID": "NCT00571987",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Margin Status",
+        "  AngioDynamics (previously RITA Med,Inc) radiofrequency delivery system (consisting of a generator and Starburst XL probe): Generator is connected to a single use probe. Probe is inserted into the lumpectomy cavity and heated to 100 degrees Celsius and held there for 15 minutes, after which probe is removed."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female, 18-100 years old",
+        "  Not pregnant or breastfeeding",
+        "  Pre-study radiologic documentation of:",
+        "  size  5 cm",
+        "  unicentric, unilateral",
+        "  suspicious mass or calcification",
+        "  BIRADS classification  IV",
+        "  location of abnormality > 1 cm from skin",
+        "  Ductal or Infiltrating Ductal Carcinoma",
+        "  Grade I-III on final pathology",
+        "  Good general health",
+        "  Zubrod Performance Status of 0,1, or 2",
+        "  No previous chemotherapy",
+        "  No palpable axillary or supraclavicular lymph nodes",
+        "  If prior non-breast malignancy, must have > 5 year disease-free survival",
+        "Exclusion Criteria:",
+        "  Patient < 18 y/o or > 100 y/o",
+        "  Pregnant or breastfeeding",
+        "  Male",
+        "  Breast implants",
+        "  Multicentric disease or bilateral disease",
+        "  Lesions > 5 cm in diameter",
+        "  Lesions < 1.0 cm from the skin",
+        "  Previous prior radiation to the breast",
+        "  Need for mastectomy",
+        "  Diffuse microcalcifications (as determined by the Investigator)"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Patients Requiring 2nd Surgery for Close or Positive Margins",
+        "  A \"close\" surgical margin implies that cancer cells are found on pathology to be very close to the surgical margin, and a \"wide\" surgical margin implies the tumor exists far from the cut edge or the surgical margin. For this study, we defined \"close\" as less than 3 mm.",
+        "  Time frame: Margins assessed at Final Pathology, approximately 1 week post-RF surgery",
+        "Results 1: ",
+        "  Arm/Group Title: Margin Status",
+        "  Arm/Group Description: AngioDynamics (previously RITA Med,Inc) radiofrequency delivery system (consisting of a generator and Starburst XL probe): Generator is connected to a single use probe. Probe is inserted into the lumpectomy cavity and heated to 100 degrees Celsius and held there for 15 minutes, after which probe is removed.",
+        "  Overall Number of Participants Analyzed: 100",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  22"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/107 (0.00%)"
+    ]
+}

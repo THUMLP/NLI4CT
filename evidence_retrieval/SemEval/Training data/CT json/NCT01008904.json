@@ -1,0 +1,46 @@
+{
+    "Clinical Trial ID": "NCT01008904",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Supportive Care (Magnesium Oxide)",
+        "  Patients receive magnesium oxide PO QD or BID for 4 weeks."
+    ],
+    "Eligibility": [
+        "DISEASE CHARACTERISTICS:",
+        "  Meets 1 of the following criteria:",
+        "  History of breast cancer (currently without malignant disease)",
+        "  No history of breast cancer but wishes to avoid estrogen due to a perceived increased risk of breast cancer",
+        "  Must have bothersome hot flashes (defined by their occurrence of  14 times per week and of sufficient severity to make the patient desire therapeutic intervention) for  1 month before study entry",
+        "  Has undergone treatment for cancer (patients other than breast cancer survivors are eligible)",
+        "  PATIENT CHARACTERISTICS:",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 0-2",
+        "  Not pregnant or nursing",
+        "  Negative pregnancy test",
+        "  Fertile patients must use effective contraception",
+        "  Creatinine clearance  30 mL/min",
+        "  No hypersensitivity to magnesium oxide",
+        "  No medical or other condition(s) that, in the opinion of the investigator/sub-investigator, may compromise the objectives of the study",
+        "  PRIOR CONCURRENT THERAPY:",
+        "  See Disease Characteristics",
+        "  More than 4 weeks since prior and no concurrent antineoplastic chemotherapy, androgens, estrogens, progestational agents, or gabapentin",
+        "  More than 28 days since prior and no other concurrent investigational drugs",
+        "  Concurrent tamoxifen, raloxifene, or aromatase inhibitors allowed provided patient has been on a constant dose for > 4 weeks AND is not expected to stop the medication during the study period"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percent Difference in Hot Flash Activity (Score) Between Baseline and End of Treatment (Week 5)",
+        "  Hot flash score (frequency x severity) at baseline was compared to the end of treatment. The number of flashes in a 24 hour day and a score combining the number and severity of hot flashes (ie, 1 point for mild, 2 points for moderate, 3 points for severe and 4 points for very severe.",
+        "  Time frame: from baseline to week 5",
+        "Results 1: ",
+        "  Arm/Group Title: Supportive Care (Magnesium Oxide)",
+        "  Arm/Group Description: Patients receive magnesium oxide PO QD or BID for 4 weeks.",
+        "  Overall Number of Participants Analyzed: 25",
+        "  Mean (Standard Error)",
+        "  Unit of Measure: percentage of difference  -50.4         (40.9)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/29 (3.45%)",
+        "  Surgery *  [1]1/29 (3.45%)"
+    ]
+}

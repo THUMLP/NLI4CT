@@ -1,0 +1,43 @@
+{
+    "Clinical Trial ID": "NCT02286843",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  HER2-targeted PET/CT",
+        "  Pts with confirmed HER2- breast cancer will undergo HER2-targeted PET/CT. 89Zr-trastuzumab is a novel radiotracer which allows excellent visualization of HER2+ lesions. 89Zr-pertuzumab is a novel radiotracer which may allow for specific visualization of HER2+ lesions. PET/CT imaging with these novel radiotracers will allow evaluation of all identifiable malignant lesions, rather than evaluation of only single lesions by biopsy."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women age > 18",
+        "  Biopsy proven HER2 negative primary breast cancer and biopsy proven metastatic disease.",
+        "  5 or more foci of demonstrable metastases on recent imaging modalities (CT, MR, FDG PET/CT)",
+        "  ECOG performance score of 0-2",
+        "Exclusion Criteria:",
+        "  Life expectancy < 3months",
+        "  Pregnancy or lactation",
+        "  Patients who cannot undergo PET/CT scanning because of weight limits",
+        "  CNS only disease on recent imaging"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Patients With HER2- Primary Breast Cancer Who Develop Imagable HER2+ Metastases",
+        "  Both SUVmax and SUVpeak will be recorded for lesions, and SUVmax and SUVaverage will be recorded for background measurements. Only those foci qualitatively scored conspicuously positive by both readers (scores of 4 or 5) will be considered as \"positive\".",
+        "  Time frame: 3 years",
+        "Results 1: ",
+        "  Arm/Group Title: HER2-targeted PET/CT",
+        "  Arm/Group Description: Pts with confirmed HER2- breast cancer will undergo HER2-targeted PET/CT. 89Zr-trastuzumab is a novel radiotracer which allows excellent visualization of HER2+ lesions. 89Zr-pertuzumab is a novel radiotracer which may allow for specific visualization of HER2+ lesions. PET/CT imaging with these novel radiotracers will allow evaluation of all identifiable malignant lesions, rather than evaluation of only single lesions by biopsy.",
+        "  Overall Number of Participants Analyzed: 49",
+        "  Measure Type: Number",
+        "  Unit of Measure: % of participants  13"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 6/49 (12.24%)",
+        "  Anemia  1/49 (2.04%)",
+        "  Cardiac arrest  1/49 (2.04%)",
+        "  Abdominal pain  1/49 (2.04%)",
+        "  Duodenal ulcer  3/49 (6.12%)",
+        "  Death NOS  1/49 (2.04%)",
+        "  Pleural effusion  1/49 (2.04%)",
+        "  Respiratory failure  1/49 (2.04%)"
+    ]
+}

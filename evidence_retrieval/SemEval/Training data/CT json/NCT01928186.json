@@ -1,0 +1,53 @@
+{
+    "Clinical Trial ID": "NCT01928186",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Diagnostic (FLT PET)",
+        "  Patients with early stage, ER positive primary breast cancer undergo FLT PET scan at baseline and 1-6 weeks after the start of standard endocrine treatment. The surgery follows 1-7 days after the second FLT PET scan.",
+        "  Tracer used in the FLT PET (positron emission tomography) scanning procedure: [F18] fluorothymidine.",
+        "  Positron Emission Tomography: Undergo FLT PET",
+        "  Laboratory Biomarker Analysis: Correlative studies - Ki67 staining of the tumor tissue in the biopsy and surgical specimen."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  A new diagnosis of invasive breast cancer > 1.0 cm in size, ER+ clinical stage I-III",
+        "  Patient must have surgical resection followed by systemic adjuvant therapy with an aromatase inhibitor (AIs) as part of planned treatment; any approved AI at standard clinical dosing may be used; in pre-menopausal patients, ovarian suppression with a gonadotropin-releasing hormone (GnRH) agonist will be started prior to initiation of the AI on a separate clinical trial in parallel with the imaging study",
+        "  Have tissue block available from core biopsy for correlative biomarkers and genomic assay",
+        "  Have menopausal status determined prior to study enrollment; for study purposes, postmenopausal is defined as",
+        "  A prior documented bilateral oophorectomy, or",
+        "  A history of at least 12 months without spontaneous menstrual bleeding, or",
+        "  Age 60 or older with a prior hysterectomy without oophorectomy, or",
+        "  Age less than 60 with a prior hysterectomy without oophorectomy (or in whom the status of the ovaries is unknown) with a documented follicle-stimulating hormone (FSH) level demonstrating confirmatory elevation in the postmenopausal range for the lab",
+        "  Negative pregnancy test within 7 days of baseline positron emission tomography (PET) scan for pre-menopausal patients",
+        "  Tumor HER2/neu expression must be determined (as part of standard clinical care) prior to study enrollment; HER2 may be tested by any Food and Drug Administration (FDA) approved HER2 testing method; if determination is intermediate by immunohistochemistry (IHC), fluorescent in situ hybridization (FISH) or another alternate HER2 test must be performed",
+        "  Be a candidate for [18F]FLT PET imaging",
+        "  Be informed of the investigational nature of this study and provide written informed consent in accordance with institutional and federal guidelines prior to study-specific screening procedures",
+        "  Be willing and able to comply with scheduled visits and other trial procedures",
+        "Exclusion Criteria:",
+        "  Current use of aromatase inhibitor as prevention or treatment for breast cancer",
+        "  Life expectancy of less than two months",
+        "  HER2/neu positive by IHC and/or another FDA approved HER2 testing method",
+        "  Inability to tolerate scanning (e.g. - claustrophobia, severe pain)",
+        "  Weight exceeding capacity of imaging table"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percent Change in Net Influx Constant (Ki) by FLT PET",
+        "  Percent change between pre-treatment (baseline) and post-therapy PET measurements in breast tumors will be computed.",
+        "  Association between Ki-67 and Ki by FLT (KFLT) decline will be analyzed using the mid-P adjustment to Fisher's exact test to evaluate the potential clinical utility of change in FLT as a biomarker for early response, using Ki-67 as the standard for early response.",
+        "  Time frame: Baseline to up to 6 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Diagnostic (FLT PET)",
+        "  Arm/Group Description: Patients with early stage, ER positive primary breast cancer undergo FLT PET scan at baseline and 1-6 weeks after the start of standard endocrine treatment. The surgery follows 1-7 days after the second FLT PET scan.",
+        "  Tracer used in the FLT PET (positron emission tomography) scanning procedure: [F18] fluorothymidine.",
+        "  Positron Emission Tomography: Undergo FLT PET",
+        "  Laboratory Biomarker Analysis: Correlative studies - Ki67 staining of the tumor tissue in the biopsy and surgical specimen.",
+        "  Overall Number of Participants Analyzed: 28",
+        "  Median (Full Range)",
+        "  Unit of Measure: % change  -32.0        (-82.4 to 3953.7)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/28 (0.00%)"
+    ]
+}

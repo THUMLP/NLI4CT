@@ -1,0 +1,53 @@
+{
+    "Clinical Trial ID": "NCT01925170",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Mammography Only",
+        "  For this reporting arm, the interpretation and analysis was done with mammography only.",
+        "INTERVENTION 2: ",
+        "  Mammography With Adjunct MBI",
+        "  For this reporting arm, the interpretation and analysis was done with both mammography and MBI together."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Past prior SM interpreted as negative or benign [Breast Imaging Reporting and Data System (BI-RADS) Category 1 or 2]",
+        "  Past prior SM interpreted as heterogeneously dense or extremely dense",
+        "Exclusion Criteria:",
+        "  Subject is unable to understand and sign the consent form",
+        "  Subject is pregnant or lactating",
+        "  Subject is physically unable to sit upright and still for 40 minutes",
+        "  Subject has self-reported signs or symptoms of breast cancer (palpable mass, bloody nipple discharge, axillary mass, etc.)",
+        "  Subject has had needle biopsy within 3 months, or breast surgery within 1 year prior to the study",
+        "  Subject is currently taking tamoxifen, Evista (raloxifene), Zoladex or an aromatase inhibitor for adjuvant therapy or chemoprevention."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Cancer Detection Rate Per 1000 Women Screened, by Breast Density",
+        "  The cancer detection rate per 1000 women screened is the estimate of the number of women with positive results from a screening test.",
+        "  Time frame: Within 21 days of mammography",
+        "Results 1: ",
+        "  Arm/Group Title: Mammography Only",
+        "  Arm/Group Description: For this reporting arm, the interpretation and analysis was done with mammography only.",
+        "  Overall Number of Participants Analyzed: 1585",
+        "  Measure Type: Number",
+        "  Unit of Measure: cancers per 1000 women screened  All densities: 3.2        (1.3 to 7.4)",
+        "  Scattered fibroglandular densities: 0        (0 to 26.2)",
+        "  Heterogeneously dense: 3.3        (1.3 to 8.4)",
+        "  Extremely dense: 4.5        (0.2 to 25.2)",
+        "Results 2: ",
+        "  Arm/Group Title: Mammography With Adjunct MBI",
+        "  Arm/Group Description: For this reporting arm, the interpretation and analysis was done with both mammography and MBI together.",
+        "  Overall Number of Participants Analyzed: 1585",
+        "  Measure Type: Number",
+        "  Unit of Measure: cancers per 1000 women screened  All densities: 12.0        (7.7 to 18.6)",
+        "  Scattered fibroglandular densities: 21.0        (7.2 to 59.9)",
+        "  Heterogeneously dense: 10.6        (6.2 to 18.1)",
+        "  Extremely dense: 13.6        (4.6 to 39.1)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/1585 (0.00%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

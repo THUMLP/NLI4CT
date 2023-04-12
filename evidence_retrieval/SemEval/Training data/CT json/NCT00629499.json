@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT00629499",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Intervention",
+        "  100 mg/m2 of intravenous (IV) nab paclitaxel weekly (i.e., on Days 1, 8, and 15 of each 3 week treatment cycle) in combination with 600 mg/m2 of IV cyclophosphamide once every 3 weeks for 4 cycles (i.e., a total treatment period of 12 weeks [84 days]). Patients with fluorescence in situ hybridization (FISH) HER2+ or IHC3+ breast cancer will also receive treatment with trastuzumab in addition to the nab paclitaxel / cyclophosphamide combination therapy. Maintenance therapy with trastuzumab will continue (for the HER2+ patients who are receiving trastuzumab) after the 12-week treatment period with combination nab paclitaxel/cyclophosphamide/trastuzumab. The total treatment time for trastuzumab will be 52 weeks rather than only 12 weeks."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically confirmed invasive adenocarcinoma of the breast or inflammatory breast cancer, with an interval between definitive breast surgery and study registration of <60 days.",
+        "  Definitive surgical treatment must be either mastectomy or breast-conserving therapy with axillary lymph node dissection for operable breast cancer (pT1 4 [including inflammatory breast cancer], pN0 3, and M0). Margins of resected specimen from definitive surgery must be histologically free of invasive adenocarcinoma and ductal carcinoma in situ (DCIS). Lobular carcinoma in-situ does not count as a positive margin.",
+        "  Patients with 1 axillary lymph node containing metastatic adenocarcinoma measuring >0.2 mm, OR lymph node-negative patients with high-risk features",
+        "  Patients with HER2/neu positive or negative tumors (HER2 positivity must be documented by FISH positivity or IHC 3+).",
+        "  Patients who are to receive trastuzumab must have normal cardiac function (MUGA [cardiac ejection fraction >50%, or greater than or equal to the institutional lower limit of normal], or echocardiogram [ECHO] within institutional normal limits).",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status (PS) 2.",
+        "  Patients who are either chemotherapy na\u00efve, or who have received prior chemotherapy >5 years ago.",
+        "  Patients with previous invasive cancers (including breast cancer) eligible only if treated >5 years prior to entering this study, and show no evidence of recurrent disease.",
+        "  Adequate bone marrow function",
+        "  Adequate liver function,",
+        "  Adequate renal function,",
+        "  Patients of childbearing potential must use an effective method of contraception that is acceptable to their study physician from the time of signing informed consent until at least 3 months after the last dose of protocol treatment, and must have a negative pre study serum pregnancy test.",
+        "  Pre-existing peripheral neuropathy must be less than or equal to grade 1 by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) v3.0 criteria.",
+        "  MammoSite\u00ae brachytherapy radiation accepted when performed immediately following surgery and prior to receiving chemotherapy.",
+        "  Patients with bilateral, synchronous breast cancer, provided that one primary tumor meets the inclusion criteria.",
+        "Exclusion Criteria:",
+        "  Patients who are pregnant or breastfeeding.",
+        "  M1 metastatic disease.",
+        "  Patients requiring neoadjuvant chemotherapy.",
+        "  Life expectancy of greater than 6 months.",
+        "  History of cardiac disease, with a New York Heart Association (NYHA) Class II or greater CHF",
+        "  Myocardial infarction (MI) or unstable angina in the past 12 months prior to Day 1 of treatment, serious arrhythmias requiring medication for treatment, any history of stroke or transient ischemic attack at any time, clinically significant peripheral vascular disease, or evidence of a bleeding diathesis or coagulopathy.",
+        "  Any investigational agent within 30 days of receiving the first dose of study drug.",
+        "  Treatment with prior trastuzumab or bevacizumab therapy.",
+        "  Concurrent treatment with any other anti-cancer therapy is not permitted.",
+        "  History of significant psychiatric disorders.",
+        "  History of active, uncontrolled infection.",
+        "  A serious, non-healing wound, ulcer, or bone fracture.",
+        "  Any other diseases, metabolic dysfunction, findings from a physical examination, or clinical laboratory test results that give reasonable suspicion of a disease or condition that contraindicates the use of an investigational drug, that may affect the interpretation of the results or that renders the patient at high risk from treatment complications."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants Who Remained Alive Without Evidence of Recurrence as a Measure of Tolerability of Adjuvant Nab Paclitaxel",
+        "  [Not Specified]",
+        "  Time frame: 18 Months",
+        "Results 1: ",
+        "  Arm/Group Title: Intervention",
+        "  Arm/Group Description: 100 mg/m2 of intravenous (IV) nab paclitaxel weekly (i.e., on Days 1, 8, and 15 of each 3 week treatment cycle) in combination with 600 mg/m2 of IV cyclophosphamide once every 3 weeks for 4 cycles (i.e., a total treatment period of 12 weeks [84 days]). Patients with fluorescence in situ hybridization (FISH) HER2+ or IHC3+ breast cancer will also receive treatment with trastuzumab in addition to the nab paclitaxel / cyclophosphamide combination therapy. Maintenance therapy with trastuzumab will continue (for the HER2+ patients who are receiving trastuzumab) after the 12-week treatment period with combination nab paclitaxel/cyclophosphamide/trastuzumab. The total treatment time for trastuzumab will be 52 weeks rather than only 12 weeks.",
+        "  Overall Number of Participants Analyzed: 63",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  63 100.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 4/63 (6.35%)",
+        "  Hemorrhage - GI 1/63 (1.59%)",
+        "  Vomiting 1/63 (1.59%)",
+        "  Fracture  [1]1/63 (1.59%)",
+        "  Mental Status 1/63 (1.59%)"
+    ]
+}

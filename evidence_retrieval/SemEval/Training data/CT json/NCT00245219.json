@@ -1,0 +1,48 @@
+{
+    "Clinical Trial ID": "NCT00245219",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Health Tracking (Control)",
+        "  Participants assigned to the health-tracking condition received usual care and did not attend any meetings.",
+        "INTERVENTION 2: ",
+        "  Peer Support",
+        "  The peer support group meetings focused on fostering purpose in life by providing participants with opportunities to support and care for one another. Patients completed a weekly diary of critical experiences or current life problems as homework, and were then encouraged to share these experiences in the group meetings. The group facilitator encouraged participants to help one another with these issues, and share how they had dealt with similar problems."
+    ],
+    "Eligibility": [
+        "Eligible participants were:",
+        "  English speaking women,",
+        "  25 years of age or older,",
+        "  Living within a 60 mile radius of Pittsburgh, Pennsylvania,",
+        "  either: a first time diagnosis of stage I or II breast cancer or if they had received an initial diagnosis of stage IV cancer or a distant recurrence of breast cancer,",
+        "  Patients with early stage cancer must have been diagnosed within the past 6 months,",
+        "  There was no window for enrollment for patients with late stage cancer."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Mental Health (as Measured With the SF-36) at Baseline, Time 2 (2 Weeks Post-intervention) and Time 3 (6 Months Post-intervention)",
+        "  The Mental Health Component Scale of the Medical Outcomes Study Short Form 36(SF-36) consists of a norm-based weighted average of the following subscales: Vitality, Social Functioning, Role Limitations due to Emotional Problems and Mental health. In the present study, scores ranged from a maximum of 72 (high levels of mental health) to a minimum of 12 (low levels of mental health).",
+        "  Time frame: Baseline, Time 2 (2 weeks post-intervention) and Time 3 (6 months post-intervention)",
+        "Results 1: ",
+        "  Arm/Group Title: Health Tracking (Control)",
+        "  Arm/Group Description: Participants assigned to the health-tracking condition received usual care and did not attend any meetings.",
+        "  Overall Number of Participants Analyzed: 85",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  Baseline: 46.55         (11.61)",
+        "  Time 2: 47.03         (10.40)",
+        "  Time 3: 50.28         (9.88)",
+        "Results 2: ",
+        "  Arm/Group Title: Peer Support",
+        "  Arm/Group Description: The peer support group meetings focused on fostering purpose in life by providing participants with opportunities to support and care for one another. Patients completed a weekly diary of critical experiences or current life problems as homework, and were then encouraged to share these experiences in the group meetings. The group facilitator encouraged participants to help one another with these issues, and share how they had dealt with similar problems.",
+        "  Overall Number of Participants Analyzed: 62",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  Baseline: 47.63         (11.25)",
+        "  Time 2: 49.25         (10.64)",
+        "  Time 3: 50.03         (11.18)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/91 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/94 (0.00%)"
+    ]
+}

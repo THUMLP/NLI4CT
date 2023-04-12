@@ -1,0 +1,47 @@
+{
+    "Clinical Trial ID": "NCT00825682",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Reflexology Group",
+        "  The experimental group included 47 women with breast cancer scheduled for adjunctive radiation treatment. The women received reflexology treatment initiated at the beginning of radiation therapy, once a week (45 min each), for 10 weeks.",
+        "INTERVENTION 2: ",
+        "  Control Group",
+        "  The control group (no intervention,treatment as usual)included 25 breast cancer patients, scheduled for adjunctive radiation treatment, who completed the same questionnaires at the same time points as the as the intervention group."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Breast cancer adult patients scheduled to receive adjuvant radiation therapy",
+        "Exclusion Criteria:",
+        "  Open wounds or evidence of metastases on the lower limbs",
+        "  Touch therapy or other complementary therapy other than intervention procedure"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  The Lee Fatigue Scale",
+        "  The Lee Fatigue Scale consists of 18 items related to fatigue and energy: 13 items in the fatigue subscale and 5 items in the energy subscale. The mean of the 13 items in the fatigue subscale (range from 0-10) and the mean of the 5 items in the energy subscale (range from 0-10) are calculated. Higher scores indicate higher levels of perceived fatigue and energy . Items in the energy subscale were recoded, and a Lee fatigue total score was calculated as the average of all 18 items (ranging between 0 and 10), higher scores indicating higher levels of fatigue.",
+        "  The Cronbach's Alpha reliability coefficient of the English version of the questionnaire is 0.77 . The questionnaire's validity and reliability have been established in cancer patients.",
+        "  Time frame: Beginning of study (initiation of radiation therapy and reflexology), 5 weeks after start (end of radiation therapy), 10 weeks after start",
+        "Results 1: ",
+        "  Arm/Group Title: Reflexology Group",
+        "  Arm/Group Description: The experimental group included 47 women with breast cancer scheduled for adjunctive radiation treatment. The women received reflexology treatment initiated at the beginning of radiation therapy, once a week (45 min each), for 10 weeks.",
+        "  Overall Number of Participants Analyzed: 33",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  begining of the study: 3.71         (1.76)",
+        "  5 weeks: 3.9         (1.57)",
+        "  10 weeks: 3.6         (1.45)",
+        "Results 2: ",
+        "  Arm/Group Title: Control Group",
+        "  Arm/Group Description: The control group (no intervention,treatment as usual)included 25 breast cancer patients, scheduled for adjunctive radiation treatment, who completed the same questionnaires at the same time points as the as the intervention group.",
+        "  Overall Number of Participants Analyzed: 20",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  begining of the study: 3.68         (1.56)",
+        "  5 weeks: 5.32         (1.61)",
+        "  10 weeks: 4.52         (2.05)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/47 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/25 (0.00%)"
+    ]
+}

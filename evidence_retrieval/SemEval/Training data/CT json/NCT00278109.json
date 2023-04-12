@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT00278109",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Experimental",
+        "  cyclophosphamide: chemotherapy",
+        "  doxorubicin hydrochloride: chemotherapy",
+        "  adjuvant therapy: chemotherapy",
+        "  radiation therapy: chemotherapy"
+    ],
+    "Eligibility": [
+        "DISEASE CHARACTERISTICS:",
+        "  Histologically confirmed adenocarcinoma of the breast by routine hematoxylin and eosin (H&E) staining",
+        "  Primary tumor  4 cm and 0-3 positive axillary lymph nodes (pathologic T1-2, pathologic N0-N1, M0)",
+        "  Patients with lymph nodes positive only by cytokeratin staining (i.e., H&E negative) are eligible",
+        "  No squamous cell carcinoma or sarcoma of the breast",
+        "  Patients must have undergone a segmental mastectomy (SM) with a level I and ll axillary dissection or sentinel lymph node biopsy within the past 14 weeks",
+        "  Surgical margins at the time of SM must be negative (> 3 mm) for both invasive carcinoma and for non-invasive ductal carcinoma",
+        "  No active local-regional disease",
+        "  Hormone receptor status not specified",
+        "  PATIENT CHARACTERISTICS:",
+        "  ECOG performance status 0-1",
+        "  Sex: female",
+        "  Menopausal status not specified",
+        "  Not pregnant",
+        "  Negative pregnancy test",
+        "  Fertile patients must use effective non-hormonal contraception",
+        "  No other malignancy within the past 5 years except adequately treated basal cell or squamous cell skin cancer or carcinoma in situ of the cervix",
+        "  No other serious or poorly controlled medical or psychiatric condition that could be exacerbated by, or complicate compliance with study treatment",
+        "  PRIOR CONCURRENT THERAPY:",
+        "  No prior radiation therapy to the breast",
+        "  No prior trastuzumab (Herceptin \u00ae)",
+        "  No other concurrent chemotherapy",
+        "  No concurrent hormonal therapy except the following:",
+        "  Steroids given for adrenal failure",
+        "  Hormones administered for non-disease-related conditions (e.g., insulin for diabetes, synthroid for hypothyroidism)",
+        "  Intermittent dexamethasone as an antiemetic or premedication"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants Experiencing Acute, Late Skin, and Subcutaneous Toxicity",
+        "  Number of participants with Grade 4 toxicity as defined by the following criteria:",
+        "  Acute Skin Toxicity: 0=No change, 1= Follicular, faint, or dull erythema/epilation/dry/desquamation/decreased swelling, 2= Tender or bright erythemal patchy moist desquamation/moderate edema, 3= Confluent moist desquamation other than skin folds, piting edema, 4= Ulceration, hemorrahage, necrosis, Late Skin Toxicity: 0= None, 1= Slight Atrophy, Pigmentation change, some hair loss, 2= Patch atrophy, moderate telangectasias, total hair loss, 3= Marked atrophy, gross telangectasias, 4= Ulceration; Subcutaneous Tissue Toxicity: 0= None, 1= Slight induration (fibrosis) and loss of subcutaneous fat, 2= Moderate fibrosis but asymptomatic; slight field contracture; <10% linear reduction, 3= Severe induration and loss subcutaneous tissue; field contracture >10% linear reduction; 4= Necrosis",
+        "  Time frame: up to 5 years",
+        "Results 1: ",
+        "  Arm/Group Title: Experimental",
+        "  Arm/Group Description: cyclophosphamide: chemotherapy",
+        "  doxorubicin hydrochloride: chemotherapy",
+        "  adjuvant therapy: chemotherapy",
+        "  radiation therapy: chemotherapy",
+        "  Overall Number of Participants Analyzed: 25",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  0   0.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/25 (4.00%)",
+        "  Neutropenia *1/25 (4.00%)"
+    ]
+}

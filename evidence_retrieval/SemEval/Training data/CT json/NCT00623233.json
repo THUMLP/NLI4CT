@@ -1,0 +1,52 @@
+{
+    "Clinical Trial ID": "NCT00623233",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Gemcitabine 2500 mg/m^2 + Bevacizumab 10 mg/kg",
+        "  Gemcitabine 2500 milligrams per square meter (mg/m^2) intravenous (IV) over 30 minutes given on Day 1 every 14 days (q 14 days) until disease progression (PD) or unacceptable toxicity.",
+        "  Bevacizumab 10 milligrams per kilogram (mg/kg) initially over 90 minutes given on Day 1 q 14 days until PD or unacceptable toxicity."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Must be female and greater than or equal to 18 yrs of age",
+        "  Participants must have confirmed cancer with measurable or evaluable, locally recurrent or metastatic disease.",
+        "  Participants must have received a taxane as neo-adjuvant and/or adjuvant therapy",
+        "  Participants may have received prior hormone therapy for locally recurrent or metastatic disease",
+        "Exclusion Criteria:",
+        "  Participants with breast cancer overexpressing Human Epidermal growth factor Receptor 2 (HER2) gene amplification",
+        "  Prior chemotherapy or targeted therapy for metastatic breast cancer",
+        "  Prior treatment with gemcitabine, trastuzumab, lapatinib or bevacizumab in any setting",
+        "  History of, or active brain mets",
+        "  Major surgical procedure, open biopsy, or significant traumatic injury within 28 days prior to treatment, or anticipation of need for major surgical procedure during course of study",
+        "  Prior history of high blood pressure crisis",
+        "  Have a serious, nonhealing wound, ulcer, or bone fracture"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Progression Free Survival (PFS) Time",
+        "  PFS was measured from date of first dose to first date of progressive disease (PD) or death from any cause. For each participant who was not known to have died or to have had PD as of the data inclusion cut-off date for a particular analysis, PFS duration was censored for that analysis at the date of the participant's last progression-free tumor assessment before that cut-off date.",
+        "  Time frame: Baseline to measured PD or death from any cause. Tumor assessments were performed every 8 weeks during therapy and every 2 months during post-therapy until documented PD (up to 34 months).",
+        "Results 1: ",
+        "  Arm/Group Title: Gemcitabine 2500 mg/m^2 + Bevacizumab 10 mg/kg",
+        "  Arm/Group Description: Gemcitabine 2500 milligrams per square meter (mg/m^2) intravenous (IV) over 30 minutes given on Day 1 every 14 days (q 14 days) until disease progression (PD) or unacceptable toxicity.",
+        "  Bevacizumab 10 milligrams per kilogram (mg/kg) initially over 90 minutes given on Day 1 q 14 days until PD or unacceptable toxicity.",
+        "  Overall Number of Participants Analyzed: 52",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: months  4.80        (3.42 to 7.56)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 18/52 (34.62%)",
+        "  Anaemia 2/52 (3.85%)",
+        "  Febrile Neutropenia 1/52 (1.92%)",
+        "  Haemolytic Uraemic Syndrome 1/52 (1.92%)",
+        "  Leukopenia 1/52 (1.92%)",
+        "  Neutropenia 1/52 (1.92%)",
+        "  Thrombocytopenia 1/52 (1.92%)",
+        "  Cardiac Failure Congestive 1/52 (1.92%)",
+        "  Cardio-Respiratory Arrest 1/52 (1.92%)",
+        "  Abdominal Pain 1/52 (1.92%)",
+        "  Constipation 1/52 (1.92%)",
+        "  Diarrhoea 1/52 (1.92%)"
+    ]
+}

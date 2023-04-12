@@ -1,0 +1,55 @@
+{
+    "Clinical Trial ID": "NCT00201773",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Exemestane + Celecoxib",
+        "  Exemestane + celecoxib (16 weeks) vs. Baseline",
+        "INTERVENTION 2: ",
+        "  Exemestane",
+        "  Exemestane (8 weeks) vs. Baseline"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Must be female with histologically confirmed breast cancer",
+        "  Stage II-IV disease",
+        "  ER and/or PR positive",
+        "  ECOG Performance Status 0-1",
+        "  Tumor must be present following core needle biopsy as determined by physical exam or radiographic evaluation.",
+        "  Postmenopausal",
+        "  No prior treatment for current breast cancer. No other active malignancy is allowed.Adequately treated basal cell, squamous cell skin cancer, in situ cervical cancer, or any other cancer from which the patient has been disease-free for 5 years is permitted. Biphosphonates and palliative radiation for bone metastasis is permitted while on study.",
+        "  Hormone replacement therapy must be discontinued. It is not permitted during the time on study.",
+        "Exclusion Criteria:",
+        "  Known history of aspirin or NSAID induced asthma, urticaria or allergic reactions; or allergy to sulfonamides severe enough in nature to require emergency room treatment or hospitalization.",
+        "  History of myocardial infarction or other thrombotic events.",
+        "  Inflammatory breast cancer (edema or ulceration of the skin of the breast).",
+        "  Significant renal dysfunction (serum creatinine > 1.5 x upper limit of normal).",
+        "  Significant hepatic dysfunction (serum bilirubin > 1.5 x upper limit of normal or AST, ALT > 3 x upper limit of normal)",
+        "  ANC <1.5, platelets <100,000 K/uL, and hemoglobin < 9 g/dL.",
+        "  Use of other COX-2 inhibitors such as rofecoxib (Vioxx\u00ae, aspirin, trisalicylate (Trilisate\u00ae), is not permitted during the time on study. No washout period is required. Baby aspirin, 81 mg po daily, is permitted.",
+        "  Use of NSAID's such as ibuprofen (Advil\u00ae or Motrin\u00ae), naproxyn (Aleve\u00ae Naprosyn\u00ae, or Anaprox\u00ae), etodolac (Lodine\u00ae), oxaprozin (Daypro\u00ae), difusanil (Dolobid\u00ae), nabumetone (Relafin\u00ae), or tolmetin (Tolectin\u00ae) is not permitted during the time on study."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Patients With Decreased Gene Expression of CYP19 in Breast Cancer by Adding COX-2 Inhibitor to Exemestane",
+        "  Collected from postmenopausal women that receive neoadjuvant exemestane.",
+        "  Time frame: up to 16 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Exemestane + Celecoxib",
+        "  Arm/Group Description: Exemestane + celecoxib (16 weeks) vs. Baseline",
+        "  Overall Number of Participants Analyzed: 14",
+        "  Measure Type: Number",
+        "  Unit of Measure: patients  0",
+        "Results 2: ",
+        "  Arm/Group Title: Exemestane",
+        "  Arm/Group Description: Exemestane (8 weeks) vs. Baseline",
+        "  Overall Number of Participants Analyzed: 9",
+        "  Measure Type: Number",
+        "  Unit of Measure: patients  0"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/22 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

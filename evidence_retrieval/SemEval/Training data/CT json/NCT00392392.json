@@ -1,0 +1,56 @@
+{
+    "Clinical Trial ID": "NCT00392392",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Nab-Paclitaxel/Bevacizumab/Trastuzumab",
+        "  Patients received treatment with nab-paclitaxel (100 mg/m2 IV days 1, 8, 15) and carboplatin (AUC 6 IV day 1) every 28 days for 6 cycles. Trastuzumab (4 mg/kg loading dose, followed by 2 mg/kg) and bevacizumab (5 mg/kg IV) were administered weekly for 23 weeks, beginning concurrently with chemotherapy. Patients then underwent either mastectomy or breast conserving surgery and pathologic treatment responses were assessed. After surgery, trastuzumab 6 mg/kg and bevacizumab 15 mg/kg were administered at 3 week intervals for a total of 52 weeks."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female patients with histologically confirmed adenocarcinoma of the breast or inflammatory breast cancer",
+        "  Clinical stage T 1-4, N 0-3, M0",
+        "  FISH+ HER2 gene amplified breast cancer",
+        "  18 years or older",
+        "  Normal cardiac function",
+        "  Performance status 0-2",
+        "  Cannot have received any prior chemotherapy for this disease or cannot have received chemotherapy for any other cancer in the past 5 years.",
+        "  Previous diagnosis of noninvasive breast cancer is OK.",
+        "  Must have adequate bone marrow, renal and liver function.",
+        "  Pregnant or lactating females not allowed.",
+        "  Preexisting peripheral neuropathy must be equal to or less than grade 1",
+        "  Must have archived tumor tissue for tissue testing.",
+        "Exclusion Criteria:",
+        "  You cannot be in this study if you any of the following:",
+        "  History of cardiac disease, with New York Heart Association Class II or greater with congestive heart failure",
+        "  Any heart attack, stroke or TIAs within the last 6 months or serious arrhythmias needing medication; no bleeding diathesis or coagulopathy.",
+        "  No prior investigational drug within the last 30 days",
+        "  No prior trastuzumab or bevacizumab therapy",
+        "  There are additional inclusion/exclusion criteria. The study center will determine if you meet all of the criteria. If you do not qualify for the trial, study personnel will explain the reasons."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Pathologic Complete Response Rate (PCRR), the Percentage of Patients Who Have No Evidence of Cancer in the Breast or Lymph Nodes Following Surgery",
+        "  Pathologic complete response was defined as the absence of residual invasive cancer in the breast (pT0) and axillary lymph nodes (pN0).",
+        "  Time frame: 18 months",
+        "Results 1: ",
+        "  Arm/Group Title: Nab-Paclitaxel/Bevacizumab/Trastuzumab",
+        "  Arm/Group Description: Patients received treatment with nab-paclitaxel (100 mg/m2 IV days 1, 8, 15) and carboplatin (AUC 6 IV day 1) every 28 days for 6 cycles. Trastuzumab (4 mg/kg loading dose, followed by 2 mg/kg) and bevacizumab (5 mg/kg IV) were administered weekly for 23 weeks, beginning concurrently with chemotherapy. Patients then underwent either mastectomy or breast conserving surgery and pathologic treatment responses were assessed. After surgery, trastuzumab 6 mg/kg and bevacizumab 15 mg/kg were administered at 3 week intervals for a total of 52 weeks.",
+        "  Overall Number of Participants Analyzed: 27",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  56"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 8/29 (27.59%)",
+        "  Hemorrhage - Nose 1/29 (3.45%)",
+        "  Left Ventricular Systolic Dysfunction 1/29 (3.45%)",
+        "  Vomiting 1/29 (3.45%)",
+        "  Esophagitis 1/29 (3.45%)",
+        "  Pain - Abdomen 1/29 (3.45%)",
+        "  Pain - Chest 1/29 (3.45%)",
+        "  Infection - Skin 1/29 (3.45%)",
+        "  Infection - Sepsis 2/29 (6.90%)",
+        "  Creatinine 1/29 (3.45%)",
+        "  Wound Complication, Non-Infectious 1/29 (3.45%)"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Clinical Trial ID": "NCT02660788",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Control Arm",
+        "  Mail",
+        "  Standard Reminder Postcard",
+        "INTERVENTION 2: ",
+        "  Family Physician Reminder Letter Arm",
+        "  Mail",
+        "  Standard Reminder Postcard",
+        "  Family Physician Reminder Letter"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Active family physicians (family physicians, general practitioners or primary care physicians) who have overdue women in their practice that meet the following criteria:",
+        "  Previously been enrolled in the SMPBC and had a previous normal screening mammogram.",
+        "  Have agreed to being contacted for research on the SMPBC questionnaire",
+        "  Are 6-24 months overdue from their last screening mammogram",
+        "  Live in BC",
+        "  Have listed an active family physician as the contact to receive their mammography results",
+        "Exclusion Criteria:",
+        "  Family physicians who do not work in primary care",
+        "  Family physicians who do not have overdue women in their practice"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Overdue Women Returning for Screening Mammography",
+        "  Percentage of overdue women returning for screening mammography, measured from the date of randomization",
+        "  Time frame: 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: Control Arm",
+        "  Arm/Group Description: Mail",
+        "  Standard Reminder Postcard",
+        "  Overall Number of Participants Analyzed: 2749",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  24.0",
+        "Results 2: ",
+        "  Arm/Group Title: Family Physician Reminder Letter Arm",
+        "  Arm/Group Description: Mail",
+        "  Standard Reminder Postcard",
+        "  Family Physician Reminder Letter",
+        "  Overall Number of Participants Analyzed: 2749",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  34.4"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/2749 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/2749 (0.00%)"
+    ]
+}

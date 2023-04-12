@@ -1,0 +1,52 @@
+{
+    "Clinical Trial ID": "NCT00908791",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Pre CLA",
+        "  Women with histologically proven invasive non-metastatic breast cancer.",
+        "INTERVENTION 2: ",
+        "  Post CLA",
+        "  Women with histologically proven invasive non-metastatic breast cancer."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  All study patients must have histologically confirmed invasive adenocarcinoma of the breast. Their breast cancer must be resectable clinical stage I or II breast cancer as defined by the current AJCC TNM Staging System (Greene FL, Page DL, Fleming ID, et al.: editors. AJCC cancer staging manual, 6th edition. New York: Springer; 2002).",
+        "  All patients must be able to and give informed consent indicating they are aware of the investigational nature of this treatment, prior to entry into the study.",
+        "  All subjects must be Age >18 years.",
+        "  All subject must have adequate hepatic and renal function documented prior to study entry to include: hepatic transaminases (AST or ALT)  1.5 times the upper limits of normal, total bilirubin  1.5 times the upper limits of normal, serum creatinine  1.5 times the upper limit of normal or eCRCl  60 mL/min.",
+        "Exclusion criteria:",
+        "  Patients who have received prior or be receiving radiation therapy for their breast cancer will be excluded.",
+        "  Patients who have received prior chemotherapy or receiving chemotherapy or hormonal therapy for their breast cancer will not be included.",
+        "  Women must be surgically sterilized or post-menopausal or women of childbearing potential must be using an adequate method of contraception. Women of childbearing potential must be using at least one of the following: oral, implanted, injectable contraceptive hormones, or mechanical products such as an intrauterine device or barrier methods (diaphragm, condoms, spermicides) to prevent pregnancy or practicing abstinence or have a partner that is sterile (e.g., vasectomy). Women of childbearing potential must have a negative serum or urine pregnancy test within 72 hours prior to start of study therapy. Women who are pregnant or breast-feeding and women of childbearing potential not using an adequate method of birth control will be excluded.",
+        "  Patients with gastrointestinal abnormalities including: inability to take oral medication, requirement for intravenous alimentation, or prior surgical procedures affecting nutrient /drug absorption will be excluded.",
+        "  A serious uncontrolled medical disorder or active infection which would impair their ability to receive study treatment will be excluded. Significant cardiac disease, including uncontrolled high blood pressure, unstable angina, and congestive heart failure, myocardial infarction within the previous 3 months or serious cardiac arrhythmias will be excluded. Dementia or significantly altered mental status that would prohibit the understanding or rendering of informed consent and compliance with the requirements of this protocol will be excluded."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Spot 14 Expression Pre and Post CLA as Assessed by Quantitative Immunohistochemistry and Staining Intensities Scored at 0, 1, or 2",
+        "  To determine whether  10 days of CLA consumption suppresses Spot 14 expression in breast cancer tissue in vivo. The staining intensities scoring system used is: no immuostaining (0), weak staining (1), and strong staining (2). The scoring system used objectively and quantitatively assesses the expression of Spot 14, fatty acid synthase, and lipoprotein lipase using the image processing and analysis software Image-Pro Plus\u2122 (MediaCybernetics).",
+        "  Time frame: Up to 28 days",
+        "Results 1: ",
+        "  Arm/Group Title: Pre CLA",
+        "  Arm/Group Description: Women with histologically proven invasive non-metastatic breast cancer.",
+        "  Overall Number of Participants Analyzed: 24",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Spot 14 Expression Grade 0: 0",
+        "  Spot 14 Expression Grade 1: 10",
+        "  Spot 14 Expression Grade 2: 14",
+        "Results 2: ",
+        "  Arm/Group Title: Post CLA",
+        "  Arm/Group Description: Women with histologically proven invasive non-metastatic breast cancer.",
+        "  Overall Number of Participants Analyzed: 24",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Spot 14 Expression Grade 0: 0",
+        "  Spot 14 Expression Grade 1: 22",
+        "  Spot 14 Expression Grade 2: 2"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/24 (0.00%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "Clinical Trial ID": "NCT02364388",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  MAESTRO",
+        "Baseline"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria",
+        "  Female",
+        "  18 years of age or older",
+        "  Have an undiagnosed suspicious finding which may include more than one solid or complex cystic suspicious mass, classified by CDU as BI-RADS 4a or 4b within 3 weeks of their baseline Imagio Scan",
+        "Exclusion Criteria:",
+        "  Have a condition or impediment that could interfere with the intended field of view (within one probe length or 4 cm of the mass), (i.e., breast implants within the previous 12 months, or tattoos)",
+        "  Pregnant or lactating",
+        "  Patient has received chemotherapy for any type of cancer within 90 days from date of screening CDU"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  OA/US Specificity (Downgrade (%) for BI-RADS 4A & 4B) of Benign Masses",
+        "  Outcome is the percentage of benign masses correctly downgraded by (OA/US) ultrasonography from a suspicious abnormality (4A or 4B) to benign or probably benign (BI-RADS 2 or 3). BI-RADS is the Breast Imaging Reporting and Data System established the American College of Radiology. BI-RADS scores range from 0 to 6, with increase in score indicating an increase in the probability of malignancy. A BI-RADS score of 4 or more indicates the need for biopsy. Specificity is reported with a 96% confidence interval using a normal approximation.",
+        "  Time frame: CDU images and decision to biopsy to be done at Screening. OA/US imaging to be done within 10 days of Screening. Biopsy to be done within 30 days of Screening.",
+        "Results 1: ",
+        "  Arm/Group Title: MAESTRO",
+        "  Arm/Group Description: Baseline",
+        "  Overall Number of Participants Analyzed: 143",
+        "  Overall Number of Units Analyzed",
+        "  Type of Units Analyzed: Masses  Mean (96% Confidence Interval)Unit of Measure: percentage of masses: 41.1        (33.1 to 49.6)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/217 (0.00%)"
+    ]
+}

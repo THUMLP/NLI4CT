@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT00800436",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Part 1: Cohort 1",
+        "  Healthy male participants received Herceptin 6 mg/kg IV on Day 1.",
+        "INTERVENTION 2: ",
+        "  Part 1: Cohort 2",
+        "  Female participants with HER2-positive breast cancer received Herceptin 6 mg/kg IV on Day 1."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Healthy Participants (Part 1 only)",
+        "  Males 18 to 45 to years of age",
+        "  Baseline left ventricular ejection fraction (LVEF) greater than (>) 60 percent (%)",
+        "  HER2-Positive Females (Parts 1 and 2)",
+        "  Females greater than or equal to (  ) 18 years of age",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status of 0",
+        "  Previous non-metastatic operable primary invasive HER2-positive breast cancer",
+        "  Baseline LVEF >55%",
+        "Exclusion Criteria:",
+        "  Healthy Participants (Part 1 only)",
+        "  Clinically significant abnormalities in laboratory test results or electrocardiogram",
+        "  History of significant allergies, gastrointestinal, renal, hepatic, cardiovascular, or pulmonary disease",
+        "  History of hypersensitivity or allergic reaction, spontaneous or following drug administration",
+        "  History of cardiac conditions",
+        "  HER2-Positive Females (Parts 1 and 2)",
+        "  Metastatic disease",
+        "  Concurrent other malignancy requiring therapy of any modality which may interfere with PK investigations or result in unexpected toxicity",
+        "  Use of Herceptin in previous 5 months",
+        "  Serious cardiac illness"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Area Under the Concentration-Time Curve Extrapolated to Infinity (AUCinf) of Trastuzumab",
+        "  AUCinf represents the area under the concentration-time curve of trastuzumab in serum over the time interval from 0 extrapolated to infinity. Values for AUCinf of trastuzumab were derived by non-compartmental analysis across all pharmacokinetic (PK) collections and expressed in days by micrograms per milliliter (days\u03bcg/mL).",
+        "  Time frame: Predose (0 hours) and postdose from start of 1.5-hour infusion (1.5 and 3 hours for IV) (6, 8, 12 hours for SC) on Day 1; on Days 2, 3, 5, 8, 15, 22, 43, 85; additionally on Day 10 for SC and Day 35 for IV; and 5 months postdose (up to 5 months overall)",
+        "Results 1: ",
+        "  Arm/Group Title: Part 1: Cohort 1",
+        "  Arm/Group Description: Healthy male participants received Herceptin 6 mg/kg IV on Day 1.",
+        "  Overall Number of Participants Analyzed: 6",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: days\u03bcg/mL  1610         (303)",
+        "Results 2: ",
+        "  Arm/Group Title: Part 1: Cohort 2",
+        "  Arm/Group Description: Female participants with HER2-positive breast cancer received Herceptin 6 mg/kg IV on Day 1.",
+        "  Overall Number of Participants Analyzed: 6",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: days\u03bcg/mL  1800         (250)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/6 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/6 (0.00%)"
+    ]
+}

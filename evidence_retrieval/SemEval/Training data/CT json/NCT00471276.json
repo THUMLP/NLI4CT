@@ -1,0 +1,44 @@
+{
+    "Clinical Trial ID": "NCT00471276",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Sunitinib",
+        "  Sunitinib 37.5 milligrams (mg) daily by oral capsule in continuous daily dose (CDD) schedule. Dose adjustments, if needed, included a reduction to 25mg daily or escalation to 50mg daily anytime after Week 12."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically or cytologically proven diagnosis of breast cancer",
+        "  Metastatic or locally recurrent disease that is, in the opinion of the investigator, not amenable to resection or radiation therapy",
+        "  Patients with at least one measurable lesion as per RECIST",
+        "Exclusion Criteria:",
+        "  Inflammatory breast cancer",
+        "  Prior treatment with VEGF inhibitors (unless in adjuvant setting at least 12 months ago)"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Objective Response",
+        "  Number of participants with objective response based assessment of confirmed complete response (CR) or confirmed partial response (PR) according to Response Evaluation Criteria in Solid Tumors (RECIST). CR defined as disappearance of all target lesions. PR defined as a greater than or equal to 30 percent (  30%) decrease in sum of the longest dimensions of the target lesions taking as a reference the baseline sum longest dimensions.",
+        "  Time frame: Baseline, Week 9, and every 8 weeks up to Month 34",
+        "Results 1: ",
+        "  Arm/Group Title: Sunitinib",
+        "  Arm/Group Description: Sunitinib 37.5 milligrams (mg) daily by oral capsule in continuous daily dose (CDD) schedule. Dose adjustments, if needed, included a reduction to 25mg daily or escalation to 50mg daily anytime after Week 12.",
+        "  Overall Number of Participants Analyzed: 83",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  7"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 13/83 (15.66%)",
+        "  Cardiac failure congestive 1/83 (1.20%)",
+        "  Hypothyroidism 1/83 (1.20%)",
+        "  Nausea 2/83 (2.41%)",
+        "  Vomiting 2/83 (2.41%)",
+        "  Diarrhea 1/83 (1.20%)",
+        "  Gastrointestinal Haemorrhage 1/83 (1.20%)",
+        "  Asthenia 1/83 (1.20%)",
+        "  Hyperbilirubinaemia 1/83 (1.20%)",
+        "  Anal abscess 1/83 (1.20%)",
+        "  Dehydration 3/83 (3.61%)",
+        "  Decreased appetite 1/83 (1.20%)"
+    ]
+}

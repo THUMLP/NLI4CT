@@ -1,0 +1,46 @@
+{
+    "Clinical Trial ID": "NCT02015676",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Trastuzumab, Doxorubicin, Paclitaxel; Phase II",
+        "  Participants received an initial loading dose of trastuzumab 4 mg/kg, IV, over 1.5 hours on Day 1 (Week 1), followed by 2 mg/kg, IV, over 30 minutes once per week from Week 2 to Week 52 or until disease progression; doxorubicin, 50 mg/m^2, IV, once every 3 weeks, starting at Week 1 for 6 cycles; and paclitaxel 80 mg/m^2, IV, once per week, from Week 19 until disease progression."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  women 18-70 years of age;",
+        "  metastatic or locally advanced breast cancer;",
+        "  HER2 overexpression;",
+        "  >= 1 measurable lesion.",
+        "Exclusion Criteria:",
+        "  prior treatment for advanced breast cancer;",
+        "  prior treatment with Herceptin;",
+        "  bone or central nervous system metastasis as the only site of disease;",
+        "  history of another malignancy (except basal cell skin cancer and cancer in situ of the uterine cervix, and contralateral breast cancer) within 5 years of study."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants Achieving Complete Response (CR) or Partial Response (PR) According to World Health Organization (WHO) Handbook for Reporting Results of Cancer Treatment",
+        "  For measurable disease, CR was defined as the disappearance of all clinically detectable disease determined by 2 observations not less than 4 weeks apart; and PR was defined as a 50 percent (%) decrease in the sum of the products of the 2 greatest diameters of all measurable lesions by 2 observations not less than 4 weeks apart, and no appearance of new lesions or progression of any lesion. For immeasurable disease, CR was defined as the complete disappearance of all known disease for at least 4 weeks; and PR was defined as an estimated decrease in tumor size of 50% or more for at least 4 weeks.",
+        "  Time frame: Baseline (BL), Weeks 7, 13, 19, every 8 weeks thereafter until end of study (for up to 3 years)",
+        "Results 1: ",
+        "  Arm/Group Title: Trastuzumab, Doxorubicin, Paclitaxel; Phase II",
+        "  Arm/Group Description: Participants received an initial loading dose of trastuzumab 4 mg/kg, IV, over 1.5 hours on Day 1 (Week 1), followed by 2 mg/kg, IV, over 30 minutes once per week from Week 2 to Week 52 or until disease progression; doxorubicin, 50 mg/m^2, IV, once every 3 weeks, starting at Week 1 for 6 cycles; and paclitaxel 80 mg/m^2, IV, once per week, from Week 19 until disease progression.",
+        "  Overall Number of Participants Analyzed: 54",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  CR: 51.85",
+        "PR: 46.30"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 26/69 (37.68%)",
+        "  Thrombophlebitis * 1/69 (1.45%)",
+        "  Anaemia NOS * 1/69 (1.45%)",
+        "  Acute febrile neutrophilic dermatosis * 1/69 (1.45%)",
+        "  Cardiac failure NOS * 2/69 (2.90%)",
+        "  Ejection fraction decreased * 1/69 (1.45%)",
+        "  Intestinal obstruction NOS * 1/69 (1.45%)",
+        "  Diarrhoea NOS * 2/69 (2.90%)",
+        "  Febrile neutropenia * 12/69 (17.39%)",
+        "  Mucosal inflammation NOS * 1/69 (1.45%)"
+    ]
+}

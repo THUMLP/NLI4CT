@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT00259090",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Fulvestrant",
+        "  Fulvestrant 500 mg once monthly injection",
+        "INTERVENTION 2: ",
+        "  Fulvestrant + Anastrozole",
+        "  Fulvestrant 500 mg once monthly injection + Anastrozole 1 mg once daily tablet"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Postmenopausal women.",
+        "  Biopsy confirmation of primary breast cancer.",
+        "  Oestrogen receptor positive tumour.",
+        "  Fit for surgery within one month.",
+        "  Written informed consent to participate in the study",
+        "Exclusion Criteria:",
+        "  Previous treatment with any anti-hormonal therapy for breast cancer.",
+        "  Previous radiotherapy to the primary tumour.",
+        "  Previous chemotherapy for the primary tumour."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage Change From Baseline to Time of Surgery in Oestrogen Receptor (ER) H-score: Antitumour Effects of Fulvestrant, Anastrozole and a Combination of Both as Measured by the ER H-score.",
+        "  For each sample, the ER H-score is calculated from the percentage of cells staining very weak (+/-); weak (+); moderate (++); or strong (+++) as follows: H-score = [(0.5 x percent +/-) + (1 x percent +) + (2 x percent ++) + (3 x percent +++)]. Range 0-300. The greater the change from baseline (randomization) in ER H-score, the greater the blockage of ER expression and the greater the potential anti-tumour activity. Percentage change from baseline=[(SRG - BL)/BL]x100",
+        "  Time frame: Surgery (SRG) was to be performed between days 15 and 22 after baseline (BL)",
+        "Results 1: ",
+        "  Arm/Group Title: Fulvestrant",
+        "  Arm/Group Description: Fulvestrant 500 mg once monthly injection",
+        "  Overall Number of Participants Analyzed: 35",
+        "  Mean (Standard Error)",
+        "  Unit of Measure: Percentage change from baseline  -37         (4)",
+        "Results 2: ",
+        "  Arm/Group Title: Fulvestrant + Anastrozole",
+        "  Arm/Group Description: Fulvestrant 500 mg once monthly injection + Anastrozole 1 mg once daily tablet",
+        "  Overall Number of Participants Analyzed: 31",
+        "  Mean (Standard Error)",
+        "  Unit of Measure: Percentage change from baseline  -38         (5)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/40 (0.00%)",
+        "  Pancytopenia 0/40 (0.00%)",
+        "  Atrial Fibrillation 0/40 (0.00%)",
+        "  Unevaluable Event 0/40 (0.00%)",
+        "  Subcutaneous Abscess 0/40 (0.00%)",
+        "  Procedural Complication 0/40 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 3/40 (7.50%)",
+        "  Pancytopenia 0/40 (0.00%)",
+        "  Atrial Fibrillation 1/40 (2.50%)",
+        "  Unevaluable Event 1/40 (2.50%)",
+        "  Subcutaneous Abscess 0/40 (0.00%)",
+        "  Procedural Complication 1/40 (2.50%)"
+    ]
+}

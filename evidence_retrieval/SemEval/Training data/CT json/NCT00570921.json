@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT00570921",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Fulvestrant + Everolimus",
+        "  Fulvestrant + Everolimus",
+        "  Fulvestrant was administered intramuscularly (in the gluteus maximus) in a loading dose schedule as follows: 500 mg in two divided doses-one on each side on day 1, then 250 mg on day 14, and then 250 mg on day 28 and every 4 weeks \u00b1 3 days thereafter. Everolimus was administered initially at a dose of 5 mg daily in the first 5-patient cohort for the first month of treatment and then increased to 10 mg PO daily after that."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Postmenopausal status, defined as any one of the following criteria: Documented history of bilateral oophorectomy, Age 60 years or more, OR Age 45 to 59 and satisfying one or more of the following criteria: Amenorrhea for at least 12 months and intact uterus OR Amenorrhea for less than 12 months and a follicle stimulating hormone (FSH) concentration - within postmenopausal range including: Patients who have had a hysterectomy or Patients who have received hormone replacement",
+        "  Patients must have histologically confirmed invasive breast cancer",
+        "  Metastatic or locally advanced disease",
+        "  Patients must have estrogen receptor and/or progesterone receptor positive disease",
+        "  Measurable or evaluable disease",
+        "  Failure of aromatase inhibitor therapy within the previous 6 months. Patients who received prior tamoxifen are eligible to enroll",
+        "  Prior aromatase inhibitor therapy or other endocrine therapy must be discontinued at least 1 week prior to enrollment and any toxicity from such therapy must have reverted to grade I or less at the time of enrollment",
+        "  Patients must not have received chemotherapy, radiation therapy, or had surgery within 4 weeks prior to enrollment and any toxicity from such therapy must have recovered to grade 1 or less prior to enrollment",
+        "  Patients must not have received either of the study medications previously",
+        "  WHO performance status of 0, 1, or 2",
+        "  Adequate organ function defined as follows: Adequate renal function, defined by a serum creatinine within the upper limits of normal, Adequate liver function, defined by a bilirubin of < 1.5 the upper limit of normal (ULN) and aspartate aminotransferase (AST), alanine aminotransferase (ALT) of  2.5 times the ULN, Adequate bone marrow function, defined as an absolute neutrophil count (ANC)  1.5 x 109/L, platelet count (PLT) >100,000/ul, Hb >9 gm/dl, international normalized ratio (INR) <1.3, and because fulvestrant is administered intramuscularly, it should not be used in patients with bleeding diatheses, thrombocytopenia or in patients on anticoagulants",
+        "  Patients will be asked to provide a tumor paraffin block if available",
+        "  Ability to understand and sign a written informed consent for participation in the trial",
+        "Exclusion Criteria:",
+        "  Known severe hypersensitivity to everolimus (or similar drugs) or any of the excipients of this product",
+        "  Premenopausal status",
+        "  Other coexisting malignancies with the exception of basal cell carcinoma or cervical cancer in situ",
+        "  Patients with brain metastasis or leptomeningeal involvement",
+        "  Patients with malignant pleural effusion or ascites only disease",
+        "  Rapidly progressive visceral disease",
+        "  WHO performance status of 3 or 4",
+        "  As judged by the investigator, uncontrolled intercurrent illness including, but not limited to: Ongoing or active infection, Symptomatic congestive heart failure, Unstable angina pectoris or significant cardiac arrhythmia, Psychiatric illness/social situations that would limit compliance with study requirements, Severely impaired lung function such as severe chronic obstructive pulmonary disease (COPD) or interstitial lung disease, a known forced expiratory volume at one second (FEV1) of < 1.5 liters, or dyspnea of grade III or greater, Uncontrolled diabetes as defined by a fasting blood sugar (FBS) of > 1.5 ULM, Known liver disease such as cirrhosis or chronic hepatitis, Known HIV positivity, OR known condition causing malabsorption",
+        "  Chronic treatment with systemic steroids or other immunosuppressive agents",
+        "  Patients should not receive immunization with attenuated live vaccines within one week of study entry or during study period",
+        "  Evidence of any other significant clinical disorder or laboratory finding that makes it undesirable for the subject to participate in the clinical trial",
+        "  Prior treatment with an mTOR inhibitor",
+        "  Treatment with a non-approved or investigational drug within 30 days or 5 half-lives of the drug, whichever is greater, before Day 1 of study treatment",
+        "  In the opinion of the investigator, bleeding diathesis or anticoagulation therapy that would preclude intramuscular injections",
+        "  History of hypersensitivity to castor oil"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Time to Progression",
+        "  [Not Specified]",
+        "  Time frame: Duration of time start of treatment to time of documented progression or death",
+        "Results 1: ",
+        "  Arm/Group Title: Fulvestrant + Everolimus",
+        "  Arm/Group Description: Fulvestrant + Everolimus",
+        "  Fulvestrant was administered intramuscularly (in the gluteus maximus) in a loading dose schedule as follows: 500 mg in two divided doses-one on each side on day 1, then 250 mg on day 14, and then 250 mg on day 28 and every 4 weeks   3 days thereafter. Everolimus was administered initially at a dose of 5 mg daily in the first 5-patient cohort for the first month of treatment and then increased to 10 mg PO daily after that.",
+        "  Overall Number of Participants Analyzed: 31",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: months  7.4        (1.9 to 12.1)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 5/33 (15.15%)",
+        "  Left Ventricular Thrombus * 1/33 (3.03%)",
+        "  Nausea * 1/33 (3.03%)",
+        "  Acute Cholecystitis * 1/33 (3.03%)",
+        "  Renal Failure * 1/33 (3.03%)",
+        "  Pneumonia * 1/33 (3.03%)"
+    ]
+}

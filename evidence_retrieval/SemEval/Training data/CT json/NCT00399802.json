@@ -1,0 +1,50 @@
+{
+    "Clinical Trial ID": "NCT00399802",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Single IV Infusion of ZA 4 mg",
+        "  Participants received a single IV infusion of ZA 4 mg at the start of treatment and a once-daily odanacatib matching placebo tablet for 4 weeks.",
+        "INTERVENTION 2: ",
+        "  Once-daily Odanacatib 5 mg",
+        "  Participants received a once-daily odanacatib 5 mg tablet for 4 weeks and a single IV infusion of ZA matching placebo at the start of treatment."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patient has histologically or cytologically-confirmed breast cancer",
+        "  Patient has documented skeletal metastases",
+        "Exclusion Criteria:",
+        "  Patient is undergoing current oral bisphosphonate therapy, or has a history of oral bisphosphonate use within 6 months of entry into study"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage Change From Baseline in Urinary N-telopeptide of Type I Collagen (u-NTx) at Week 4",
+        "  u-NTx is a biochemical index of bone resorption. Participants provided urine specimens on Day 1 (baseline) and at Week 4 for measurement of u-NTx.",
+        "  Time frame: Baseline and Week 4",
+        "Results 1: ",
+        "  Arm/Group Title: Single IV Infusion of ZA 4 mg",
+        "  Arm/Group Description: Participants received a single IV infusion of ZA 4 mg at the start of treatment and a once-daily odanacatib matching placebo tablet for 4 weeks.",
+        "  Overall Number of Participants Analyzed: 14",
+        "  Mean (95% Confidence Interval)",
+        "  Unit of Measure: Percentage change  -73        (-80 to -62)",
+        "Results 2: ",
+        "  Arm/Group Title: Once-daily Odanacatib 5 mg",
+        "  Arm/Group Description: Participants received a once-daily odanacatib 5 mg tablet for 4 weeks and a single IV infusion of ZA matching placebo at the start of treatment.",
+        "  Overall Number of Participants Analyzed: 27",
+        "  Mean (95% Confidence Interval)",
+        "  Unit of Measure: Percentage change  -77        (-82 to -71)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 2/14 (14.29%)",
+        "  Febrile neutropenia 0/14 (0.00%)",
+        "  Ascites 0/14 (0.00%)",
+        "  Breast cancer metastatic 1/14 (7.14%)",
+        "  Metastases to bone 1/14 (7.14%)",
+        "Adverse Events 2:",
+        "  Total: 4/29 (13.79%)",
+        "  Febrile neutropenia 1/29 (3.45%)",
+        "  Ascites 1/29 (3.45%)",
+        "  Breast cancer metastatic 0/29 (0.00%)",
+        "  Metastases to bone 2/29 (6.90%)"
+    ]
+}

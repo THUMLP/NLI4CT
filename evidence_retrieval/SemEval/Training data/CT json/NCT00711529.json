@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT00711529",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Hypnotherapy",
+        "  Patients randomized to the hypnosis arm of the study will undergo individually three one-hour sessions with a certified hypnotherapist. These sessions will be one week apart. Patients will also be instructed on the use of self-hypnosis techniques to use at home.",
+        "INTERVENTION 2: ",
+        "  Gabapentin",
+        "  Patients randomized to the gabapentin arm will be prescribed 900mg of the drug daily (300 mg by mouth three times daily)."
+    ],
+    "Eligibility": [
+        "Inclusion criteria:",
+        "  Women with histologic confirmation of a diagnosis of infiltrating carcinoma of the breast are eligible for participation.",
+        "  Women with non-invasive or pre-invasive lesions of the breast, including but not limited to ductal carcinoma in situ (DCIS), atypical ductal hyperplasia (ADH) or lobular carcinoma in situ (LCIS) are eligible for participation.",
+        "  Women with a known breast cancer susceptibility gene (eg, BRCA) mutation or strong family history of breast cancer are eligible.",
+        "  Any woman age 60 years or more who cannot take estrogen therapy because of a real or perceived risk of developing breast cancer are eligible.",
+        "  Women under the age of 60 with a Gail model score of 1.6% or more are eligible.",
+        "  Subjective report of at least one daily hot flash.",
+        "  Able to provide voluntary informed consent.",
+        "   18 years-old. There will be no upper limit for age inclusion.",
+        "  Karnofsky performance status > 70%.",
+        "  Women with a history of breast cancer must have undergone treatment with curative intent.",
+        "   4 weeks from completion of chemotherapy or radiation therapy, where appropriate.",
+        "  adequate hematopoietic function (ANC  1500/mm3; Platelets  100,000/mm3; Hemoglobin  8 g/dL)",
+        "  adequate renal and hepatic function [Bilirubin  1.5 times upper limit of normal (ULN), serum glutamic-oxaloacetic transaminase (SGOT)  2.5x ULN, Alkaline phosphatase  2.5x ULN, and Creatinine  2x ULN].",
+        "  No clinical evidence of disease (complete remission).",
+        "  Patients receiving neoadjuvant therapy will be eligible following completion of all adjuvant chemotherapy if indicated.",
+        "  Patients receiving hormonal therapy in lieu of or following chemotherapy will be eligible to participate.",
+        "  Patients must have access to a compact disk player.",
+        "Exclusion criteria:",
+        "  History or active secondary cancer within the last 5 years (except for superficial basal cell skin cancers).",
+        "  Any residual chemotherapy-induced CTCv3.0 Grade 2 or greater non-hematological toxicity.",
+        "  Unable to give informed consent or unable to adhere to protocol.",
+        "  Any serious medical or psychiatric illness likely to interfere with participation in this clinical study, concurrent uncontrolled illness, or ongoing or active infection will be excluded.",
+        "  Any history of alcohol or drug abuse.",
+        "  Allergy to gabapentin.",
+        "  History of seizure disorder."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Daily Hot Flashes",
+        "  Patients kept daily diaries of their hot flashes. The absolute number of hot flashes in a 24 hour period is \"number of daily hot flashes.\" The median number was calculated for each week of data. The median number of daily hot flashes for the first week (7 days) of participation is used as baseline. The median number of daily hot flashes for the fourth week (over 7 day interval) is reported for the week four time point. The median number of daily hot flashes for the eighth week (over 7 day interval) is reported for the week eight time point (study completion). Of the 13 women randomized to the hypnotherapy arm, 2 women were ineligible and therefore not included in analysis. Two women were unable to initiate treatment and did not submit diaries. An additional two women completed treatment but lost their diaries, leaving 7 diaries for analysis at baseline. Of the 14 randomized to receive gabapentin, 6 dropped out of the study and did not submit diaries.",
+        "  Time frame: Baseline",
+        "Results 1: ",
+        "  Arm/Group Title: Hypnotherapy",
+        "  Arm/Group Description: Patients randomized to the hypnosis arm of the study will undergo individually three one-hour sessions with a certified hypnotherapist. These sessions will be one week apart. Patients will also be instructed on the use of self-hypnosis techniques to use at home.",
+        "  Overall Number of Participants Analyzed: 7",
+        "  Median (Full Range)",
+        "  Unit of Measure: daily hot flashes  5        (2 to 11)",
+        "Results 2: ",
+        "  Arm/Group Title: Gabapentin",
+        "  Arm/Group Description: Patients randomized to the gabapentin arm will be prescribed 900mg of the drug daily (300 mg by mouth three times daily).",
+        "  Overall Number of Participants Analyzed: 8",
+        "  Median (Full Range)",
+        "  Unit of Measure: daily hot flashes  4.5        (2 to 9)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/13 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/14 (0.00%)"
+    ]
+}

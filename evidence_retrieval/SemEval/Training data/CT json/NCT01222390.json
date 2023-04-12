@@ -1,0 +1,34 @@
+{
+    "Clinical Trial ID": "NCT01222390",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Contour Profile Tissue Exander",
+        "  Patients undergoing breast reconstruction using a Contour Profile Tissue Expander (CPX3).",
+        "  Contour Profile Tissue Expander: The Contour Profile Tissue Expander is a tissue expander with a greater height to width ratio than traditional tissue expanders. This increased ratio allows for greater lower pole expansion, thus creating a more natural looking, ptotic breast. Additionally, the suture tabs on the back of the expander hold the expander in place and prevent malposition and displacement."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Scheduled to undergo unilateral or bilateral mastectomies for treatment of breast cancer with immediate tissue expander reconstruction",
+        "Exclusion Criteria:",
+        "  Patients who have had previous immediate non-expander based breast reconstruction",
+        "  Patients who have had delayed secondary flap surgery (replacing expander with autogenous tissue)",
+        "  Patients who have pacemakers and/or defibrillators which are not compatible with CPX3"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Breast Projection",
+        "  The primary outcome of interest for this study was the change in breast projection from the time of maximum tissue expander fill volume, to 3 months after the tissue expander/implant exchange surgery. Upon final fill of the tissue expander, the breast has a certain projection. Once the fully expanded tissue expander is exchanged for the permanent implant, the patients' breast projection changes gradually over time. The change in breast projection is measured in percent change of projection from baseline (the time of the final, maximum expander fill) to 3 months after the tissue expander/implant exchange surgery (at which time a change in projection has occurred).",
+        "  Time frame: 1.5 years",
+        "Results 1: ",
+        "  Arm/Group Title: Contour Profile Tissue Exander",
+        "  Arm/Group Description: Patients undergoing breast reconstruction using a Contour Profile Tissue Expander (CPX3).",
+        "  Contour Profile Tissue Expander: The Contour Profile Tissue Expander is a tissue expander with a greater height to width ratio than traditional tissue expanders. This increased ratio allows for greater lower pole expansion, thus creating a more natural looking, ptotic breast. Additionally, the suture tabs on the back of the expander hold the expander in place and prevent malposition and displacement.",
+        "  Overall Number of Participants Analyzed: 12",
+        "  Overall Number of Units Analyzed",
+        "  Type of Units Analyzed: Breasts  Mean (Standard Deviation)Unit of Measure: percentage loss of projection: 19.8205         (13.9231)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/12 (0.00%)"
+    ]
+}

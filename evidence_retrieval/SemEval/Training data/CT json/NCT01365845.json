@@ -1,0 +1,50 @@
+{
+    "Clinical Trial ID": "NCT01365845",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Conventional Photon Plan",
+        "  Photon: 50.4 Gray (Gy) to the breast/chest wall and peripheral lymph nodes at 1.8 Gy per fraction",
+        "INTERVENTION 2: ",
+        "  3D-Proton/Conventional Plan or 3D-proton Only",
+        "  3D-Proton/Conventional plan or 3D-proton only: 50.4 Cobalt Gray Equivalent (CGE)/Gray (Gy) to the breast/chest wall and peripheral lymph nodes at 1.8 CGE/Gy per fraction"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Pathologically confirmed invasive adenocarcinoma of the breast stage I-III (TX, T0-4, N0-3) with medially located tumor and/or axillary node invasion.",
+        "  Patients must have undergone either mastectomy or breast conservation surgery.",
+        "  Patients are required to have axillary staging which can include sentinel node biopsy alone if sentinel node is negative.",
+        "  Patient must require peripheral lymph node radiation per physician discretion.",
+        "Exclusion Criteria:",
+        "  Evidence of distant metastasis (M1).",
+        "  Prior radiotherapy to the area of interest.",
+        "  Prior history of cardiovascular disease per physician discretion.",
+        "  Prior or concurrent cancer other than non-melanomatous skin cancer unless disease free for at least 5 years.",
+        "  Collagen vascular disease, specifically dermatomyositis with a CPK level above normal or with an active skin rash, systemic lupus erythematosis or scleroderma."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Volume of Heart Receiving  5 Gray (Gy)/Cobalt Gray Equivalent (CGE)",
+        "  A reduction of 50% in heart volume exposed to radiation doses  5 Gy/CGE was considered preferred outcome in this study plan.",
+        "  Time frame: 2 weeks prior to starting radiation therapy.",
+        "Results 1: ",
+        "  Arm/Group Title: Conventional Photon Plan",
+        "  Arm/Group Description: Photon: 50.4 Gray (Gy) to the breast/chest wall and peripheral lymph nodes at 1.8 Gy per fraction",
+        "  Overall Number of Participants Analyzed: 18",
+        "  Median (Full Range)",
+        "  Unit of Measure: % of heart receiving >= 5 Gray (Gy)  34.7        (6.9 to 60.0)",
+        "Results 2: ",
+        "  Arm/Group Title: 3D-Proton/Conventional Plan or 3D-proton Only",
+        "  Arm/Group Description: 3D-Proton/Conventional plan or 3D-proton only: 50.4 Cobalt Gray Equivalent (CGE)/Gray (Gy) to the breast/chest wall and peripheral lymph nodes at 1.8 CGE/Gy per fraction",
+        "  Overall Number of Participants Analyzed: 18",
+        "  Median (Full Range)",
+        "  Unit of Measure: % of heart receiving >= 5 Gray (Gy)  2.7        (0.1 to 12.3)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 6/18 (33.33%)",
+        "  Skin infection  [1]2/18 (11.11%)",
+        "  Radiation dermatitis 2 [1]4/18 (22.22%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

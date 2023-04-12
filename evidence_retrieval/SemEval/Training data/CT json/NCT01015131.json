@@ -1,0 +1,43 @@
+{
+    "Clinical Trial ID": "NCT01015131",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  All Participants",
+        "  Participants who underwent 18-FLT positron emission tomography (PET) and standard of care (SOC) neo-adjuvant chemotherapy"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Has newly-diagnosed stage IIB/IIIA/IIIB locally advanced breast cancer",
+        "  Is eligible for pre-operative (neo-adjuvant) chemotherapy",
+        "Exclusion Criteria:",
+        "  Has a contraindication to magnetic resonance imaging (MRI)",
+        "  Any condition that would limit ability to undergo MRI or PET scans",
+        "  Is a nursing mother",
+        "  Has moderate to end-stage renal disease and is not on dialysis or has renal failure on chronic dialysis"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change From Baseline in 18F-FLT-PET Mean Standardized Uptake Value (SUVmean) After the First Cycle of Standard of Care (SOC) Neo-adjuvant Chemotherapy.",
+        "  Participants undergo a baseline 18F-FLT-PET/CT scan followed by a magnetic resonance imaging (MRI) scan prior to chemotherapy. These scans are repeated in approximately 2 to 3 weeks, at the end of the first cycle of chemotherapy to derive a standardized uptake value (SUV) of 18F-FLT, which is calculated from the ratio of radioactivity concentration within a region of interest, and the injected dose at the time of injection, divided by body weight. The SUVmean averages the radioactivity values within a region of interest.",
+        "  Time frame: Baseline and up to 3 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: All Participants",
+        "  Arm/Group Description: Participants who underwent 18-FLT positron emission tomography (PET) and standard of care (SOC) neo-adjuvant chemotherapy",
+        "  Overall Number of Participants Analyzed: 36",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: SUV  Baseline: 2.79         (1.36)",
+        "  End of Cycle 1: 1.78         (1.03)",
+        "  Change from Baseline: 1.00         (0.95)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 8/44 (18.18%)",
+        "  Febrile neutropenia4/44 (9.09%)",
+        "  Rectal bleeding1/44 (2.27%)",
+        "  Chest pain2/44 (4.55%)",
+        "  Fever1/44 (2.27%)",
+        "  Catheter site infection1/44 (2.27%)",
+        "  Neutrophil count decreased1/44 (2.27%)",
+        "  Dizziness1/44 (2.27%)"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT00106002",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Pemetrexed",
+        "  600 mg/m2, intravenous (IV), every 14 days until complete response or disease progression"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Must have been diagnosed with either advanced or metastatic breast cancer.",
+        "  Chemotherapy has not been given for advanced or metastatic breast cancer.",
+        "  The diagnosis of advanced or metastatic breast cancer was made at least 12 months after chemotherapy was given after breast surgery.",
+        "  Able to carry out work of a light nature (for example, light housework, office work).",
+        "  Must be at least 18 years old.",
+        "Exclusion Criteria:",
+        "  Have received prior bone marrow or peripheral stem cell transplantation.",
+        "  Have received prior chemotherapy for metastatic breast cancer.",
+        "  Are currently pregnant or breast-feeding.",
+        "  Have an active infection that your doctor decides will affect your safety.",
+        "  Are unable to take folic acid or vitamin B12."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Overall Tumor Response",
+        "  Best response recorded from the start of treatment until disease progression/recurrence using Response Evaluation Criteria In Solid Tumors (RECIST) criteria that defines when participants improve (\"respond\"), stay the same (\"stable\"), or worsen (\"progression\") during treatment.",
+        "  Time frame: every 3 cycles (approximately 6-7 weeks) or until patient has disease progression",
+        "Results 1: ",
+        "  Arm/Group Title: Pemetrexed",
+        "  Arm/Group Description: 600 mg/m2, intravenous (IV), every 14 days until complete response or disease progression",
+        "  Overall Number of Participants Analyzed: 35",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Complete Response: 1",
+        "  Partial Response: 8",
+        "  Stable Disease: 14",
+        "  Progressive Disease: 9",
+        "  Best Response Not Evaluable: 3"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 14",
+        "  Anaemia 2/36 (5.56%)",
+        "  Febrile neutropenia 1/36 (2.78%)",
+        "  Angina pectoris 1/36 (2.78%)",
+        "  Abdominal pain upper 1/36 (2.78%)",
+        "  Diarrhoea 1/36 (2.78%)",
+        "  Nausea 3/36 (8.33%)",
+        "  Vomiting 2/36 (5.56%)",
+        "  Asthenia 1/36 (2.78%)",
+        "  Fatigue 1/36 (2.78%)",
+        "  Cellulitis 2/36 (5.56%)",
+        "  Peritonitis bacterial 1/36 (2.78%)",
+        "  Upper respiratory tract infection 1/36 (2.78%)"
+    ]
+}

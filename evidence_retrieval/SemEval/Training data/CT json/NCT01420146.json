@@ -1,0 +1,50 @@
+{
+    "Clinical Trial ID": "NCT01420146",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Zr89-trastuzumab PET/CT",
+        "  Zr89-trastuzumab (trastuzumab labelled with zirconium 89) for PET/CT single arm"
+    ],
+    "Eligibility": [
+        "Inclusion criteria:",
+        "  All patients selected for this imaging study are patients scheduled to start trastuzumab-based therapy for advanced HER2 positive breast cancer (This includes trastuzumab alone, trastuzumab + chemotherapy, trastuzumab + endocrine therapy).",
+        "  Histologically confirmed HER 2 positive (defined as FISH amplification ratio more than 2.2) invasive carcinoma of the breast (primary tumor at diagnosis) with locally recurrent or metastatic disease.",
+        "  Patients with FDG-PET positive metastatic lesions.",
+        "  Brain metastases are allowed provided they are controlled and they are not the sole site of metastatic disease.",
+        "  Patient planned to have metastatic site biopsy for HER2 status control.",
+        "  Age  18 years",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 to 1",
+        "  For women of childbearing potential a pregnancy test will be done and an agreement to use a highly-effective non hormonal form of contraception.",
+        "  Agreement from the patient to participate in this imaging study and if indicated agreement to biopsy one or two accessible lesions.",
+        "  Signed written informed consent (approved by the Ethics Committee) obtained prior to any study procedure",
+        "Exclusion criteria:",
+        "  Current severe, uncontrolled systemic disease (e.g., clinically significant cardiovascular, pulmonary, or metabolic disease)",
+        "  Pregnant or lactating women",
+        "  Current known infection with HIV, HBV, or HCV",
+        "  Known severe hypersensitivity to trastuzumab",
+        "  Assessed by the investigator to be unable or unwilling to comply with the requirements of the protocol",
+        "  Patients with bone only metastases are not eligible",
+        "  Psychiatric illness/social situations that would limit compliance with study requirements",
+        "  Patients who received lapatinib within the 7 days prior to HER immunoPET/CT."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Test the Diagnostic Accuracy of the HER2 Imaging Using the Labelled Monoclonal Antibody Trastuzumab by Correlating the HER2 PET/CT Imaging With the FDG-PET/CT and Molecular Characterization of Tumor Samples With Discordant Image Findings",
+        "  A visual 'patient-based' classification capturing the whole disease burden was developed by using a side-by-side display, comparing baseline FDG-PET/CT(showing all FDG-positive mets independent of their HER2-imaging status) & day4 HER2-PET/CT. Pts were grouped into 4 HER2-PET/CT patterns according to the proportion of FDG avid tumour load showing relevant 89Zr-T uptake. Pattern A: entire tumor load showed pertinent tracer uptake; B: dominant part of tumour load showed tracer uptake; C: minor part of tumor load showed tracer uptake; D: entire tumor load lacked tracer uptake. Patterns A+B='HER2-positive' & C+D='HER2-negative'. In the 20 pts: 4 pts were classified \"A\", 5\"B\", 1\"C\" & 10\"D\". This classification indicates substantial heterogeneity of 89Zr-T uptake within this so called 'HER2-positive' pt population. After dichotomization, 11(55%) pts were considered as HER2-PET/CT negative. Furthermore, HER2-PET/CT revealed intrapatient heterogeneity of tumour uptake(pts classified B or C).",
+        "  Time frame: 4 years",
+        "Results 1: ",
+        "  Arm/Group Title: Zr89-trastuzumab PET/CT",
+        "  Arm/Group Description: Zr89-trastuzumab (trastuzumab labelled with zirconium 89) for PET/CT single arm",
+        "  Overall Number of Participants Analyzed: 20",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Pattern A: 4  20.0%",
+        "  Pattern B: 5  25.0%",
+        "  Pattern C: 1   5.0%",
+        "  Pattern D: 10  50.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/20 (5.00%)",
+        "  Nausea - Pyrexia - Myalgia [1]1/20 (5.00%)"
+    ]
+}

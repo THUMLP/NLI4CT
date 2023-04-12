@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT00768222",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Chinese Silk Suture",
+        "  Natural, non-absorbable silk suture made from entwined thread from silkworm larva, commercially available in China, used in a simple interrupted transdermal suture pattern",
+        "INTERVENTION 2: ",
+        "  VICRYL* Plus Suture",
+        "  Synthetic absorbable surgical suture composed of a copolymer of 90% glycolide and 10% L-lactide and containing triclosan antibacterial, used in a subcuticular closure technique"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  18 years of age or older with written informed consent",
+        "  Scheduled for a modified radical mastectomy",
+        "  Surgical wound classified Class I/Clean using the CDC SSI Surgical Wound Classification",
+        "Exclusion Criteria:",
+        "  Unable to give consent and unlikely to comply with study requirements and complete the 90-day follow up visit",
+        "  Undergoing surgery for modified radical mastectomy with immediate breast reconstruction, cosmetic breast operations, reduction, expansion, insertion of prothesis, duct ectasia or infective breast disease or implant",
+        "  Surgical wounds classified as Class II, III or IV using CDC SSI Surgical Wound Classification",
+        "  Has inflammatory cancers or skin ulceration",
+        "  Has known allergy or intolerance to triclosan",
+        "  Has compromised wound healing or chronic immune deficiency, for example diabetes, prolonged steroid use, AIDS or substance abuse",
+        "  Has serious heart and/or lung disease",
+        "  Has skin scar history or family history",
+        "  Has direct relationship to or involvement in this or other studies under the direction of the investigator or center",
+        "  Received an experimental drug or device within 30 days prior to the planned start of treatment"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Mean Score on Cosmetic Outcome Visual Analog Scale (VAS)",
+        "  Post-operative cosmetic outcome assessed on surgical site photographs by an independent blinded central assessor using a validated 100 mm visual analog scale, with 0 representing the worst possible scar and 100 representing the best possible scar",
+        "  Time frame: 30 days (+/- 5) post-operative",
+        "Results 1: ",
+        "  Arm/Group Title: Chinese Silk Suture",
+        "  Arm/Group Description: Natural, non-absorbable silk suture made from entwined thread from silkworm larva, commercially available in China, used in a simple interrupted transdermal suture pattern",
+        "  Overall Number of Participants Analyzed: 50",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: score on scale  45.4         (12.0)",
+        "Results 2: ",
+        "  Arm/Group Title: VICRYL* Plus Suture",
+        "  Arm/Group Description: Synthetic absorbable surgical suture composed of a copolymer of 90% glycolide and 10% L-lactide and containing triclosan antibacterial, used in a subcuticular closure technique",
+        "  Overall Number of Participants Analyzed: 51",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: score on scale  67.2         (18.2)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 3/50 (6.00%)",
+        "  Skin lymphangitis  1/50 (2.00%)",
+        "  Bone marrow suppression  0/50 (0.00%)",
+        "  Allergic shock  1/50 (2.00%)",
+        "  Deep incisional SSI  1/50 (2.00%)",
+        "Adverse Events 2:",
+        "  Total: 1/51 (1.96%)",
+        "  Skin lymphangitis  0/51 (0.00%)",
+        "  Bone marrow suppression  1/51 (1.96%)",
+        "  Allergic shock  0/51 (0.00%)",
+        "  Deep incisional SSI  0/51 (0.00%)"
+    ]
+}

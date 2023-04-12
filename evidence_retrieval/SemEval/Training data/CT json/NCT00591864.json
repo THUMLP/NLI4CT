@@ -1,0 +1,38 @@
+{
+    "Clinical Trial ID": "NCT00591864",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Study Participants",
+        "  There are no arms or subgroups in this study."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  This study will include a population of women aged 25 or older who are scheduled for a breast MRI examination at MAYO CLINIC ROCHESTER.",
+        "  Patients must not be lactating or pregnant.",
+        "  All women of child-bearing potential must have had a negative urine pregnancy test result within 2 days prior to the MBI study.",
+        "  women who are scheduled for a breast MRI examination for a clinical concern, problem solving or for further evaluation of invasive breast cancer (e.g. pre-operative staging of known breast cancer).",
+        "Exclusion Criteria:",
+        "  They are unable to understand and sign the consent form",
+        "  They are pregnant or lactating",
+        "  They are physically unable to sit upright and still for 40 minutes.",
+        "  The breast MRI is for screening purposes or to determine the status of breast augmentation.",
+        "  They have undergone breast surgery within the previous year"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Sensitivity on the Per Patient Level",
+        "  Sensitivity is the number of women with breast cancer detected per number of women with breast cancer diagnosed by surgery or biopsy.",
+        "  Time frame: within 1 week of surgery or biopsy",
+        "Results 1: ",
+        "  Arm/Group Title: Study Participants",
+        "  Arm/Group Description: There are no arms or subgroups in this study.",
+        "  Overall Number of Participants Analyzed: 28",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Sensitivity by MBI: 25",
+        "Sensitivity by MRI: 27"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/89 (0.00%)"
+    ]
+}

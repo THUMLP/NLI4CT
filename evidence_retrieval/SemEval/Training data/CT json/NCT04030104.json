@@ -1,0 +1,47 @@
+{
+    "Clinical Trial ID": "NCT04030104",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  IUS Alone",
+        "IUS alone imaging",
+        "INTERVENTION 2: ",
+        "  Imagio (IUS+OA)",
+        "IUS+OA imaging"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  One analyzable mass per patient: BI-RADS 3 and 4a, 4b, 4c and 5 masses as declared by clinical site investigator via PIONEER study inclusion criteria and categorized as BIRADS 3, 4a, 4b 4c and 5 by conventional diagnostic ultrasound (CDU)",
+        "  Masses declared to be in the PIONEER Intention to Diagnose (ITD)/analysis population, including high risk cases per original PIONEER protocol",
+        "  Patient age, indication for study entry and available medical history",
+        "  Evaluable mammograms and OA and IUS video loops and stills for each mass",
+        "Exclusion Criteria:",
+        "  Critical missing IUS or OA still image and/or video loop views or incorrect IUS or OA stills and video loops that would preclude a case from being evaluated by readers",
+        "  Reader-02 Proficiency Test and training cases"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Gain in Specificity at Fixed 98% Sensitivity (fSp)",
+        "  Primary effectiveness endpoint was the difference (gain) in specificity (fSp) at fixed 98% sensitivity for the Imagio IUS+OA relative to IUS alone, across all 15 independent readers; both imaging modalities used in each subject (subject as own control); results for each imaging modality compared to biopsy diagnosis or 12-month follow-up ruling of benign as determined by truth panel (ground truth). fSp derived from empirical receiver operating characteristic (ROC) using endpoint interpolation.",
+        "  Time frame: Baseline to 12 months +/- 30 days follow-up",
+        "Results 1: ",
+        "  Arm/Group Title: IUS Alone",
+        "  Arm/Group Description: IUS alone imaging",
+        "  Overall Number of Participants Analyzed: 480",
+        "  Mean (95% Confidence Interval)",
+        "  Unit of Measure: % benign+TPB masses correctly identified  38.22        (24.85 to 51.59)",
+        "Results 2: ",
+        "  Arm/Group Title: Imagio (IUS+OA)",
+        "  Arm/Group Description: IUS+OA imaging",
+        "  Overall Number of Participants Analyzed: 480",
+        "  Mean (95% Confidence Interval)",
+        "  Unit of Measure: % benign+TPB masses correctly identified  47.20        (35.91 to 58.49)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 2/480 (0.42%)",
+        "  Device breakage  [1]1/480 (0.21%)",
+        "  Lung cancer  [2]1/480 (0.21%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

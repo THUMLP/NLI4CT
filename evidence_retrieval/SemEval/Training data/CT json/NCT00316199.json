@@ -1,0 +1,48 @@
+{
+    "Clinical Trial ID": "NCT00316199",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Gemcitabine + Paclitaxel",
+        "  Gemcitabine: 1250 mg/m2, intravenous (IV), day 1 and day 8 every 21 days until disease progression.",
+        "  Paclitaxel: 175 mg/m2, intravenous (IV), every 21 days until disease progression"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female patients of Chinese origin with histologically or cytologically proven diagnosis of breast cancer.",
+        "  Unresectable, locally recurrent breast cancer or stage IV disease.",
+        "  Have at least one measurable lesion as defined by Response Evaluation Criteria In Solid Tumors (RECIST) criteria.",
+        "  Performance Status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) Scale",
+        "  Treatment with an anthracycline-based chemotherapy regimen in the adjuvant/neoadjuvant setting with subsequent disease relapse.",
+        "Exclusion Criteria:",
+        "  Prior chemotherapy for unresectable, locally advanced breast cancer or metastatic disease.",
+        "  Concurrent administration of any other tumor therapy, including cytotoxic chemotherapy, hormonal therapy, and immunotherapy.",
+        "  Known or suspected brain metastasis or second primary malignancy that is clinically detectable at the time of consideration for study enrollment.",
+        "  Active infection or other serious condition.",
+        "  Pregnant or breastfeeding."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Best Overall Tumor Response",
+        "  Best response recorded from the start of treatment until disease progression/recurrence using Response Evaluation Criteria In Solid Tumors (RECIST) criteria that defines when participants improve (\"respond\"), stay the same (\"stable\"), or worsen (\"progression\") during treatment.",
+        "  Time frame: baseline to measured progressive disease (tumor assessments were performed every 2 cycles during study therapy, or 3 months during post-therapy until disease progression, or up to 12 months after enrollment)",
+        "Results 1: ",
+        "  Arm/Group Title: Gemcitabine + Paclitaxel",
+        "  Arm/Group Description: Gemcitabine: 1250 mg/m2, intravenous (IV), day 1 and day 8 every 21 days until disease progression.",
+        "  Paclitaxel: 175 mg/m2, intravenous (IV), every 21 days until disease progression",
+        "  Overall Number of Participants Analyzed: 58",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Complete Response (CR): 2",
+        "  Partial Response (PR): 27",
+        "  Stable Disease (SD): 20",
+        "  Progressive Disease (PD): 7",
+        "  Early Death from Malignant Disease: 0",
+        "  Death from Toxicity: 0",
+        "  Early Death from Other Causes: 0",
+        "Unknown: 2"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1",
+        "  Femur fracture 1/60 (1.67%)"
+    ]
+}

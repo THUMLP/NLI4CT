@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT00143390",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Exemestane",
+        "  One tablet each of exemestane 25 mg and anastrozole placebo were orally administered once daily after a meal. The study treatment was continued until the disease progression or other discontinuation criteria were met.",
+        "INTERVENTION 2: ",
+        "  Anastrozole",
+        "  One tablet each of anastrozole 1 mg and exemestane placebo were orally administered once daily after a meal. The study treatment was continued until the disease progression or other discontinuation criteria were met."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Have histologically or cytologically confirmed breast cancer at original diagnosis. At study entry, the patient must have metastatic progressive or locally recurrent inoperable breast cancer.",
+        "Exclusion Criteria:",
+        "  Having received any hormonal therapy (e.g., Tamoxifen, LHRH-agonists) ovariectomy or any chemotherapy for advanced/recurrent breast cancer"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Time to Progression (TTP) - Expert Evaluation Committee Assessment",
+        "  Time in months from randomization to first documentation of objective tumor progression or death due to breast cancer, whichever comes first. Tumor progression was determined by the expert evaluation committee using RECIST version 1.0 as an at least a 20% increase in the sum of the longest diameters (SLD) of the target lesions compared to the smallest SLD since the study treatment started. For participants with bone metastasis only, at least 25% increase in the measurable lesion according to General Rules for Clinical and Pathological Study of Breast Cancer (The 14th edition).",
+        "  Time frame: Up to 2008 days of the treatment",
+        "Results 1: ",
+        "  Arm/Group Title: Exemestane",
+        "  Arm/Group Description: One tablet each of exemestane 25 mg and anastrozole placebo were orally administered once daily after a meal. The study treatment was continued until the disease progression or other discontinuation criteria were met.",
+        "  Overall Number of Participants Analyzed: 147",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: months  13.8        (10.8 to 16.5)",
+        "Results 2: ",
+        "  Arm/Group Title: Anastrozole",
+        "  Arm/Group Description: One tablet each of anastrozole 1 mg and exemestane placebo were orally administered once daily after a meal. The study treatment was continued until the disease progression or other discontinuation criteria were met.",
+        "  Overall Number of Participants Analyzed: 145",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: months  11.1        (10.8 to 16.6)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 19/149 (12.75%)",
+        "  Anaemia 0/149 (0.00%)",
+        "  Acute myocardial infarction 1/149 (0.67%)",
+        "  Pericardial effusion 1/149 (0.67%)",
+        "  Prinzmetal angina 1/149 (0.67%)",
+        "  Meniere's disease 0/149 (0.00%)",
+        "  Vertigo 0/149 (0.00%)",
+        "  Cataract 2/149 (1.34%)",
+        "  Colitis ischaemic 1/149 (0.67%)",
+        "  Nausea 0/149 (0.00%)",
+        "  Vomiting 0/149 (0.00%)",
+        "  Chest pain 1/149 (0.67%)",
+        "Adverse Events 2:",
+        "  Total: 19/149 (12.75%)",
+        "  Anaemia 1/149 (0.67%)",
+        "  Acute myocardial infarction 0/149 (0.00%)",
+        "  Pericardial effusion 0/149 (0.00%)",
+        "  Prinzmetal angina 0/149 (0.00%)",
+        "  Meniere's disease 1/149 (0.67%)",
+        "  Vertigo 2/149 (1.34%)",
+        "  Cataract 1/149 (0.67%)",
+        "  Colitis ischaemic 0/149 (0.00%)",
+        "  Nausea 1/149 (0.67%)",
+        "  Vomiting 3/149 (2.01%)",
+        "  Chest pain 0/149 (0.00%)"
+    ]
+}

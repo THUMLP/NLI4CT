@@ -1,0 +1,46 @@
+{
+    "Clinical Trial ID": "NCT00383500",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Flexitouch Device",
+        "  Lymphedema management via Flexitouch device, an intermittent pneumatic compression device (aka, lymphedema pump)",
+        "INTERVENTION 2: ",
+        "  Manual Lymphatic Drainage (MLD)",
+        "  Lymphedema management via self-administered manual lymphatic drainage therapy"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Unilateral breast cancer",
+        "  Scheduled to undergo breast surgery and axillary lymph node dissection, with or without breast conserving techniques.",
+        "  Referred to the surgeons of the Stanford University Breast Cancer Program",
+        "  Capacity to provide informed consent.",
+        "  All experimental protocols will be reviewed and approved by the Stanford Institutional Review Board for the Protection of Human Subjects.",
+        "Exclusion Criteria:",
+        "  Other serious systemic illness (renal failure, hepatic dysfunction, congestive heart failure, neurological or psychological impairment) that would confound the study or impair the patients' ability to participate.",
+        "  Recurrent breast cancer or other forms of pre-existing lymphedema."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Successful Assessment of Lymphedema by Multiple Frequency Bioimpedance Spectroscopy",
+        "  Successful, serial multiple frequency bioimpedance assessment for newly developing lymphedema in the 3 study groups",
+        "  Time frame: 36 months",
+        "Results 1: ",
+        "  Arm/Group Title: Flexitouch Device",
+        "  Arm/Group Description: Lymphedema management via Flexitouch device, an intermittent pneumatic compression device (aka, lymphedema pump)",
+        "  Overall Number of Participants Analyzed: 19",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  19",
+        "Results 2: ",
+        "  Arm/Group Title: Manual Lymphatic Drainage (MLD)",
+        "  Arm/Group Description: Lymphedema management via self-administered manual lymphatic drainage therapy",
+        "  Overall Number of Participants Analyzed: 21",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  21"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/19 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

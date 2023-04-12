@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT02139358",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Dose Escalation / Phase II Treatment",
+        "  Single arm, non-randomized, open label phase I/II multisite Simon two stage minimax trial. Gemcitabine plus trastuzumab and pertuzumab."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Adult males or females (aged 18 or older) with histologically confirmed, metastatic human epidermal growth factor receptor 2 (HER2)+ (by immunohistochemistry (IHC) 3+ or fluorescence in situ hydridization (FISH) ratio  2.0) breast cancer",
+        "  Have progressed on at least one prior line of chemotherapy plus HER2 directed therapy such as trastuzumab and/or pertuzumab in the metastatic setting. T-DM1 would count as a line of therapy and patients previously treated with T-DM1 are eligible.",
+        "  Have not been treated with gemcitabine in the metastatic setting",
+        "  Measurable disease per Response Evaluation in Solid Tumors (RECIST) 1.1 criteria",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 2  ",
+        "  Left Ventricular Ejection Fraction (LVEF)  50% at baseline as determined by either echocardiogram (ECHO) or multiple gated acquisition scan (MUGA)",
+        "  Adequate bone marrow function as indicated by the following: absolute neutrophil count (ANC) >1500/\u00b5L; Platelets 100,000/\u00b5L; Hemoglobin >10 g/dL",
+        "  Adequate renal function, as indicated by creatinine 1.5x upper limit of normal (ULN)",
+        "  Adequate liver function, as indicated by bilirubin 1.5x ULN, aspartic transaminase (AST) or alanine transaminase (ALT) <2x ULN unless related to metastatic breast cancer to the liver (in which case AST/ALT < 5x ULN is allowed).",
+        "  Signed informed consent",
+        "  Adequate birth control in sexually active women of childbearing potential",
+        "Exclusion Criteria:",
+        "  Active uncontrolled infection or major concurrent illness which in the opinion of the investigator would render the participant unsafe to proceed with the study",
+        "  Uncontrolled central nervous system (CNS) metastases. Treated, non-progressing CNS disease (documented by brain magnetic resonance imaging [MRI]) off corticosteroids for at least 1 month potential participants are eligible.",
+        "  Women who are pregnant or lactating",
+        "  Prior chemotherapy within the last 3 weeks (last 6 weeks for nitrosureas/mitomycin)",
+        "  Prior radiation therapy within the last 4 weeks; prior radiation therapy to indicator lesion (unless objective disease recurrence or progression within the radiation portal has been documented since completion of radiation)",
+        "  Other concomitant active malignancies",
+        "  History of significant cardiac disease, cardiac risk factors or uncontrolled arrhythmias",
+        "  Ejection fraction <50% or below the lower limit of the institutional normal range, whichever is lower",
+        "  Hypersensitivity to any of the study medications",
+        "  Untreated psychiatric conditions preventing informed consent"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Phase I: Recommended Phase II Dose (RP2D)",
+        "  The RP2D dose in mg/m^2 of gemcitabine along with standard doses of pertuzumab (840 mg loading/420 mg maintenance) and Herceptin (8 mg/kg loading, 6 mg/kg maintenance). Safety data to be described using Common Terminology Criteria for Adverse Events (CTCAE) 4.0 terminology. Any participant who receives any dose of the study treatment will be evaluated for the safety/toxicity endpoints in the trial.",
+        "  Time frame: 6 Months",
+        "Results 1: ",
+        "  Arm/Group Title: Dose Escalation / Phase II Treatment",
+        "  Arm/Group Description: Single arm, non-randomized, open label phase I/II multisite Simon two stage minimax trial. Gemcitabine plus trastuzumab and pertuzumab.",
+        "  Overall Number of Participants Analyzed: 6",
+        "  Measure Type: Number",
+        "  Unit of Measure: dose in mg/m^2  1200"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 7/15 (46.67%)",
+        "  Cardiac arrest * 1/15 (6.67%)",
+        "  Chest pain - cardiac * 1/15 (6.67%)",
+        "  Diarrhea * 1/15 (6.67%)",
+        "  Duodenal hemorrhage * 1/15 (6.67%)",
+        "  Fatigue * 1/15 (6.67%)",
+        "  Fever * 1/15 (6.67%)",
+        "  Sudden death NOS * 1/15 (6.67%)",
+        "  Sepsis * 1/15 (6.67%)",
+        "  Skin infection * 1/15 (6.67%)",
+        "  Neutrophil count decreased * 1/15 (6.67%)",
+        "  Platelet count decreased * 1/15 (6.67%)"
+    ]
+}

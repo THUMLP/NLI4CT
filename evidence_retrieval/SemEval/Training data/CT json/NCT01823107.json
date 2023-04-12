@@ -1,0 +1,45 @@
+{
+    "Clinical Trial ID": "NCT01823107",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Meso BioMatrix Acellular Peritoneum Matrix",
+        "  All subjects had the Meso BioMatrix Acellular Peritoneum Matrix implanted along with a tissue expander during the first stage of breast reconstruction. After tissue expansion, the tissue expander was replaced with a breast implant during the second stage of reconstruction."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Non-smoker",
+        "  Undergoing unilateral or bilateral, two-stage, tissue expander-assisted breast reconstruction",
+        "  Life expectancy greater than 18 months",
+        "  Agreement to return for the trial required follow-up visits",
+        "Exclusion Criteria:",
+        "  Body mass index  35",
+        "  Prior reconstructive breast surgery, breast augmentation, mastopexy or reduction mammoplasty",
+        "  History of chronic corticosteroid use",
+        "  Type I Diabetes",
+        "  History of radiation therapy to the chest",
+        "  Pre-operative treatment with induction chemotherapy for breast cancer",
+        "  Pregnancy",
+        "  Participating in another investigational drug or device trial that has not completed the follow-up period"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Rate of Breast Related Adverse Events",
+        "  Investigators evaluated each subject and each reconstructed breast for the occurrence of an adverse event from the first stage of reconstruction through the final follow-up visit. A breast related adverse event was defined as any untoward medical occurrence related to a reconstructed breast.",
+        "  Time frame: 18 months",
+        "Results 1: ",
+        "  Arm/Group Title: Meso BioMatrix Acellular Peritoneum Matrix",
+        "  Arm/Group Description: All subjects had the Meso BioMatrix Acellular Peritoneum Matrix implanted along with a tissue expander during the first stage of breast reconstruction. After tissue expansion, the tissue expander was replaced with a breast implant during the second stage of reconstruction.",
+        "  Overall Number of Participants Analyzed: 25",
+        "  Overall Number of Units Analyzed",
+        "  Type of Units Analyzed: Reconstructed breasts  Measure Type: NumberUnit of Measure: Reconstructed breasts affected: 12"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 7/25 (28.00%)",
+        "  Hematoma  1/25 (4.00%)",
+        "  Fever  1/25 (4.00%)",
+        "  Seroma  1/25 (4.00%)",
+        "  Wound dehiscence  4/25 (16.00%)",
+        "  Skin flap necrosis  1/25 (4.00%)"
+    ]
+}

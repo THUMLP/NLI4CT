@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT03708393",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  IUS Alone",
+        "IUS alone imaging",
+        "INTERVENTION 2: ",
+        "  Imagio (IUS+OA)",
+        "IUS+OA imaging"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  - Female subjects participating in the PIONEER-0 Study of the Imagio Breast Imaging System with known clinical status",
+        "Exclusion Criteria:",
+        "  - Female subjects who did not have known clinical status in the PIONEER-0 Study of the Imagio Breast Imaging System with known clinical status"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  The Gain in Imagio IUS Alone Specificity vs Imagio (IUS+OA) Specificity at Fixed 95-99% Sensitivity (fSp), Cohort 1",
+        "  Primary effectiveness endpoint was the specificity of Imagio [IUS+OA] compared to IUS alone at fixed 95-99% sensitivity (fSp) interpolated from the area under the curve (AUC) of receiver operating characteristic (ROC) curves, averaged across all 10 independent readers. Both imaging modalities (IUS alone and IUS+OA) were read for each subject (subject as own control). Results for each imaging modality compared to biopsy diagnosis or 12-month follow-up ruling of benign as determined by truth panel (ground truth).",
+        "  Time frame: Baseline to 12 month follow-up",
+        "Results 1: ",
+        "  Arm/Group Title: IUS Alone",
+        "  Arm/Group Description: IUS alone imaging",
+        "  Overall Number of Participants Analyzed: 120",
+        "  Mean (95% Confidence Interval)",
+        "  Unit of Measure: Percent of correct benign masses  fSp (95.0%): 80.9        (69.1 to 92.7)",
+        "  fSp (96.0%): 78.7        (65.7 to 91.7)",
+        "  fSp (97.0%): 75.8        (61.4 to 90.3)",
+        "  fSp (97.5%): 74        (58.7 to 89.4)",
+        "  fSp (98.0%): 71.8        (55.4 to 88.3)",
+        "  fSp (99.0%): 65.2        (45.8 to 84.6)",
+        "Results 2: ",
+        "  Arm/Group Title: Imagio (IUS+OA)",
+        "  Arm/Group Description: IUS+OA imaging",
+        "  Overall Number of Participants Analyzed: 120",
+        "  Mean (95% Confidence Interval)",
+        "  Unit of Measure: Percent of correct benign masses  fSp (95.0%): 75.4        (61.5 to 89.3)",
+        "  fSp (96.0%): 71.4        (55.8 to 87.0)",
+        "  fSp (97.0%): 66.1        (48.6 to 83.7)",
+        "  fSp (97.5%): 62.8        (44.1 to 81.6)",
+        "  fSp (98.0%): 58.9        (38.8 to 79)",
+        "  fSp (99.0%): 47.7        (24.5 to 71.0)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/155 (0.00%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

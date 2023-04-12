@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT02995980",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Contrast Enhanced Mammography",
+        "  Contrast-enhanced spectral mammography for the detection breast cancer .",
+        "  DECE mammography: Contrast mammography",
+        "INTERVENTION 2: ",
+        "  Standard Digital Mammogram",
+        "  Full field digital mammography for the detection breast cancer",
+        "  digital mammography: routine digital mammography"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Signed informed consent",
+        "  At least 19 years old",
+        "  Glomerular filtration rate> 60",
+        "  Heterogeneously or extremely dense breasts (BI-RADS category c or d).",
+        "Exclusion Criteria:",
+        "  History of iodinated contrast allergy",
+        "  Pregnant or lactating as determined by routine standard practice",
+        "  Personal history of breast cancer",
+        "  History of prior breast excisional biopsy (Patients with a history of core needle biopsy will not be excluded)",
+        "  History of prior breast reduction mammoplasty surgery",
+        "  History of prior breast augmentation surgery",
+        "  Mental condition rendering the subject unable to understand the nature, scope, and possible consequences of the study."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percent Accuracy of Contrast Mammography",
+        "The primary endpoint of this study is to determine the accuracy of DE CE mammography when compared to full field digital mammography (FFDM) in patients with increased breast density (Breast Imaging-Reporting And Data System (BI-RADS) category c or d breast density).",
+        "Time frame: 1 year",
+        "Results 1: ",
+        "  Arm/Group Title: Contrast Enhanced Mammography",
+        "  Arm/Group Description: Contrast-enhanced spectral mammography for the detection breast cancer .",
+        "  DECE mammography: Contrast mammography",
+        "  Overall Number of Participants Analyzed: 114",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of accuracy  100        (29 to 100)",
+        "Results 2: ",
+        "  Arm/Group Title: Standard Digital Mammogram",
+        "  Arm/Group Description: Full field digital mammography for the detection breast cancer",
+        "  digital mammography: routine digital mammography",
+        "  Overall Number of Participants Analyzed: 114",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of accuracy  67        (9 to 99)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/128 (0.00%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

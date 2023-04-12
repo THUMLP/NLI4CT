@@ -1,0 +1,37 @@
+{
+    "Clinical Trial ID": "NCT00766532",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Aromatase Inhibitor Therapy",
+        "[Not Specified]"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women at least 5 years past menopause, defined as date of last menses or bilateral oophorectomy",
+        "  Newly diagnosed breast cancer and starting an AI as initial adjuvant therapy",
+        "  Exclusion Criteria",
+        "  Recent, current or planned chemotherapy for breast cancer, as this may have independent effects on intestinal health, calcium homeostasis and bone turnover",
+        "  Allergy or intolerance to orange juice, as one isotope is given with orange juice",
+        "  Current use of over-the-counter or prescription antacids, as they may influence Ca-Ab",
+        "  Intestinal conditions associated with malabsorption or low gastric acid levels including Crohn's disease, ulcerative colitis, pernicious anemia, bacterial overgrowth, celiac sprue, chronic diarrhea or use of antibiotics within the past month",
+        "  Known Stage 4 or 5 Chronic Kidney Disease, defined as an estimated GFR <30 cc/minute",
+        "  Use of medications known to interfere with calcium or vitamin D metabolism, including oral steroids or anticonvulsants",
+        "  Significant lymphedema precluding adequate intravenous access"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Intestinal Calcium Absorption Related to Aromatase Inhibitor Therapy",
+        "  intestinal calcium absorption",
+        "  Time frame: baseline and 6 weeks later",
+        "Results 1: ",
+        "  Arm/Group Title: Aromatase Inhibitor Therapy",
+        "  Arm/Group Description: [Not Specified]",
+        "  Overall Number of Participants Analyzed: 10",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: percent calcium absorption  16         (6)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/10 (0.00%)"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT01830933",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Usual Care",
+        "  Usual Care is the comparison Clinic Patients, where there is no change in their standard or usual care.",
+        "INTERVENTION 2: ",
+        "  BreastCARE Intervention",
+        "  Intervention Clinic Patients: The participants will answer questions on the tablet-PC to calculate their breast cancer risk.",
+        "  Intervention Patient Report. Once the patient completes the BreastCare Computer survey, the program will immediately generate a personal feedback report containing information about her risk factors and recommendations to reduce her risk. This report will be printed and given to the patients before she meets with her doctor.",
+        "  BreastCARE : The physician will receive a physician report that contains information similar to the patient report."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patient component:",
+        "  Women who visit the General Internal Medicine (GIM) practices at SFGH and UCSF during the study period",
+        "  Between the ages of 40 and 74",
+        "  Self-identify as Asian American, Spanish- and English-speaking Latinas, African American, or White",
+        "  Have no history of breast cancer are eligible to participate.",
+        "  Physician component: Primary care physicians currently practicing at the GIM clinics at SFGH and UCSF",
+        "Exclusion Criteria:",
+        "  Patient component: Women whose physicians object to their participation in the study",
+        "  Physician component: No exclusion criteria for physicians"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Knowledge of Breast Cancer Risk Factors",
+        "  Risk knowledge was assessed using a post-survey. Participants could have scored 0-100 (with 0 meaning no correct answers, and 100 is all correct answers). This outcome was measured through a survey. Breast cancer risk knowledge was based on a series of eight questions in the survey. O",
+        "  Time frame: one week post-initial visit (approximately one week)",
+        "Results 1: ",
+        "  Arm/Group Title: Usual Care",
+        "  Arm/Group Description: Usual Care is the comparison Clinic Patients, where there is no change in their standard or usual care.",
+        "  Overall Number of Participants Analyzed: 655",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  48.9         (24.3)",
+        "Results 2: ",
+        "  Arm/Group Title: BreastCARE Intervention",
+        "  Arm/Group Description: Intervention Clinic Patients: The participants will answer questions on the tablet-PC to calculate their breast cancer risk.",
+        "  Intervention Patient Report. Once the patient completes the BreastCare Computer survey, the program will immediately generate a personal feedback report containing information about her risk factors and recommendations to reduce her risk. This report will be printed and given to the patients before she meets with her doctor.",
+        "  BreastCARE : The physician will receive a physician report that contains information similar to the patient report.",
+        "  Overall Number of Participants Analyzed: 580",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  56.4         (24.3)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/655 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/580 (0.00%)"
+    ]
+}

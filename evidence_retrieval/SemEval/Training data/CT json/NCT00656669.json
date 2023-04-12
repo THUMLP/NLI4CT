@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT00656669",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Sunitinib Monotherapy",
+        "  Patients who completed the Sunitinib monotherapy segment"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients must have histologically-confirmed adenocarcinoma of the breast with operable or inoperable stage 1c (primary tumor > 1.0 cm), II or III disease.",
+        "  Measurable disease by physical examinations or diagnostic breast imaging (mammography, ultrasonography or MR).",
+        "  Pre-treatment core or incisional biopsy. Patients may not have had definitive primary surgery.",
+        "  Male or female, 18 years of age or older.",
+        "  ECOG performance status 0 or 1.",
+        "  Adequate organ function as defined in the protocol.",
+        "Exclusion Criteria:",
+        "  Prior radiation therapy, cytotoxic therapy or systemic therapy for breast cancer. Prior use of tamoxifen or raloxifene as chemoprevention is allowed but must be discontinued prior to study entry.",
+        "  Metastatic (Stage IV) breast cancer",
+        "  Patients who have had only a pre-treatment fine needle aspiration (FNA) are excluded.",
+        "  Current therapeutic treatment on another clinical trial with an investigational agent.",
+        "  Any of the following within the 6 months prior to starting study treatment: -myocardial infarction -severe/unstable angina -coronary/peripheral artery bypass graft -congestive heart failure -cerebrovascular accident including transient ischemic attack -pulmonary embolus",
+        "  Ongoing cardiac dysrhythmias of NCI CTCAE grade >=2, atrial fibrillation of any grade, or QTc interval >450 msec for males or >470 msec for females.",
+        "  Hypertension that cannot be controlled by medications.",
+        "  Current treatment with therapeutic doses of any anti-coagulant. Prophylactic use of anticoagulants is allowed.",
+        "  Known human immunodeficiency virus (HIV) infection.",
+        "  Pregnancy or breastfeeding. All female patients with reproductive potential must have a negative pregnancy test prior to first day of study medication.",
+        "  Other severe acute or chronic medical or psychiatric condition, or laboratory abnormality that would impart, in the judgment of the investigator, excess risk associated with study participation or study drug administration, or which, in the judgment of the investigator, would make the patient inappropriate for entry into this study."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Interstitial Fluid Pressure (IFP) Induced by Sunitinib Monotherapy",
+        "  Participants had their tumor IFP measured at baseline, after sunitinib monotherapy (segment 1) and after sunitinib+paclitaxel (segment 2). This outcome measure is the difference of the mean value from the end of segment 1 (sunitinib monotherapy) and the mean baseline value.",
+        "  Time frame: baseline through end of segment 1 (2 weeks)",
+        "Results 1: ",
+        "  Arm/Group Title: Sunitinib Monotherapy",
+        "  Arm/Group Description: Patients who completed the Sunitinib monotherapy segment",
+        "  Overall Number of Participants Analyzed: 19",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: mm Hg  14.0         (12.4)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/23 (0.00%)",
+        "  LEFT VENTRICULAR SYSTOLIC DYSFUNCTION *0/23 (0.00%)",
+        "  NAUSEA *0/23 (0.00%)",
+        "  VOMITING *0/23 (0.00%)",
+        "  BILIRUBIN (HYPERBILIRUBINEMIA) *0/23 (0.00%)",
+        "  INFECTION (DOCUMENTED CLINICALLY OR MICROBIOLOGICALLY) WITH GRADE 3 OR 4 NEUTROPHILS (ANC <1.0 X 10E *0/23 (0.00%)",
+        "  NEUTROPHILS/GRANULOCYTES (ANC/AGC) *0/23 (0.00%)"
+    ]
+}

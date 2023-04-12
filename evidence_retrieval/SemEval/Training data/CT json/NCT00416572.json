@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT00416572",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Education Intervention",
+        "  Participants attended 2-hr education sessions once a month, for 4 months. The overall goal of the sessions was to provide information that would reduce participants' uncertainty about their illness/treatment, to enhance coping in productive ways.",
+        "INTERVENTION 2: ",
+        "  Nutrition Education Intervention",
+        "  Participants attended 2-hr nutrition education sessions, once a month for 4 months. Each session provided information/ encouragement on setting and attaining goals for healthy eating and on the benefits of thinking positively about dealing adaptively with problems and living a healthy lifestyle."
+    ],
+    "Eligibility": [
+        "INCLUSION CRITERIA (Disease Characteristics):",
+        "  Diagnosis of breast cancer",
+        "  Stage I or II disease",
+        "  No more than 10 positive lymph nodes",
+        "  First-time diagnosis",
+        "  Under the age of 50 at diagnosis",
+        "  Finished active treatment within the past 2 months",
+        "  English-speaking only",
+        "  Must live within 30 miles of Magee Women's Hospital, Pittsburgh, Pennsylvania",
+        "  INCLUSION CRITERIA (Patient Characteristics):",
+        "  Female patients only",
+        "  Must be able to communicate",
+        "  EXCLUSION CRITERIA (Patient Characteristics):",
+        "  Other prior malignancies except skin cancer",
+        "  PRIOR CONCURRENT THERAPY:",
+        "  See Disease Characteristics"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Depressive Symptoms (Measured With an Abbreviated 10-item CES-D) at Baseline, Post-intervention (4-months Post-intervention) and Final Follow-up (13-months Post-intervention).",
+        "  Scores for the shortened form of the Center for Epidemiologic Studies Depression scale(CES-D) ranged from 0 (no depressive symptoms) to 24 (high levels of depressives symptoms) in the present sample.",
+        "  Time frame: Baseline, Post-intervention(4 months post-intervention) and Final Follow-up(13 months post-intervention).",
+        "Results 1: ",
+        "  Arm/Group Title: Education Intervention",
+        "  Arm/Group Description: Participants attended 2-hr education sessions once a month, for 4 months. The overall goal of the sessions was to provide information that would reduce participants' uncertainty about their illness/treatment, to enhance coping in productive ways.",
+        "  Overall Number of Participants Analyzed: 70",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  Baseline: 5.83         (5.32)",
+        "  Post-intervention: 5.65         (5.53)",
+        "  Final follow-up: 5.07         (4.99)",
+        "Results 2: ",
+        "  Arm/Group Title: Nutrition Education Intervention",
+        "  Arm/Group Description: Participants attended 2-hr nutrition education sessions, once a month for 4 months. Each session provided information/ encouragement on setting and attaining goals for healthy eating and on the benefits of thinking positively about dealing adaptively with problems and living a healthy lifestyle.",
+        "  Overall Number of Participants Analyzed: 78",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  Baseline: 6.74         (5.94)",
+        "  Post-intervention: 5.70         (5.45)",
+        "  Final follow-up: 4.36         (4.49)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/83 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/85 (0.00%)"
+    ]
+}

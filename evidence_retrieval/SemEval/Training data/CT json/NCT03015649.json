@@ -1,0 +1,40 @@
+{
+    "Clinical Trial ID": "NCT03015649",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  SCOUT Device",
+        "  All study participants received the same treatment assignment, i.e. lesion localization with the SCOUT device 31 - 365 days prior to surgery. Each participant underwent the SAVI SCOUT Surgical Guidance System procedure."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patient is willing and able to provide informed consent. Patient SCOUT device(s) is placed as part of routine care or study but before neoadjuvant treatment begins.",
+        "  Patient is female.",
+        "  Patient is between the ages of 18 and 90 years.",
+        "  Patient has breast cancer and will undergo neoadjuvant therapy and excision at Memorial Healthcare System.",
+        "  Patient is willing and able to comply with all study procedures and be available to follow-up for the duration of the study (1 - 13 months).",
+        "  Patient reads or understands English or Spanish.",
+        "Exclusion Criteria:",
+        "  Patient is pregnant.",
+        "  Patient has pacemaker or implantable defibrillators (These have not been bench tested as of September 2016).",
+        "  Patient has known or suspected nickel allergy.",
+        "  Patient is scheduled or receiving investigational drugs for neoadjuvant regimen. (This could confound UADE of this device.)",
+        "  Patient has any condition that would place the individual at increased risk or preclude the individual's full compliance with or completion of the study.",
+        "  Patient has other malignancy except for adequately treated and cured basal or squamous cancer, curatively treated in situ disease or any other cancer for which the patient has been disease free for greater than or equal to 5 years."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants Considered to Have a Successful Surgery",
+        "  The primary endpoint of this study is successful surgery. Successful surgery (defined as one where the device stays in place and can be removed successfully during surgery) when this device is placed 31 - 365 days prior to surgery. Unsuccessful surgery is defined as one where the device does not stay in place and/or cannot be removed successfully during surgery) when this device is placed 31 - 365 days prior to surgery.",
+        "  Time frame: 31 - 365 days prior to surgery",
+        "Results 1: ",
+        "  Arm/Group Title: SCOUT Device",
+        "  Arm/Group Description: All study participants received the same treatment assignment, i.e. lesion localization with the SCOUT device 31 - 365 days prior to surgery. Each participant underwent the SAVI SCOUT Surgical Guidance System procedure.",
+        "  Overall Number of Participants Analyzed: 34",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  34 100.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/34 (0.00%)"
+    ]
+}

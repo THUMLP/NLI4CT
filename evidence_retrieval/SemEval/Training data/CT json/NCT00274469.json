@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT00274469",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Fulvestrant 500 mg",
+        "Fulvestrant 500 mg",
+        "INTERVENTION 2: ",
+        "  Anastrozole 1 mg",
+        "Anastrozole 1 mg"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Confirmed hormone receptor positive advanced breast cancer, postmenopausal women",
+        "Exclusion Criteria:",
+        "  Previous treatment for advanced breast cancer (previous treatment for early breast cancer is allowed)."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Clinical Benefit Rate",
+        "  A Clinical Benefit (CB) responder is defined as a patient having a best overall response of either complete response (CR), partial response (PR) or stable disease (SD) for at least 24 weeks evaluated according to modified RECIST. The Clinical Benefit Rate is the percentage of patients with CB.",
+        "  Time frame: From randomisation to data cut off (DCO) for primary analysis. The first and the last patients were enrolled on 6 Feb 2006 and 11 Jul 2007 respectively. The DCO for primary analysis was on 10th Jan 2008, 6 months after the last patient was enrolled.",
+        "Results 1: ",
+        "  Arm/Group Title: Fulvestrant 500 mg",
+        "  Arm/Group Description: Fulvestrant 500 mg",
+        "  Overall Number of Participants Analyzed: 102",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of Participants  72.5",
+        "Results 2: ",
+        "  Arm/Group Title: Anastrozole 1 mg",
+        "  Arm/Group Description: Anastrozole 1 mg",
+        "  Overall Number of Participants Analyzed: 103",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of Participants  67.0"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 24/101 (23.76%)",
+        "  LYMPHADENOPATHY 0/101 (0.00%)",
+        "  FEBRILE NEUTROPENIA 20/101 (0.00%)",
+        "  ATRIAL FIBRILLATION 1/101 (0.99%)",
+        "  ARRHYTHMIA 20/101 (0.00%)",
+        "  CARDIAC FAILURE 22/101 (1.98%)",
+        "  CARDIAC FAILURE CONGESTIVE 20/101 (0.00%)",
+        "  CORONARY OSTIAL STENOSIS 20/101 (0.00%)",
+        "  LACRIMAL DISORDER 0/101 (0.00%)",
+        "  BLINDNESS 21/101 (0.99%)",
+        "  GASTRIC ULCER 1/101 (0.99%)",
+        "  NAUSEA 1/101 (0.99%)",
+        "Adverse Events 2:",
+        "  Total: 22/103 (21.36%)",
+        "  LYMPHADENOPATHY 1/103 (0.97%)",
+        "  FEBRILE NEUTROPENIA 21/103 (0.97%)",
+        "  ATRIAL FIBRILLATION 1/103 (0.97%)",
+        "  ARRHYTHMIA 21/103 (0.97%)",
+        "  CARDIAC FAILURE 20/103 (0.00%)",
+        "  CARDIAC FAILURE CONGESTIVE 21/103 (0.97%)",
+        "  CORONARY OSTIAL STENOSIS 21/103 (0.97%)",
+        "  LACRIMAL DISORDER 1/103 (0.97%)",
+        "  BLINDNESS 20/103 (0.00%)",
+        "  GASTRIC ULCER 0/103 (0.00%)",
+        "  NAUSEA 0/103 (0.00%)"
+    ]
+}

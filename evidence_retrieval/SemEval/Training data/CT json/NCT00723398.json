@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT00723398",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Group 1: Control",
+        "  Control, no intervention",
+        "INTERVENTION 2: ",
+        "  Group 2: Raloxifene 60 mg",
+        "  Raloxifene 60 mg Orally Daily"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Postmenopausal status defined as history of at least 12 months without spontaneous menstrual bleeding or a documented hysterectomy and bilateral salpingo oophorectomy",
+        "  Breast density greater than 25%",
+        "  No hormone replacement therapy for at least six months prior to entry into this study",
+        "  Non-smokers.",
+        "Exclusion Criteria:",
+        "  History of stroke, pulmonary embolism or deep vein thrombosis",
+        "  History of atherosclerotic heart disease",
+        "  Presence of any known hypercoagulable state either congenital (e.g., protein S deficiency) or acquired (e.g., corticosteroid treatment)",
+        "  Diabetes mellitus",
+        "  Uncontrolled hypertension (BP 140/90)",
+        "  Presence of a psychiatric condition that would interfere with adherence to the protocol."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Absolute Breast Density",
+        "  Change of absolute breast density as indicated by mammography from baseline to Year +1 and completion of study (Year +2). No other mammograms will be obtained or used for the purpose of this study. Absolute breast density volume is based on breast thickness and the x-ray attenuation at each pixel of the image.",
+        "  Time frame: 2 years",
+        "Results 1: ",
+        "  Arm/Group Title: Group 1: Control",
+        "  Arm/Group Description: Control, no intervention",
+        "  Overall Number of Participants Analyzed: 53",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: cm squared  Absolute density at baseline: 53 participants",
+        "  65.53         (59.43)",
+        "  Absolute density at 1 year: 48 participants",
+        "  59.29         (40.72)",
+        "  Absolute density at 2 years: 46 participants",
+        "  54.34         (20.11)",
+        "Results 2: ",
+        "  Arm/Group Title: Group 2: Raloxifene 60 mg",
+        "  Arm/Group Description: Raloxifene 60 mg Orally Daily",
+        "  Overall Number of Participants Analyzed: 53",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: cm squared  Absolute density at baseline: 53 participants",
+        "  64.39         (39.95)",
+        "  Absolute density at 1 year: 41 participants",
+        "  60.48         (38.89)",
+        "  Absolute density at 2 years: 38 participants",
+        "  60.57         (35.10)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/53 (0.00%)",
+        "  Endometrial Cancer  [1]0/53 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 1/53 (1.89%)",
+        "  Endometrial Cancer  [1]1/53 (1.89%)"
+    ]
+}

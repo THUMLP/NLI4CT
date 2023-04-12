@@ -1,0 +1,50 @@
+{
+    "Clinical Trial ID": "NCT02244580",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Luminal A",
+        "  Patients subtyped as Luminal A with DDFS determined 5 years after randomisation",
+        "INTERVENTION 2: ",
+        "  Combined Subtype",
+        "  Patients subtyped as Luminal B, HER2 positive, triple negative with DDFS determined 5 years after randomisation"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Invasive breast cancer verified in a histological biopsy",
+        "  Age 65 or younger",
+        "  Estrogen receptor (ER), PgR and HER2 expression have been determined",
+        "  No distant metastases present (M0)",
+        "  The patient provides a written informed consent for study participation",
+        "  The estimated risk of breast cancer recurrence is high (25% or higher within the first 5 years from the date of the diagnosis, over >35% within the first 10 years from the diagnosis)",
+        "Exclusion Criteria:",
+        "  Patients with breast cancer with \"a special histological type\" (mucinous, papillary, medullary, or tubular type of breast cancer) when no metastases are present in the ipsilateral axillary lymph nodes",
+        "  The WHO performance status is moderate/poor, Z >1",
+        "  The peripheral blood leukocyte count is less than 3.0 x 109/L, the blood granulocyte count is less than 1.5 x 109/L, or the blood thrombocyte count is less than 120 x 109/L",
+        "  Any physical or mental disorder that is considered to prohibit administration of chemotherapy",
+        "  Cardiac failure; severe cardiac arrythmia requiring regular medication"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  5 Year Distant Disease Free Survival (DDFS) Assessed as Rate of Patients Without Distant Metastases in Subgroup Luminal A vs. Combined Subgroup (Luminal B, HER2 Positive, Triple Negative), Based on Subtyping With MammaTyper\u2122",
+        "  Tumor material of breast cancer patients will be newly assessed by MammaTyper\u2122 and 5 year DDFS will be calculated new according to new subgrouping (Luminal A vs. combined subgroup (Luminal B, HER2 positive, triple negative))",
+        "  Time frame: 5 year from the date of patient randomisation",
+        "Results 1: ",
+        "  Arm/Group Title: Luminal A",
+        "  Arm/Group Description: Patients subtyped as Luminal A with DDFS determined 5 years after randomisation",
+        "  Overall Number of Participants Analyzed: 769",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of analyzed participants  92",
+        "Results 2: ",
+        "  Arm/Group Title: Combined Subtype",
+        "  Arm/Group Description: Patients subtyped as Luminal B, HER2 positive, triple negative with DDFS determined 5 years after randomisation",
+        "  Overall Number of Participants Analyzed: 769",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of analyzed participants  82"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/0",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Clinical Trial ID": "NCT02721147",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Participants Eligible For Enrollment",
+        "  Feasibility is measured before randomization through the percentage of participants enrolled out of the number of individuals approached for the study."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female",
+        "  Age > 21 years",
+        "  Has diagnosis of non-recurrent stage I-III breast cancer",
+        "  Completed active treatment (e.g., chemotherapy, radiation therapy, surgery) 6 months-5 years ago (current use of endocrine therapy is acceptable)",
+        "  Has a partner or spouse who is > 21",
+        "  Lives with a romantic partner > 6 months",
+        "  Score of > 3 on Patient Care Monitor Sexual Concerns screening item",
+        "  No hearing impairment in patient or partner",
+        "Exclusion Criteria:",
+        "  Not able to speak English, as stated in medical record or as observed by study team member",
+        "  ECOG Performance score > 2 OR too ill to participate as judged by physician/in medical record",
+        "  Overt cognitive dysfunction or psychiatric disturbance such as suicidal ideation or severe mental illness, as observed or judged by the researcher, referring source, or other qualified observer.",
+        "  Past history of any cancer other than non-melanoma skin cancer",
+        "  Currently participating in couple/marital therapy",
+        "Currently pregnant"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Feasibility of the Treatment as Measured Through Study Accrual",
+        "  Feasibility is measured through the percentage of study eligible individuals who enrolled in the intervention study (i.e., acceptance rate).",
+        "  Time frame: Up to 8 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Participants Eligible For Enrollment",
+        "  Arm/Group Description: Feasibility is measured before randomization through the percentage of participants enrolled out of the number of individuals approached for the study.",
+        "  Overall Number of Participants Analyzed: 182",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  62  34.1%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/40 (0.00%)"
+    ]
+}

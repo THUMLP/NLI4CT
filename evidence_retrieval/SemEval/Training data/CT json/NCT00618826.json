@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT00618826",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Treatment",
+        "  Paclitaxel / Gemcitabine"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patient must be 18 years of age or older with histologically confirmed breast cancer and clinical evidence of metastatic disease.",
+        "  Patients must have measurable or non-measurable disease. X-rays, scans or physical examinations used to assess measurable disease must be performed within 28 days prior to registration. X-rays, scans or physical examinations to assess non-measurable disease must be completed within 42 days prior to registration. Patients with effusions or ascites as the only sites of disease are ineligible.",
+        "  Patients must meet the following requirements regarding prior and concurrent chemotherapy:Patients must not have received prior chemotherapy regimens for metastatic breast cancer. Patients may have received adjuvant/neoadjuvant chemotherapy, for a total of 3 prior regimens.",
+        "  Prior therapy with paclitaxel or docetaxel is allowed in the adjuvant or neoadjuvant setting, if given > 6 months prior to registration.",
+        "  Patients must have >14 days delay between the conclusion of any radiation and the start of gemcitabine, provided the acute effects of radiation treatment have resolved.",
+        "  Patients may have received any number of exogenous hormonal therapies and/or trastuzumab in the adjuvant, neoadjuvant or metastatic setting. Last dose of prior hormonal therapy at least 14 days prior to registration.",
+        "  Patients may receive concomitant bisphosphonate therapy for bone metastasis.",
+        "  Patients must have recovered from any prior surgery. Two weeks must have elapsed from the time of any minor surgery and 4 weeks of any major surgery.",
+        "  Patients must have adequate bone marrow reserve as evidenced by the following: ANC > 1500/mcL, platelets > 100, 000/mcL, and hemoglobin > 9.0 gm/dL. These results must be obtained within 28 days prior to registration.",
+        "  Patients must have serum creatinine < 1.5 mg/dL, obtained within 28 days prior to registration.",
+        "  Urine Protein: creatinine ratio  1.0 at screening.",
+        "  Patients must have adequate liver function.",
+        "  Patients must have a Zubrod performance status of 0-1.",
+        "Exclusion Criteria:",
+        "  Patients must not have tumors that carry HER-2 gene amplifications as determined by (i) fluorescence in situ hybridization (FISH) or (ii) overexpression of HER-2 protein 3+ level assessed by immunohistochemistry; or may have tumors that carry HER=2 gene amplification and have had disease progression while on trastuzumab. Patients who have previously been treated with trastuzumab must be off treatment at least 28 days prior to registration.",
+        "  Patients must not have CNS metastasis, leptomeningeal disease or lymphatic pulmonary metastases.",
+        "  Patients must not have had prior therapy with gemcitabine or bevacizumab.",
+        "  Patient must not have major surgical procedure, open biopsy, or significant traumatic injury within 28 days prior to start of treatment, anticipation of need for major surgical procedure during the course of the study.",
+        "  Patients must not have received radiation to > 50% of the marrow-bearing bone.",
+        "  Patients must not have a history of significant symptomatic cardiac disease or left ventricular ejection fraction (LVEF) < 50% of the institutional lower limit of normal (ILLN). An isotope cardiac scan (MUGA) and ECG must be obtained within 28 days.",
+        "  Patients with uncontrolled hypertension are NOT eligible (BP>150/100).",
+        "  Patients must not have pr-existing clinically significant (Grade 2 or greater per CTCAE Version 3.0 motor or sensory neuropathy except for abnormalities due to cancer.",
+        "  Patients known to be HIV positive.",
+        "  Patients must not be nursing or pregnant. Men and women of reproductive potential must agree to use an effective contraceptive method.",
+        "  No other prior malignancy is allowed except for the following: adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, adequately treated Stage I or Stage II cancer from which the patient has been disease free for 5 years.",
+        "  Patients must not have had a Stroke or Myocardial Infarction in the past 6 months. Patients with unstable agina, significant peripheral vascular disease, history of abdominal fistula, gastrointestinal perforation or intra-abdominal abscess within the last 6 months should be excluded."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Progression-free Survival",
+        "  Time from study entry to disease progression or death",
+        "  Time frame: maximum 50 months",
+        "Results 1: ",
+        "  Arm/Group Title: Treatment",
+        "  Arm/Group Description: Paclitaxel / Gemcitabine",
+        "  Overall Number of Participants Analyzed: 13",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: months  43        (7 to 45)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 10/14 (71.43%)",
+        "  Hemoglobin 2/14 (14.29%)",
+        "  Lymphopenia 1/14 (7.14%)",
+        "  Cardiac ischemia/infarction 1/14 (7.14%)",
+        "  Hypertension 2/14 (14.29%)",
+        "  Hypotension 1/14 (7.14%)",
+        "  Constipation 1/14 (7.14%)",
+        "  Diarrhea 1/14 (7.14%)",
+        "  Heartburn/dyspepsia 1/14 (7.14%)",
+        "  Fatigue (asthenia, lethargy, malaise) 2/14 (14.29%)",
+        "  Rigors/chills 1/14 (7.14%)"
+    ]
+}

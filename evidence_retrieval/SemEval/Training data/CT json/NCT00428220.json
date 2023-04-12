@@ -1,0 +1,46 @@
+{
+    "Clinical Trial ID": "NCT00428220",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Sunitinib",
+        "  Participants receiving treatment on single-agent sunitinib on continuous dosing regimens returned for study visits at Day 28, and every 8 weeks thereafter. Participants on regimens other than single-agent sunitinib on continuous dosing followed the schedule of activities from their parent or extension protocol. Sunitinib-na\u00efve participants (ie, those not treated with sunitinib in the previous parent study) received a starting dose of 37.5 mg sunitinib once daily."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Must have ended treatment from one of the following sunitinib studies: A6181030, A6181064, A6181078, A6181087, A6181094, A6181107, A6181108, A6181110, A6181111, A6181112, A6181113, A6181120, A6181126 and A6181170. Other Pfizer sponsored sunitinib studies may be included in the future.",
+        "Exclusion Criteria:",
+        "  See inclusion criteria"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Treatment-emergent Adverse Events (AEs) (All Causalities)",
+        "  Assessment of AEs included type, incidence, severity (graded by the National Cancer Institute [NCI] Common Terminology Criteria for Adverse Events [CTCAE], Version 3.0, timing, seriousness, and relatedness; and laboratory abnormalities.",
+        "  Time frame: From first day of treatment on the current study up to 28 days post the last dose of study treatment",
+        "Results 1: ",
+        "  Arm/Group Title: Sunitinib",
+        "  Arm/Group Description: Participants receiving treatment on single-agent sunitinib on continuous dosing regimens returned for study visits at Day 28, and every 8 weeks thereafter. Participants on regimens other than single-agent sunitinib on continuous dosing followed the schedule of activities from their parent or extension protocol. Sunitinib-na\u00efve participants (ie, those not treated with sunitinib in the previous parent study) received a starting dose of 37.5 mg sunitinib once daily.",
+        "  Overall Number of Participants Analyzed: 223",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Participants with adverse events (AE): 221",
+        "  Participants with serious adverse events (SAE): 90",
+        "  Participants with grade 3 or 4 AEs: 174",
+        "  Participants with grade 5 AEs: 24",
+        "  Participants discontinued due to AEs: 67",
+        "  Participants with dose reduction due to AEs: 66",
+        "  Temporary discontinuations due to AEs: 146"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 90/223 (40.36%)",
+        "  Anaemia * 5/223 (2.24%)",
+        "  Neutropenia * 1/223 (0.45%)",
+        "  Thrombocytopenia * 1/223 (0.45%)",
+        "  Acute coronary syndrome * 1/223 (0.45%)",
+        "  Acute myocardial infarction * 1/223 (0.45%)",
+        "  Myocardial infarction * 1/223 (0.45%)",
+        "  Abdominal adhesions * 1/223 (0.45%)",
+        "  Abdominal pain * 8/223 (3.59%)",
+        "  Abdominal pain upper * 2/223 (0.90%)",
+        "  Ascites * 2/223 (0.90%)"
+    ]
+}

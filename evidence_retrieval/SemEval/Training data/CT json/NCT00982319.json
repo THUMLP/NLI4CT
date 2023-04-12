@@ -1,0 +1,50 @@
+{
+    "Clinical Trial ID": "NCT00982319",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Broccoli Sprout Extract and Mango Juice",
+        "  Patients will be randomized to 14 day intervention of broccoli sprout extract consisting of a consistent dose of sulforaphane dissolved in mango juice. All women will be on a cruciferous free diet for the duration of the study (14 days).",
+        "INTERVENTION 2: ",
+        "  Mango Juice Without Extract",
+        "  Patients will be randomized to 14 day intervention of mango juice alone. All women will be on a cruciferous free diet for the duration of the study (14 days)."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female 18 + years of age",
+        "  Confirmed diagnosis of DCIS on core or excisional/incisional biopsy and scheduled for definitive surgery",
+        "  Pre or Post menopausal women reporting no use of hormone replacement therapy, tamoxifen or raloxifene within the prior 6 months to eligibility screening",
+        "  Agree to avoid cruciferous vegetable/condiment intake for 14 days",
+        "  Agree to sign an informed consent and allow use of some tissue (slides) from biopsy and definitive surgery for research purposes",
+        "Exclusion Criteria:",
+        "  Prior cancer diagnosis other than non-melanomatous skin cancer or cervical carcinoma in-situ",
+        "  Used hormone replacement therapy, tamoxifen or raloxifene within the past 6 months prior to eligibility screening",
+        "  Used antibiotics within 10 days prior to beginning cruciferous free diet (day -14 prior to surgery)",
+        "  Smoked within the past 12 months prior to eligibility screening;",
+        "  Active infection or inflammation of the breast at time of eligibility screening",
+        "  Has baseline comprehensive metabolic panel (CMP) [Glucose, Calcium, Albumin, Serum total protein (TP), Sodium, Potassium, Carbon dioxide, Chloride, Blood urea nitrogen (BUN), Creatinine, Alkaline phosphatase (ALP), Alanine amino transferase (AST), Aspartate amino transferase (SGOT), and Bilirubin], prothrombin time (PT) and , complete blood count (CBC) values that are 1.5 times in either direction the reported normal range"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Absolute Change in Mean Proliferative Rate Measured by Ki67%",
+        "  Pathologists score the slides without knowledge of treatment assignment at the end of the study. All pre-post samples from one individual will be evaluated together. Quality control for these stains is performed routinely in the immunohistochemistry lab (using lymphoid tissue for Ki67). Initial scoring is performed where possible on a minimum of 3000 cells, by counting the number of positive cells divided by the total number of cells. DCIS lesions will be scored separately to adjacent normal tissue. The rationale for selecting Ki67 as a measure of cellular proliferation includes the robustness of the staining reaction, correlation with the S phase fraction of the cell cycle and mitotic index and that it can be successfully ascertained from core breast biopsies provided there is an adequate yield of epithelial cells. A negative value reflects a decrease in ki67 positive cells, therefore a decrease in cellular proliferation.",
+        "  Time frame: Change from baseline to 14 days post-intervention",
+        "Results 1: ",
+        "  Arm/Group Title: Broccoli Sprout Extract and Mango Juice",
+        "  Arm/Group Description: Patients will be randomized to 14 day intervention of broccoli sprout extract consisting of a consistent dose of sulforaphane dissolved in mango juice. All women will be on a cruciferous free diet for the duration of the study (14 days).",
+        "  Overall Number of Participants Analyzed: 15",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: percentage of Ki67  -1.15         (2.08)",
+        "Results 2: ",
+        "  Arm/Group Title: Mango Juice Without Extract",
+        "  Arm/Group Description: Patients will be randomized to 14 day intervention of mango juice alone. All women will be on a cruciferous free diet for the duration of the study (14 days).",
+        "  Overall Number of Participants Analyzed: 15",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: percentage of Ki67  4         (17.08)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/15 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}
