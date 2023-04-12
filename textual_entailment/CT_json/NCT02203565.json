@@ -1,0 +1,46 @@
+{
+    "Clinical Trial ID": "NCT02203565",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Supportive Care (Dakin's Solution, Radiation Therapy)",
+        "  Patients apply Dakin's solution topically daily over 10 minutes within 60 minutes of radiation therapy for up to 6 weeks.",
+        "  Dakin's solution: Applied topically",
+        "  radiation therapy: Undergo radiation therapy",
+        "  questionnaire administration: Ancillary studies",
+        "  laboratory biomarker analysis: Optional correlative studies"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women with breast cancer who plan to undergo radiation therapy to the breast or chest wall",
+        "  Ability to understand and the willingness to sign a written informed consent document",
+        "Exclusion Criteria:",
+        "  Women with scleroderma or discoid lupus",
+        "  Women with inflammatory breast cancer as evidenced by clinical assessment",
+        "  Women with breast cancer involving the skin",
+        "  Women who have undergone prior radiotherapy to the chest wall and/or breast"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percent of Women Who Develop Grade 3 or 4 Radiation Dermatitis (as Defined by the Stanford Radiation Dermatitis Scoring System) During a Course of Radiation Therapy",
+        "  Stanford Radiation Dermatitis Scoring System:",
+        "  Grade Clinical finding",
+        "  0 No skin change",
+        "  1 Faint, barely detectable erythema 2 Follicular rash, hyperpigmentation, evolving erythema 3 Dry desquamation, brisk erythema 4 Moist desquamation 5 Bleeding, ulceration, and/or infection",
+        "  Time frame: Baseline to up to 6 weeks after completion of therapy",
+        "Results 1: ",
+        "  Arm/Group Title: Supportive Care (Dakin's Solution, Radiation Therapy)",
+        "  Arm/Group Description: Patients apply Dakin's solution topically daily over 10 minutes within 60 minutes of radiation therapy for up to 6 weeks.",
+        "  Dakin's solution: Applied topically",
+        "  radiation therapy: Undergo radiation therapy",
+        "  questionnaire administration: Ancillary studies",
+        "  laboratory biomarker analysis: Optional correlative studies",
+        "  Overall Number of Participants Analyzed: 14",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  6  42.9%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 3/20 (15.00%)",
+        "  Dermatitis radiation 3/20 (15.00%)"
+    ]
+}

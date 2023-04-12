@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT00843167",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Sulforaphane Supplement",
+        "  Patients receive oral broccoli sprout extract supplementation three times daily for 2-8 weeks in the absence of unacceptable toxicity.",
+        "  broccoli sprout extract: Given orally",
+        "INTERVENTION 2: ",
+        "  Placebo",
+        "  Patients receive oral placebo supplementation three times daily for 2-8 weeks in the absence of unacceptable toxicity.",
+        "  placebo: Given orally"
+    ],
+    "Eligibility": [
+        "INCLUSION CRITERIA:",
+        "  Diagnostic mammogram",
+        "  English speaking",
+        "EXCLUSION CRITERIA:",
+        "  Pregnancy (as determined by urine human chorionic gonadotropin (hCG) test)",
+        "  No biopsy referral after diagnostic mammogram",
+        "  Patient reported breast feeding",
+        "  Significant active medical illness which in the opinion of the investigator would preclude protocol treatment",
+        "  History of or active liver disease or baseline total bilirubin greater than institutional upper limit of normal",
+        "  Patient reported allergy or sensitivity to cruciferous vegetables",
+        "  Use of oral antibiotics within three months prior to randomization",
+        "  Oral steroid therapy at enrollment",
+        "  Current therapy with valproate acid or SAHA",
+        "  Current use of nutrient supplements or herbal remedies containing sulforaphane and unwillingness or inability to quit 72 hours prior to randomization and for the duration of the trial",
+        "  Radiation for currently-diagnosed disease prior to or during study supplementation",
+        "  Chemotherapy for currently-diagnosed disease prior to or during study supplementation"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Isothiocyanate in Urine Samples as Assessed at Baseline and After Completion of Study Therapy",
+        "  Isothiocyante including sulforaphane in micromolar (\u00b5M) concentration was measured following standard chemical measurement procedures and divided by the creatinine values in millimolar (mM) concentration.",
+        "  Time frame: Baseline and end of study (up to 8 weeks)",
+        "Results 1: ",
+        "  Arm/Group Title: Sulforaphane Supplement",
+        "  Arm/Group Description: Patients receive oral broccoli sprout extract supplementation three times daily for 2-8 weeks in the absence of unacceptable toxicity.",
+        "  broccoli sprout extract: Given orally",
+        "  Overall Number of Participants Analyzed: 27",
+        "  Mean (Standard Error)",
+        "  Unit of Measure:  M/mM creatinine  1.00         (0.334)",
+        "Results 2: ",
+        "  Arm/Group Title: Placebo",
+        "  Arm/Group Description: Patients receive oral placebo supplementation three times daily for 2-8 weeks in the absence of unacceptable toxicity.",
+        "  placebo: Given orally",
+        "  Overall Number of Participants Analyzed: 27",
+        "  Mean (Standard Error)",
+        "  Unit of Measure:  M/mM creatinine  -0.05         (0.02)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/27 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/27 (0.00%)"
+    ]
+}

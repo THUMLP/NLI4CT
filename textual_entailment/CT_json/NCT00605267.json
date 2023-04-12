@@ -1,0 +1,44 @@
+{
+    "Clinical Trial ID": "NCT00605267",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Anastrozole 1 mg",
+        "  Anastrozole (investigational product) 1mg tablet given once a day orally and goserelin acetate 3.6 mg/ month depot injection",
+        "INTERVENTION 2: ",
+        "  Tamoxifen 20 mg",
+        "  Tamoxifen (comparator) 20mg tablet given once a day orally and goserelin acetate 3.6 mg/ month depot injection"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Premenopausal, estrogen receptor positive women, aged 20 years and over, with operable and measurable breast cancer who have provided written informed consent",
+        "Exclusion Criteria:",
+        "  Medical history of chemotherapy or endocrine therapy for breast cancer, or with treatment history of radiotherapy. Unwillingness to stop taking any drug known to affect sex hormone status (including hormone replacement therapy (HRT)."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Best Overall Response Rate (BORR) (Calliper)",
+        "  The BORR were defined as the percentage of patients with confirmed CR or PR in the ITT population during 24 weeks pre-operative treatment period (based on the data from calliper measurement).",
+        "  CR (or PR) criteria are met at 2 or more time in points every 4 weeks. Per RECIST Criteria (V1.0) and assessed by Calliper: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), >= 30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR.",
+        "  Time frame: 24 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Anastrozole 1 mg",
+        "  Arm/Group Description: Anastrozole (investigational product) 1mg tablet given once a day orally and goserelin acetate 3.6 mg/ month depot injection",
+        "  Overall Number of Participants Analyzed: 98",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of Participants  70.4",
+        "Results 2: ",
+        "  Arm/Group Title: Tamoxifen 20 mg",
+        "  Arm/Group Description: Tamoxifen (comparator) 20mg tablet given once a day orally and goserelin acetate 3.6 mg/ month depot injection",
+        "  Overall Number of Participants Analyzed: 99",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of Participants  50.5"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/98 (1.02%)",
+        "  Benign Neoplasm 1/98 (1.02%)",
+        "Adverse Events 2:",
+        "  Total: 0/98 (0.00%)",
+        "  Benign Neoplasm 0/98 (0.00%)"
+    ]
+}

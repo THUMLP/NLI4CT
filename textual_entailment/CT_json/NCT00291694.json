@@ -1,0 +1,44 @@
+{
+    "Clinical Trial ID": "NCT00291694",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Celecoxib",
+        "  Randomized to receive celecoxib daily for 12 months",
+        "INTERVENTION 2: ",
+        "  Placebo",
+        "  Randomized to receive placebo daily for 12 months"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  women who have a high risk of breast cancer",
+        "  older than 18 years",
+        "Exclusion Criteria:",
+        "  anticoagulants",
+        "  marked breast tenderness",
+        "  pregnant or within twelve months of breast feeding/childbirth"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Percent of Breast Epithelial Cells Staining Positive for Ki-67",
+        "  Immunocytochemical staining of breast epithelial cells. Positive cells reflect proliferative activity.",
+        "  Time frame: Baseline and 12 months",
+        "Results 1: ",
+        "  Arm/Group Title: Celecoxib",
+        "  Arm/Group Description: Randomized to receive celecoxib daily for 12 months",
+        "  Overall Number of Participants Analyzed: 43",
+        "  Median (Full Range)",
+        "  Unit of Measure: percentage of cells staining positive  -1.2        (-18 to 14.8)",
+        "Results 2: ",
+        "  Arm/Group Title: Placebo",
+        "  Arm/Group Description: Randomized to receive placebo daily for 12 months",
+        "  Overall Number of Participants Analyzed: 21",
+        "  Median (Full Range)",
+        "  Unit of Measure: percentage of cells staining positive  -2.0        (-8.8 to 12.2)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/43 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

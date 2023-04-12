@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT00331552",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Phase I: Cyclophosphamide, Doxil, Trastuzumab",
+        "  Patients receive oral cyclophosphamide once daily on days 1-28 and pegylated doxorubicin HCl liposome IV over 90 minutes on day 1. Treatment repeats every 4-6 weeks in the absence of disease progression or unacceptable toxicity. Some patients with HER2/neu 3+ disease may also receive trastuzumab IV over 30-90 minutes weekly or every 3 weeks at the discretion of the treating physician.",
+        "  pegylated liposomal doxorubicin hydrochloride: Given IV",
+        "  cyclophosphamide: Given orally",
+        "  trastuzumab: Given IV"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients must satisfy either a or b: a) Measurable disease by RECIST criteria; x-rays, scans or physical examinations used for tumor assessment must have been completed within 30 days prior to registration; any non-measurable disease must be assessed within 42 days prior to registration; b) Non-measurable disease only, but MUC-1 antigen level (either CA 27-29 or CEA) is > 2X ULN AND MUC-1 antigen has been documented to have increased by 1.5X prior to registration; x-rays, scans or other tests for assessment of non-measurable disease must have been performed within 42 days prior to registration",
+        "  ECOG performance status of =< 2",
+        "  ANC >= 1,500 cells/mm^3",
+        "  Platelet count >= 100,000 cells/mm^3",
+        "  Hemoglobin >= 9.0g/dL",
+        "  Creatinine =< 2.5 mg/dL",
+        "  In the absence of liver metastases, AST / ALT, alkaline phosphatase and total bilirubin must not exceed 2 x upper limit of normal (i.e., must be =< 2 x upper limit of normal)",
+        "  In the presence of liver metastases, AST / ALT, alkaline phosphatase and total bilirubin must not exceed 3 x upper limit of normal (i.e., must be =< 3 x upper limit of normal)",
+        "  Have a MUGA scan or 2-d echocardiogram indicating an ejection fraction of >= 50% within 42 days prior to first dose of study drug (the method used at baseline must be used for later monitoring)",
+        "  Use an adequate contraceptive method (e.g., abstinence, intrauterine device, barrier device with spermicide or surgical sterilization) during treatment and for three months after completing treatment if of reproductive potential",
+        "  Be informed of the investigational nature of this study and provide written informed consent in accordance with institutional and federal guidelines prior to study specific screening procedures",
+        "Exclusion Criteria:",
+        "  Pregnant or lactating women",
+        "  History of hypersensitivity reactions attributed to a conventional formulation of doxorubicin HCL or the components of Doxil",
+        "  Patients who are HER2-neu positive with cardiac disease that would preclude the use of Doxil or Herceptin are not eligible, including active cardiac disease (i.e., angina pectoris that requires the use of antianginal medication, cardiac arrhythmia requiring medication, severe conduction abnormality, clinically significant valvular disease, cardiomegaly on chest x-ray, ventricular hypertrophy on EKG, uncontrolled hypertension [diastolic greater than 100 mm/Hg or systolic > 200 mm/hg], current use of digitalis or beta blockers for CHF, clinically significant pericardial effusion) and history of cardiac disease (i.e., myocardial infarction documented as a clinical diagnosis or by EKG or any other test, documented congestive heart failure, documented cardiomyopathy, documented arrhythmia or cardiac valvular disease that requires medication or is medically significant)",
+        "  Has anthracycline resistant disease defined as a) If anthracycline was given for non-metastatic disease: The cumulative dose of anthracycline exceeds 360 mg/m^ 2 for doxorubicin or 540 mg/m^2 for epirubicin AND the disease-free interval from discontinuation of anthracycline to diagnosis of metastatic disease is < 12 months; b) If anthracycline was given for metastatic disease: The cumulative dose of anthracycline exceeds 360 mg/m^2 for doxorubicin or 540 mg/m^2 for epirubicin AND the patient's disease progressed on anthracycline given as palliative therapy",
+        "  Except for the following no other malignancy is allowed: synchronous ipsilateral breast cancer of the same subtype (ER/PR, HER-2/neu), adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer or other stage I or II cancer from which the patient has been disease free for at least 5 years",
+        "  Any life-threatening illness other than the malignancy for which they are being treated",
+        "  Mental illness",
+        "  Have a life expectancy of less than 4 months",
+        "  Unwillingness to participate or inability to comply with the protocol for the duration of the study"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Maximum Tolerated Dose and Optimal Tolerated Dose of Pegylated Liposomal Doxorubicin Hydrochloride (Doxil) When Given in Combination With Cyclophosphamide (Phase I)",
+        "  The dose level in which 2 or more patients develop treatment-related toxicity of grade 3 or higher OR require a dose adjustment following the first course of treatment",
+        "  Time frame: Up to 24 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Phase I: Cyclophosphamide, Doxil, Trastuzumab",
+        "  Arm/Group Description: Patients receive oral cyclophosphamide once daily on days 1-28 and pegylated doxorubicin HCl liposome IV over 90 minutes on day 1. Treatment repeats every 4-6 weeks in the absence of disease progression or unacceptable toxicity. Some patients with HER2/neu 3+ disease may also receive trastuzumab IV over 30-90 minutes weekly or every 3 weeks at the discretion of the treating physician.",
+        "  pegylated liposomal doxorubicin hydrochloride: Given IV",
+        "  cyclophosphamide: Given orally",
+        "  trastuzumab: Given IV",
+        "  Overall Number of Participants Analyzed: 6",
+        "  Measure Type: Number",
+        "  Unit of Measure: mg/m^2  30"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/27 (0.00%)"
+    ]
+}

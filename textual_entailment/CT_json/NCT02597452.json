@@ -1,0 +1,36 @@
+{
+    "Clinical Trial ID": "NCT02597452",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Intelligent Breast Exam, iBE",
+        "  Single Arm: Additional breast exam by a FDA approved hand-held intelligent breast exam device and a clinical breast exam during their scheduled breast screening appointment. No return visit required for participation.",
+        "  intelligent Breast Exam, iBE: A bilateral iBE exam will be performed on the entire breast in addition to a clinical breast exam administered by a trained individual. If the patient is selected to participate in the inter-rater reliability portion of the study, the subject will undergo both the iBE and the clinical breast exams twice sequentially performed by two different separately trained individuals during the same visit."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  18 years of age and older",
+        "  Women and men with symptomatic breast lump (either by palpation or imaging) OR",
+        "  Asymptomatic women presenting to the imaging center for a screening mammogram",
+        "  Signed Informed Consent",
+        "Exclusion Criteria:",
+        "  Patients under 18 years of age",
+        "  Patients who previously participated in this study and are returning to the Women's Imaging Center for follow-up diagnostic tests"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Compare the Outcomes of the iBE Examinations to Clinical Breast Examinations (CBE)by Estimating the Sensitivity of the Device Using Imaging Results",
+        "  comparing the calculated the sensitivities or the percentage of true positive breast lesions (based on imaging results) of the iBE and CBE",
+        "  Time frame: approximately one month after imaging scan",
+        "Results 1: ",
+        "  Arm/Group Title: Intelligent Breast Exam, iBE",
+        "  Arm/Group Description: Single Arm: Additional breast exam by a FDA approved hand-held intelligent breast exam device and a clinical breast exam during their scheduled breast screening appointment. No return visit required for participation.",
+        "  intelligent Breast Exam, iBE: A bilateral iBE exam will be performed on the entire breast in addition to a clinical breast exam administered by a trained individual. If the patient is selected to participate in the inter-rater reliability portion of the study, the subject will undergo both the iBE and the clinical breast exams twice sequentially performed by two different separately trained individuals during the same visit.",
+        "  Overall Number of Participants Analyzed: 486",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of true positive lesions  34.3"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/486 (0.00%)"
+    ]
+}

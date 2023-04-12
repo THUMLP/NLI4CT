@@ -1,0 +1,53 @@
+{
+    "Clinical Trial ID": "NCT02445586",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Pertuzumab in Combination With Trastuzumab and Docetaxel",
+        "  Participants will receive pertuzumab in combination with trastuzumab and docetaxel every 3 weeks until disease progression, unacceptable toxicity, withdrawal of consent or death, whichever occurs first."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  For women of childbearing potential and men with partners of childbearing potential, agreement to use a highly-effective non-hormonal form of contraception or two effective forms of non-hormonal contraception by the participant and/or partner",
+        "  Histologically or cytologically confirmed and documented adenocarcinoma of the breast with metastatic or locally recurrent disease not amenable to curative resection; participants with measurable and/or non-measurable disease are eligible",
+        "  Known and documented HER2-positive",
+        "  Known and documented LVEF of at least 50 percent (%)",
+        "  Adequate organ function",
+        "  A negative serum beta-human chorionic gonadotropin (beta-HCG) test for women of childbearing potential (premenopausal, or less than [<] 12 months of amenorrhea post-menopause, and women who have not undergone surgical sterilization [absence of ovaries and/or uterus]) within 7 days prior to the first dose of study treatment with the result available prior to first dosing",
+        "Exclusion Criteria:",
+        "  Previous systemic non-hormonal anti-cancer therapy for the metastatic or locally recurrent disease",
+        "  Pregnant or lactating women",
+        "  Current clinical or radiographic evidence of central nervous system (CNS) metastases",
+        "  Disease progression while receiving or within 12 months of completion of trastuzumab and/or lapatinib treatment in the adjuvant or neo-adjuvant setting",
+        "  History of LVEF decline to below 50% during or after prior trastuzumab adjuvant or neo-adjuvant therapy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Overall Number of Participants by the Number of Serious Adverse Events Reported Per Participant",
+        "  The number of participants with serious adverse events was counted in the four following categories for number of events reported per participant: greater than or equal to (  ) 1, 1, greater than (>) 1, or 0 serious adverse events. Participants with multiple occurrences of events (the 1 and >1 serious adverse event categories) were only counted once per category.",
+        "  Time frame: From Baseline until end of study (up to approximately 3 years)",
+        "Results 1: ",
+        "  Arm/Group Title: Pertuzumab in Combination With Trastuzumab and Docetaxel",
+        "  Arm/Group Description: Participants will receive pertuzumab in combination with trastuzumab and docetaxel every 3 weeks until disease progression, unacceptable toxicity, withdrawal of consent or death, whichever occurs first.",
+        "  Overall Number of Participants Analyzed: 52",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants    1 Serious Adverse Event: 31  59.6%",
+        "  1 Serious Adverse Event: 17  32.7%",
+        "  >1 Serious Adverse Events: 14  26.9%",
+        "  0 Serious Adverse Events: 21  40.4%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 31/52 (59.62%)",
+        "  Febrile neutropenia 2/52 (3.85%)",
+        "  Left ventricular dysfunction 2/52 (3.85%)",
+        "  Sinus tachycardia 1/52 (1.92%)",
+        "  Congenital arterial malformation 1/52 (1.92%)",
+        "  Diarrhoea 5/52 (9.62%)",
+        "  Salivary hypersecretion 1/52 (1.92%)",
+        "  Enteritis 1/52 (1.92%)",
+        "  Abdominal pain 1/52 (1.92%)",
+        "  Vomiting 1/52 (1.92%)",
+        "  Stomatitis 1/52 (1.92%)",
+        "  Haematemesis 1/52 (1.92%)"
+    ]
+}

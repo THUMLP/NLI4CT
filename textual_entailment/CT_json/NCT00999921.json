@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT00999921",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Tamoxifen",
+        "  Tamoxifen at a dose of 10 mg once daily from 5th day to 25th day of menstrual cycle for 3 months",
+        "INTERVENTION 2: ",
+        "  Evening Primrose Oil",
+        "  Evening Primrose Oil at a dose of 1000 mg once daily for 3 months"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Clinical, Radiographic and Histological diagnosis of Benign Breast Disease.",
+        "  Benign Breast disease amenable to hormonal therapy.",
+        "Exclusion Criteria:",
+        "  Postmenopausal women.",
+        "  Premenopausal women with pregnancy or other contraindications to tamoxifen.",
+        "  Girls less than 16 years.",
+        "  Very large lesions which require surgery for cosmesis.",
+        "  High risk breast lesions like epitheliosis, atypia or atypical hyperplasia on histopathology or susceptible lesions prone to develop malignancy.",
+        "  Lesions like duct ectasia where hormone therapy is not likely to be of benefit.",
+        "  Inflammatory lesions which are amenable to antibiotic therapy or surgical drainage for treatment.",
+        "  Patients unwilling to undergo treatment."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants Analysed for Reduction in Lump Size ( 60% Reduction in Lump Size Considered to be a Satisfactory Response)",
+        "  Ultrasonography of the breast was used to ascertain the lump size at the beginning of therapy and a repeat Ultrasonography of breast was done after 3 months at the end of the proposed therapy to record the posttreatment lump size by the same operator. The difference between the two findings were recorded and noted and a 60% or more reduction in the size of the lump was considered as a satisfactory response.",
+        "  Time frame: 3 months",
+        "Results 1: ",
+        "  Arm/Group Title: Tamoxifen",
+        "  Arm/Group Description: Tamoxifen at a dose of 10 mg once daily from 5th day to 25th day of menstrual cycle for 3 months",
+        "  Overall Number of Participants Analyzed: 102",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Fibroadenosis (total number): 63",
+        "  Fibroadenosis (60% or more reduction in size): 54",
+        "  Fibroadenosis (less than 60% reduction in size): 9",
+        "  Fibroadenoma (total number): 39",
+        "  Fibroadenoma (60% or more reduction in size): 4",
+        "  Fibroadenoma (less than 60% reduction in size): 35",
+        "Results 2: ",
+        "  Arm/Group Title: Evening Primrose Oil",
+        "  Arm/Group Description: Evening Primrose Oil at a dose of 1000 mg once daily for 3 months",
+        "  Overall Number of Participants Analyzed: 99",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Fibroadenosis (total number): 61",
+        "  Fibroadenosis (60% or more reduction in size): 14",
+        "  Fibroadenosis (less than 60% reduction in size): 47",
+        "  Fibroadenoma (total number): 38",
+        "  Fibroadenoma (60% or more reduction in size): 0",
+        "  Fibroadenoma (less than 60% reduction in size): 38"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/127 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

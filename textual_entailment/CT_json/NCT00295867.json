@@ -1,0 +1,47 @@
+{
+    "Clinical Trial ID": "NCT00295867",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Zoledronic Acid",
+        "  Patients who had greater than 4 disseminated tumor cells (DTCs)/mL present following neoadjuvant or adjuvant chemotherapy for early stage breast cancer were treated with 4mg zoledronic acid each month for 24 months."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria",
+        "  Women > 18 years of age with histologically or cytologically confirmed stage I, II or III breast cancer.",
+        "  If adjuvant chemotherapy is recommended, it must be completed before study start.",
+        "  Bone marrow aspirate positive by IC/FC assay",
+        "  a. Definition of positive: > 4 MM/ml b. Timing of bone marrow aspiration to determine study eligibility: i. If patient is to receive either no adjuvant therapy or hormonal therapy alone, the aspiration may be performed at diagnosis as part of the large MM study at University of California, San Francisco, or following diagnosis if the patient received initial surgery elsewhere. This is also true for patients who have surgery following neoadjuvant therapy for breast cancer.",
+        "  ii. If the patient is to receive adjuvant chemotherapy, the aspiration will be performed at least three weeks after chemotherapy has been completed.",
+        "  Adequate renal function as defined by:",
+        "  a. Creatinine must be < upper limit of normal",
+        "  Normal liver function tests including total bilirubin, alkaline phosphatase, and aspartate aminotransferase (AST) / serum glutamic-oxaloacetic transaminase (SGOT)",
+        "  Ability to understand and sign informed consent.",
+        "  Concomitant hormonal therapy is allowed",
+        "  Concomitant radiation therapy is allowed",
+        "  Patients who have had surgery following neoadjuvant chemotherapy or hormonal therapy are eligible to participate in this trial",
+        "  Exclusion Criteria",
+        "  History of allergy to bisphosphonates. Acute phase reactions occur in up to 24% of patients and disappear with subsequent dosing. An acute phase reaction does not qualify as an allergic reaction.",
+        "  History of renal insufficiency. Renal insufficiency is defined by a serum creatinine greater than the upper limit of normal or a creatinine clearance < 50 mL/min due to any underlying cause.",
+        "  Karnofsky Performance status < 90%.",
+        "  Any significant medical condition that might interfere with treatment.",
+        "  Women participating in this study are not allowed to receive other bisphosphonate therapy during the study period, either oral or intravenous.",
+        "  Patients who are pregnant"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Response of Bone Marrow Micrometastases",
+        "  Median change in disseminated tumor cells (DTCs)/mL from baseline after 24 months",
+        "  Time frame: up to 2 years",
+        "Results 1: ",
+        "  Arm/Group Title: Zoledronic Acid",
+        "  Arm/Group Description: Patients who had greater than 4 disseminated tumor cells (DTCs)/mL present following neoadjuvant or adjuvant chemotherapy for early stage breast cancer were treated with 4mg zoledronic acid each month for 24 months.",
+        "  Overall Number of Participants Analyzed: 34",
+        "  Median (Full Range)",
+        "  Unit of Measure: DTCs/mL  -4.5        (-5.9 to 43.1)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/45 (2.22%)",
+        "  appendicitis 1/45 (2.22%)"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Clinical Trial ID": "NCT00819182",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Paced Respiration",
+        "  The paced respiration intervention group received a compact disc with paper booklet. The booklet reinforced instructions on the first audio track for how to accomplish a target breath rate of 6-8 breaths per minute, practice twice per day for 15 minutes, and apply the breathing at the onset of each hot flash. Women were instructed to do slow, deep, abdominal breathing in through the nose and out through the mouth as per international recommendations. They were also instructed to practice twice per day for 15 minutes as per the small, laboratory-based studies. The second and third tracks contained specially composed, digitally recorded music to help entrain the breath rate and structure the length of practice.",
+        "INTERVENTION 2: ",
+        "  Fast, Shallow Breathing",
+        "  The fast, shallow comparator group received a digital videodisc with paper booklet. The booklet reinforced voice-over and video demonstration to practice twice per day and apply the fast shallow breathing at the onset of each flash."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  At least 18 years of age",
+        "  Reporting daily hot flashes and desirous of hot flash treatment",
+        "  Peri- or post menopausal",
+        "  Living within a 60-mile radius of Indianapolis or willing to drive to the center for all study visits",
+        "  Able to read, write, and speak English",
+        "  in good general health",
+        "  In addition:",
+        "  Breast Cancer survivors will have a known diagnosis of non-metastatic disease",
+        "  No history of other cancers",
+        "  Be at least four weeks post-completion of surgery, radiation and chemotherapy",
+        "Exclusion Criteria:",
+        "  Known psychiatric disorders or cognitive impairments",
+        "  Participation in our previous pilot study evaluating our control condition",
+        "  Self-reported difficulties with normal everyday breathing",
+        "  Meet criteria at baseline for number of subjective and/or objective hot flashes"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Hot Flash Frequency",
+        "  Prospective, real-time electronic diary used by participants for a minimum of 24 hours to a maximum of 7 days. Duration of use was determined by participant choice.",
+        "  Time frame: 16 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Paced Respiration",
+        "  Arm/Group Description: The paced respiration intervention group received a compact disc with paper booklet. The booklet reinforced instructions on the first audio track for how to accomplish a target breath rate of 6-8 breaths per minute, practice twice per day for 15 minutes, and apply the breathing at the onset of each hot flash. Women were instructed to do slow, deep, abdominal breathing in through the nose and out through the mouth as per international recommendations. They were also instructed to practice twice per day for 15 minutes as per the small, laboratory-based studies. The second and third tracks contained specially composed, digitally recorded music to help entrain the breath rate and structure the length of practice.",
+        "  Overall Number of Participants Analyzed: 88",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: Hot flashes per 24 hr  3.48         (3.45)",
+        "Results 2: ",
+        "  Arm/Group Title: Fast, Shallow Breathing",
+        "  Arm/Group Description: The fast, shallow comparator group received a digital videodisc with paper booklet. The booklet reinforced voice-over and video demonstration to practice twice per day and apply the fast shallow breathing at the onset of each flash.",
+        "  Overall Number of Participants Analyzed: 86",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: Hot flashes per 24 hr  3.95         (4.19)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/88 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/86 (0.00%)"
+    ]
+}

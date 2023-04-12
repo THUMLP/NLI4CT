@@ -1,0 +1,52 @@
+{
+    "Clinical Trial ID": "NCT00880022",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Arm Compression Only",
+        "[Not Specified]",
+        "INTERVENTION 2: ",
+        "  Arm, Trunck and Chest Compression",
+        "[Not Specified]"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Individuals at least six months post- surgery and/or radiation treatment for breast cancer",
+        "  At least 21 years of age",
+        "  Lymphedema in one arm subsequent to breast cancer treatment with coexisting truncal swelling ** (Part One) and *lymphedema in one arm subsequent to breast cancer treatment without coexisting truncal swelling (Part Two)",
+        "  Willing and able to drive to the study site as needed",
+        "  Currently not using a compression pump or undergoing manual lymphatic drainage by a therapist",
+        "Exclusion Criteria:",
+        "  Actively undergoing or less than six months post intravenous chemotherapy or radiation therapy",
+        "  Individuals with congestive heart failure, chronic/acute renal disease, cor pulmonal, nephrotic syndrome, nephrosis, liver failure or cirrhosis, pulmonary edema, thrombophlebitis, deep vein thrombosis, infection of any kind and inflammation (redness) in the trunk or arms",
+        "  History of bilateral breast cancer",
+        "  Metastatic cancer",
+        "  Inability to stand upright",
+        "  Metal implants that would interfere with bioimpedance measurement equipment",
+        "  Pregnancy",
+        "  Pacemaker and internally implanted defibrillators"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Arm Volume at End of Study",
+        "  measured by tape and then volume was calculated.",
+        "  Time frame: end of scheduled treatments-day 30 of treatment",
+        "Results 1: ",
+        "  Arm/Group Title: Arm Compression Only",
+        "  Arm/Group Description: [Not Specified]",
+        "  Overall Number of Participants Analyzed: 21",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: ml  2376.52        (1934.68 to 2622.99)",
+        "Results 2: ",
+        "  Arm/Group Title: Arm, Trunck and Chest Compression",
+        "  Arm/Group Description: [Not Specified]",
+        "  Overall Number of Participants Analyzed: 21",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: ml  2539.93        (2168.28 to 3295.97)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/21 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/21 (0.00%)"
+    ]
+}

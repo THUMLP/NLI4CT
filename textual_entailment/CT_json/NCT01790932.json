@@ -1,0 +1,62 @@
+{
+    "Clinical Trial ID": "NCT01790932",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  BKM120",
+        "  BKM120: 100 mg capsule once daily each day of a 28 day cycle .",
+        "  Treatment with BKM120 will continue until disease progression, unacceptable toxicity or withdrawal for other reasons."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Pathologically and radiologically confirmed metastatic triple negative breast cancer",
+        "  Up to two prior lines of chemotherapy for metastatic breast cancer",
+        "  Availability of a representative tumor specimen",
+        "  At least one measurable lesion",
+        "Exclusion Criteria:",
+        "  Have received previous treatment with PI3K inhibitors",
+        "  Symptomatic central nervous system (CNS) metastases (controlled and asymptomatic CNS metastases are acceptable)",
+        "  Concurrent malignancy or has a malignancy within 3 years of study enrollment",
+        "  Any of the following mood disorders: active major depressive episode, bipolar disorder, obsessive-compulsive disorder, schizophrenia, history of suicidal attempt or ideation, homicidal ideation, greater than or equal to Common Toxicity Criteria for Adverse Events (CTCAE) grade 3 anxiety",
+        "  Concurrently using other approved or investigational antineoplastic agent and/or chemotherapy within 21 days prior to enrollment in this study",
+        "  Has received radiation therapy within 28 days prior to enrollment in this study or has not recovered from side effects of such therapy",
+        "  Major surgery within 28 days of starting therapy or has not recovered from major side effects of a previous surgery",
+        "  Poorly controlled diabetes mellitus",
+        "  History of cardiac dysfunction",
+        "  Currently receiving treatment with QT prolonging medication and the treatment cannot be discontinued or switched to a different medication",
+        "  Impairment of gastrointestinal (GI) function or GI disease that may significantly alter the absorption of BKM120",
+        "  Receiving chronic treatment with steroids or another immunosuppressive agent",
+        "  Other concurrent severe and/or uncontrolled medical condition that would contraindicate participation in this study",
+        "  History of non-compliance to a medical regimen",
+        "  Currently being treated with drugs known to be moderate or strong inhibitors or inducers of isoenzyme Cytochrome P450, family 3, subfamily A (CYP3A)",
+        "  Known history of human immunodeficiency virus (HIV)",
+        "  Pregnant or breastfeeding",
+        "  Unwilling to observe total abstinence or to use double barrier method for birth control throughout trial"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Clinical Benefit Rate",
+        "  Clinical benefit rate (CBR) was defined as the proportion of participants achieving complete response (CR), partial response (PR), or stable disease (SD) for 4 months or longer based on RECIST 1.1 criteria on treatment. Per RECIST 1.1 for target lesions: CR is complete disappearance of all target lesions and PR is at least a 30% decrease in the sum of longest diameter (LD) of target lesions, taking as reference baseline sum LD. PD is at least a 20% increase in sum LD of target lesions (smallest sum LD reference), new lesions, and/or unequivocal progression of existing non-target lesions. Stable disease (SD) is defined as any condition not meeting the above criteria.",
+        "  Time frame: Disease was evaluated radiologically at baseline and every 2 cycles on treatment then every 3 months up to 2 years. Participants in this study cohort were followed for response on average approximately 2 months.",
+        "Results 1: ",
+        "  Arm/Group Title: BKM120",
+        "  Arm/Group Description: BKM120: 100 mg capsule once daily each day of a 28 day cycle .",
+        "  Treatment with BKM120 will continue until disease progression, unacceptable toxicity or withdrawal for other reasons.",
+        "  Overall Number of Participants Analyzed: 50",
+        "  Measure Type: Number",
+        "  Unit of Measure: proportion of participants  0.12        (0.056 to 0.238)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 17/50 (34.00%)",
+        "  Fatigue 4/50 (8.00%)",
+        "  Papulopustular rash 1/50 (2.00%)",
+        "  Alanine aminotransferase increased 5/50 (10.00%)",
+        "  Aspartate aminotransferase increased 4/50 (8.00%)",
+        "  Alkalosis 1/50 (2.00%)",
+        "  Anorexia 1/50 (2.00%)",
+        "  Hyperglycemia 2/50 (4.00%)",
+        "  Nervous system disorders - Other 1/50 (2.00%)",
+        "  Dry skin 1/50 (2.00%)",
+        "  Rash acneiform 1/50 (2.00%)"
+    ]
+}

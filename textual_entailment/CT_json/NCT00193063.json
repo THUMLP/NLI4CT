@@ -1,0 +1,53 @@
+{
+    "Clinical Trial ID": "NCT00193063",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Gemcitabine/Trastuzumab",
+        "  All patients entering this trial received treatment with a combination of gemcitabine and trastuzumab. Gemcitabine 1000 mg/m2 was administered intravenously on days 1, 8,and 15 of a 28-day cycle. Trastuzumab was administered as a 4 mg/kg intravenous loading dose on day 1 and subsequently at a dose of 2 mg/kg on a weekly basis."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  To be included in this study, you must meet the following criteria:",
+        "  Her-2 positive metastatic breast cancer confirmed by biopsy",
+        "  Measurable disease",
+        "  Able to perform activities of daily living without considerable",
+        "  No previous chemotherapy with gemcitabine",
+        "  No more than one prior chemotherapy regimen for metastatic breast cancer",
+        "  Adequate bone marrow, liver and renal function",
+        "  Normal heart function",
+        "  Give written informed consent prior to entering this study.",
+        "Exclusion Criteria:",
+        "  You cannot participate in this study if any of the following apply to you:",
+        "  Received previous treatment with gemcitabine",
+        "  History of brain metastases",
+        "  Serious underlying medical conditions",
+        "  Please note: There are additional inclusion/exclusion criteria. The study center will determine if you meet all of the criteria. If you do not qualify for the trial, study personnel will explain the reasons. If you do qualify, study personnel will explain the trial in detail and answer any questions you may have."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Overall Response Rate (ORR)",
+        "  The Percentage of Patients Who Experience an Objective Benefit From Treatment. Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by MRI or CT: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), >=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR.",
+        "  Time frame: 18 Months",
+        "Results 1: ",
+        "  Arm/Group Title: Gemcitabine/Trastuzumab",
+        "  Arm/Group Description: All patients entering this trial received treatment with a combination of gemcitabine and trastuzumab. Gemcitabine 1000 mg/m2 was administered intravenously on days 1, 8,and 15 of a 28-day cycle. Trastuzumab was administered as a 4 mg/kg intravenous loading dose on day 1 and subsequently at a dose of 2 mg/kg on a weekly basis.",
+        "  Overall Number of Participants Analyzed: 37",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  30        (17 to 46)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 14/41 (34.15%)",
+        "  Cardiac ischemia/infarction 2/41 (4.88%)",
+        "  Duodenal ulcer 1/41 (2.44%)",
+        "  Vomiting 2/41 (4.88%)",
+        "  Fever 2/41 (4.88%)",
+        "  Death NOS 1/41 (2.44%)",
+        "  Liver failure 1/41 (2.44%)",
+        "  Infection - pneumonia 2/41 (4.88%)",
+        "  Infection - port site 2/41 (4.88%)",
+        "  Infection - urinary tract 1/41 (2.44%)",
+        "  Disease progression 3/41 (7.32%)",
+        "  Confusion 1/41 (2.44%)"
+    ]
+}

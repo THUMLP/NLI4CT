@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT01805089",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Melatonin",
+        "  Taken orally, once per day, at/around 9:00pm",
+        "Melatonin",
+        "INTERVENTION 2: ",
+        "  Placebo",
+        "  Taken orally, once per day, at/around 9:00pm",
+        "Placebo"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  History of ductal carcinoma in situ, lobular carcinoma in situ or stages 1-3 breast cancer",
+        "  Not currently receiving chemotherapy or hormonal therapy",
+        "  Postmenopausal",
+        "Exclusion Criteria:",
+        "  Stage IV breast cancer or systemic recurrences",
+        "  Prior malignancies of any type other than breast cancer, basal or squamous cell carcinoma of the skin or carcinoma in situ of the cervix",
+        "  Use of adjuvant hormonal therapy, oral estrogen or progesterone replacement therapy, lutenizing hormone releasing hormone agonists currently or within the past 60 days",
+        "  Concomitant use of beta-blockers",
+        "  Concomitant nightly use of sleep aids at bedtime",
+        "  Working more than one overnight shift per month on a regular basis",
+        "  Concomitant use of postmenopausal hormone replacement therapy",
+        "  Concomitant use of black cohosh, flaxseed or soy in pill or supplement form",
+        "  Use of any type of oral melatonin supplementation within the past 30 days",
+        "  Use of warfarin (coumadin) within the past 30 days",
+        "  Active seizure disorder requiring the use of daily anti-epileptic medication"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Absolute Plasma Estradiol Levels After 4 Month Course of Melatonin or Placebo",
+        "  Absolute plasma estradiol levels after 4 month course of melatonin or placebo, only 4 month level provided below.",
+        "  Time frame: 4 months",
+        "Results 1: ",
+        "  Arm/Group Title: Melatonin",
+        "  Arm/Group Description: Taken orally, once per day, at/around 9:00pm",
+        "  Melatonin",
+        "  Overall Number of Participants Analyzed: 43",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: pg/ml  4.59         (3.42)",
+        "Results 2: ",
+        "  Arm/Group Title: Placebo",
+        "  Arm/Group Description: Taken orally, once per day, at/around 9:00pm",
+        "  Placebo",
+        "  Overall Number of Participants Analyzed: 43",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: pg/ml  3.39         (2.25)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/48 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/47 (0.00%)"
+    ]
+}

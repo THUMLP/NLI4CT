@@ -1,0 +1,48 @@
+{
+    "Clinical Trial ID": "NCT03719677",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Habit Development Intervention",
+        "  Treatment includes occupational therapy evaluation and consultation to address any deficits in physical function, safety, social participation and/or life roles. After the occupational therapy evaluation, the therapist delivers education on physical activity and dietary recommendations and habit development techniques, and uses behavioral skills training to develop habit plans, as well as prompts/cues, environmental modifications, and reminder text messages to reinforce engagement in the plan. The intervention is delivered through 3 face to face sessions, 9 tele coaching calls, and text messages.",
+        "  Habit development intervention: Lifestyle behavior change intervention targeting physical activity and dietary habit development as well as improving physical and social functioning"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  English speaking",
+        "  Diagnosis of stage 1-3 histologically confirmed first cancer of the breast",
+        "  Reside in a zip code designated as rural by the United States Department of Agriculture Economic Research Service",
+        "  Be within the initial 12 months following the end of primary treatment and meet 3 of the following 5 criteria for MetS confirmed via point-of-care testing or documentation in their medical record:",
+        "  A large waistline > 35 inches Blood pressure > 130/85; HbA1c of 5.7%-6.4%; Triglyceride levels > 150 mg/dL; HDL cholesterol levels < 50 mg/dL",
+        "Exclusion Criteria:",
+        "  Will not exclude participants based on hormone receptivity, one exception is that we will exclude HER2 positive BCS",
+        "  Pregnant patients",
+        "  Resistant Hypertension",
+        "  Steroid-dependent asthma or Chronic obstructive pulmonary disease",
+        "  Cirrhosis or hepatic failure",
+        "  A major cardiovascular event (e.g., stroke, myocardial infarction) within the previous 90 days",
+        "  Chronic kidney disease on renal replacement therapy",
+        "  Type one or two diabetes",
+        "  Stage 4 cancer; those with a secondary cancer (except for nonmelanomatous skin cancers and carcinoma of the cervix in situ)",
+        "  Taking weight loss medications",
+        "  Current involvement in a behavioral program",
+        "  Neuropsychiatric disorder or dementia"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Self Reported Behavioral Automaticity Index",
+        "  Measures changes in habit strength, scores range from 1-7 with higher scores indicating a stronger habit",
+        "  Time frame: From week 0-2",
+        "Results 1: ",
+        "  Arm/Group Title: Habit Development Intervention",
+        "  Arm/Group Description: Treatment includes occupational therapy evaluation and consultation to address any deficits in physical function, safety, social participation and/or life roles. After the occupational therapy evaluation, the therapist delivers education on physical activity and dietary recommendations and habit development techniques, and uses behavioral skills training to develop habit plans, as well as prompts/cues, environmental modifications, and reminder text messages to reinforce engagement in the plan. The intervention is delivered through 3 face to face sessions, 9 tele coaching calls, and text messages.",
+        "  Habit development intervention: Lifestyle behavior change intervention targeting physical activity and dietary habit development as well as improving physical and social functioning",
+        "  Overall Number of Participants Analyzed: 7",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: score on a scale  Baseline: 1.6         (1.3)",
+        "  Post test: 4.8         (2.1)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/7 (0.00%)"
+    ]
+}

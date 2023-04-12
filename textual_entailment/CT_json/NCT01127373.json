@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT01127373",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Radiation Therapy Via Multi-beam IMRT",
+        "  This is a single-arm feasibility study of multi-beam IMRT with daily set-up verification in the treatment of women with node-positive breast cancer who will receive radiation to the breast/chest wall and regional lymph nodes, including the internal mammary lymph nodes.",
+        "  Multi-Beam Intensity-Modulated Radiation Therapy: IMRT with multiple beams will be utilized to treat the breast or chest wall and axillary, supraclavicular and internal mammary lymph nodes. Treatment will be delivered once a day, 5 days a week for approximately 5 weeks. All missed radiation treatment visits will be made up. Daily set-up error will be checked prior to the delivery of every treatment.",
+        "  BreastQ questionnaire-: MSKCC Department of Surgery. For patients who received a mastectomy with or without reconstruction, the questionnaire will be administered at baseline and 5-7 months after treatment."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female gender",
+        "  Age 18 years",
+        "  An invasive primary breast cancer of any histology arising from breast parenchyma",
+        "  Patient must be status post mastectomy or partial mastectomy with an assessment of axillary nodes via sentinel lymph node biopsy and/or axillary lymph node dissection",
+        "  Pathologic confirmation of metastatic disease in at least one regional lymph node. Regional lymph nodes are defined as the ipsilateral axillary lymph nodes, ipsilateral supraclavicular lymph nodes, and ipsilateral internal mammary lymph nodes. Thus, any T stage is allowed as long as the N stage is 1 and M stage is 0.",
+        "  Patient signed study-specific consent form.",
+        "Exclusion Criteria:",
+        "  Patients with distant metastasis.",
+        "  Patients who are pregnant or breastfeeding.",
+        "  Patients with psychiatric or addictive disorders that would preclude obtaining informed consent.",
+        "  Time between initial diagnosis of breast cancer and start of radiation therapy exceeds 13 months.",
+        "  Estimated life expectancy judged to be less than one year by patient's treating radiation oncologist.",
+        "  Prior radiation therapy to the ipsilateral or contralateral breast or thorax.",
+        "  Primary breast cancer is a lymphoma or sarcoma histology.",
+        "  Patients with a history of non-skin malignancy <5 years prior to the diagnosis of breast cancer.",
+        "  Patients requiring radiation to the bilateral breasts."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Count of Participants Receiving Adjuvant Radiation Therapy Via Multi-beam IMRT Using Daily 3D Position Verification",
+        "  The purpose of this pilot study is to assess the feasibility of utilizing multi-beam IMRT in the adjuvant treatment of the breast and regional lymph nodes of women with node-positive breast cancer requiring coverage of the internal mammary lymph nodes. A feasibility rate of at least 90% is required, ie, treatment can be successfully planned and delivered for at least 90% of the patients.",
+        "  Time frame: 5 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Radiation Therapy Via Multi-beam IMRT",
+        "  Arm/Group Description: This is a single-arm feasibility study of multi-beam IMRT with daily set-up verification in the treatment of women with node-positive breast cancer who will receive radiation to the breast/chest wall and regional lymph nodes, including the internal mammary lymph nodes.",
+        "  Multi-Beam Intensity-Modulated Radiation Therapy: IMRT with multiple beams will be utilized to treat the breast or chest wall and axillary, supraclavicular and internal mammary lymph nodes. Treatment will be delivered once a day, 5 days a week for approximately 5 weeks. All missed radiation treatment visits will be made up. Daily set-up error will be checked prior to the delivery of every treatment.",
+        "  BreastQ questionnaire-: MSKCC Department of Surgery. For patients who received a mastectomy with or without reconstruction, the questionnaire will be administered at baseline and 5-7 months after treatment.",
+        "  Overall Number of Participants Analyzed: 116",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Discontinued IMRT due to disease progression: 1   0.9%",
+        "  Completed IMRT: 111  95.7%",
+        "  Ineligible: 4   3.4%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 10/116 (8.62%)",
+        "  Death not assoc w CTCAE term-Disease prog NOS  1/116 (0.86%)",
+        "  Fever (in the absence of neutropenia)  1/116 (0.86%)",
+        "  Pain - Chest/thorax NOS  1/116 (0.86%)",
+        "  Breast Infection  1/116 (0.86%)",
+        "  Back Pain  1/116 (0.86%)",
+        "  Muscle weakness - Whole body/general  1/116 (0.86%)",
+        "  Pain - Back  1/116 (0.86%)",
+        "  Dysarthria  1/116 (0.86%)"
+    ]
+}

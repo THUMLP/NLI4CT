@@ -1,0 +1,36 @@
+{
+    "Clinical Trial ID": "NCT03190083",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  3-dimensional Tomosynthesis Mammogram",
+        "  The patients assigned a Breast imaging-reporting and data system (BIRADS) 5 category at the time of diagnosis and all new diagnosed breast cancer patients, will undergo a separate 2-D plus DBT in addition to the standard 2-D mammogram",
+        "  2-dimensional mammogram: This is standard of care for breast cancer diagnosis. The new breast cancer patients will be scheduled for the mammogram after diagnosis at the time of surgical appointment. The radiologist reviewing the tomosynthesis images will be separate and blinded from the radiologist who reviewed the initial 2-D mammogram.",
+        "  digital breast tomosynthesis (DBT): The radiation dose from this/these procedure(s) will be no more than 0.4mSv for a bi-lateral breast tomosynthesis. The new breast cancer patients will be scheduled for the mammogram after diagnosis at the time of surgical appointment. The radiologist reviewing the tomosynthesis images will be separate and blinded from the radiologist who reviewed the initial 2-D mammogram."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  New diagnosis of breast cancer",
+        "  New diagnosis if a previous breast cancer patient with negative surgical margins",
+        "  Patients willing to sign a written informed consent form",
+        "Exclusion Criteria:",
+        "  High risk benign lesions as the primary pathology diagnosis"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants for Which DBT Altered Surgical Plan",
+        "  Only positive findings, like an additional site of cancer or atypical pathology like Atypical ductal/ lobular hyperplasia, papilloma, DCIS/LCIS (findings requiring surgical intervention), will be taken into account when estimating the frequency of changes to surgical management",
+        "  Time frame: At completion of 3-Dimensional mammogram (1 day)",
+        "Results 1: ",
+        "  Arm/Group Title: 3-dimensional Tomosynthesis Mammogram",
+        "  Arm/Group Description: The patients assigned a Breast imaging-reporting and data system (BIRADS) 5 category at the time of diagnosis and all new diagnosed breast cancer patients, will undergo a separate 2-D plus DBT in addition to the standard 2-D mammogram",
+        "  2-dimensional mammogram: This is standard of care for breast cancer diagnosis. The new breast cancer patients will be scheduled for the mammogram after diagnosis at the time of surgical appointment. The radiologist reviewing the tomosynthesis images will be separate and blinded from the radiologist who reviewed the initial 2-D mammogram.",
+        "  digital breast tomosynthesis (DBT): The radiation dose from this/these procedure(s) will be no more than 0.4mSv for a bi-lateral breast tomosynthesis. The new breast cancer patients will be scheduled for the mammogram after diagnosis at the time of surgical appointment. The radiologist reviewing the tomosynthesis images will be separate and blinded from the radiologist who reviewed the initial 2-D mammogram.",
+        "  Overall Number of Participants Analyzed: 16",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  0   0.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/16 (0.00%)"
+    ]
+}

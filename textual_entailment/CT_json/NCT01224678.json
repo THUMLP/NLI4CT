@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT01224678",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Placebo",
+        "  Patients receive oral placebo once daily for 12 months.",
+        "INTERVENTION 2: ",
+        "  Vitamin D",
+        "  Patients receive oral vitamin D (2000 IU) once daily for 12 months."
+    ],
+    "Eligibility": [
+        "Premenopausal women 55 years of age or younger with regular menstrual cycles (at least four cycles in the last six months). Women with fewer than 4 menses in the last 6 months or who have had a hysterectomy with ovaries intact will be considered premenopausal if FSH level < 20.",
+        "  Women with breast density  25% (scattered fibroglandular densities or greater) are eligible.",
+        "  Prior Treatment",
+        "  Patients who are currently receiving hormone replacement therapy (estrogen or progesterone); or are taking tamoxifen or raloxifene are not eligible. Women who have taken these medications must have stopped for at least 4 months prior to study entry.",
+        "  Topical estrogen (eg, transdermal patches and vaginal estrogens) is allowed.",
+        "  Patients who are currently using hormonal contraception, should be taking it for at least 4 months prior to study entry.",
+        "  Vitamin D Use",
+        "  Patients who are taking regular vitamin D supplementation (above 400 IUs daily) and refuse or are unable to stop use are not eligible. Women who agree to stop will need to do so for at least 6 months prior to registration.",
+        "  Patients may not start vitamin D supplementation after registration (regardless of results of vitamin D testing) but they may continue vitamin D if they are already taking 400 IUs daily or less and have been taking vitamin D for at least 6 months prior to baseline mammogram.",
+        "  Patients with a history of breast cancer (including DCIS) or ovarian cancer are not eligible.",
+        "  Patients with a history of breast implants or breast reduction are not eligible.",
+        "  Patients with two or more bone fractures in the past five years are not eligible.",
+        "  Patients with a diagnosis of osteoporosis with physician recommendation for treatment of low bone mass are not eligible.",
+        "  Patients known to have hyperparathyroid disease or other serious disturbances of calcium metabolism requiring intervention in the past 5 years are not eligible.",
+        "  Patients with a history of kidney stones (unless documented not to have been a calcium stone) are not eligible.",
+        "  Patients participating in a concurrent breast cancer chemoprevention trial are not eligible.",
+        "  Required initial laboratory values - Calcium < 10.5 mg/dL"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percent Change (Between Baseline and Month 12) in Mammographic Density by the Boyd Method Compared Between Arms",
+        "  To evaluate change in mammographic density using the Boyd method after one year of vitamin D supplementation compared to placebo in premenopausal women. The percent change in breast density will be reported here.",
+        "  Time frame: 12 months",
+        "Results 1: ",
+        "  Arm/Group Title: Placebo",
+        "  Arm/Group Description: Patients receive oral placebo once daily for 12 months.",
+        "  Overall Number of Participants Analyzed: 46",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: percent change  -3.4         (7.1)",
+        "Results 2: ",
+        "  Arm/Group Title: Vitamin D",
+        "  Arm/Group Description: Patients receive oral vitamin D (2000 IU) once daily for 12 months.",
+        "  Overall Number of Participants Analyzed: 40",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: percent change  -1.4         (11.9)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/150 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

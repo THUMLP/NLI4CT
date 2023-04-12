@@ -1,0 +1,40 @@
+{
+    "Clinical Trial ID": "NCT02419807",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Diagnostic (Indocyanine Green, 99mTc-labeled Radiotracer)",
+        "  Participants receive technetium Tc-99m sulfur colloid injection and undergo lymphoscintigraphy according to clinical practice. Prior to surgery, participants also receive indocyanine green solution subdermally close to the tumor or into subareolar region of the breast skin. Participants then undergo Axillary Lymph Node Biopsy and surgery."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Participants with a confirmed diagnosis of clinical stage 1 or 2 breast cancer",
+        "  Participants who are undergoing breast cancer surgery with lumpectomy or mastectomy",
+        "  Participants with planned axillary sentinel node biopsy procedure",
+        "Exclusion Criteria:",
+        "  Participants with cancer > 3 cm",
+        "  Participants with clinically positive nodes",
+        "  Participants with prior surgery for breast cancer in the index breast",
+        "  Participants who have had bilateral breast surgeries",
+        "  Thyroid dysfunction",
+        "  Hypersensitivity to iodine",
+        "  Hepatic insufficiency",
+        "  Renal insufficiency"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Proportion of Sentinel Lymph Nodes (SLNs) Flagged by the Two Methods",
+        "  Let A be the number of Tc-positive and ICG-positive sentinel nodes (SNs) detected, B be the number of Tc-positive and ICG-negative SNs detected, and C be the number of Tc-negative and ICG-positive SNs detected. The total number (N) of SNs detected is therefore N = (A + B + C); the proportion of SNs detected by the Tc method (PTc) is (A + B)/N; and the proportion of SNs detected by the ICG method (PICG) is (A + C)/N. Differences in the proportions of SLNs flagged will be compared using a two-sided 95% confidence interval.",
+        "  Time frame: Baseline",
+        "Results 1: ",
+        "  Arm/Group Title: Diagnostic (Indocyanine Green, 99mTc-labeled Radiotracer)",
+        "  Arm/Group Description: Participants receive technetium Tc-99m sulfur colloid injection and undergo lymphoscintigraphy according to clinical practice. Prior to surgery, participants also receive indocyanine green solution subdermally close to the tumor or into subareolar region of the breast skin. Participants then undergo Axillary Lymph Node Biopsy and surgery.",
+        "  Overall Number of Participants Analyzed: 92",
+        "  Measure Type: Number",
+        "  Unit of Measure: proportion of nodes  Proportion of SNs (PTc) detected by Tc method: 0.86",
+        "  Proportion of SNs (PICG) detected by ICG method: 0.95"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/102 (0.00%)"
+    ]
+}

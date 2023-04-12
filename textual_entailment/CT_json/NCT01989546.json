@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT01989546",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Talazoparib (BMN 673)",
+        "  Single-agent BMN 673 (talazoparib) dosed orally at 1 mg/day in 28-day cycles. This poly (ADP-ribose) polymerase (PARP) inhibitor has been shown to cause single-agent synthetic lethality in breast cancer 1 and breast cancer 2 (BRCA1/2)- and phosphatase and tensin homolog (PTEN)-deficient cell lines, and has potent antitumor activity in animal models of tumors harboring mutations in deoxyribonucleic acid (DNA) repair pathways."
+    ],
+    "Eligibility": [
+        "INCLUSION CRITERIA:",
+        "  Adult patients with documented deleterious breast cancer 1 and breast cancer 2 (BRCA 1 or 2) mutations with histologically confirmed ovarian, primary peritoneal, breast, prostate, pancreas, gastric or other solid tumor whose disease has progressed following at least one standard therapy or who have no acceptable standard treatment options.",
+        "  Patients with ovarian cancer should have one prior platinum-based",
+        "  chemotherapeutic regimen for management of primary disease containing carboplatin, cisplatin, or another organoplatinum compound. This initial treatment may have included intraperitoneal therapy, consolidation, biologic/targeted (noncytotoxic) agents or extended therapy administered after surgical or non-surgical",
+        "  assessment. Ovarian cancer patients with both platinum-sensitive and platinum resistant disease are eligible. Patients with platinum-refractory disease are NOT eligible.",
+        "  Patients with metastatic disease must have received at least one line of standard of care (SOC) treatment for metastatic disease prior to enrollment",
+        "  Age greater than or equal to 18 years of age.",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status less than or equal to 2",
+        "  Life expectancy of greater than 3 months.",
+        "  Patients must have normal organ and marrow function as defined below:",
+        "  leukocytes greater than or equal to 3,000/mcL",
+        "  absolute neutrophil count greater than or equal to 1,500/mcL",
+        "  platelets greater than or equal to 100,000/mcL",
+        "  total bilirubin less than or equal to 1.5 times institutional upper limit of normal",
+        "  Aspartate aminotransferase (AST) Serum glutamic-oxaloacetic transaminase (SGOT)/alanine aminotransferase (ALT) Serum glutamic pyruvic transaminase (SGPT) less than or equal to 3 times institutional upper limit of normal",
+        "  creatinine less than or equal to 1.5 times institutional upper limit of normal",
+        "  OR",
+        "  --creatinine clearance greater than or equal to 60 mL/min for patients with creatinine levels above institutional normal.",
+        "  The effects of BMN 673 on the developing human fetus are unknown. For this reason and because PARP inhibitors are known to be teratogenic, women of childbearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry, for the duration of study participation, and for 30 days after completing study treatment. Should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately. Men treated or enrolled on this protocol must also agree to use adequate contraception prior to the study, for the duration of study participation, and for 3 months after completion of BMN 673 administration.",
+        "  Patients must be able to swallow whole tablets or capsules. Nasogastric or G-tube administration is not allowed. Any gastrointestinal disease which would impair ability to swallow, retain, or absorb drug is not allowed.",
+        "  Ability to understand and the willingness to sign a written informed consent document.",
+        "  Patients with human epidermal growth factor receptor 2 (HER2)-positive advanced breast cancer or ovarian cancer should have received at least two lines of systemic therapy in the advanced setting.",
+        "  Patients with prostate cancer can continue to receive treatment with Gonadotropin-releasing hormone (GnRH) agonists while on study, as long as there is evidence of disease progression on therapy.",
+        "EXCLUSION CRITERIA:",
+        "  Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier. Patients who have had prior treatment with any PARP inhibitors are ineligible.",
+        "  Patients who are receiving any other investigational agents.",
+        "  Patients with known active brain metastases or carcinomatous meningitis are excluded from this clinical trial. Patients whose brain metastatic disease status has remained stable for greater than or equal to 4 weeks following treatment of brain metastases are eligible to participate at the discretion of the principal investigator.",
+        "  Eligibility of subjects receiving any medications or substances with the potential to affect the activity or pharmacokinetics of BMN 673 will be determined following review by the principal investigator.",
+        "  Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.",
+        "  Pregnant women are excluded from this study because the effects of the study drugs on the developing fetus are unknown.",
+        "  human immunodeficiency virus (HIV)-positive patients on combination antiretroviral therapy are ineligible because of the potential for pharmacokinetic interactions with BMN 673. In addition, these patients are at increased risk of lethal infections when treated with marrow suppressive therapy. Appropriate studies will be undertaken in patients receiving combination antiretroviral therapy when indicated.",
+        "  Patients who require use of coumarin-derivative anticoagulants such as warfarin are excluded. Low molecular weight heparin is permitted for prophylactic or therapeutic use. Low-dose warfarin (less than or equal to 1 mg/day) is permitted.",
+        "  Women who are currently lactating"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percent of Participants Who Achieve a Sustained Progressive Disease (PD) Response, Defined to be at Least 4% Nuclear Area Positive (NAP) \u03b3H2AX at the Day 8 Biopsy",
+        "  Evaluation of drug effect on deoxyribonuclecic acid (DNA) damage response will be performed using immunofluorescence assays to measure the DNA damage repair marker \u03b3H2A (the phosphorylated form of histone family member X, H2AX) in the nucleus of tumor cells obtained via core biopsy.",
+        "  Time frame: Cycle 1, day 8",
+        "Results 1: ",
+        "  Arm/Group Title: Talazoparib (BMN 673)",
+        "  Arm/Group Description: Single-agent BMN 673 (talazoparib) dosed orally at 1 mg/day in 28-day cycles. This poly (ADP-ribose) polymerase (PARP) inhibitor has been shown to cause single-agent synthetic lethality in breast cancer 1 and breast cancer 2 (BRCA1/2)- and phosphatase and tensin homolog (PTEN)-deficient cell lines, and has potent antitumor activity in animal models of tumors harboring mutations in deoxyribonucleic acid (DNA) repair pathways.",
+        "  Overall Number of Participants Analyzed: 9",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  44.4"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 3/9 (33.33%)",
+        "  Anemia 3/9 (33.33%)",
+        "  Platelet count decreased 1/9 (11.11%)",
+        "  Hypocalcemia 1/9 (11.11%)",
+        "  Hypokalemia 1/9 (11.11%)"
+    ]
+}

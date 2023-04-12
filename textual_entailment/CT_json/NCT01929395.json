@@ -1,0 +1,46 @@
+{
+    "Clinical Trial ID": "NCT01929395",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Phase 1: Addition of Supine MRI to Conventional Imaging",
+        "  Pre-operative supine MRI with intraoperative optical scanning and tracking (group MRI)"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria Phase 1",
+        "  Age greater than/equal to 18 years",
+        "  Histologic diagnosis of palpable invasive breast cancer or ductal carcinoma in situ",
+        "  Patient desire to undergo breast surgery",
+        "  3. Patients will have provided informed consent to participate, documented by their signature on the study consent form 4. The cancer enhances on breast MRI imaging.",
+        "  Inclusion Criteria Phase 2",
+        "  Age greater than/equal to 18 years",
+        "  Histologic diagnosis of invasive breast cancer or ductal carcinoma in situ",
+        "  The tumor is visible and enhances on prone MRI and is >1 cm in greatest diameter.",
+        "  . Determination by the surgeon that the neoplasm is non-palpable.A patient with a palpable hematoma from core biopsy, but a non-palpable neoplasm, will be eligible for study",
+        "  Patient desire to undergo breast conserving surgery",
+        "  Patients will have provided informed consent to participate, documented by their signature on the study consent form.The process of informed consent will be documented in the medical record and a copy of the signed consent form will be given to the patient.",
+        "  Exclusion Criteria (Phases 1 and 2)",
+        "  Absolute contraindication to MRI, including presence of implanted electrical device (pacemaker or neurostimulator), aneurysm clip or metallic foreign body in or near eyes",
+        "  Severe claustrophobia",
+        "  Contraindication to use of gadolinium based intravenous contrast, including life threatening allergy or compromised renal function (creatinine > 2.0)",
+        "  History of median sternotomy",
+        "  Pregnancy (Patient attestation that they are not pregnant will be acceptable, as per standard, as per standard policy for MRIs at DHMC).",
+        "  Multicentric breast cancer, defined as two or more tumors in different quadrants of the breast. An eligibility worksheet will be completed for each patient prior to enrollment and will be signed and dated by the surgeon investigator"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  The Mean Distance Between the Image-defined and Palpation-defined Edges of the Tumor.",
+        "  Mean calculated from differences in precise distances from the nipple to the superior, inferior, medial and lateral edges of the tumor as determined from the adjusted MRI images and conventional MRI.",
+        "  Time frame: From baseline MRI to intraoperative measurements: 30 days",
+        "Results 1: ",
+        "  Arm/Group Title: Phase 1: Addition of Supine MRI to Conventional Imaging",
+        "  Arm/Group Description: Pre-operative supine MRI with intraoperative optical scanning and tracking (group MRI)",
+        "  Overall Number of Participants Analyzed: 18",
+        "  Mean (Full Range)",
+        "  Unit of Measure: mm  7.2        (0 to 19)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/18 (0.00%)",
+        "  Hematoma  [1]0/18 (0.00%)"
+    ]
+}

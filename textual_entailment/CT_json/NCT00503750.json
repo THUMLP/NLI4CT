@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT00503750",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Trastuzumab and Abraxane Followed Trastuzumab and Vinorelbine",
+        "  Patients will be treated sequentially with preoperative trastuzumab and dose-dense ABI-007 followed by trastuzumab in combination with vinorelbine. Trastuzumab will be administered as a one-time loading dose of 4 mg/kg as a 90 minute infusion, followed by 20 weekly treatments at 2 mg/kg as a 30 minute infusion. ABI-007 will be administered every 2 weeks at a dose of 260mg/m2 as 30 minute infusion on the same days as trastuzumab for a total of 4 cycles (weeks 1 -8). Growth factor support with pegfilgrastim (Neulasta\u00ae) is required 24 to 48 hours following completion of each cycle of ABI-007. Beginning week 9, patients will then receive weekly vinorelbine at a dose of 25mg/m2 for 12 weeks on the same day as trastuzumab for a total of 4 cycles (weeks 9-20). As per standard treatment of HER2-positive breast cancers, patients will continue to receive trastuzumab every 3 weeks at 6 mg/kg beginning week 21 through week 52."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically or cytologically confirmed invasive breast carcinoma.",
+        "  Early stage breast cancer - stage I (tumor size greater than 1 cm), II and IIA.",
+        "  3+ HER2 overexpression by IHC or 2+ HER2 overexpression and FISH positivity.",
+        "  Patients must have measurable disease as defined by palpable lesion with both diameters greater than or equal to 1 cm measurable with caliper and/or a positive mammogram or ultrasound with at least one dimension greater than or equal to 1 cm. Bilateral mammogram and clip placement is required for study entry. Baseline measurements of the indicator lesions must be recorded on the patient registration form. To be valid for baseline, the measurements must have been made within the 14 days (4-6 weeks for x-rays and scans) immediately preceding patient's entry in study.",
+        "  ECOG performance status 0 to 2 within 14 days of study entry.",
+        "  Normal (greater than 50%) left ventricular ejection fraction (LVEF) by MUGA scan or echocardiography.",
+        "  Must be 18 years of age or older.",
+        "  Women or men of childbearing potential must use a reliable and appropriate contraceptive method. Postmenopausal women must be amenorrheic for at least 12 months to be considered of non-childbearing potential.",
+        "  Final eligibility for a clinical trial is determined by the health professionals conducting the trial.",
+        "Exclusion Criteria:",
+        "  Evidence of disease outside the breast or chest wall, except ipsilateral axillary lymph nodes.",
+        "  Prior chemotherapy, hormonal therapy, biologic therapy or radiation therapy for breast cancer. Patients with history of DCIS are eligible if they were treated with surgery alone.",
+        "  Medical, psychological, or surgical condition which the investigator feels might compromise study participation.",
+        "  Pregnant or lactating women are not eligible.",
+        "  Patients with history of previous or current malignancy at other sites with the exception of adequately treated carcinoma in situ of the cervix or basal or squamous cell carcinoma of the skin. Patients with a history of other malignancies who remain disease free for greater than five years are eligible.",
+        "  Evidence of sensory and/or peripheral neuropathy.",
+        "  Serious, uncontrolled, concurrent infections.",
+        "  Major surgery within 4 weeks of the start of study treatment without complete recovery.",
+        "  Final eligibility for a clinical trial is determined by the health professionals conducting the trial."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Complete Pathologic Response.",
+        "  Pathologic complete response (pCR): Absence of invasive breast cancer in the breast (mastectomy or lumpectomy) specimen at the time of definitive surgery. Presence of in situ cancer alone will be considered a pCR.",
+        "  Although clinical examination is the primary method of determining response, radiologic assessments (mammogram, ultrasound \u00b1 MRI) may be used to confirm response/non-response.",
+        "  Time frame: assess at 8 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Trastuzumab and Abraxane Followed Trastuzumab and Vinorelbine",
+        "  Arm/Group Description: Patients will be treated sequentially with preoperative trastuzumab and dose-dense ABI-007 followed by trastuzumab in combination with vinorelbine. Trastuzumab will be administered as a one-time loading dose of 4 mg/kg as a 90 minute infusion, followed by 20 weekly treatments at 2 mg/kg as a 30 minute infusion. ABI-007 will be administered every 2 weeks at a dose of 260mg/m2 as 30 minute infusion on the same days as trastuzumab for a total of 4 cycles (weeks 1 -8). Growth factor support with pegfilgrastim (Neulasta  ) is required 24 to 48 hours following completion of each cycle of ABI-007. Beginning week 9, patients will then receive weekly vinorelbine at a dose of 25mg/m2 for 12 weeks on the same day as trastuzumab for a total of 4 cycles (weeks 9-20). As per standard treatment of HER2-positive breast cancers, patients will continue to receive trastuzumab every 3 weeks at 6 mg/kg beginning week 21 through week 52.",
+        "  Overall Number of Participants Analyzed: 27",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  13"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 12/27 (44.44%)",
+        "  Anemia1/27 (3.70%)",
+        "  Fatigue1/27 (3.70%)",
+        "  Neuropathy3/27 (11.11%)",
+        "  Neutropenia6/27 (22.22%)"
+    ]
+}

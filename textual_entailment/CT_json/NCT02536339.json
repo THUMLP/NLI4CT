@@ -1,0 +1,56 @@
+{
+    "Clinical Trial ID": "NCT02536339",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Pertuzumab + Trastuzumab",
+        "  Participants with CNS metastases secondary to HER2-positive MBC, who had disease progression in the brain following previous treatment with radiotherapy (whole-brain radiation therapy or stereotactic radiosurgery) for brain metastases, received treatment with pertuzumab in combination with high-dose trastuzumab until disease progression, unacceptable toxicity, withdrawal of consent, or study termination by the Sponsor, whichever occurred first."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Pathologically confirmed HER2-positive MBC",
+        "  Progression of or new brain metastases after completion of whole-brain radiotherapy or stereotactic radiosurgery",
+        "  Completion of whole-brain radiotherapy or stereotactic radiosurgery more than 60 days prior to enrollment",
+        "  Stable systemic disease",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1",
+        "  LVEF at least 50%",
+        "  Adequate hematologic, renal, and hepatic function",
+        "  Life expectancy more than 12 weeks",
+        "Exclusion Criteria:",
+        "  Progression of systemic disease at Screening",
+        "  Leptomeningeal disease",
+        "  History of intolerance or hypersensitivity to study drug",
+        "  Use of certain investigational therapies within 21 days prior to enrollment",
+        "  Current anthracycline use",
+        "  Unwillingness to discontinue ado-trastuzumab emtansine or lapatinib use",
+        "  Active infection",
+        "  Pregnant or lactating women",
+        "  Significant history or risk of cardiac disease",
+        "  Symptomatic intrinsic lung disease or lung involvement",
+        "  History of other malignancy within the last 5 years"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With Objective Response in the CNS, Assessed Using Response Assessment in Neuro-Oncology-Brain Metastases (RANO-BM) Criteria",
+        "  Responses were assessed by the investigator, based on magnetic resonance imaging (MRI) of the brain, physical examinations, routine neurological examinations, and corticosteroid dosing. An objective response in the central nervous system (CNS) was a complete response (CR) or partial response (PR) confirmed by repeat assessment, according to RANO-BM criteria. A CR was defined as the disappearance of all CNS target lesions sustained for at least 4 weeks; no new lesions; no corticosteroids; and stable or improved clinically; for non-target lesions, a CR was the disappearance of all enhancing CNS non-target lesions and no new CNS lesions. A PR was defined as at least a 30% decrease in the sum longest diameter (LD) of CNS target lesions, taking as reference the baseline sum LD sustained for at least 4 weeks; no new lesions; stable to decreased corticosteroid dose; and stable or improved clinically. The 95% Clopper-Pearson exact confidence intervals were calculated for responses.",
+        "  Time frame: From Baseline until disease progression (assessed every 6 weeks for first 2 scans, followed by every 8 weeks for 2 scans, then every 12 weeks until disease progression; up to approximately 3.5 years)",
+        "Results 1: ",
+        "  Arm/Group Title: Pertuzumab + Trastuzumab",
+        "  Arm/Group Description: Participants with CNS metastases secondary to HER2-positive MBC, who had disease progression in the brain following previous treatment with radiotherapy (whole-brain radiation therapy or stereotactic radiosurgery) for brain metastases, received treatment with pertuzumab in combination with high-dose trastuzumab until disease progression, unacceptable toxicity, withdrawal of consent, or study termination by the Sponsor, whichever occurred first.",
+        "  Overall Number of Participants Analyzed: 37",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of Participants  With Objective Response (Confirmed CR or PR): 10.8        (3.03 to 25.42)",
+        "  Confirmed Complete Response (CR): 0.0        (0.00 to 9.49)",
+        "  Confirmed Partial Response (PR): 10.8        (3.03 to 25.42)",
+        "  Without Objective Response: 89.2  [1]    (NA to NA)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 7/39 (17.95%)",
+        "  Gastroenteritis viral 1/39 (2.56%)",
+        "  Parainfluenzae virus infection 1/39 (2.56%)",
+        "  Seizure 4/39 (10.26%)",
+        "  Headache 1/39 (2.56%)",
+        "  Hydrocephalus 1/39 (2.56%)",
+        "  Hypertension 1/39 (2.56%)"
+    ]
+}

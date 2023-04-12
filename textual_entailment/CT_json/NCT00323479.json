@@ -1,0 +1,44 @@
+{
+    "Clinical Trial ID": "NCT00323479",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Anastrozole 1 mg",
+        "  Anastrozole 1 mg once daily"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Post menopausal woman with a breast cancer and scheduled for an adjuvant treatment with anastrozole",
+        "  WHO performance status 0, 1 or 2",
+        "  Provision of written informed consent",
+        "Exclusion Criteria:",
+        "  Recurrence of breast cancer, inflammatory rheumatism",
+        "  treatment by chondromodulator, oral glucocorticoid, aromatase inhibitor, anti estrogen, Herceptin",
+        "  Diabetes treated by insulin",
+        "  Severe renal or hepatic disease",
+        "  Known hypersensitivity to anastrozole"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With New Events of Arthralgia",
+        "  [Not Specified]",
+        "  Time frame: 12 months",
+        "Results 1: ",
+        "  Arm/Group Title: Anastrozole 1 mg",
+        "  Arm/Group Description: Anastrozole 1 mg once daily",
+        "  Overall Number of Participants Analyzed: 106",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  37"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 6/110 (5.45%)",
+        "  Sudden death unexplained 1/110 (0.91%)",
+        "  General body pain 1/110 (0.91%)",
+        "  Lymphangitis 1/110 (0.91%)",
+        "  Femur fracture 1/110 (0.91%)",
+        "  Parathyroid adenoma 1/110 (0.91%)",
+        "  Depression worsened 1/110 (0.91%)",
+        "  Calculus urinary bladder 1/110 (0.91%)",
+        "  Pneumopathy 1/110 (0.91%)"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Clinical Trial ID": "NCT01216319",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Nipple Reconstruction Cylinder",
+        "  Nipple reconstruction: Biodesign\u00ae Nipple Reconstruction Cylinder"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patient presents with a history of breast cancer, having previously completed either uni- or bi-lateral breast removal and reconstruction.",
+        "  Patient presents with a desire to obtain nipple reconstruction",
+        "  Patient is at least 18 years of age",
+        "  And other inclusion criteria",
+        "Exclusion Criteria:",
+        "  Patient is not medically fit enough for surgery under local anesthesia",
+        "  Patient is currently smoking, using tobacco products, or nicotine products (i.e. patch, gum, or nasal spray)",
+        "  Patient is pregnant, breastfeeding or planning further pregnancy during the study period",
+        "  Patient has physical allergies or cultural objections to the receipt of porcine products",
+        "  And other exclusion criteria"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percent Nipple Projection at 12 Months Compared to Baseline (1 Week Post-procedure)",
+        "  [Not Specified]",
+        "  Time frame: 12 months",
+        "Results 1: ",
+        "  Arm/Group Title: Nipple Reconstruction Cylinder",
+        "  Arm/Group Description: Nipple reconstruction: Biodesign   Nipple Reconstruction Cylinder",
+        "  Overall Number of Participants Analyzed: 44",
+        "  Overall Number of Units Analyzed",
+        "  Type of Units Analyzed: Nipples  Mean (Standard Deviation)Unit of Measure: percentage of projection vs baseline: 37.3         (17.5)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/50 (2.00%)",
+        "  Metastatic breast cancer  1/50 (2.00%)"
+    ]
+}

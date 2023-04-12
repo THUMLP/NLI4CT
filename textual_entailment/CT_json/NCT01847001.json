@@ -1,0 +1,56 @@
+{
+    "Clinical Trial ID": "NCT01847001",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Propranolol + Neoadjuvant Chemotherapy",
+        "  Subjects will receive 2 types of chemotherapy regimens plus propranolol treatment.",
+        "  Regimen I, involves paclitaxel (may be substituted with nab-paclitaxel; maybe given with premedication), and",
+        "  Regimen II involves doxorubicin (maybe given with anti-nausea therapy) and cyclophosphamide (maybe given with Pegfilgrastim).",
+        "  If your tumor is HER2 positive, you will also receive trastuzumab and pertuzumab.",
+        "  After you complete all chemotherapy plus propranolol treatment, you will then have surgery to remove the breast tumor.",
+        "  DOT imaging will be done at 4 additional time points, including beo.",
+        "  Propranolol: Propranolol starting dose is 20mg b.i.d.; propranolol dose is up-titrated to 40mg b.i.d. to 80 mg daily with chemotherapy depending on tolerability. Tolerability is assessed every 2 weeks."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  English or Spanish speaking women age 18",
+        "  Heart Rate > 60 bpm",
+        "  Systolic Blood Pressure > 100 mm/Hg",
+        "  Deemed eligible to receive neoadjuvant chemotherapy with 12 cycles of weekly taxane therapy (paclitaxel 80mg/m2 or Abraxane 100 mg/m2 if there is a shortage of paclitaxel) followed by 4 cycles of Adriamycin (60mg/m2) and cyclophosphamide (600 mg/m2) given every 2 weeks with growth-factor support.",
+        "  Echocardiogram (ECHO) or multiple-gated acquisition scan (MUGA) with ejection fraction > 50%.",
+        "  Patients with hormone receptor +/- and human epidermal growth factor receptor 2 protein (HER2) +/- breast cancer are eligible",
+        "  If a patient has HER2-positive breast cancer, Herceptin and Perjeta will be given along with taxane therapy",
+        "  Any stage invasive breast cancer provided the primary breast tumor size is  1 cm",
+        "  Agree to participate in research blood collection at 4 different time periods (20 ml = 4 teaspoons)",
+        "  Agree to the evaluation of already collected core biopsy, as well as surgical resection tissue, for predictive biomarkers. The biopsy prior to Taxol #1 is optional.",
+        "Exclusion Criteria:",
+        "  Patients failing to meet the inclusion criteria",
+        "  Corrected QT interval (QTc) prolongation as defined by > 470 milliseconds on electrocardiogram (ECG)",
+        "  First-degree Atrioventricular (AV) block on ECG in which P-R interval lengthened > 200 milliseconds; Second Degree; or Third Degree",
+        "  On beta-blocker treatment. If discontinued, patients must have been off beta-blockers for at least 3 months.",
+        "  History of asthma, given concern for \u03b2-blockade in this population"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Mean Adherence to Propranolol",
+        "  Propranolol adherence was documented biweekly by pill counts and drug diary checks.",
+        "  Time frame: Approximately 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: Propranolol + Neoadjuvant Chemotherapy",
+        "  Arm/Group Description: Subjects will receive 2 types of chemotherapy regimens plus propranolol treatment.",
+        "  Regimen I, involves paclitaxel (may be substituted with nab-paclitaxel; maybe given with premedication), and",
+        "  Regimen II involves doxorubicin (maybe given with anti-nausea therapy) and cyclophosphamide (maybe given with Pegfilgrastim).",
+        "  If your tumor is HER2 positive, you will also receive trastuzumab and pertuzumab.",
+        "  After you complete all chemotherapy plus propranolol treatment, you will then have surgery to remove the breast tumor.",
+        "  DOT imaging will be done at 4 additional time points, including beo.",
+        "  Propranolol: Propranolol starting dose is 20mg b.i.d.; propranolol dose is up-titrated to 40mg b.i.d. to 80 mg daily with chemotherapy depending on tolerability. Tolerability is assessed every 2 weeks.",
+        "  Overall Number of Participants Analyzed: 10",
+        "  Mean (Full Range)",
+        "  Unit of Measure: Percentage of propanolol adherence  96        (89 to 100)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/10 (10.00%)",
+        "  Colitis *  [1]1/10 (10.00%)"
+    ]
+}

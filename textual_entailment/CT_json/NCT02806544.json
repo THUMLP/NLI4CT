@@ -1,0 +1,42 @@
+{
+    "Clinical Trial ID": "NCT02806544",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Tamoxifen",
+        "  Tamoxifen 20mg by mouth daily",
+        "  Tamoxifen: Tamoxifen 20mg by mouth daily"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patient evaluated and treated at INCAN",
+        "  Patients must provide informed consent",
+        "  Patient must be  18 years of age.",
+        "  Life expectancy  6 months",
+        "  Clinical locally advance breast cancer (Stage IIB or III)",
+        "  Pathologically confirmed diagnosis of estrogen receptor (ER)-positive or progesterone receptor (PR)-positive breast cancer with ER or PR Allred Score > 4",
+        "  Patient must have an ECOG Performance Status of 0-2",
+        "  Patients must be able to swallow and retain oral medication",
+        "Exclusion Criteria:",
+        "  Patient must not have received any prior chemotherapy, radiation therapy, or biologic therapy for invasive breast cancer within the past five years",
+        "  Patient must not be pregnant or nursing",
+        "  Patient must not have had any prior malignancy except for adequately treated basal cell (or squamous cell) skin cancer, in situ cervical cancer or other cancer for which the patient has been disease-free for five years.",
+        "  Women of childbearing age unable or unwilling to use contraception"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants Who Were Successfully Accrued in the Study, as a Measure of Feasibility",
+        "  Feasibility is defined as the ability to recruit the stated number of patients and fifty percent of participants completing the trial. Completing the trial is defined as reaching surgery if they are a responder to tamoxifen or obtaining the six week biopsy specimen if they are a non-responder.",
+        "  Time frame: 4-6 months",
+        "Results 1: ",
+        "  Arm/Group Title: Tamoxifen",
+        "  Arm/Group Description: Tamoxifen 20mg by mouth daily",
+        "  Tamoxifen: Tamoxifen 20mg by mouth daily",
+        "  Overall Number of Participants Analyzed: 50",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  35"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/35 (0.00%)"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT01539317",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Topical Saline",
+        "  Topical liquid lidocaine: active intervention drug numbs the hypersensitive mucosa of the vulvar vestibule",
+        "  Topical saline: saline applied to the vestibule mucosa will not reverse the local tenderness",
+        "INTERVENTION 2: ",
+        "  Topical Liquid Lidocaine",
+        "  Topical liquid lidocaine: active intervention drug numbs the hypersensitive mucosa of the vulvar vestibule",
+        "  Topical saline: saline applied to the vestibule mucosa will not reverse the local tenderness"
+    ],
+    "Eligibility": [
+        "Eligibility Criteria",
+        "  Women aged 18 to 70 years old.",
+        "  Has a previous diagnosis of breast cancer (ductal or lobular carcinoma, invasive).",
+        "  1 year from diagnosis of breast cancer.",
+        "  Stable heterosexual partnership =/>5 years or by investigator discretion.",
+        "  More than 6 months of consistent insertional pain with intercourse (may have stopped having intercourse due to this consistent experience of pain).",
+        "  Menopausal, demonstrated by at least one of the following:",
+        "  i. cessation of menses for 1 years ii. Bilateral oophorectomy iii. Follicle Stimulating Hormone (FSH) level >25 in women below age 50 with an ovary and scarred or absent uterus (acceptable FSH levels can be inferred if the woman's oncologist monitors FSH during aromatase inhibitor therapy).",
+        "  Willingness to enter a study comparing a topical placebo liquid to topical liquid lidocaine.",
+        "  Willingness to evaluate the liquids by use of a tampon test as many as 4 times per month, and willingness to attempt intercourse if the tampon test indicates tolerable penetrative pain.",
+        "  3.2 Exclusion Criteria",
+        "  Diagnosis of benign or malignant phyllodes tumor of the breast.",
+        "  Consistently has pain in the pelvis or low abdomen during or after intercourse (deep dyspareunia).",
+        "  Has developed shrinkage of the vaginal opening or vaginal length to the point of being too small to succeed in having vaginal penetration with the partner (will also be assessed at the clinical exam).",
+        "  Partner has a problem of sexual dysfunction limiting his performance or making it inconsistent.",
+        "  The potential subject or her partner has a serious current medical condition that might interrupt completion of a 6 month study.",
+        "  Potential subject has been diagnosed by a physical therapist with significant pelvic floor muscle dysfunction causing pain (pelvic floor myalgia).",
+        "  Potential subject has used topical or systemic estrogen within the last 4 months.",
+        "  Has continued tenderness of vestibule mucosa immediately after application of both test liquids.",
+        "  Allergy to lidocaine or other numbing agents."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Prevention of Entry Dyspareunia With Non-hormonal Therapy",
+        "  Mean intercourse pain reported by subjects using the Numerical Rating Scale pain ratings (range 0-10, 0 being \"no pain\" and 10 being \"worst possible pain\"). Testing was during weeks 0-4 (Phase II) (with blinded randomization for placebo vs active intervention medication) and testing was during weeks 5-12 (Phase III) (with open-label active medication for 8 weeks after completing the blinded 4 weeks). Subjects agreed to try penetration twice per week and score their pain using the Numerical Rating Scale pain ratings.The scores were averaged during each phase.",
+        "  Time frame: During Phase II (0-4 weeks) and during Phase III (5-12 weeks)",
+        "Results 1: ",
+        "  Arm/Group Title: Topical Saline",
+        "  Arm/Group Description: Topical liquid lidocaine: active intervention drug numbs the hypersensitive mucosa of the vulvar vestibule",
+        "  Topical saline: saline applied to the vestibule mucosa will not reverse the local tenderness",
+        "  Overall Number of Participants Analyzed: 21",
+        "  Mean (Inter-Quartile Range)",
+        "  Unit of Measure: Units on a scale  Phase II: 5.3        (3 to 7)",
+        "  Phase III: 0.57        (0.07 to 1.80)",
+        "Results 2: ",
+        "  Arm/Group Title: Topical Liquid Lidocaine",
+        "  Arm/Group Description: Topical liquid lidocaine: active intervention drug numbs the hypersensitive mucosa of the vulvar vestibule",
+        "  Topical saline: saline applied to the vestibule mucosa will not reverse the local tenderness",
+        "  Overall Number of Participants Analyzed: 22",
+        "  Mean (Inter-Quartile Range)",
+        "  Unit of Measure: Units on a scale  Phase II: 1.04        (0.65 to 1.92)",
+        "  Phase III: 0.45        (0 to 1.14)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/25 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/25 (0.00%)"
+    ]
+}

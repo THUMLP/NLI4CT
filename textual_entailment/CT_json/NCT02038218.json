@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT02038218",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  DM-CHOC-PEN - Arm 1",
+        "  Cohort 1: Patients without liver involvement or history of liver disease, will be treated at a dose of 98.7 mg/m2.",
+        "  Patients will discontinue dosing with DM-CHOC-PEN when there are any unacceptable toxicities, progression of cancer or patient compliance.",
+        "  4-Demethyl-4-cholestryloxycarbonylpenclomedine: This will be an open-label, uncontrolled two-arm, multi-center study in patients with CNS involvement from melanoma, breast, lung cancers or primary malignancies of the CNS. Patients can be previously treated with radiation and systemic therapies and are eligible if they also have other sites of cancer involvement.",
+        "INTERVENTION 2: ",
+        "  DM-CHOC-PEN - Arm 2",
+        "  Cohort 2: Patients with liver involvement or history of disease will be treated at a dose of 85.8 mg/m2.",
+        "  Patients will discontinue dosing with DM-CHOC-PEN when there are any unacceptable toxicities, progression of cancer or patient compliance.",
+        "  4-Demethyl-4-cholestryloxycarbonylpenclomedine: This will be an open-label, uncontrolled multi-center study in patients with CNS involvement from melanoma, breast, lung cancers or primary malignancies of the CNS. Patients can be previously treated with radiation and systemic therapies and are eligible if they also have other sites of cancer involvement."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients must have histological proof of a cancer - melanoma, breast, or lung cancer - which has spread to the CNS or glioblastoma (GBM) or other primary malignant neoplasm of the CNS which has been treated with standard treatments, which may include radiation, and must be measurable (RECIST).",
+        "  Patients must have life expectancy of at least 12 weeks and a Karnofsky performance score: > 60 % (or a Zubrod performance status of < 2).",
+        "  The age limit - 18 or older. Gender is not a criterion.",
+        "  All patients must be off previous chemo- and/or radiotherapy for at least three (3) weeks prior to entrance into the study and have recovered from any toxic effects induced by such treatment(s); no nitrosourea type drug or ipilumimab treatments are permitted within the last six (6) weeks prior to enrollment. No major surgery within 14 days of enrollment. Patients may continue to receive anti-estrogen/steroid therapy that has been initiated at least eight weeks prior to enrollment in the study.",
+        "  Patients should have adequate bone marrow function defined as a peripheral WBC >3,000/mm3 with an ANC >1500/mm3 and a platelet count >100,000/mm3.",
+        "  Patients should have hepatic function (alkaline phosphatase, AST and ALT) < ULN and renal functions with serum creatinine - <1.5 x UNL. If a patient has liver metastasis and/or a history of liver disease - they will receive a lower dose of the drug per treatment protocol.",
+        "  Patients should not be allergic to eggs or soy beans. Patients must be medically, psychologically and neurologically stable and have triplicate baseline ECG's with a mean QTc interval <500 ms and >300 ms and neither a history of congenital prolonged or short QT syndrome. Patients with a history of cardiac disease must be stable.",
+        "  Patients must understand the nature of the study and be willing to sign an informed consent that complies with the investigator/DEKK-TEC policies and approved by the Human Investigation Review Committee. Patients must have CNS involvement - from a malignancy. Lung cancer may be either small cell or non-small cell.",
+        "Exclusion Criteria:",
+        "  Patients with concurrent severe and/or uncontrolled medical co-morbidities - including active infections, unstable uncontrolled diabetes, cardiovascular and pulmonary, renal, psychiatric or social conditions that could compromise the safety or compliance of treatment are not eligible.",
+        "  Concomitant chemotherapy or radiotherapy is not permitted.",
+        "  Pregnant or lactating females are excluded. Women of childbearing age, and their sexual partners, must use an effective contraception program. Males who are having sexual relations with women capable of child bearing must use the barrier birth control while on the study and for 3- months after the last dose of the study drug.",
+        "  Patients taking CYP3A4 inducers or inhibitors are not eligible since it is not known whether the study drug is metabolized through this pathway. The following CYP3A4 inhibitors/inducers are not permitted during the trial - the azole antifungal - fluconazole, erythromycin, phenobarbital, verapamil.",
+        "  Patients taking the following medications may experience QT/QTc interval prolongation and are not eligible for the trial - most anti-arrhythmia drugs (incl. amiodarone), erythromycin, quinolone antibiotics, ketoconazole, Zithromax, and phenothiazine and will be denied enrollment in the study. The possible interactions of these drugs and DM-CHOC-PEN have not been established. Patients receiving these drug will only be eligible if they discontinue the drugs and have an acceptable ECG.",
+        "  Coagulopathies - patients requiring full dose anticoagulation with warfarin are excluded, however, patients stable and on other anticoagulants can be included."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Tumor Diameter",
+        "  Tumor Diameter from patient scans",
+        "  Time frame: Until remission or off treatment due to progression",
+        "Results 1: ",
+        "  Arm/Group Title: DM-CHOC-PEN - Arm 1",
+        "  Arm/Group Description: Cohort 1: Patients without liver involvement or history of liver disease, will be treated at a dose of 98.7 mg/m2.",
+        "  Patients will discontinue dosing with DM-CHOC-PEN when there are any unacceptable toxicities, progression of cancer or patient compliance.",
+        "  4-Demethyl-4-cholestryloxycarbonylpenclomedine: This will be an open-label, uncontrolled two-arm, multi-center study in patients with CNS involvement from melanoma, breast, lung cancers or primary malignancies of the CNS. Patients can be previously treated with radiation and systemic therapies and are eligible if they also have other sites of cancer involvement.",
+        "  Overall Number of Participants Analyzed: 22",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: cm  2.7         (1.1)",
+        "Results 2: ",
+        "  Arm/Group Title: DM-CHOC-PEN - Arm 2",
+        "  Arm/Group Description: Cohort 2: Patients with liver involvement or history of disease will be treated at a dose of 85.8 mg/m2.",
+        "  Patients will discontinue dosing with DM-CHOC-PEN when there are any unacceptable toxicities, progression of cancer or patient compliance.",
+        "  4-Demethyl-4-cholestryloxycarbonylpenclomedine: This will be an open-label, uncontrolled multi-center study in patients with CNS involvement from melanoma, breast, lung cancers or primary malignancies of the CNS. Patients can be previously treated with radiation and systemic therapies and are eligible if they also have other sites of cancer involvement.",
+        "  Overall Number of Participants Analyzed: 7",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: cm  4.4         (0.8)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/22 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

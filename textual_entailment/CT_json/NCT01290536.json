@@ -1,0 +1,52 @@
+{
+    "Clinical Trial ID": "NCT01290536",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Yttrium-90 Radioembolization",
+        "  Selective internal radiation therapy using Yttrium-90 glass microspheres (TheraSphere)"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Diagnosis of metastatic colorectal, neuroendocrine, cholangiocarcinoma, melanoma, or breast malignancy with liver dominant disease. Diagnosis may be made by histo- or cyto-pathology, or by clinical and imaging criteria.",
+        "  The cancer is unresectable.",
+        "  All patients must be off all chemotherapeutic regimens for 30 days prior to and 30 days after TheraSphere treatment. Concurrent therapy with octreotide is permitted, when appropriate.",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.",
+        "  Age 18 years or older.",
+        "  Able to understand informed consent.",
+        "Exclusion Criteria:",
+        "  Evidence of potential delivery of greater than 16.5 mCi (30 Gy absorbed dose) of radiation to the lungs on either:",
+        "  single TheraSphere administration; or",
+        "  cumulative delivery of radiation to the lungs greater than 50 Gy over multiple treatments.",
+        "  Evidence of any detectable Tc-99m macroaggregated albumin deposition in the stomach or duodenum, after application of established angiographic techniques to stop such deposition.",
+        "  Previous radiation therapy to the lungs and/or to the upper abdomen",
+        "  Pregnancy",
+        "  Symptomatic lung disease.",
+        "  Significant extrahepatic disease representing an imminent life-threatening outcome.",
+        "  Active uncontrolled infection",
+        "  Any pre-treatment laboratory findings within 30 days of treatment demonstrating:",
+        "  Aspartate or alanine aminotransferase level greater than 5 times upper normal limit.",
+        "  Serum bilirubin greater than 2 mg/dl",
+        "  Infiltrative tumor on imaging",
+        "  Tumor volume greater than 70% of liver volume",
+        "  Tumor volume greater than 50% of liver volume and serum albumin level less than 3 mg/dL"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Adverse Events",
+        "  Adverse effects of treatment with Yttrium-90 glass microspheres (TheraSphere) were collected prospectively for 6 months after each treatment administration.",
+        "  Time frame: 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: Yttrium-90 Radioembolization",
+        "  Arm/Group Description: Selective internal radiation therapy using Yttrium-90 glass microspheres (TheraSphere)",
+        "  Overall Number of Participants Analyzed: 42",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  42"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 3/42 (7.14%)",
+        "  hospitalization for carcinoid crisis * [1]1/11 (9.09%)",
+        "  Vomiting * [2]1/42 (2.38%)",
+        "  gastric ulcer [3]1/42 (2.38%)"
+    ]
+}

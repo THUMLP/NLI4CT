@@ -1,0 +1,39 @@
+{
+    "Clinical Trial ID": "NCT00717886",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Upper Extremity Lymphatic Mapping for Breast Cancer Patients",
+        "  Patients with documented axillary metastases (Stage II breast cancer) will undergo subdermal injection of technetium sulfur colloid (TSC) into the ipsilateral upper extremity approximately 3 hours before surgery."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Females with Stage II invasive breast cancer and documented axillary metastases by core biopsy, clinical examination, or fine-needle aspiration who are scheduled to undergo an ALND.",
+        "  Females > 21 years of age",
+        "Exclusion Criteria:",
+        "  Prior ipsilateral axillary surgery",
+        "  Prior ipsilateral axillary radiation",
+        "  Prior ipsilateral breast cancer",
+        "  Prior ipsilateral breast radiation",
+        "  Allergy to isosulfan blue dye",
+        "  History of ipsilateral upper extremity lymphedema",
+        "  Prior history of surgical excision of the upper outer quadrant of the ipsilateral breast",
+        "  Prior history of neoadjuvant chemotherapy for current breast cancer",
+        "  Bulky axillary disease at presentation (N2)"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number and Prevalence of Metastases of Blue Nodes in the ALND Specimen (Nodes Draining the Breast).",
+        "  [Not Specified]",
+        "  Time frame: 2 years",
+        "Results 1: ",
+        "  Arm/Group Title: Upper Extremity Lymphatic Mapping for Breast Cancer Patients",
+        "  Arm/Group Description: Patients with documented axillary metastases (Stage II breast cancer) will undergo subdermal injection of technetium sulfur colloid (TSC) into the ipsilateral upper extremity approximately 3 hours before surgery.",
+        "  Overall Number of Participants Analyzed: 9",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  0"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/9 (0.00%)"
+    ]
+}

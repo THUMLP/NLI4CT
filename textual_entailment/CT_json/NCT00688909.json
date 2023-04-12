@@ -1,0 +1,55 @@
+{
+    "Clinical Trial ID": "NCT00688909",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Letrozole",
+        "  Participants received 2.5 milligram (mg) of Letrozole tablets orally once daily (QD) for a period of 24 weeks."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Postmenopausal women with HR+ early stage breast cancer at the time of initial diagnosis. For study purposes, postmenopausal is defined as:",
+        "  Age  50 y and amenorrheic for 12 or more months.",
+        "  Age  50 y and amenorrheic for 3 or more months after receiving adjuvant chemotherapy.",
+        "  Age < 50 y and amenorrheic for 12 or more months.",
+        "  Prior bilateral oophorectomy.",
+        "  Prior hysterectomy and has postmenopausal levels of FSH, LH, and estradiol as per local institutional standards.",
+        "  Age > 55 y and prior hysterectomy.",
+        "  Patients who are intolerant and discontinue anastrozole 2-3 weeks prior to study entry when given as adjuvant treatment for HR+ early stage breast cancer due to grade 2-3 (NCI-CTCAE V3) arthralgia-myalgia.",
+        "  Hormone receptor-positive tumors as defined by institutional standards.",
+        "  ECOG performance status of 0, 1, or 2",
+        "  Consent to participate in the trial. -",
+        "Exclusion Criteria:",
+        "  Postmenopausal women with HR+ metastatic or locally relapsed breast cancer excluding chest wall recurrence with no evidence of systemic disease.",
+        "  Recent history of pain associated with non-traumatic bone fracture.",
+        "  Pain requiring chronic use of analgesics (due to any reason).",
+        "  History of rheumatological disease except osteoarthritis.",
+        "  Prior hormonal therapy with AIs other than anastrozole.",
+        "  Systemic hormone replacement therapy (HRT) less than 4 weeks before study entry other than Estring\u00ae, Vagifem\u00ae or low dose estrogen vaginal cream.",
+        "  Concomitant disease which significantly affects quality of life.",
+        "  Patient unable to complete self administered questionnaire.",
+        "  Patients unable to sign consent form.",
+        "  Other protocol-defined inclusion/exclusion criteria may apply"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants Discontinuing Due to Grade 2 or Higher Arthralgia-myalgia.",
+        "  The arthralgia status and the myalgia status were separately graded at Baseline (V1), Week 12 (V3) , and Week 24/EOS (V4). The grades of 0 for no pain, 1 for mild pain, 2 for moderate pain, 3 for severe pain, and 4 for disabling pain were used.",
+        "  Time frame: End of Study (24 weeks)",
+        "Results 1: ",
+        "  Arm/Group Title: Letrozole",
+        "  Arm/Group Description: Participants received 2.5 milligram (mg) of Letrozole tablets orally once daily (QD) for a period of 24 weeks.",
+        "  Overall Number of Participants Analyzed: 261",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  25   9.6%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 5/261 (1.92%)",
+        "  Cholecystitis chronic 1/261 (0.38%)",
+        "  Post procedural bile leak 1/261 (0.38%)",
+        "  Spinal column stenosis 1/261 (0.38%)",
+        "  Depression 1/261 (0.38%)",
+        "  Mania 1/261 (0.38%)",
+        "  Pulmonary embolism 1/261 (0.38%)"
+    ]
+}

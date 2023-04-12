@@ -1,0 +1,45 @@
+{
+    "Clinical Trial ID": "NCT00167414",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Hypofractionated Stereotactic Body Radiation Therapy",
+        "  Use of Hypofractionated Stereotactic Body Radiation Therapy for limited metastases with breast cancer primary.",
+        "  Hypofractionated Stereotactic Body Radiation Therapy: Hypofractionated Stereotactic Body Radiation Therapy",
+        "  Hypofractionated Stereotactic Body Radiation Therapy: Hypofractionated Stereotactic Body Radiation Therapy for treatment of limited metastases from breast cancer primary."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Age: no limit",
+        "  Karnofsky performance status (KPS)  70",
+        "  No more than 5 metastatic sites involving one or more different organs (liver, lung or bone).",
+        "  The size of the lesion must be such that it can be safely treated to sterilizing radiation doses according to the rules in the protocol.",
+        "  Previously treated lesions are not eligible unless the prescribed dose can be safely delivered.",
+        "  Concurrent therapy is allowed and recommended. The chemotherapy protocol type and schedule are at the discretion of the medical oncologist.",
+        "  Informed consent must be obtained.",
+        "  Pregnancy test must be negative for women of child bearing potential",
+        "Exclusion Criteria:",
+        "  Inability of patient to be followed longitudinally as specified by protocol.",
+        "  Technical inability to achieve required dose based on safe dose constraints required for radiosurgery.",
+        "  Women who are pregnant or nursing.",
+        "  Failure to meet requirements in Inclusion Criteria",
+        "  Contraindications to radiation."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Overall Survival",
+        "  The percent of patients that survived from date of enrollment until 2 year follow-up visit.",
+        "  Time frame: 2 years",
+        "Results 1: ",
+        "  Arm/Group Title: Hypofractionated Stereotactic Body Radiation Therapy",
+        "  Arm/Group Description: Use of Hypofractionated Stereotactic Body Radiation Therapy for limited metastases with breast cancer primary.",
+        "  Hypofractionated Stereotactic Body Radiation Therapy: Hypofractionated Stereotactic Body Radiation Therapy",
+        "  Hypofractionated Stereotactic Body Radiation Therapy: Hypofractionated Stereotactic Body Radiation Therapy for treatment of limited metastases from breast cancer primary.",
+        "  Overall Number of Participants Analyzed: 39",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  74"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/39 (0.00%)"
+    ]
+}

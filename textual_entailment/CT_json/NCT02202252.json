@@ -1,0 +1,56 @@
+{
+    "Clinical Trial ID": "NCT02202252",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Single Drain",
+        "  Insertion of a single drain: A negative pressure drain will be inserted below the lower flap directing to the axilla in the single drain group.",
+        "  Ultrasonography after removal of the drains: One day after removal of the drains seroma under the flaps and in the axilla will be examined by ultrasonography.",
+        "  Insertion of a single drain: A negative pressure drain will be inserted below the lower flap directing to the axilla.",
+        "  Ultrasonography after removal of the drains: One day after removal of the drains seroma under the flaps and in the axilla will be examined by ultrasonography.",
+        "INTERVENTION 2: ",
+        "  Double Drain",
+        "  Insertion of double drains: Two negative pressure drains will be inserted into the axilla and below the lower flap in the double drains group.",
+        "  Ultrasonography after removal of the drains: One day after removal of the drains seroma under the flaps and in the axilla will be examined by ultrasonography.",
+        "  Insertion of double drains: Two drains will be inserted into the axilla and below the lower flap in the double drains group.",
+        "  Ultrasonography after removal of the drains: One day after removal of the drains seroma under the flaps and in the axilla will be examined by ultrasonography."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Breast cancer",
+        "  Modified radical mastectomy",
+        "Exclusion Criteria:",
+        "  Distant metastasis",
+        "  Male breast cancer",
+        "Bleeding diathesis"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Patient Comfort Scale",
+        "  Patient comfort was measured with a comfort scale between 1-10 measuring incisional pain, pain caused by the drains, discomfort or sleep disturbances caused by the drains. 1 denotes no discomfort related to drains, 10 denotes maximum discomfort unrelieved even with nonsteroid antiinflammatory analgesics. The data will be presented by median value and range (minimum-maximum).",
+        "  Time frame: Postoperative 5 days",
+        "Results 1: ",
+        "  Arm/Group Title: Single Drain",
+        "  Arm/Group Description: Insertion of a single drain: A negative pressure drain will be inserted below the lower flap directing to the axilla in the single drain group.",
+        "  Ultrasonography after removal of the drains: One day after removal of the drains seroma under the flaps and in the axilla will be examined by ultrasonography.",
+        "  Insertion of a single drain: A negative pressure drain will be inserted below the lower flap directing to the axilla.",
+        "  Ultrasonography after removal of the drains: One day after removal of the drains seroma under the flaps and in the axilla will be examined by ultrasonography.",
+        "  Overall Number of Participants Analyzed: 30",
+        "  Median (Full Range)",
+        "  Unit of Measure: units on a scale  3        (1 to 8)",
+        "Results 2: ",
+        "  Arm/Group Title: Double Drain",
+        "  Arm/Group Description: Insertion of double drains: Two negative pressure drains will be inserted into the axilla and below the lower flap in the double drains group.",
+        "  Ultrasonography after removal of the drains: One day after removal of the drains seroma under the flaps and in the axilla will be examined by ultrasonography.",
+        "  Insertion of double drains: Two drains will be inserted into the axilla and below the lower flap in the double drains group.",
+        "  Ultrasonography after removal of the drains: One day after removal of the drains seroma under the flaps and in the axilla will be examined by ultrasonography.",
+        "  Overall Number of Participants Analyzed: 30",
+        "  Median (Full Range)",
+        "  Unit of Measure: units on a scale  3        (1 to 9)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/30 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/30 (0.00%)"
+    ]
+}

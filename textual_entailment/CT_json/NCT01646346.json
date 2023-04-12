@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT01646346",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  4D Conformal Image-Guided Partial Breast RT",
+        "  This is a single arm trial designed to look at the results in women treated with partial breast irradiation twice daily for 5 days.",
+        "  4D Conformal Image-Guided Partial Breast RT: External beam partial breast radiation to target a portion of the breast twice a day for 5 days."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  The patient must consent to be in the study and must have a signed an approved consent form conforming with institutional guidelines.",
+        "  Patient must be > 50 years old.",
+        "  The patient should have a life expectancy of at least two years with a karnofsky performance status > 70.",
+        "  The patient must have stage 0 or I breast cancer.",
+        "  On histological examination, the tumor must be DCIS or invasive adenocarcinoma of the breast.",
+        "  Surgical treatment of the breast must have been lumpectomy. The margins of the resected specimen must be histologically free of tumor (>2mm, DCIS and invasive). Re-excision of surgical margins is permitted.",
+        "  Gross disease must be unifocal with pathologic (invasive and/or DCIS) tumor size 2 cm or less. (Patients with microscopic multifocality are eligible as long as total pathologic tumor size is 2 cm or less.)",
+        "  Patients with invasive breast cancer are required to have axillary staging which can include sentinel node biopsy alone (if negative), sentinel node biopsy followed by axillary dissection or sampling with a minimum total of 6 axillary nodes or axillary dissection alone (with a minimum of 6 axillary nodes). Axillary staging is NOT required for patients with DCIS.",
+        "  The patient must have simulation within 8 weeks/56 days of the final surgery for their breast cancer (lumpectomy, re-excision of margins, or axillary staging procedure).",
+        "  Patients with a history of non-ipsilateral breast malignancies are eligible if they have been disease-free for 2 or more years prior to enrollment. Patients with the following cancers are eligible even if diagnosed and treated within the past 2 years: carcinoma in situ of the cervix, colon, melanoma in situ, and basal cell and squamous cell carcinoma of the skin.",
+        "  Chemotherapy is permitted if planned for  2 weeks after radiation.",
+        "  Urine pregnancy test must be performed and be negative on all women younger than 60 who have not had a tubal ligation, oophorectomy, or hysterectomy.",
+        "  Separate incisions for the lumpectomy and sentinel node biopsy should be present. Use of only one incision will typically result in a contiguous cavity with the tumor bed and the sentinel node sampling, and inability of the radiation oncologist to delineate the tumor bed from the sentinel node bed.",
+        "  The patient must have a cavity which is able to be targeted with external beam APBI, either through surgical clip placement, or CVS 3 or higher. The cavity to whole breast ratio must be 30% or less.",
+        "Exclusion Criteria:",
+        "  Men are not eligible for this study as men are not breast conservation candidates.",
+        "  T0, T2 (> 2.0 cm), T3, node positive, stage III or IV breast cancer.",
+        "  Any positive axillary nodes.",
+        "  Palpable or radiographically suspicious ipsilateral or contralateral axillary, supraclavicular, infraclavicular or internal mammary nodes, unless biopsy proven to be negative for tumor.",
+        "  Suspicious microcalcifications, densities or palpable abnormalities in either breast unless biopsy proven to be benign.",
+        "  Non-epithelial breast malignancies such as sarcoma or lymphoma.",
+        "  Proven multicentric carcinoma in more than one quadrant or separated by more than 2 centimeters.",
+        "  Paget's disease of the nipple.",
+        "  History of invasive breast cancer or DCIS in the same breast.",
+        "  Surgical margins that cannot be microscopically assessed or are less then 2 mm.",
+        "  Collagen vascular disease, specifically dermatomyositis with a CPK level above normal or with an active skin rash, systemic lupus erythematosis or scleroderma.",
+        "  Pregnancy or lactation at the time of proposed radiation. Women of reproductive potential must agree to use an effective non-hormonal method of contraception during therapy.",
+        "  Psychiatric or addictive disorders or other conditions that, in the opinion of the treating physician, would preclude the patient from meeting the study requirements.",
+        "  Patients with coexisting medical conditions in whom life expectancy is < 2 years.",
+        "  Patients with skin involvement, regardless of tumor size."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Patients With Reduction in Incidental Radiation",
+        "  Patients were assessed to determine if there was a reduction in breast radiation V50 less than 45% and V100 less than 23.5%.",
+        "Time frame: 5 day",
+        "Results 1: ",
+        "  Arm/Group Title: 4D Conformal Image-Guided Partial Breast RT",
+        "  Arm/Group Description: This is a single arm trial designed to look at the results in women treated with partial breast irradiation twice daily for 5 days.",
+        "  4D Conformal Image-Guided Partial Breast RT: External beam partial breast radiation to target a portion of the breast twice a day for 5 days.",
+        "  Overall Number of Participants Analyzed: 46",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  46 100.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/46 (0.00%)"
+    ]
+}

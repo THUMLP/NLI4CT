@@ -1,0 +1,55 @@
+{
+    "Clinical Trial ID": "NCT00759785",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  ER-positive Luminal B (ER+)",
+        "  ER-positive Luminal B participants received a single dose of dalotuzumab 20 mg/kg infused over 60-120 minutes.",
+        "INTERVENTION 2: ",
+        "  Triple Negative (TN)",
+        "  Triple Negative participants received a single dose of dalotuzumab 20 mg/kg infused over 60-120 minutes."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Participant has operable stage I-IIIa breast cancer of the following subtypes: (1) estrogen receptor (ER)-negative, progesterone receptor (PR)-negative, and human epidermal growth factor receptor 2 (HER2)-negative breast cancer; (2) ER-positive tumor meeting one of the following criteria: histologic grade 3; histologic grade 2 and PR-negative; histologic grade 2 and Ki67 antigen 10%. Tumor is at least 2 cm in diameter as assessed by physical or radiographic exam",
+        "  Participant is female and 18 years of age",
+        "Exclusion Criteria:",
+        "  Participant is pregnant, breastfeeding or planning to become pregnant while in the study",
+        "  Participant has received prior chemotherapy, biological therapy or radiation",
+        "  Participant has participated in a clinical trial in the last 30 days",
+        "  Participant has a history of drug or alcohol abuse in the last year",
+        "  Participant is human immunodeficiency virus (HIV) positive. Patient has a history of Hepatitis B or C",
+        "  Participant has poorly controlled diabetes mellitus"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants Demonstrating a Decrease in the Growth Factor Signature (GFS)",
+        "  GFS was measured by microarray analysis of the entire 101 gene signature expression. The GFS is quantified as the change in gene expression between two separate samples collected from the same participant. A log (base 10) ratio of expression in the post-dose sample was generated relative to the reference in both the Up and DOWN arms of the gene signature. A log ratio value of zero indicated no change in the expression between the two samples. GFS was calculated as the mean log ratio of genes in the UP arm minus mean log ratio of genes in the Down arm. GFS was compared for paired samples (pre-dose and post-dose) by a T-statistic calculated as the GFS divided by its standard error. Responders to therapy had a T-statistic that was smaller than the threshold 1st percentile of student's T-distribution and were counted as having a decrease in GFS.",
+        "  Time frame: Up to 12 Days Post-dose",
+        "Results 1: ",
+        "  Arm/Group Title: ER-positive Luminal B (ER+)",
+        "  Arm/Group Description: ER-positive Luminal B participants received a single dose of dalotuzumab 20 mg/kg infused over 60-120 minutes.",
+        "  Overall Number of Participants Analyzed: 14",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of participants  28.6        (13.1 to 49.2)",
+        "Results 2: ",
+        "  Arm/Group Title: Triple Negative (TN)",
+        "  Arm/Group Description: Triple Negative participants received a single dose of dalotuzumab 20 mg/kg infused over 60-120 minutes.",
+        "  Overall Number of Participants Analyzed: 17",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of participants  17.6        (6.7 to 35.2)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/25 (4.00%)",
+        "  Diarrhoea 0/25 (0.00%)",
+        "  Breast abscess 0/25 (0.00%)",
+        "  Breast cellulitis 0/25 (0.00%)",
+        "  Syncope 1/25 (4.00%)",
+        "Adverse Events 2:",
+        "  Total: 1/20 (5.00%)",
+        "  Diarrhoea 1/20 (5.00%)",
+        "  Breast abscess 1/20 (5.00%)",
+        "  Breast cellulitis 1/20 (5.00%)",
+        "  Syncope 0/20 (0.00%)"
+    ]
+}

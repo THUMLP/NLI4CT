@@ -1,0 +1,38 @@
+{
+    "Clinical Trial ID": "NCT02122796",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Patients Undergoing Mastectomy Surgery",
+        "  Number of individuals having mastectomy surgery who were approached for participation in the trial"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women",
+        "  18 years or older",
+        "  Undergoing mastectomy surgery",
+        "Exclusion Criteria:",
+        "  Non-English speaking",
+        "  Pregnant",
+        "  Also undergoing an oophorectomy, TRAM or Latissimus flap surgery"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Patients Eligible Compared to the Number Approached and Enrolled",
+        "  Feasibility will be measured by the number of patients eligible for enrollment, the number approached, the number consented, and the final sample with completed data. The study population will be described in terms of demographics and background characteristics collected on the enrollment questionnaire.",
+        "  Time frame: One year",
+        "Results 1: ",
+        "  Arm/Group Title: Patients Undergoing Mastectomy Surgery",
+        "  Arm/Group Description: Number of individuals having mastectomy surgery who were approached for participation in the trial",
+        "  Overall Number of Participants Analyzed: 252",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Elligible: 61  24.2%",
+        "  Approached: 252 100.0%",
+        "  Consented: 30  11.9%",
+        "  Declined: 31  12.3%",
+        "  Final Sample with complete data: 26  10.3%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/15 (0.00%)"
+    ]
+}

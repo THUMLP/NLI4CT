@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT02040857",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Palbociclib With Adjuvant Endocrine Therapy",
+        "  Palbociclib 125 mg PO qd 21 days on, 7 days off",
+        "  Endocrine Therapy: Tamoxifen 20mg, Letrozole 2.5mg, Anastrozole 1mg, or Exemestane 25mg PO qd"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Participants must have histologically confirmed hormone receptor positive (HR+) HER2 negative stage II (except T2N0) or stage III invasive breast cancer. Evaluation for metastatic disease is not required in the absence of symptoms.",
+        "  Men and both pre- and postmenopausal women are eligible.",
+        "  Prior Treatment:",
+        "  Participants may have received (neo)adjuvant chemotherapy, but must be at least 30 days after last dose, with no more than grade 1 residual toxicity at time of screening.",
+        "  Participants may have received adjuvant radiotherapy, but must be at least 30 days after last dose , with no more than grade 1 residual toxicity at the time of screening.",
+        "  If most recent therapy was surgery, participants must be at least 30 days out from definitive surgery with no active wound healing complications.",
+        "  Participants must have demonstrated ability to tolerate endocrine therapy by prior successful completion of at least 1 month of tamoxifen or aromatase inhibitor (AI) therapy without significant adverse events, and in the opinion of the treating physician any ongoing toxicity does not preclude ability to continue on tamoxifen or AI for at least a projected 2 year continuous duration. Ongoing use of any endocrine therapy, including tamoxifen, letrozole, anastrozole, or exemestane, is allowed. Patients may enroll within 2 years of beginning endocrine therapy, as long as there is a plan for at least 2 more years of adjuvant endocrine therapy.",
+        "  ECOG performance status 0-1",
+        "  Age 18 years.",
+        "  Normal organ and marrow function",
+        "  Baseline QTc  480 ms",
+        "  The effects of palbociclib on the developing human fetus are unknown. Women who might become pregnant must use adequate contraception",
+        "  Ability to understand and the willingness to sign a written informed consent document",
+        "Exclusion Criteria:",
+        "  Concurrent therapy with other investigational agents.",
+        "  Prior therapy with any CDK4/6 inhibitor.",
+        "  History of allergic reactions attributed to compounds of similar chemical or biologic composition to palbociclib.",
+        "  Participants receiving any medications or substances that are strong inhibitors or inducers of CYP3A isoenzymes are ineligible.",
+        "  Current use of drugs that are known to prolong the QT interval",
+        "  Subjects with organ allograft requiring immunosuppression.",
+        "  Uncontrolled intercurrent illness including, but not limited to ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.",
+        "  Pregnant women are excluded from this study. Breastfeeding should be discontinued prior to entry onto the study.",
+        "  Individuals with a history of a different malignancy are ineligible except for the following circumstances. Individuals with a history of other malignancies are eligible if they have been disease-free for at least 5 years and are deemed by the investigator to be at low risk for recurrence of that malignancy. Individuals with the following cancers are eligible if diagnosed and treated within the past 5 years: ductal carcinoma in situ of the breast, cervical cancer in situ, and basal cell or squamous cell carcinoma of the skin.",
+        "  No ongoing combination antiretroviral therapy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  2-Year Treatment Discontinuation Rate",
+        "  The 2-year treatment discontinuation rate is the percentage of participants who do not complete the palbociclib treatment per protocol for reasons due to toxicity, withdrawal of consent to be treated, or other events related to tolerability in uncensored participants. Participants who discontinued palbociclib early for reasons that were not treatment-related were censored.",
+        "  Time frame: Evaluate upon completion of palbociclib, up to 2 years of treatment completion.",
+        "Results 1: ",
+        "  Arm/Group Title: Palbociclib With Adjuvant Endocrine Therapy",
+        "  Arm/Group Description: Palbociclib 125 mg PO qd 21 days on, 7 days off",
+        "  Endocrine Therapy: Tamoxifen 20mg, Letrozole 2.5mg, Anastrozole 1mg, or Exemestane 25mg PO qd",
+        "  Overall Number of Participants Analyzed: 152",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  31        (24 to 39)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 96/162 (59.26%)",
+        "  Cardiac disorders - Other, specify 2/162 (1.23%)",
+        "  Diarrhea 1/162 (0.62%)",
+        "  Mucositis oral 2/162 (1.23%)",
+        "  Nausea 1/162 (0.62%)",
+        "  Fatigue 6/162 (3.70%)",
+        "  Breast infection 2/162 (1.23%)",
+        "  Soft tissue infection 1/162 (0.62%)",
+        "  Lymphocyte count decreased 2/162 (1.23%)",
+        "  Neutrophil count decreased 78/162 (48.15%)",
+        "  Hypertension 1/162 (0.62%)"
+    ]
+}

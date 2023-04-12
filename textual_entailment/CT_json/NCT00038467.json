@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT00038467",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Exemestane",
+        "  Participants diagnosed with breast cancer who remained disease-free after previously receiving 2 to 3 years of tamoxifen 20 milligram (mg) or 30 mg tablet-in-capsule orally once daily as per standard medical practice, received exemestane (Aromasin) 25 mg tablet-in-capsule orally once daily for the remainder of 5-year period.",
+        "INTERVENTION 2: ",
+        "  Tamoxifen",
+        "  Participants diagnosed with breast cancer who remained disease-free after previously receiving 2 to 3 years of tamoxifen 20 mg or 30 mg tablet-in-capsule orally once daily as per standard medical practice, received the same dose of tamoxifen tablet-in-capsule orally once daily for the remainder of 5-year period."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  postmenopausal women with histologically or cytologically confirmed primary breast adenocarcinoma, receiving tamoxifen and have been treated with tamoxifen continuously for between 2 and 3 years and one month, and still free of disease",
+        "Exclusion Criteria:",
+        "  unresectable breast cancer",
+        "  ER negative primary tumor"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Disease-Free Survival (DFS) at Month 36 Post-Randomization: Main Study",
+        "  DFS defined as time from randomization to earliest documentation of breast cancer relapse or death from any cause. DFS at Month 36 post-randomization was defined as probability of participants alive and disease-free at 36 months after the randomization. Participants withdrawn from the study for any reason in the absence of relapse were censored at the date they were last seen. Relapse was categorized as follows: loco-regional: ipsilateral breast or axillary nodal relapse; distant: distant relapse, including supraclavicular nodes; second primary breast cancer: contralateral breast cancer, excluding ductal carcinoma in situ.",
+        "  Time frame: Baseline up to Month 36",
+        "Results 1: ",
+        "  Arm/Group Title: Exemestane",
+        "  Arm/Group Description: Participants diagnosed with breast cancer who remained disease-free after previously receiving 2 to 3 years of tamoxifen 20 milligram (mg) or 30 mg tablet-in-capsule orally once daily as per standard medical practice, received exemestane (Aromasin) 25 mg tablet-in-capsule orally once daily for the remainder of 5-year period.",
+        "  Overall Number of Participants Analyzed: 2352",
+        "  Measure Type: Number",
+        "  Unit of Measure: probability of DFS  0.90        (0.89 to 0.92)",
+        "Results 2: ",
+        "  Arm/Group Title: Tamoxifen",
+        "  Arm/Group Description: Participants diagnosed with breast cancer who remained disease-free after previously receiving 2 to 3 years of tamoxifen 20 mg or 30 mg tablet-in-capsule orally once daily as per standard medical practice, received the same dose of tamoxifen tablet-in-capsule orally once daily for the remainder of 5-year period.",
+        "  Overall Number of Participants Analyzed: 2372",
+        "  Measure Type: Number",
+        "  Unit of Measure: probability of DFS  0.86        (0.85 to 0.88)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 383/2320 (16.51%)",
+        "  Anaemia * 2/2320 (0.09%)",
+        "  Disseminated intravascular coagulation * 1/2320 (0.04%)",
+        "  Granulocytopenia * 0/2320 (0.00%)",
+        "  Hypofibrinogenaemia * 0/2320 (0.00%)",
+        "  Iron deficiency anaemia * 1/2320 (0.04%)",
+        "  Lymphadenitis * 1/2320 (0.04%)",
+        "  Lymphadenopathy * 0/2320 (0.00%)",
+        "  Thrombocytopenia * 1/2320 (0.04%)",
+        "  Acute myocardial infarction * 5/2320 (0.22%)",
+        "Adverse Events 2:",
+        "  Total: 439/2338 (18.78%)",
+        "  Anaemia * 4/2338 (0.17%)",
+        "  Disseminated intravascular coagulation * 0/2338 (0.00%)",
+        "  Granulocytopenia * 1/2338 (0.04%)",
+        "  Hypofibrinogenaemia * 1/2338 (0.04%)",
+        "  Iron deficiency anaemia * 0/2338 (0.00%)",
+        "  Lymphadenitis * 0/2338 (0.00%)",
+        "  Lymphadenopathy * 1/2338 (0.04%)",
+        "  Thrombocytopenia * 5/2338 (0.21%)",
+        "  Acute myocardial infarction * 0/2338 (0.00%)"
+    ]
+}

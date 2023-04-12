@@ -1,0 +1,58 @@
+{
+    "Clinical Trial ID": "NCT00572728",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Diagnostic (18F-FLT)",
+        "  Patients undergo 18F-FLT PET/CT at baseline (prior to chemotherapy, FLT-1), early therapy (5-10 days after the initiation of the first course of chemotherapy, FLT-2), and post therapy (within 3 weeks prior to surgery, FLT-3). Patients undergo standard surgical resection of residual tumor following completion of neoadjuvant chemotherapy.",
+        "  Fluorothymidine F-18: Undergo 18F-FLT PET/CT",
+        "  Positron Emission Tomography: Undergo 18F-FLT PET/CT",
+        "  Computed Tomography: Undergo 18F-FLT PET/CT",
+        "  Laboratory Biomarker Analysis: Correlative studies"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Pathologically confirmed breast cancer, determined to be a candidate for primary systemic (neoadjuvant) therapy and for surgical resection of residual primary tumor following completion of neoadjuvant therapy",
+        "  Locally advanced breast cancer, not stage IV, and with a tumor size >= 2 cm (as measured on imaging or estimated by physical exam)",
+        "  No obvious contraindications for primary chemotherapy",
+        "  Residual tumor planned to be removed surgically following completion of neoadjuvant therapy",
+        "  Able to lie still for 1.5 hours for PET scanning",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%)",
+        "  Leukocytes >= 3,000/ul",
+        "  Absolute neutrophil count >= 1,500/ul",
+        "  Platelets >= 100,000/ul",
+        "  Total bilirubin within normal institutional limits",
+        "  Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT]) =< 2.5 times the institutional upper limit of normal",
+        "  Creatinine within normal institutional limits OR creatinine clearance >= 30 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal",
+        "  If female, postmenopausal for a minimum of one year, OR surgically sterile, OR not pregnant, confirmed by institutional standard of care (SOC) pregnancy test, and willing to use adequate contraception (hormonal or barrier method of birth control; abstinence) for the duration of study participation",
+        "  Able to understand and willing to sign a written informed consent document and a Health Insurance Portability and Accountability Act (HIPAA) authorization in accordance with institutional guidelines",
+        "Exclusion Criteria:",
+        "  Previous treatment (chemotherapy, radiation, or surgery) to involved breast; including hormone therapy",
+        "  Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements",
+        "  Medically unstable",
+        "  Condition requiring anesthesia for PET scanning and/or unable to lie still for 1.5 hours",
+        "  History of allergic reactions attributed to compounds of similar chemical or biologic composition to F-18 fluorothymidine",
+        "  Pregnant or nursing",
+        "  Previous malignancy, other than basal cell or squamous cell carcinoma of the skin or in situ carcinoma of the cervix, from which the patient has been disease free for less than 5 years",
+        "  Currently on hormone therapy as the primary systemic neoadjuvant therapy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  %Change in FLT Uptake Between the Baseline (Pre-therapy) and the Early-therapy Imaging Studies to Predict Pathological Complete Response",
+        "  The primary statistical evaluation will be based on the percent change in FLT SUV60 between baseline (pre-therapy, FLT-1) and the early-therapy imaging (5-10 days after chemotherapy, FLT-2) studies",
+        "  Time frame: Baseline (FLT-1) to early therapy (5-10 days after chemotherapy, FLT-2)",
+        "Results 1: ",
+        "  Arm/Group Title: Diagnostic (18F-FLT)",
+        "  Arm/Group Description: Patients undergo 18F-FLT PET/CT at baseline (prior to chemotherapy, FLT-1), early therapy (5-10 days after the initiation of the first course of chemotherapy, FLT-2), and post therapy (within 3 weeks prior to surgery, FLT-3). Patients undergo standard surgical resection of residual tumor following completion of neoadjuvant chemotherapy.",
+        "  Fluorothymidine F-18: Undergo 18F-FLT PET/CT",
+        "  Positron Emission Tomography: Undergo 18F-FLT PET/CT",
+        "  Computed Tomography: Undergo 18F-FLT PET/CT",
+        "  Laboratory Biomarker Analysis: Correlative studies",
+        "  Overall Number of Participants Analyzed: 51",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: percentage change of SUVmax  38.78         (26.07)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/90 (0.00%)"
+    ]
+}

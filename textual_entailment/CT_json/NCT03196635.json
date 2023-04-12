@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT03196635",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  All Study Participants, PA Compression Image Sets",
+        "  All image sets (30 patient-assisted compression image sets) were evaluated for acceptability of overall clinical image quality by two (2) readers.",
+        "INTERVENTION 2: ",
+        "  All Study Participants, TC Compression Image Sets",
+        "  All image sets (30 TC compression image sets) were evaluated for acceptability of overall clinical image quality by two (2) readers."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Are women aged 40 years or older;",
+        "  Are asymptomatic and scheduled for FFDM screening mammography;",
+        "  Have left and right breasts;",
+        "  Have breast sizes compatible with the dimensions of a 24 x 31 cm image detector, without anatomical cut-off;",
+        "  Are documented as non-pregnant based on the investigator's medical judgment and in consideration of local clinical practice standards for evidence of non-pregnancy;",
+        "  Are able and willing to comply with study procedures; and",
+        "  Are able and willing to provide written informed consent to participate.",
+        "Exclusion Criteria:",
+        "  Have been previously included in this study or are participating in another study expected to interfere with study procedures or outcomes;",
+        "  Have undergone diagnostic or surgical intervention(s) or procedure(s) on either breast, including breast biopsy, lumpectomy, or reconstruction, within five (5) years ( 5 years) of the study exam date;",
+        "  Are currently undergoing radiotherapy or chemotherapy, or have a history of prior radiotherapy treatment on either breast;",
+        "  Are currently lactating; or",
+        "  Have breast implants."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Subjects With Acceptable Overall Clinical Image Quality for Patient-assisted (PA) and Technologist-controlled (TC) Image Sets",
+        "  One PA image set and one TC image set was acquired from each completed subject. The overall clinical image quality acceptability was collected and summarized on a per subject-basis using binary responses of either acceptable or unacceptable for unilateral, two-view PA and TC compression image sets. Two readers evaluated each of the 60 image sets (30 PA and 30 TC compression image sets from 30 completed participants). In cases of disagreement between Readers 1 and 2, a third reader provided adjudication.",
+        "  Time frame: Through study completion, on average 1 month",
+        "Results 1: ",
+        "  Arm/Group Title: All Study Participants, PA Compression Image Sets",
+        "  Arm/Group Description: All image sets (30 patient-assisted compression image sets) were evaluated for acceptability of overall clinical image quality by two (2) readers.",
+        "  Overall Number of Participants Analyzed: 30",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  30 100.0%",
+        "Results 2: ",
+        "  Arm/Group Title: All Study Participants, TC Compression Image Sets",
+        "  Arm/Group Description: All image sets (30 TC compression image sets) were evaluated for acceptability of overall clinical image quality by two (2) readers.",
+        "  Overall Number of Participants Analyzed: 30",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  30 100.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/30 (0.00%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

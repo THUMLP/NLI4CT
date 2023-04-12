@@ -1,0 +1,44 @@
+{
+    "Clinical Trial ID": "NCT00981812",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Lesions Visualized Using Positron Emission Mammography (PEM)",
+        "  Total lesions visualized using positron emission mammography."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  female",
+        "  subject is 25-100 years of age",
+        "  subjects has at least one breast imaging finding on mammography and/or ultrasound which is assessed as highly suggestive of malignancy and recommended to biopsy",
+        "  subject is able to provide informed consent",
+        "Exclusion Criteria:",
+        "  subject is pregnant",
+        "  subject is actively lactating or discontinued breastfeeding less than 2 months ago",
+        "  subject has breast implants",
+        "  subject is scheduled for sentinel node procedure using radioactive Tc-99m within 24 hours of the PEM study",
+        "  subject has contraindications for core biopsy and other invasive procedures",
+        "  subject has Type I diabetes mellitus or poorly controlled Type II diabetes mellitus",
+        "  subject has had surgery or radiation therapy on the study breast or has had chemotherapy within the past 12 months",
+        "  subject has not fasted for 4-6 hours prior to the procedure and/or have a fasting blood glucose level greater than 140 mg/dl on day of PEM imaging"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Feasibility That Breast Biopsy Can be Performed Using PEM and Stereo Navigator Software After Diagnostic PEM on the Same Day.",
+        "  [Not Specified]",
+        "  Time frame: At time of biopsy",
+        "Results 1: ",
+        "  Arm/Group Title: Lesions Visualized Using Positron Emission Mammography (PEM)",
+        "  Arm/Group Description: Total lesions visualized using positron emission mammography.",
+        "  Overall Number of Participants Analyzed: 20",
+        "  Measure Type: Number",
+        "  Unit of Measure: Breast Lesions  Index Lesioins: 22",
+        "  Index Lesions Visualized at PEM: 21",
+        "  Additional Lesions seen only at PEM: 6",
+        "  Lesions technically adequate for targeting: 26",
+        "  Number of Lesions Biopsied: 24"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/20 (0.00%)"
+    ]
+}

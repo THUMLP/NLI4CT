@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT02595372",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  High Dose Omeprazole Treatment",
+        "  Patients will be treated with omeprazole 80 mg orally BID beginning 4-7 days prior to chemotherapy and continuing until surgery."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria",
+        "  Newly diagnosed triple negative breast cancer (TNBC) clinical stage Ic, II, or III",
+        "  ER and PR < 10%",
+        "  HER2 negative based on one of the following:",
+        "  IHC 0 or 1+",
+        "  IHC 2+ and FISH negative",
+        "  IHC 2+ and FISH equivocal and no indication for HER2 targeted therapy based on the treating investigators discretion (i.e., HER2: CEP17 ratio < 2.0 or HER2 total copy number <6)",
+        "  Planned neoadjuvant treatment with anthracycline and taxane containing chemotherapy",
+        "   18 years old at the time of informed consent",
+        "  ECOG Performance Status 0-1",
+        "  Ability to provide written informed consent and HIPAA authorization",
+        "  Women of childbearing potential definition must have a negative pregnancy test within 14 days of registration. All women (regardless of sexual orientation, having undergone a tubal ligation, or remaining celibate by choice) are considered to have childbearing potential unless they meet one of the following criteria:",
+        "  Prior hysterectomy or bilateral oophorectomy;",
+        "  Has not had menses at any time in the preceding 24 consecutive months",
+        "  Adequate organ function for anthracycline and taxane based therapy",
+        "  LVEF > LLN based on cardiac ECHO or MUGA",
+        "  Hgb > 8.5",
+        "  ANC > 1,000",
+        "  Platelets > 100,000",
+        "  Creatinine < 1.5",
+        "  T. bili < 1.3",
+        "  AST < 2.5 x ULN",
+        "  Exclusion Criteria",
+        "  Use of prescription PPIs within 12 months prior to study entry [Dexlansoprazole (Dexilant), Pantoprazole (Protonix), Rabeprazole (Aciphex), Esomeprazole (Nexium), Lansoprazole (Prevacid), Omeprazole (Prilosec, Zegerid)]",
+        "  Use of OTC PPIs within 6 months prior to study entry [Esomeprazole (Nexium), Lansoprazole (Prevacid), Omeprazole (Prilosec, Zegerid)]",
+        "  Use of Orlistat or any other known FASN inhibitor within 6 months prior to study entry",
+        "  Nursing mothers are excluded",
+        "  Known hypersensitivity to any component of the formulation or substituted benzimidazoles",
+        "  Prior osteoporotic fracture"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Patients With Pathological Complete Response (pCR) in Patients Who Have Fatty Acid Synthase (FASN) Expression",
+        "  pCR is defined as no invasive disease in the breast of axilla at the time of definitive surgery. A patient is considered to have FASN expression if the positivity was >= 15% at the baseline or after 4-7 days of Omeprazole monotherapy. FASN expression is evaluated using immunohistochemistry in core biopsy samples. The percent of patients with FASN expression that have pCR will be calculated with an exact 95% confidence interval.",
+        "  Time frame: Up to 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: High Dose Omeprazole Treatment",
+        "  Arm/Group Description: Patients will be treated with omeprazole 80 mg orally BID beginning 4-7 days prior to chemotherapy and continuing until surgery.",
+        "  Overall Number of Participants Analyzed: 29",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  72.4        (52.8 to 87.3)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 5/42 (11.90%)",
+        "  Febrile neutropenia * 3/42 (7.14%)",
+        "  Constipation * 1/42 (2.38%)",
+        "  Neutrophil count decreased * 1/42 (2.38%)",
+        "  White blood cell decreased * 1/42 (2.38%)",
+        "  Cough * 1/42 (2.38%)"
+    ]
+}

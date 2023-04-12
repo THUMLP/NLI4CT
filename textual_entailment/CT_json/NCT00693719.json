@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT00693719",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Etoposide/Irinotecan",
+        "  Irinotecan hydrochloride : Irinotecan 100 mg/m2 IV days 1 and 15, 28 day/Cycle",
+        "  Etoposide : 50 mg PO x14 days followed by 2 weeks off, 28 day/Cycle"
+    ],
+    "Eligibility": [
+        "DISEASE CHARACTERISTICS:",
+        "  Diagnosis of locally advanced or metastatic breast cancer",
+        "  Recurrent, refractory or progressive disease after receiving prior anthracycline, taxane, and capecitabine therapy",
+        "  Prior anthracycline and taxane therapy may have been as neoadjuvant, or adjuvant therapy if disease progression is documented within a year of completing that agent",
+        "  Received prior capecitabine therapy for metastatic or recurrent disease",
+        "  Measurable disease",
+        "  Bone metastases requires other disease present that can be measured",
+        "  No brain metastases, unless documented to be controlled post-completion of local therapy (surgery and/or radiation therapy) for at least 4 weeks",
+        "  No meningeal carcinomatosis",
+        "  No malignant effusion as the only site of disease recurrence",
+        "  Hormone receptor status not specified",
+        "  PATIENT CHARACTERISTICS:",
+        "  Menopausal status not specified",
+        "  Performance status of 0-2",
+        "  Creatinine  1.5 mg/dL OR creatinine clearance  40 mL/min",
+        "  Hemoglobin  10 g/dL",
+        "  ANC  1,500/mm^3",
+        "  Platelet count  100,000/mm^3",
+        "  Bilirubin normal or hyperbilirubinemia < grade 1 (unless due to Gilbert syndrome with elevated total but normal levels of conjugated bilirubin)",
+        "  Not pregnant or nursing",
+        "  Fertile patients must use effective contraception",
+        "  No other non-breast malignancy, except nonmelanoma skin cancer",
+        "  No other serious underlying medical condition, that in the opinion of the treating physician, would make study protocol unreasonably hazardous for the patient or would preclude the patient's ability to comply with the study protocol",
+        "  PRIOR CONCURRENT THERAPY:",
+        "  See Disease Characteristic",
+        "  Recovered from all prior chemotherapy or radiotherapy to NCI CTC grade  1",
+        "  Unlimited documented prior chemotherapy regimens allowed",
+        "  No prior irinotecan hydrochloride or etoposide",
+        "  No Hypericum perforatum (St. John's wort) 14 days prior to, during, or 7 days after completion of study therapy",
+        "  At least 7 days since prior and no concurrent phenytoin, carbamazepine, phenobarbital, or any other enzyme-inducing anticonvulsant drug (EIACD)",
+        "  No concurrent aprepitant"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Median Time to Progression",
+        "  Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions",
+        "  Time frame: Measured time from the start of treatment to the time the patient is first recorded as having disease progression or dies. If no progression or death while being followed via tumor assessment, censored at last date known alive, assesed up to 13 months",
+        "Results 1: ",
+        "  Arm/Group Title: Etoposide/Irinotecan",
+        "  Arm/Group Description: Irinotecan hydrochloride : Irinotecan 100 mg/m2 IV days 1 and 15, 28 day/Cycle",
+        "  Etoposide : 50 mg PO x14 days followed by 2 weeks off, 28 day/Cycle",
+        "  Overall Number of Participants Analyzed: 31",
+        "  Median (Standard Error)",
+        "  Unit of Measure: Days  149         (33.83)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 4/31 (12.90%)",
+        "  Bleeding  1/31 (3.23%)",
+        "  Pain  2/31 (6.45%)",
+        "  Dehydration  1/31 (3.23%)",
+        "  Dyspnea  1/31 (3.23%)"
+    ]
+}

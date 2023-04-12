@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT00611624",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Five Days of Mammosite Therapy",
+        "[Not Specified]"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  The patient must consent to be in the study and must have a signed an approved consent form conforming with institutional guidelines.",
+        "  Patient must be > 50 years old.",
+        "  The patient should have a life expectancy of at least two years.",
+        "  The patient must have stage 0 , I , or II breast cancer. If stage IIA, the tumor size must be 3 cm or less and the patients must be node negative.",
+        "  On histological examination, the tumor must be DCIS or invasive adenocarcinoma of the breast.",
+        "  Surgical treatment of the breast must have been lumpectomy. The margins of the resected specimen must be histologically free of tumor (>2mm, DCIS and invasive). Re-excision of surgical margins is permitted.",
+        "  Gross disease must be unifocal with pathologic (invasive and/or DCIS) tumor size 3 cm or less. (Patients with microscopic multifocality are eligible as long as total pathologic tumor size is 3 cm or less.)",
+        "  Patients with invasive breast cancer are required to have axillary staging which can include sentinel node biopsy alone (if negative), sentinel node biopsy followed by axillary dissection or sampling with a minimum total of 6 axillary nodes or axillary dissection alone (with a minimum of 6 axillary nodes). (Axillary staging is NOT required for patients with DCIS.)",
+        "  The patient must have the MammoSite catheter placed within 4 weeks or 28 days of the final surgery for their breast cancer (lumpectomy, re-excision of margins, or axillary staging procedure). Placement of a spacer for the MammoSite catheter is permitted at their final surgery.",
+        "  Patients with a history of non-ipsilateral breast malignancies are eligible if they have been disease-free for 2 or more years prior to randomization. Patients with the following cancers are eligible even if diagnosed and treated within the past 2 years: carcinoma in situ of the cervix, colon, melanoma in situ, and basal cell and squamous cell carcinoma of the skin. Patients with a prior diagnosis of ipsilateral breast cancer are ineligible.",
+        "  Chemotherapy is permitted if planned for >2 weeks after removal of Mammosite catheter.",
+        "  Patient must be ineligible or have refused enrollment on the randomized trial RTOG (Radiation Therapy Oncology Group) 0413.",
+        "Exclusion Criteria:",
+        "  Men are not eligible for this study.",
+        "  T2 (>3.0 cm), T3, node positive, stage III or IV breast cancer.",
+        "  Any positive axillary nodes.",
+        "  Palpable or radiographically suspicious ipsilateral or contralateral axillary, supraclavicular, infraclavicular or internal mammary nodes, unless biopsy proven to be negative for tumor.",
+        "  Suspicious microcalcifications, densities or palpable abnormalities in either breast unless biopsy proven to be benign.",
+        "  Non-epithelial breast malignancies such as sarcoma or lymphoma.",
+        "  Proven multicentric carcinoma in more than one quadrant or separated by more than 3 centimeters.",
+        "  Paget's disease of the nipple.",
+        "  History of invasive breast cancer or DCIS in the same breast.",
+        "  Surgical margins that cannot be microscopically assessed or are less then 2 mm.",
+        "  Collagen vascular disease, specifically dermatomyositis with a creatine phosphokinase (CPK) level above normal or with an active skin rash, systemic lupus erythematosis or scleroderma.",
+        "  Pregnancy or lactation at the time of proposed radiation. Women of reproductive potential must agree to use an effective non-hormonal method of contraception during therapy.",
+        "  Psychiatric or addictive disorders or other conditions that, in the opinion of the investigator, would preclude the patient from meeting the study requirements.",
+        "  Patients with coexisting medical conditions in whom life expectancy is < 2 years.",
+        "  Patients with skin involvement, regardless of tumor size.",
+        "  Patients for whom treatment with the MammoSite catheter is not feasible, such as those with too little breast tissue between the skin and the catheter (as determined by distance of dose calculations)."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Skin Toxicity the First Year Following Treatment With the Multiple Dwell Mammosite Delivery Method.",
+        "  Evaluation of skin toxicity the first year following treatment with the multiple dwell Mammosite delivery method. The number of participants with a grade 2 skin toxicity (or higher) at 1 year follow up are reported. Radiation Therapy Oncology Group (RTOG) and the European organization for research and treatment of cancer (EORTC) Late Radiation Morbidity Scoring Schema were used to assess toxicity.",
+        "  Time frame: one year",
+        "Results 1: ",
+        "  Arm/Group Title: Five Days of Mammosite Therapy",
+        "  Arm/Group Description: [Not Specified]",
+        "  Overall Number of Participants Analyzed: 26",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Grade 2 Toxicity: 2   7.7%",
+        "  Grade 3 Toxicity: 0   0.0%",
+        "  Grade 4 Toxicity: 0   0.0%",
+        "  Grade 5 Toxicity: 0   0.0%",
+        "  Did not experience >= Grade 2 Toxicity: 24  92.3%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/28 (0.00%)"
+    ]
+}

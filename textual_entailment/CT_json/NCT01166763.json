@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT01166763",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  High Dose Vitamin D3 (10,000 IU Weekly)",
+        "  Group/Cohort Label vitamin D3",
+        "  vitamin D3: oral capsules, 10,000 IU per week for 6 months"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Subjects must be premenopausal women age 55 or younger, and actively menstruating with 4 or more periods per year.",
+        "  Subjects may be using barrier contraceptive, an intrauterine device, a Nuvaring, or similar non-oral contraceptive; or oral contraceptives.",
+        "  Subjects must be at increased risk for breast cancer on the basis of at least one of the following criteria:",
+        "  five-year Gail risk of 3X the average risk of the age group;",
+        "  a first degree relative with breast cancer under the age of 60 or multiple second degree relatives with breast cancer;",
+        "  prior biopsy exhibiting atypical hyperplasia (AH), LCIS, DCIS, RPFNA evidence of hyperplasia with atypia within the last three years;",
+        "  Chest or neck radiation before age 30;",
+        "  Breast density equals or exceeds 50 percent.",
+        "  If previously on a chemoprevention agent or prevention trial, subjects must have completed study participation at least 6 months prior to baseline biomarker assessment.",
+        "  If subject has a history of AH, LCIS, or ER-positive DCIS by diagnostic biopsy, must have been counseled about appropriate standard prevention therapies such as tamoxifen and is either not eligible or is not interested in standard prevention therapies. Women with DCIS must have had appropriate local therapy (lumpectomy plus radiation or mastectomy).",
+        "  Subject must have had a mammogram performed at the University of Kansas Breast Imaging Center with estimated visual breast density of greater than 10 percent.",
+        "  Subject must have had within six months prior to entering the study, an RPFNA during the follicular portion (day 1-10) of the menstrual cycle with material for cytomorphology, Ki-67 and qRT-PCR; in addition to serum obtained and banked.",
+        "  Subjects must have 25(OH)D level < 30 ng/ml as measured within 8 weeks of starting intervention. Subjects may have been identified as having low vitamin D levels through participation in HSC 11313, Osteopenia/Osteoporosis in Pre-menopausal Women at High Risk for Development of Breast Cancer, but low level must be confirmed within 8 weeks prior to starting study agent Subject must be willing to continue the same hormonal milieu present at baseline throughout trial.",
+        "  Subjects must be willing to undergo measurement of height, weight, and BMI at initiation of intervention.",
+        "  Subjects must have participated in HSC 11313, and have had a DEXA scan for bone density and body fat analysis on the GE Lunar Prodigy Advance research unit in the Breast Cancer Survivorship Center.",
+        "  Subjects must be willing to sign an informed consent for the entire study and separate consent for repeat RPFNA.",
+        "Exclusion Criteria:",
+        "  Women that have had a metastatic malignancy of any kind.",
+        "  Women that have had prior invasive breast cancer If subject has had a DCIS, at least two months must have elapsed from surgery and/or radiation therapy to the involved breast. Only the contra-lateral (uninvolved breast) will be studied by FNA. The subject may not have had any radiation therapy to the contra-lateral breast to be studied.",
+        "  Women who are pregnant or nursing.",
+        "  Women who have taken a SERM, aromatase inhibitor or participated in a chemoprevention or other investigational drug study within six months prior to baseline FNA.",
+        "  Women who have used fertility drugs within six months prior to baseline aspiration.",
+        "  Women with a history of sarcoidosis, hypercalcemia, hyperparathyroidism, or renal stones.",
+        "  Women who are receiving treatment for rheumatoid arthritis or other connective tissue diseases.",
+        "  Women who have an elevated blood calcium level at baseline; defined as any elevation above the institutional normal range."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Mammographic Breast Density Over Course of Study",
+        "  Change in the percent of the breast area that is considered to be at higher density on mammogram.",
+        "  Time frame: baseline and 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: High Dose Vitamin D3 (10,000 IU Weekly)",
+        "  Arm/Group Description: Group/Cohort Label vitamin D3",
+        "  vitamin D3: oral capsules, 10,000 IU per week for 6 months",
+        "  Overall Number of Participants Analyzed: 27",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: Change in percent dense breast area  -0.5         (5.8)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 3/30 (10.00%)",
+        "  Cholecystitis *  [1]1/30 (3.33%)",
+        "  Increase in diarrhea *  [2]1/30 (3.33%)",
+        "  Flank pain *  [3]1/30 (3.33%)"
+    ]
+}

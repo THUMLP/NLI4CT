@@ -1,0 +1,39 @@
+{
+    "Clinical Trial ID": "NCT02321527",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  CEUS Sentinel Lymph Node Imaging + Guided Biopsy",
+        "  Subdermal periareolar injection of 0.2 - 0.5 cc of microbubble contrast Perflutren Protein-Type A Microspheres Injectable Suspension before Contrast-Enhanced Ultrasound (CEUS), sentinel lymph node biopsy and radioactive seed placement."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  18 years or older.",
+        "  Ipsilateral biopsy-proven invasive breast cancer <5 cm in maximal dimension by Ultrasound or Mammography.",
+        "  No abnormal axillary nodes identified on grayscale AUS, or abnormal nodes with benign subsequent FNA biopsy.",
+        "Exclusion Criteria:",
+        "  Pregnant or nursing women",
+        "  Prior SLN dissection",
+        "  Neoadjuvant chemotherapy.",
+        "  Prior axillary lymph node surgery.",
+        "  Prior history of ipsilateral breast cancer.",
+        "Known or suspected: Cardiac shunts",
+        "Known or suspected: hypersensitivity to perflutren, blood, blood products or albumin",
+        "Known or suspected: hypersensitivity to a prior OPTISON administration"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Breast Cancer Participants With Sentinel Lymph Nodes (SLN) Identification Using the CEUS Technique",
+        "  Following the Microbubble CEUS of ipsilateral axillary nodes, needle biopsy and I-125 seed placement, a single node/participant (biopsied node) will be included in the statistical evaluation. The technique determined as technically feasible if an enhancing node is visualized in at least 90% of the subjects and 80% concordance is achieved between imaging-guided biopsy and final surgical histopathology. If no enhancement is identified, the overlying skin will be massaged, and re-injection of contrast will be employed up to three times. If no contrast enhancement in lymphatics is observed, the case will be reported as a failure of the CEUS technique.",
+        "Time frame: 1 day",
+        "Results 1: ",
+        "  Arm/Group Title: CEUS Sentinel Lymph Node Imaging + Guided Biopsy",
+        "  Arm/Group Description: Subdermal periareolar injection of 0.2 - 0.5 cc of microbubble contrast Perflutren Protein-Type A Microspheres Injectable Suspension before Contrast-Enhanced Ultrasound (CEUS), sentinel lymph node biopsy and radioactive seed placement.",
+        "  Overall Number of Participants Analyzed: 21",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  20  95.2%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/21 (0.00%)"
+    ]
+}

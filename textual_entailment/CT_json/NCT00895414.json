@@ -1,0 +1,52 @@
+{
+    "Clinical Trial ID": "NCT00895414",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Doxorubicin Hydrochloride Alone",
+        "  Participants who received doxorubicin hydrochloride alone in either Cycle 1 or Cycle 2.",
+        "INTERVENTION 2: ",
+        "  Doxorubicin Hydrochloride With Enalapril",
+        "  Participants who received doxorubicin hydrochloride with enalapril in either Cycle 1 or Cycle 2."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Tissue diagnosis of a breast carcinoma",
+        "  The oncologist must have prescribed doxorubicin as part of the planned chemotherapy regimen",
+        "  Have acceptable organ function within 14 days of enrollment defined as:",
+        "  liver function: total bilirubin, AST and ALT within normal institutional limits",
+        "  kidney function: estimated Creatinine Clearance > 60 ml/min calculated creatinine clearance (for females) - formula: (140 - age) x weight x .85 divided by (sCr x 72)",
+        "  At least 18 years old",
+        "  Patient must have given written informed consent indicating an understanding of the investigational nature of the study",
+        "  Agrees not to consume grapefruit juice while on the study",
+        "Exclusion Criteria:",
+        "  Known allergy to enalapril",
+        "  Taking any known P450 cytochrome inducers or inhibitors",
+        "  Taking any herbal supplements while on the study or the week prior to receiving doxorubicin",
+        "  Taking an ace-inhibitor or angiotensin receptor blocker",
+        "  Pregnant or lactating. Enalapril is Pregnancy Categories C (first trimester) and D (second and third trimesters)"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Patients With Doxorubicin Plasma Concentrations Demonstrating a Significant Increase or Decrease When Doxorubicin Was Given With Enalapril as Compared to When Doxorubicin Was Given Without Enalapril.",
+        "  Doxorubicin plasma concentration (DPC) is the primary pharmacokinetic (PK) measure of the exposure. Each patient will have serial PKs performed twice - once with enalapril and once without enalapril. A mean increase or decrease of more than 115 ng/ml in DPC will be considered significant.",
+        "  Time frame: Baseline, 0.5, 1.0, 2.0, 4.0, 24.0 and 48.0 hours after infusion of doxorubicin",
+        "Results 1: ",
+        "  Arm/Group Title: Doxorubicin Hydrochloride Alone",
+        "  Arm/Group Description: Participants who received doxorubicin hydrochloride alone in either Cycle 1 or Cycle 2.",
+        "  Overall Number of Participants Analyzed: 17",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  0",
+        "Results 2: ",
+        "  Arm/Group Title: Doxorubicin Hydrochloride With Enalapril",
+        "  Arm/Group Description: Participants who received doxorubicin hydrochloride with enalapril in either Cycle 1 or Cycle 2.",
+        "  Overall Number of Participants Analyzed: 17",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  0"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/8 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/9 (0.00%)"
+    ]
+}

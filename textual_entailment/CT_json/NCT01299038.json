@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT01299038",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Rosuvastatin 20mg",
+        "  Rosuvastatin 20mg taken orally once a day for 4 weeks",
+        "  rosuvastatin: Taken orally once a day for 4 weeks",
+        "INTERVENTION 2: ",
+        "  Rosuvastatin 40mg",
+        "  Rosuvastatin 40mg taken orally once a day for 4 weeks",
+        "  rosuvastatin: Taken orally once a day for 4 weeks"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Metastatic adenocarcinoma of the breast (Stage IV)",
+        "  Actively receiving endocrine therapy for at least 6 weeks (with or without HER2 therapy)",
+        "  Minimum age 18 years",
+        "  ECOG Performance status of 0, 1 or 2",
+        "  Normal organ and marrow function as defined in the protocol",
+        "Exclusion Criteria:",
+        "  Participants may not be receiving any other study agents",
+        "  Actively receiving chemotherapy (exclusive of hormonal or HER2 therapy ) within last 5 weeks",
+        "  Any statin therapy within the last 3 weeks",
+        "  Asian decent (including Filipino, Chinese, Japanese, Korean, Vietnamese or Asian-Indian origin)",
+        "  Concomitant use of the following drugs: cyclosporine, fibrates, niacin, gemfibrozil, ketaconazole, spironolactone, cimetidine, warfarin, erythromycin, or protease inhibitors",
+        "  Conditions predisposing to renal failure secondary to rhabdomyolysis",
+        "  Recent history of heavy alcohol use as judged by the treating physician",
+        "  Known to be pregnant (testing not required) or nursing",
+        "  History of rhabdomyolysis on statin therapy",
+        "  Known history of Hepatitis C or active hepatitis B infection (baseline testing not required)",
+        "  Uncontrolled intercurrent illness including, but not limited to ongoing or active infection, hepatitis, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Mean Change of Tissue Factor Bearing Microparticles",
+        "  Comparison of plasma microparticle concentration between baseline and week 4",
+        "  Time frame: 4 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Rosuvastatin 20mg",
+        "  Arm/Group Description: Rosuvastatin 20mg taken orally once a day for 4 weeks",
+        "  rosuvastatin: Taken orally once a day for 4 weeks",
+        "  Overall Number of Participants Analyzed: 8",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: microparticles per microliter  102         (586)",
+        "Results 2: ",
+        "  Arm/Group Title: Rosuvastatin 40mg",
+        "  Arm/Group Description: Rosuvastatin 40mg taken orally once a day for 4 weeks",
+        "  rosuvastatin: Taken orally once a day for 4 weeks",
+        "  Overall Number of Participants Analyzed: 7",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: microparticles per microliter  -618         (624)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/9 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/10 (0.00%)"
+    ]
+}

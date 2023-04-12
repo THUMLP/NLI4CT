@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT01783444",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Everolimus 10 mg + Exemestane 25 mg",
+        "  Everolimus (10 mg daily) with Exemestane (25 mg daily) (control arm).",
+        "INTERVENTION 2: ",
+        "  Everolimus 10 mg",
+        "  Everolimus (10 mg daily) (investigational arm)."
+    ],
+    "Eligibility": [
+        "Key Inclusion Criteria:",
+        "  - Women with locally advanced, recurrent, or metastatic breast cancer along with confirmation of estrogen-receptor positive (ER+). Measurable disease defined as at least one lesion  10 mm by CT or MRI that can be accurately measured in at least one dimension (CT scan slice thickness  5 mm) OR  Bone lesions: lytic or mixed (lytic + blastic) in the absence of measurable disease as defined above.",
+        "  Key Exclusion Criteria:",
+        "  - Patients who received more than one chemotherapy line. Patients with only non-measurable lesions other than lytic or mixed (lytic and blastic) bone metastasis.Previous treatment with exemestane, mTOR inhibitors, PI3K inhibitors or AKT inhibitors."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Progression Free Survival (PFS) - Everolimus Plus Exemestane Versus Everolimus Alone",
+        "  Progression Free Survival (PFS) is defined as the time from date of randomization to the date of first radiologically documented progression or death due to any cause. If a patient did not have an event, PFS was censored at the date of the last adequate tumor assessment. PFS was compared between the everolimus + exemestane combination therapy with the everolimus monotherapy.",
+        "  Time frame: Date of randomization to the date of first documented tumor progression or death from any cause, whichever occurs first, reported between day of first patient randomized up to 39 months",
+        "Results 1: ",
+        "  Arm/Group Title: Everolimus 10 mg + Exemestane 25 mg",
+        "  Arm/Group Description: Everolimus (10 mg daily) with Exemestane (25 mg daily) (control arm).",
+        "  Overall Number of Participants Analyzed: 104",
+        "  Median (90% Confidence Interval)",
+        "  Unit of Measure: Months  8.41        (6.60 to 9.72)",
+        "Results 2: ",
+        "  Arm/Group Title: Everolimus 10 mg",
+        "  Arm/Group Description: Everolimus (10 mg daily) (investigational arm).",
+        "  Overall Number of Participants Analyzed: 103",
+        "  Median (90% Confidence Interval)",
+        "  Unit of Measure: Months  6.77        (5.52 to 7.20)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 37/104 (35.58%)",
+        "  Anaemia 1/104 (0.96%)",
+        "  Febrile neutropenia 0/104 (0.00%)",
+        "  Leukopenia 0/104 (0.00%)",
+        "  Neutropenia 0/104 (0.00%)",
+        "  Pancytopenia 0/104 (0.00%)",
+        "  Thrombocytopenia 0/104 (0.00%)",
+        "  Atrial fibrillation 1/104 (0.96%)",
+        "  Cardiac arrest 1/104 (0.96%)",
+        "  Cardiac failure 1/104 (0.96%)",
+        "  Cardiac failure acute 1/104 (0.96%)",
+        "  Cardiac failure congestive 0/104 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 30/103 (29.13%)",
+        "  Anaemia 3/103 (2.91%)",
+        "  Febrile neutropenia 0/103 (0.00%)",
+        "  Leukopenia 0/103 (0.00%)",
+        "  Neutropenia 0/103 (0.00%)",
+        "  Pancytopenia 0/103 (0.00%)",
+        "  Thrombocytopenia 0/103 (0.00%)",
+        "  Atrial fibrillation 0/103 (0.00%)",
+        "  Cardiac arrest 0/103 (0.00%)",
+        "  Cardiac failure 0/103 (0.00%)",
+        "  Cardiac failure acute 0/103 (0.00%)",
+        "  Cardiac failure congestive 1/103 (0.97%)"
+    ]
+}

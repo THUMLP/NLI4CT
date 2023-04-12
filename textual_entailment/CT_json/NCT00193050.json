@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT00193050",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Intervention",
+        "  In the neoadjuvant setting, patients were administered gemcitabine (800 mg/m2 IV days 1 and 8), epirubicin (75 mg/m2 IV day 1), and docetaxel (30 mg/m2 IV days 1 and 8)repeated every 21 days for 4 cycles",
+        "  Patients then had either mastectomy or breast conservation surgery and pathologic treatment responses were assessed.",
+        "  After surgery, 4 cycles of adjuvant gemcitabine (1000 mg/m2 IV days 1 and 8) and docetaxel (35 mg/m2 IV days 1 and 8) were administered at 21 day intervals.",
+        "  After completion of chemotherapy, local regional radiation therapy and/or anti-estrogen therapy was administered per standard guidelines."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  To be included in this study, you must meet the following criteria:",
+        "  Adenocarcinoma of the breast confirmed by biopsy",
+        "  Female Patients >18 years of age",
+        "  Normal cardiac function",
+        "  Ability to perform activities of daily living with minimal assistance",
+        "  Chemotherapy na\u00efve or have received prior chemotherapy > 5 years ago",
+        "  Adequate bone marrow, liver and kidney function",
+        "  Be informed of the investigational nature of this study",
+        "  Sign an informed consent form",
+        "  Sentinel lymph node and/or axillary dissection prior to enrollment",
+        "Exclusion Criteria:",
+        "  You cannot participate in this study if any of the following apply to you:",
+        "  Life expectancy of < than 6 months",
+        "  History of significant heart disease",
+        "  Prior chemotherapy or hormonal therapy",
+        "  Concurrent Trastuzumab therapy",
+        "  History of significant psychiatric disorders",
+        "  History of active uncontrolled infection",
+        "  Please note: There are additional inclusion/exclusion criteria. The study center will determine if you meet all of the criteria. If you do not qualify for the trial, study personnel will explain the reasons. If you do qualify, study personnel will explain the trial in detail and answer any questions you may have."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Pathologic Complete Response (pCR)",
+        "  For the purpose of this study, a Pathologic complete response (pCR) was defined as no evidence of residual invasive tumor in the breast (pT0). Residual ductal or lobular carcinoma in situ was not considered in pCR assessments. Percentage of participants who experienced pCR is reported.",
+        "  Time frame: 18 Months",
+        "Results 1: ",
+        "  Arm/Group Title: Intervention",
+        "  Arm/Group Description: In the neoadjuvant setting, patients were administered gemcitabine (800 mg/m2 IV days 1 and 8), epirubicin (75 mg/m2 IV day 1), and docetaxel (30 mg/m2 IV days 1 and 8)repeated every 21 days for 4 cycles",
+        "  Patients then had either mastectomy or breast conservation surgery and pathologic treatment responses were assessed.",
+        "  After surgery, 4 cycles of adjuvant gemcitabine (1000 mg/m2 IV days 1 and 8) and docetaxel (35 mg/m2 IV days 1 and 8) were administered at 21 day intervals.",
+        "  After completion of chemotherapy, local regional radiation therapy and/or anti-estrogen therapy was administered per standard guidelines.",
+        "  Overall Number of Participants Analyzed: 110",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  18        (11 to 26)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 17/110 (15.45%)",
+        "  Hemoglobin  [1]1/110 (0.91%)",
+        "  Esophagitis 1/110 (0.91%)",
+        "  Dysphagia 1/110 (0.91%)",
+        "  Nausea/Vomiting 1/110 (0.91%)",
+        "  Nausea 1/110 (0.91%)",
+        "  Fever 1/110 (0.91%)",
+        "  Febrile Neutropenia 11/110 (10.00%)",
+        "  Infection - Other  [2]1/110 (0.91%)",
+        "  Infection - Pneumonia 1/110 (0.91%)",
+        "  Dyspnea 2/110 (1.82%)",
+        "  Hypoxia 1/110 (0.91%)"
+    ]
+}

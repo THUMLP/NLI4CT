@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT01042938",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Curcumin C3 Complex",
+        "  Patients take 2.0 grams curcumin (four 500mg capsules) three times daily by mouth for prescribed course of radiation treatment (RT) (~4-7 weeks).",
+        "INTERVENTION 2: ",
+        "  Placebo",
+        "  Patients take 2.0 grams placebo (four 500mg capsules) three times daily by mouth for prescribed course of radiation treatment (RT)(~4-7 weeks)."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female with a diagnosis of, non-inflammatory breast adenocarcinoma and be referred for post-operative radiotherapy without concurrent chemotherapy.",
+        "  Participants must be at least 21 years of age.",
+        "  Participants must not be pregnant.",
+        "  Participants can be from any racial or ethnic origin.",
+        "  Breast adenocarcinoma could have been treated by either lumpectomy or mastectomy with or without adjuvant or neoadjuvant chemotherapy or hormonal treatment.",
+        "  Participants with in situ breast cancer are eligible.",
+        "  Participants who are prescribed concurrent hormone treatment with radiation treatment are eligible.",
+        "  Participants must be scheduled to receive five sessions of radiation therapy per week (1 session per day) for at least four weeks using standard (1.8-2.0 Gy per session)or Canadian (2.2-2.5 Gy per session)irradiation fractionation.",
+        "  A time period of three weeks must elapse after chemotherapy and surgery before beginning the study.",
+        "  The total dose prescribed to the whole breast should be 50 Gy or greater.",
+        "  Participants must be able to understand English and able to complete assessment forms (all assessment forms are in English).",
+        "  Participants must be able to swallow medication.",
+        "  Topical skin agents, e.g., Aquaphor, Cetaphil, or other emollients, are allowed either PRN or prophylactically.",
+        "  Participant must give informed consent.",
+        "Exclusion Criteria:",
+        "  Patients with bilateral breast cancer are not eligible.",
+        "  Patients who have had previous radiation therapy to the breast or chest are not eligible.",
+        "  Patients who are prescribed chemotherapy concurrently with radiation treatment are not eligible.",
+        "  Patients who will be receiving treatment with Herceptin (trastuzumab), anti-coagulants, or anti-human epidermal growth factor receptor (EGFR) drugs, e.g. Iressa (gefitinib), Erbitux (cetuximab, C225), concurrently with their radiation therapy are not eligible.",
+        "  Patients cannot have had breast reconstructions, implants, and/or expanders.",
+        "  Patients with known radiosensitivity syndromes (e.g., Ataxia-telangiectasia) are not eligible.",
+        "  Patients with collagen vascular disease, vasculitis, unhealed surgical sites, or breast infections are not eligible.",
+        "  Patients whose baseline blood tests meet the following criteria are not eligible: greater than or equal to Grade 2 change Hemoglobin (i.e., 25% decrease from baseline); greater than or equal to Grade 1 change in Platelets (i.e., less than 75,000/mm3); greater than or equal to Grade 2 change in PT and PTT(i.e., 1.5-2x upper level normal (ULN)); greater than or equal to Grade 1 change in AST, ALT (i.e., greater than 2.5x ULN); greater than or equal to Grade 1 change in Bilirubin (i.e., greater than 1.5x ULN); greater than or equal to Grade 1 change in Creatinine (i.e., greater than 2x ULN)."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Severity of Dermatitis in Radiation Treatment Site in Breast Cancer Patients",
+        "  The severity of radiation dermatitis was measured using the Radiation Dermatitis Severity (RDS)Scale which ranges from 0.0 to 4.0 with increments of 0.5. The RDS scale is a revised form of the NIH Common Toxicity Criteria to account for color and subtle texture changes in the skin. The worst dermatitis (i.e., highest RDS score) at the end of treatment was used for the primary analysis of severity of radiation dermatitis in each treatment group. Additionally, we performed repeated measure analyses to examine the severity of dermatitis over time in each arm.",
+        "  Time frame: 4-7 weeks (prescribed course of radiation)",
+        "Results 1: ",
+        "  Arm/Group Title: Curcumin C3 Complex",
+        "  Arm/Group Description: Patients take 2.0 grams curcumin (four 500mg capsules) three times daily by mouth for prescribed course of radiation treatment (RT) (~4-7 weeks).",
+        "  Overall Number of Participants Analyzed: 14",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  2.6         (0.994)",
+        "Results 2: ",
+        "  Arm/Group Title: Placebo",
+        "  Arm/Group Description: Patients take 2.0 grams placebo (four 500mg capsules) three times daily by mouth for prescribed course of radiation treatment (RT)(~4-7 weeks).",
+        "  Overall Number of Participants Analyzed: 16",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  3.4         (0.554)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/14 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/16 (0.00%)"
+    ]
+}

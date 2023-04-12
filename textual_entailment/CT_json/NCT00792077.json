@@ -1,0 +1,36 @@
+{
+    "Clinical Trial ID": "NCT00792077",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Lenalidomide",
+        "  Participants received lenalidomide 5mg orally daily for 57 +/- 3 days"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Describe fatigue as being present every day for most of day for a minimum of 2 weeks and rate fatigue greater than or equal to 4 on a 0-10 scale, in which 0= no fatigue and 10=worst possible fatigue as assessed by MD Anderson symptom Inventory(MDASI).",
+        "  Have diagnoses of CLL and started on a new cytotoxic therapy or breast cancer receiving new cytotoxic or radiation therapy",
+        "  Patients will be eligible to participate in this study if they rate sleep disturbance greater than or equal to 4 on a 0-10 scale, in which 0= disturbed sleep is not present and 10 = disturbed sleep as bad as you can imagine as assessed by MDASI.",
+        "  Have a MDAS of 13 or less.",
+        "  Able to understand the description of the study and give written informed consent.",
+        "Exclusion Criteria:",
+        "  Patients who are unable to complete the assessment measures or refuse to participate",
+        "  Patients with known history of brain metastasis.",
+        "  Patients with known history of sleep apnea."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Total Sleep Time as Measured by Polysomnography (PSG)",
+        "  Polysomnography (PSG) was done to measure the total sleep time in minutes. It was measured as a change in total sleep time between the before and after 1st cycle of treatment with Lenalidomide.",
+        "  Time frame: before and after 1st cycle of Lenalidomide treatment, up to 8 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Lenalidomide",
+        "  Arm/Group Description: Participants received lenalidomide 5mg orally daily for 57 +/- 3 days",
+        "  Overall Number of Participants Analyzed: 6",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: Minutes  -25.5        (-46.0 to -15.0)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/6 (0.00%)"
+    ]
+}

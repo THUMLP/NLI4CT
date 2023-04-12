@@ -1,0 +1,49 @@
+{
+    "Clinical Trial ID": "NCT01649271",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Phase Ia: Afatinib +Trastuzumab 8 mg/kg",
+        "  In each 21 day treatment cycle, patients were administered orally afatinib tablet from Day 2 continuous daily administration in combination with trastuzumab. An initial loading dose of trastuzumab 8 mg/kg was administered via intravenous infusion at Day1 Cycle1, followed by trastuzumab 6 mg/kg every 3 weeks. Trastuzumab intravenous infusion, 90 minutes, infusion duration could be reduced to 30 minutes if well tolerated."
+    ],
+    "Eligibility": [
+        "Inclusion criteria:",
+        "  Patients aged 18 years and older",
+        "  Patients with cancers overexpressing HER2 by Immunohistochemistry test( IHC) 3+ and/or IHC 2+ with positive gene amplification by FISH (confirmation on archived tissue needed)",
+        "  Written informed consent that is consistent with ICH-GCP guidelines.",
+        "  Patients must be eligible for treatment with trastuzumab.",
+        "  Patients must have adequate organ function (kidney, liver, bone marrow, cardiac)",
+        "  Eastern Cooperative Oncology Group (ECOG) = 0 or 1.",
+        "  Measurable disease according to RECIST 1.1 (Phase Ib).",
+        "Exclusion criteria:",
+        "  Active brain metastases.",
+        "  Prior treatment with erbB family targeting therapies within the past four weeks before start of therapy or concomitantly with the trial other than trastuzumab and/or lapatinib.",
+        "  Patients having more than 2 lines of chemotherapy for the treatment of metastatic breast cancer (Phase Ib)."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  MTD of Afatinib in Combination With Trastuzumab Based on the Number of Patients With DLTs During the First Treatment Cycle (Afatinib).",
+        "  Maximum Tolerated Dose (MTD) of Afatinib in combination with trastuzumab based on the number of patients with dose limiting toxicity (DLT) during the first treatment cycle (Dose escalation part). The MTD was defined as the highest dose studied at which the incidence of a DLT was less than 17% (i.e. 1/6 patients) during the first cycle.",
+        "  One patient in the Afa30+Trast8 cohort developed tumour lysis syndrome during the first course of treatment and was therefore not evaluable for the primary endpoint.",
+        "  Time frame: First 21 days treatment cycle",
+        "Results 1: ",
+        "  Arm/Group Title: Phase Ia: Afatinib +Trastuzumab 8 mg/kg",
+        "  Arm/Group Description: In each 21 day treatment cycle, patients were administered orally afatinib tablet from Day 2 continuous daily administration in combination with trastuzumab. An initial loading dose of trastuzumab 8 mg/kg was administered via intravenous infusion at Day1 Cycle1, followed by trastuzumab 6 mg/kg every 3 weeks. Trastuzumab intravenous infusion, 90 minutes, infusion duration could be reduced to 30 minutes if well tolerated.",
+        "  Overall Number of Participants Analyzed: 12",
+        "  Measure Type: Number",
+        "  Unit of Measure: mg  20"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 4/6 (66.67%)",
+        "  Diarrhoea 1/6 (16.67%)",
+        "  Chest pain 1/6 (16.67%)",
+        "  General physical health deterioration 0/6 (0.00%)",
+        "  Biliary colic 1/6 (16.67%)",
+        "  Clostridium difficile colitis 0/6 (0.00%)",
+        "  Infusion related reaction 1/6 (16.67%)",
+        "  Hypokalaemia 0/6 (0.00%)",
+        "  Tumour lysis syndrome 0/6 (0.00%)",
+        "  Spinal cord compression 0/6 (0.00%)",
+        "  Acute kidney injury 0/6 (0.00%)"
+    ]
+}

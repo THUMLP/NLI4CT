@@ -1,0 +1,38 @@
+{
+    "Clinical Trial ID": "NCT00784849",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Sentinel Lymph Node Biopsy With Radiolabeled Methylene Blue",
+        "  One arm diagnostic using 1 mCi of 125-I Methylene blue dye to find sentinel lymph nodes"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Stage 0,I, II breast cancer",
+        "  Clinical node status N0, N1",
+        "  No know allergy to iodine, lymphazurin or methylene blue dyes",
+        "Exclusion Criteria:",
+        "  Patient cannot be pregnant or nursing",
+        "  Prisoners will not be eligible",
+        "  Women under the age of 18 will not be eligible",
+        "  Patients with a known allergy to iodine or methylene blue or lymphazurin blue dyes"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  The Number of Participants That Have Sentinel Nodes Which Are Radioactive or Blue, or Radioactive and Blue or Have Efferent Blue Lymphatics Leading up to the Sentinel Node(s)",
+        "  [Not Specified]",
+        "  Time frame: intraoperatively; up to 6 hours",
+        "Results 1: ",
+        "  Arm/Group Title: Sentinel Lymph Node Biopsy With Radiolabeled Methylene Blue",
+        "  Arm/Group Description: One arm diagnostic using 1 mCi of 125-I Methylene blue dye to find sentinel lymph nodes",
+        "  Overall Number of Participants Analyzed: 62",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Radioactive: 58",
+        "  Blue: 55",
+        "  Radioactive and Blue: 55",
+        "  Efferent blue lymphatics leading up to the SLN: 0"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/62 (0.00%)"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "Clinical Trial ID": "NCT00429104",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  HER2+ Metastatic Breast Cancer",
+        "  Herceptin 4 mg/kg intravenous (IV) Over 90 Minutes + Granulocyte-Macrophage Colony Stimulating Factor (GM-CSF) 250 mcg/m^2 subcutaneously"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histological confirmation of invasive carcinoma of the breast.",
+        "  HER-2/neu overexpression: 3+ by immunohistochemical staining or Fluorescence in situ hybridization (FISH) (+).",
+        "  Stage IV breast cancer with measurable disease.",
+        "  Patient receiving progressive disease after Herceptin plus chemotherapy or Herceptin alone. No more than two Herceptin containing regimens.",
+        "  Zubrod performance status 0 or 1.",
+        "  Adequate hematological parameters (White Blood cells-WBC > 3,000/mm3, platelet count > 100,000/mm3), adequate renal function (serum creatinine < 2.0 mg/dl), adequate liver function (total bilirubin, aspartate aminotransferase (AST or SGOT) or alanine aminotransferase (ALT or SGPT) < 3 x normal).",
+        "Exclusion Criteria:",
+        "  Active Brain metastasis.",
+        "  No measurable disease at the time of registration (e.g. bone only, leptomeningeal disease alone or pleural effusion alone).",
+        "  More than 2 Herceptin containing regimens in metastatic breast cancer.",
+        "  Known history of HIV positive.",
+        "  Chronic active hepatitis or cirrhosis.",
+        "  Symptomatic pulmonary disease.",
+        "  Use of steroid of non-steroidal anti-inflammatory analgesic or Cox-2 inhibitor 1 week prior to registration."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Tumor Response (Stable Disease)",
+        "  Number of participants with response defined as stable disease or better using Response Evaluation Criteria In Solid Tumors (RECIST) at the month 2 evaluation.",
+        "  Time frame: 2 months",
+        "Results 1: ",
+        "  Arm/Group Title: HER2+ Metastatic Breast Cancer",
+        "  Arm/Group Description: Herceptin 4 mg/kg intravenous (IV) Over 90 Minutes + Granulocyte-Macrophage Colony Stimulating Factor (GM-CSF) 250 mcg/m^2 subcutaneously",
+        "  Overall Number of Participants Analyzed: 17",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  5"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/17 (0.00%)"
+    ]
+}

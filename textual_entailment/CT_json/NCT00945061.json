@@ -1,0 +1,56 @@
+{
+    "Clinical Trial ID": "NCT00945061",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Intraoperative Radiation Therapy",
+        "  Patients undergo partial breast irradiation delivered as a single intra-operative radiation dose to the tumor bed.",
+        "INTERVENTION 2: ",
+        "  Intracavitary Balloon Brachytherapy",
+        "  Patients undergo partial breast irradiation delivered as MammoSite\u00ae brachytherapy consisting of 10 fractions over 5 days."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients' recurrences must have histologically confirmed ductal carcinoma in-situ, invasive ductal, medullary, papillary, colloid (mucinous), or tubular histologies.",
+        "  Lesion size  3 cm treated with a tylectomy and whole breast irradiation (with or without tumor bed boost)",
+        "  Unifocal breast cancer recurrence",
+        "  Negative resection margins with at least a 2 mm margin from invasive and in situ cancer or a negative re-excision",
+        "  Hormonal therapy is allowed. If chemotherapy is planned, the radiation is delivered first and chemotherapy must begin no earlier than two weeks following completion of radiation.",
+        "  Signed study-specific informed consent prior to study entry.",
+        "Exclusion Criteria:",
+        "  Patients with distant metastatic disease",
+        "  Patients with invasive lobular carcinoma, extensive lobular carcinoma in-situ, extensive ductal carcinoma in-situ (spanning more than 3 cm), or nonepithelial breast malignancies such as lymphoma or sarcoma.",
+        "  Patients with multicentric carcinoma (tumors in different quadrants of the breast or tumors separated by at least 4 cm). Palpable or radiographically suspicious contralateral axillary, ipsilateral or contralateral supraclavicular, infraclavicular, or internal mammary lymph nodes unless these are histologically or cytologically confirmed negative.",
+        "  Extensive intraductal component (EIC) by the Harvard definition, i.e. 1) more than 25% of the invasive tumor is Ductal carcinoma in situ (DCIS) and DCIS present in adjacent breast tissue. Presence of an EIC increases the chance of local recurrence, and as such, one might not be a candidate for repeat breast conservation.",
+        "  Patients with Paget's disease of the nipple.",
+        "  Patients with skin involvement.",
+        "  Patients with collagen vascular disorders, specifically systemic lupus erythematosis, scleroderma, or dermatomyositis.",
+        "  Patients with psychiatric, neurologic, or addictive disorders that would preclude obtaining informed consent.",
+        "  Other malignancy, except non-melanomatous skin cancer, < 5 years prior to participation in this study.",
+        "  Patients who are pregnant or lactating due to potential fetal exposure to radiation and unknown effects of radiation on lactating females.",
+        "  Patients with known BReast CAncer gene (BRCA)1/BRCA 2 mutations."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Ipsilateral Breast Tumor Recurrence Rates",
+        "  Percent of participants with Ipsilateral breast tumor recurrence (IBTR). IBTR includes: true recurrence (TR) thought to occur when residual cancer cells grow gradually to detectable size and new primary (NP) thought to be new cancer independently arising in the preserved breast.",
+        "  Time frame: 1 month after radiation therapy (RT)",
+        "Results 1: ",
+        "  Arm/Group Title: Intraoperative Radiation Therapy",
+        "  Arm/Group Description: Patients undergo partial breast irradiation delivered as a single intra-operative radiation dose to the tumor bed.",
+        "  Overall Number of Participants Analyzed: 12",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  0",
+        "Results 2: ",
+        "  Arm/Group Title: Intracavitary Balloon Brachytherapy",
+        "  Arm/Group Description: Patients undergo partial breast irradiation delivered as MammoSite   brachytherapy consisting of 10 fractions over 5 days.",
+        "  Overall Number of Participants Analyzed: 1",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  0"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/12 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

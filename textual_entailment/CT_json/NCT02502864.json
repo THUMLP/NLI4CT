@@ -1,0 +1,49 @@
+{
+    "Clinical Trial ID": "NCT02502864",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Standard of Care + Surveys",
+        "  Standard of Care Docetaxel and Cyclophosphamide (TC) Chemotherapy + Surveys. TC Regimen with Function Assessment of Cancer Therapy (FACT) Surveys."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Must have histologically confirmed localized or locally advanced breast cancer for which the treatment plan includes chemotherapy with 4 cycles of standard TC (docetaxel 75 mg/m^2 and cyclophosphamide 600mg/m^2)",
+        "  Age >/= 65 years (Senior adult focused study given increased risk for toxicity)",
+        "  Participants must be female",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status <2",
+        "  Must have normal organ and marrow function",
+        "  No pre-existing neuropathy grade > 1 per the NCI Common Toxicity Criteria for Adverse Effects (CTCAE) version 4.0",
+        "  Be postmenopausal (defined as amenorrheic for at least 12 months)",
+        "  Must be informed of the investigational nature of this study and be willing to provide written informed consent in accordance with Institutional guidelines and Good Clinical Practice (GCP) indicating that they understand the purpose of and procedures required for the study and are willing to participate prior to the beginning of any specific study procedures.",
+        "Exclusion Criteria:",
+        "  Have uncontrolled illness (including, but not limited to, ongoing or active infection, congestive heart failure, angina pectoris, or cardiac arrhythmia) that would limit compliance with study requirements",
+        "  Have psychiatric illness that would limit compliance with study requirements",
+        "  Have history of allergic reactions attributed to compounds of similar chemical or biologic composition to taxanes (docetaxel or paclitaxel) or cyclophosphamide",
+        "  Have known seropositivity for human immunodeficiency virus, hepatitis C virus, hepatitis B surface antigen, or syphilis. Does not require serologic confirmation as a study procedure.",
+        "  Not willing to follow protocol requirements or to give informed consent"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Rate of Achieving Targeted Area Under the Curve (AUC)",
+        "  Rate of PK guided dosing of docetaxel chemotherapy improving the ability to achieve a targeted AUC ( 2.5-3.7 mg*hr/L) within 4 cycles of therapy in patients > 65 years of age with breast cancer receiving TC (docetaxel and cyclophosphamide) as compared with historical non-PK guided therapy from patients receiving a similar regimen.",
+        "  Time frame: Cycle 4 - Up to 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: Standard of Care + Surveys",
+        "  Arm/Group Description: Standard of Care Docetaxel and Cyclophosphamide (TC) Chemotherapy + Surveys. TC Regimen with Function Assessment of Cancer Therapy (FACT) Surveys.",
+        "  Overall Number of Participants Analyzed: 8",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  AUC mg*hr/L: 2.5-3.7: 5  62.5%",
+        "  AUC mg*hr/L: <2.5: 3  37.5%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 3/9 (33.33%)",
+        "  Fatigue * 1/9 (11.11%)",
+        "  Non-cardiac chest pain * 1/9 (11.11%)",
+        "  Sepsis * 1/9 (11.11%)",
+        "  Urinary tract infection * 1/9 (11.11%)",
+        "  Syncope * 1/9 (11.11%)",
+        "  Anxiety * 1/9 (11.11%)",
+        "  Thromboembolic event * 1/9 (11.11%)"
+    ]
+}

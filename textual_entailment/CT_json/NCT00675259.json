@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT00675259",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Neoadjuvant, Surgery, Adjuvant",
+        "  Neoadjuvant chemotherapy : Nab-paclitaxel and carboplatin on days 1, 8, and 15 in combination with bevacizumab on days 1 and 15 administered every 28 days for 5 cycles followed by 1 cycle with Nab-paclitaxel and carboplatin on days 1, 8, and 15. Definitive surgery with either lumpectomy or mastectomy along with axillary lymph node dissection for all pre neo adjuvant chemotherapy node-positive patients approximately 4-5 weeks after the completion of NCT. Use of additional adjuvant chemotherapy and/or radiation therapy depends upon the treating physicians' judgment. Radiation therapy should begin no sooner than 6 weeks after breast cancer surgery. All hormone receptor positive patients will receive endocrine therapy. All patients will receive 6 months of adjuvant bevacizumab every 3 weeks. If using an adjuvant anthracycline-containing regimen then bevacizumab will be administered  3 weeks after completing the regimen."
+    ],
+    "Eligibility": [
+        "Inclusion:",
+        "  Histologically confirmed breast cancer",
+        "  Clinically or radiographically measurable residual tumor after core biopsy",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 0-1",
+        "  Age 18 yrs",
+        "  Absolute neutrophil count  1,500/mm\u00b3",
+        "  Hemoglobin  9 g/dL",
+        "  Platelet count  100,000/ mm\u00b3",
+        "  Creatinine  1.5 times upper limit of normal (ULN)",
+        "  Urine protein:creatinine ratio < 1.0",
+        "  AST (aspartate aminotransferase) and ALT  2.5 times ULN",
+        "  Alkaline phosphatase  2.5 times ULN",
+        "  Bilirubin normal",
+        "  Women of childbearing potential must use effective contraception",
+        "  Left ventricular ejection fraction (LVEF) normal by echocardiogram or MUGA",
+        "  Exclusion:",
+        "  No residual tumor after initial biopsy",
+        "  Peripheral neuropathy of grade 2 or higher",
+        "  HER-2 neu overexpression either by IHC 3+ or FISH+",
+        "  No history of any prior treatment of breast cancer.",
+        "  No history of unstable angina or myocardial infarction within the past 12 months",
+        "  Pregnant or nursing women",
+        "  Anticoagulation therapy within the last 6 months",
+        "  History of gastrointestinal bleeding",
+        "  Recent hemoptysis",
+        "  No known hepatitis B or HIV seropositivity",
+        "  No inadequately controlled hypertension, defined as systolic blood pressure (BP) > 150 mm Hg and/or diastolic BP > 100 mm Hg despite antihypertensive medications",
+        "  History of hypertensive crisis or hypertensive encephalopathy",
+        "  New York Heart Association class II-IV congestive heart failure",
+        "  History of stroke or transient ischemic attack at any time",
+        "  Significant vascular disease (e.g., aortic aneurysm or aortic dissection)",
+        "  No symptomatic peripheral vascular disease",
+        "  Evidence of bleeding diathesis or coagulopathy",
+        "  Significant traumatic injury within the past 28 days",
+        "  History of abdominal fistula, gastrointestinal perforation, or intra-abdominal abscess within the past 6 months",
+        "  Serious, non-healing wound, ulcer, or bone fracture",
+        "  Known hypersensitivity to any component of bevacizumab"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Patients With Pathologic Complete Response (pCR)",
+        "  pCR was defined as the absence of viable invasive tumor cells in the surgical breast specimen and axillary lymph nodes.",
+        "  Time frame: every 4 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Neoadjuvant, Surgery, Adjuvant",
+        "  Arm/Group Description: Neoadjuvant chemotherapy : Nab-paclitaxel and carboplatin on days 1, 8, and 15 in combination with bevacizumab on days 1 and 15 administered every 28 days for 5 cycles followed by 1 cycle with Nab-paclitaxel and carboplatin on days 1, 8, and 15. Definitive surgery with either lumpectomy or mastectomy along with axillary lymph node dissection for all pre neo adjuvant chemotherapy node-positive patients approximately 4-5 weeks after the completion of NCT. Use of additional adjuvant chemotherapy and/or radiation therapy depends upon the treating physicians' judgment. Radiation therapy should begin no sooner than 6 weeks after breast cancer surgery. All hormone receptor positive patients will receive endocrine therapy. All patients will receive 6 months of adjuvant bevacizumab every 3 weeks. If using an adjuvant anthracycline-containing regimen then bevacizumab will be administered    3 weeks after completing the regimen.",
+        "  Overall Number of Participants Analyzed: 33",
+        "  Measure Type: Number",
+        "  Unit of Measure: patients  6"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/33 (0.00%)"
+    ]
+}

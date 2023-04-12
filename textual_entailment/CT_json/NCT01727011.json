@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT01727011",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  IPAS",
+        "  Once the patient recorded in the trial, and after completion of a post-implant dosimetry scanner to analyze the dose distribution within the target volume and organs at risk, the patient is treated by irradiation and partial accelerated breast brachytherapy using high dose rate, delivering a total dose of 16 Gy in one fraction",
+        "IPAS"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patient WITHinvasive breast cancer histologically proved: ductal, lobular, medullary, papillary, tubular or colloid:",
+        "  All grades histo-prognostic",
+        "  pT1 tumor size (<20 mm),",
+        "  healthy Margins surgical",
+        "  unifocal lesion",
+        "  Any hormone receptor,",
+        "  Any Her2 status,",
+        "  No lymph node (sentinel lymphadenectomy or) or micrometastases (pN0, pN1mic)",
+        "  Age greater than or equal to 70 years",
+        "  Score Balducci I or II,",
+        "  Karnofsky index greater than or equal to 70%",
+        "  Time between lumpectomy and radiation less than 2 weeks",
+        "  Implementation of clips in the tumor bed intraoperatively,",
+        "  Patient having taken note of the information note and who signed the informed consent",
+        "  Patient receiving social security coverage.",
+        "Exclusion Criteria:",
+        "  Lobular carcinoma in situ or pure ductal carcinoma in situ or non-epithelial tumor type sarcoma or lymphoma,",
+        "  Component extensive ductal in situ associated",
+        "  Peritumoral lymphatic emboli,",
+        "  Distance Metastasis",
+        "  Inflammatory Breast Cancer,",
+        "  Multifocal tumor (covering a total distance inter-end of 40 mm or more)",
+        "  Previous treatment for this tumor including breast radiotherapy and / or chemotherapy neoadjuvant or adjuvant",
+        "  History of plastic surgery breast",
+        "  Unknown or safety margins positive for invasive carcinoma",
+        "  Absence of clips in the tumor bed,",
+        "  Time between lumpectomy and radiation greater than or equal to 2 weeks",
+        "  Active infection or other serious comorbidity that could prevent the patient receiving the treatment,",
+        "  History of cancer other than a basal cell skin or carcinoma in situ of the cervix or other cancer in complete remission for more than 5 years",
+        "  Psychiatric illness"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Rate of Acute Toxicity Within 180 Days of IPAS Mono Split Postoperatively in Patients Aged at Least of 70 Years With Breast Cancer at Low Risk of Local Recurrence (Low Risk Group of ESTRO IPAS Classification ESTRO)",
+        "  Rate of acute toxicity evaluated by a clinical examination, in consultation with the radiotherapist to 30, 90 days and 180 days.",
+        "  Common Toxicity Criteria classification for Adverse Events (CTCAE) in its fourth version is used.",
+        "  Time frame: 180 days",
+        "Results 1: ",
+        "  Arm/Group Title: IPAS",
+        "  Arm/Group Description: Once the patient recorded in the trial, and after completion of a post-implant dosimetry scanner to analyze the dose distribution within the target volume and organs at risk, the patient is treated by irradiation and partial accelerated breast brachytherapy using high dose rate, delivering a total dose of 16 Gy in one fraction",
+        "  IPAS",
+        "  Overall Number of Participants Analyzed: 26",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  70"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 3/26 (11.54%)",
+        "  tacchycardia  1/26 (3.85%)",
+        "  left breast painful inflammatory syndroma  1/26 (3.85%)",
+        "  right breast haematoma  1/26 (3.85%)"
+    ]
+}

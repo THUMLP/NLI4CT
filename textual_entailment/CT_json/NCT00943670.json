@@ -1,0 +1,62 @@
+{
+    "Clinical Trial ID": "NCT00943670",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  T-DM1",
+        "  Trastuzumab emtansine (T-DM1) was administered to participants by intravenous (IV) infusion on Day 1 of every 3 week cycle at a dose of 3.6 mg/kg."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically documented, locally advanced, or metastatic breast cancer; measurable and/or non-measureable but evaluable disease is permitted",
+        "  HER2-positive disease",
+        "  History of prior trastuzumab therapy",
+        "  Life expectancy  90 days as assessed by the investigator",
+        "  Negative urine pregnancy test  72 hours prior to Cycle 1 Day 1 for all women of childbearing potential",
+        "  For patients of childbearing potential, agreement to use one highly effective form of contraception or two effective forms of contraception for the duration of the study treatment(s) and for 4 months after the last dose of T-DM1 or 6 months after the last dose of pertuzumab, if applicable",
+        "Exclusion Criteria:",
+        "  Any chemotherapy, hormonal therapy, radiotherapy, immunotherapy, or biologic therapy for the treatment of breast cancer within 2 weeks of the first study treatment",
+        "  Prior T-DM1 or pertuzumab therapy",
+        "  History of intolerance (such as Grade 3-4 infusion reaction) and/or adverse events related to trastuzumab",
+        "  Grade  2 (based on National Cancer Institute Common Terminology Criteria for Adverse Events [NCI CTCAE] v3) peripheral neuropathy at the time of or within 3 weeks prior to the first study treatment",
+        "  Brain metastases that are untreated or progressive or have required any type of therapy, including radiation, surgery, and/or steroids, to control symptoms from brain metastases within 60 days prior to the first study treatment",
+        "  History of cardiac disease, unstable angina, symptomatic congestive heart failure (CHF) (Class  II per the New York Heart Associate [NYHA] guidelines), myocardial infarction, or ventricular arrhythmia  6 months prior to Cycle 1, Day 1",
+        "  Implantable pacemaker or automatic implantable cardioverter defibrillator",
+        "  Congenital long QT syndrome or family history of long QT syndrome",
+        "  Current uncontrolled hypertension",
+        "  Current treatment with medications that alter cardiac conduction (e.g., digitalis, beta-blockers, or calcium channel blockers) or medications that are generally accepted to have a risk of causing torsades de pointes (TdP)",
+        "  Current known active infection with human immunodeficiency virus (HIV), hepatitis B virus, or hepatitis C virus",
+        "  Major surgical procedure or significant traumatic injury within 28 days prior to first study treatment, or anticipation of the need for major surgery during the course of study treatment"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change From Baseline in Mean Duration of the QTc Interval",
+        "  The QT interval is a measure of time between the start of the Q wave and the end of the T wave in the heart's electrical cycle. The corrected QT interval was calculated using Fridericia's correction (QTcF) from electrocardiogram (ECG) data. Each participant had triplicate QTcF intervals measured at each timepoint and the average was calculated for each patient at each timepoint. For each timepoint, a participant's corresponding baseline QTcF interval was subtracted from the average QTcF intervals to create a baseline-adjusted average QTcF interval.",
+        "  Time frame: Cycle 1 Day 1, pre-dose (Baseline); Cycle 1 Day 1, 15 and 60 minutes post-dose; Cycle 1 Day 8; and Cycle 3 Day 1, 15 minutes pre-dose and 15 and 60 minutes post-dose.",
+        "Results 1: ",
+        "  Arm/Group Title: T-DM1",
+        "  Arm/Group Description: Trastuzumab emtansine (T-DM1) was administered to participants by intravenous (IV) infusion on Day 1 of every 3 week cycle at a dose of 3.6 mg/kg.",
+        "  Overall Number of Participants Analyzed: 51",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: milliseconds  Cycle 1, Day 1, 15 minutes post-dose [N=44]: 1.2         (8.3)",
+        "  Cycle 1, Day 1, 60 minutes post-dose [N=45]: -1.0         (6.3)",
+        "  Cycle 1, Day 8 [N=43]: -4.0         (13.4)",
+        "  Cycle 3, Day 1, 15 minutes pre-dose [N=35]: -0.1         (10.1)",
+        "  Cycle 3, Day 1, 15 minutes post-dose [N=37]: 4.7         (9.6)",
+        "  Cycle 3, Day 1, 60 minutes post-dose [N=37]: 4.7         (10.9)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 4/51 (7.84%)",
+        "  Thrombocytopenia 2/51 (3.92%)",
+        "  Anaemia 0/51 (0.00%)",
+        "  Cardiac arrest 0/51 (0.00%)",
+        "  Gastrointestinal haemorrhage 0/51 (0.00%)",
+        "  Generalised oedema 1/51 (1.96%)",
+        "  Aspartate aminotransferase increased 0/51 (0.00%)",
+        "  Hypokalaemia 0/51 (0.00%)",
+        "  Convulsion 1/51 (1.96%)",
+        "  Renal failure 1/51 (1.96%)",
+        "  Dyspnoea 1/51 (1.96%)",
+        "  Skin haemorrhage 0/51 (0.00%)"
+    ]
+}

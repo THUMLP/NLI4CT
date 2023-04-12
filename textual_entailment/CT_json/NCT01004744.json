@@ -1,0 +1,37 @@
+{
+    "Clinical Trial ID": "NCT01004744",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Presurgical Oral Anastrozole",
+        "  1mg daily for two weeks in the interval between diagnostic breast biopsy and definitive breast surgery.",
+        "  Anastrozole: 1mg PO daily for two weeks prior to scheduled surgery"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically-confirmed operable ER+ and/or PR+ invasive breast cancer or ductal carcinoma in situ (DCIS), who undergo core needle biopsy followed by surgical excision at least 2 weeks after enrollment",
+        "  Postmenopausal status defined as cessation of menses for >1 year or FSH > 20 mIU/mL (within the past month)",
+        "  Age  21 years",
+        "  No prior chemotherapy, radiation therapy, or surgery within 6 months of study entry",
+        "  Signed informed consent",
+        "Exclusion Criteria:",
+        "  Treatment with other investigational drugs within 6 months of study entry",
+        "  Other serious intercurrent medical illness"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Subjects That Completed Oral Anastrozole 1mg Daily for Two Weeks in the Interval Between Diagnostic Breast Biopsy and Definitive Breast Surgery",
+        "  The number of subjects who complete oral anastrozole for the length of the study is analyzed. The subjects receive oral anastrozole 1mg daily for two weeks in the interval between the biopsy and the surgery.",
+        "  Time frame: Two weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Presurgical Oral Anastrozole",
+        "  Arm/Group Description: 1mg daily for two weeks in the interval between diagnostic breast biopsy and definitive breast surgery.",
+        "  Anastrozole: 1mg PO daily for two weeks prior to scheduled surgery",
+        "  Overall Number of Participants Analyzed: 10",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  10"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/10 (0.00%)"
+    ]
+}

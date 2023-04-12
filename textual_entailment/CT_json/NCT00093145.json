@@ -1,0 +1,62 @@
+{
+    "Clinical Trial ID": "NCT00093145",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Albumin-bound Paclitaxel, Carboplatin + Herceptin",
+        "  Participants received albumin-bound paclitaxel, 100 mg/m^2 weekly every 3 out of 4 weeks, carboplatin at an area under the curve (AUC) = 6 every 4 weeks and Herceptin weekly, 4 mg/kg the first week and 2 mg/kg on all subsequent weeks by intravenous (IV) infusion for up to 6 cycles in the absence of disease progression or intolerable toxicity. Participants could continue treatment with chemotherapy beyond 6 cycles at the discretion of the investigator, but Herceptin therapy was to continue to be administered weekly (2 mg/kg) until intercurrent illness, disease progression, unacceptable toxicity, patient withdrawal or administration of any non-protocol anti-cancer treatment."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Confirmed adenocarcinoma of the breast",
+        "  Tumor shows 3+ overexpression of the human epidermal growth factor receptor 2 (HER-2)/proto-oncogene by immunohistochemistry assay, or is fluorescence in situ hybridization (FISH)+",
+        "  Stage IV disease",
+        "  Measurable disease",
+        "  At least 3 weeks since prior cytotoxic chemotherapy",
+        "  At least 4 weeks since radiotherapy with full recovery",
+        "  At least 4 weeks since major surgery with full recovery",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 0-2",
+        "  At least 18 years old",
+        "  Absolute neutrophil count (ANC) at least 1.5 x 10^9 cells/L",
+        "  Platelets at least 100 x 10^9 cells/L",
+        "  Hemoglobin at least 9 g/dL",
+        "  Aspartame aminotransferase (AST), alanine aminotransferase (ALT) less than 2.5X upper limit normal",
+        "  Alkaline Phosphatase less than 1.5X upper limit normal",
+        "  Creatinine less than 1.5 gm/dL",
+        "  Normal left ventricular ejection fraction",
+        "  Negative pregnancy test",
+        "  Agree to use method to avoid pregnancy",
+        "  Informed Consent is obtained",
+        "Exclusion Criteria:",
+        "  Up to one regimen of prior neo-adjuvant or adjuvant chemotherapy is allowed. One year since Taxane and Herceptin treatment.",
+        "  Cumulative life-time dose of doxorubicin is greater than 360 mg/m^2",
+        "  Concurrent immunotherapy or hormonal therapy",
+        "  Parenchymal brain metastases, if present, must be documented to be clinically and radiographically stable for at least 6 months after treatment",
+        "  Serious intercurrent medical or psychiatric illness, including serious active infection",
+        "  History of congestive heart failure",
+        "  History of other malignancy within the last 5 years which could affect the diagnosis or assessment of breast cancer",
+        "  Patients who have received an investigational drug within the previous 3 weeks",
+        "  Patient is currently enrolled in another clinical study receiving investigational therapies",
+        "  Pregnant or nursing women"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants Who Achieved an Objective Confirmed Complete or Partial Overall Response",
+        "  Percentage of participants who achieved an objective confirmed complete or partial overall response based on Response Evaluation Criteria in Solid Tumors (RECIST) version 1.0. A complete response (CR) is the disappearance of all known disease and no new sites or disease related symptoms confirmed at least 4 weeks after initial documentation. A partial response (PR) is at least a 30% decrease in the sum of the longest diameters of target lesions, taking as a reference the baseline sum of the longest diameters confirmed at least 4 weeks after initial documentation. PR is also recorded when all measurable disease has completely disappeared, but a non-measurable component (i.e., ascites) is still present but not progressing, or with the persistence of one or more non-target lesions and/or the maintenance of tumor marker level above the normal limits.",
+        "  Time frame: Objective response was evaluated every 2 cycles, up to a maximum of 39 cycles (approximately 39 months)",
+        "Results 1: ",
+        "  Arm/Group Title: Albumin-bound Paclitaxel, Carboplatin + Herceptin",
+        "  Arm/Group Description: Participants received albumin-bound paclitaxel, 100 mg/m^2 weekly every 3 out of 4 weeks, carboplatin at an area under the curve (AUC) = 6 every 4 weeks and Herceptin weekly, 4 mg/kg the first week and 2 mg/kg on all subsequent weeks by intravenous (IV) infusion for up to 6 cycles in the absence of disease progression or intolerable toxicity. Participants could continue treatment with chemotherapy beyond 6 cycles at the discretion of the investigator, but Herceptin therapy was to continue to be administered weekly (2 mg/kg) until intercurrent illness, disease progression, unacceptable toxicity, patient withdrawal or administration of any non-protocol anti-cancer treatment.",
+        "  Overall Number of Participants Analyzed: 32",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of participants  62.5        (45.7 to 79.3)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 5/32 (15.63%)",
+        "  Febrile neutropenia 1/32 (3.13%)",
+        "  Supraventricular tachycardia 1/32 (3.13%)",
+        "  Hypersensitivity 2/32 (6.25%)",
+        "  Catheter site infection 1/32 (3.13%)",
+        "  Confusional state 1/32 (3.13%)"
+    ]
+}

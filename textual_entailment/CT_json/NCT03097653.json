@@ -1,0 +1,42 @@
+{
+    "Clinical Trial ID": "NCT03097653",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Decision-aid",
+        "  Decision-aid: Web platform with a multilevel information and an aid for the decision to be taken. The content is splitted in 16-20 screens; each screen contains the answer to a common question (i.e. What is mammography screening? What are its benefits and harms? What results can be expected from the participation to mammography screening? What is breast cancer?). The information covers also controversial topics as overdiagnosis, overtreatment and the disagreement among scientists about harms and benefits' quantification.",
+        "INTERVENTION 2: ",
+        "  Standard Information",
+        "  Standard information: Web platform with a standard brochure. This standard brochure represents a combination of the best information available from the three participate centre' brochures."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women aged 45-69, according to the target age of the screening centres involved;",
+        "  New invited women in mammography screening programme.",
+        "Exclusion Criteria:",
+        "None"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Adequate Knowledge",
+        "  Knowledge will be measured using a questionnaire structured in 13 questions with multiple choice answers, with 2 to 4 options. Ten questions will be qualitative and 3 will be numerical. A score of 8 out of 13 (about 60%) or higher would be considered \"adequate knowledge\".",
+        "  Time frame: 7-10 days",
+        "Results 1: ",
+        "  Arm/Group Title: Decision-aid",
+        "  Arm/Group Description: Decision-aid: Web platform with a multilevel information and an aid for the decision to be taken. The content is splitted in 16-20 screens; each screen contains the answer to a common question (i.e. What is mammography screening? What are its benefits and harms? What results can be expected from the participation to mammography screening? What is breast cancer?). The information covers also controversial topics as overdiagnosis, overtreatment and the disagreement among scientists about harms and benefits' quantification.",
+        "  Overall Number of Participants Analyzed: 472",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  236",
+        "Results 2: ",
+        "  Arm/Group Title: Standard Information",
+        "  Arm/Group Description: Standard information: Web platform with a standard brochure. This standard brochure represents a combination of the best information available from the three participate centre' brochures.",
+        "  Overall Number of Participants Analyzed: 529",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  218"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/0",
+        "Adverse Events 2:",
+        "  Total: 0/0"
+    ]
+}

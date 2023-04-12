@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT01781299",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  AlloDerm RTU",
+        "  Participants within this arm will have the acellular dermal matrix AlloDerm RTU implanted at the time of tissue expander placement.",
+        "AlloDerm RTU",
+        "INTERVENTION 2: ",
+        "  SurgiMend PRS",
+        "  Participants within this arm will have the acellular dermal matrix SurgiMend PRS implanted at the time of tissue expander placement.",
+        "SurgiMend PRS"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Subject's with ability to provide informed consent.",
+        "  Subjects greater than 18 years old",
+        "  Subjects to undergo an immediate tissue expander reconstruction following mastectomy; and",
+        "  Subjects who are, in the opinion of the Investigator, able to understand the study, comply with the study design and are willing to return to the clinic for all the research required follow-up visits.",
+        "Exclusion Criteria:",
+        "  Subjects less than 18 years of age",
+        "  Subjects that based on surgeon's discretion cannot be effectively reconstructed with the use of ADM product",
+        "  Pregnancy",
+        "Bovine allergy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Complication Rates",
+        "  To determine the complication rate for tissue expander breast reconstruction patients using SurgiMend PRS and AlloDerm RTU ADM products. Time points include: After first procedure: 10-14 days, then 2, 4, 6, and 10 weeks after drain removal; After second procedure: 1-2 weeks, 6 weeks, 1 year, and 3 years.",
+        "  Time frame: 3 years",
+        "Results 1: ",
+        "  Arm/Group Title: AlloDerm RTU",
+        "  Arm/Group Description: Participants within this arm will have the acellular dermal matrix AlloDerm RTU implanted at the time of tissue expander placement.",
+        "  AlloDerm RTU",
+        "  Overall Number of Participants Analyzed: 4",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  4 100.0%",
+        "Results 2: ",
+        "  Arm/Group Title: SurgiMend PRS",
+        "  Arm/Group Description: Participants within this arm will have the acellular dermal matrix SurgiMend PRS implanted at the time of tissue expander placement.",
+        "  SurgiMend PRS",
+        "  Overall Number of Participants Analyzed: 4",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  3  75.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/4 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/5 (0.00%)"
+    ]
+}

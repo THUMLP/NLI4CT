@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT03252145",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Manual Lymph Drainage",
+        "  Manual lymph drainage (MLD) treatment 3 times a week for 4 weeks to the lymphedematous upper limb",
+        "  Manual Lymph Drainage (MLD): MLD is a practitioner-applied manual massage technique designed to decrease limb volume in patients with lymphedema by enhancing movement of lymph fluid, resulting in reductions in interstitial fluid.",
+        "INTERVENTION 2: ",
+        "  Negative Pressure",
+        "  PhysioTouch (negative pressure massage) treatment 3 times a week for 4 weeks to the lymphedematous upper limb",
+        "  PhysioTouch: The PhysioTouch is a hand-held device that administers negative pressure under the treatment head, and gently pulls the underlying skin and subcutaneous tissue into the suction cup. This suction produces a stretch to the skin and in the subcutaneous tissue space. This action is thought to facilitate lymphatic flow from the interstitium into the lymphatic vessels, and mobilizes the superficial fascia."
+    ],
+    "Eligibility": [
+        "INCLUSION CRITERIA:",
+        "  To be included women must be:",
+        "  Be over 18 years of age;",
+        "  Have had cancer treatment that included a surgical procedure, radiation therapy (RT), and/or chemotherapy (CTX);",
+        "  Have completed active cancer treatment at least 1 year prior to study enrollment;",
+        "  Have been diagnosed with lymphedema (LE) at least one year prior to study enrollment;",
+        "  Have arm lymphedema on one side only;",
+        "  Have confirmed LE based on bioimpedance measurements with an L-Dex\u00ae score of >7.1 (note - this is very mild lymphedema);",
+        "  Have stable arm LE. LE will be considered \"stable\" if during the 3 months prior to study enrollment there was no arm infection requiring antibiotics, no change in ability to perform activities of daily living related to LE, and no subjective report of significant persistent changes in limb volume;",
+        "  Be mentally and physically able to participate in the study;",
+        "  Be able to attend the sessions at the University of California, San Francisco (UCSF) Parnassus campus;",
+        "  Read and understand English;",
+        "  Be able to understand a written informed consent document and the willingness to sign it",
+        "  EXCLUSION CRITERIA",
+        "  Women cannot have:",
+        "  Bilateral upper extremity LE;",
+        "  Current infection or lymphangitis involving the affected arm;",
+        "  Current recurrence of their breast cancer (BC) (local or distant)",
+        "  Pre-existing LE prior to their BC diagnosis;",
+        "  A condition that precludes measurement of LE using Bioimpedance Spectroscopy (BIS), including pregnancy;",
+        "  Current venous thrombosis in either upper extremity or be on current anticoagulant therapy;",
+        "  Extremity edema due to heart failure"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Recruitment Rates",
+        "  The recruitment rate is defined as the number of women who were screened and then enrolled on the study divided by the the total number of women screened overall.",
+        "  Time frame: At 4 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Manual Lymph Drainage",
+        "  Arm/Group Description: Manual lymph drainage (MLD) treatment 3 times a week for 4 weeks to the lymphedematous upper limb",
+        "  Manual Lymph Drainage (MLD): MLD is a practitioner-applied manual massage technique designed to decrease limb volume in patients with lymphedema by enhancing movement of lymph fluid, resulting in reductions in interstitial fluid.",
+        "  Overall Number of Participants Analyzed: 13",
+        "  Measure Type: Number",
+        "  Unit of Measure: rate of recruitment  32.5",
+        "Results 2: ",
+        "  Arm/Group Title: Negative Pressure",
+        "  Arm/Group Description: PhysioTouch (negative pressure massage) treatment 3 times a week for 4 weeks to the lymphedematous upper limb",
+        "  PhysioTouch: The PhysioTouch is a hand-held device that administers negative pressure under the treatment head, and gently pulls the underlying skin and subcutaneous tissue into the suction cup. This suction produces a stretch to the skin and in the subcutaneous tissue space. This action is thought to facilitate lymphatic flow from the interstitium into the lymphatic vessels, and mobilizes the superficial fascia.",
+        "  Overall Number of Participants Analyzed: 15",
+        "  Measure Type: Number",
+        "  Unit of Measure: rate of recruitment  37.5"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/13 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

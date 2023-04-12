@@ -1,0 +1,55 @@
+{
+    "Clinical Trial ID": "NCT01201265",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  All Participants",
+        "  Participants received a combination therapy of bevacizumab 15 milligram per kilogram (mg/kg) intravenous every 3 weeks with carboplatin recommended dose (area under curve [AUC]= 2) along with gemcitabine 1000 mg/ metre square (m^2) on days 1 and 8 of each 3 week cycle."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female participants, >/= 18 years of age",
+        "  Metastatic breast cancer",
+        "  Estrogen receptor-, progesterone- and human epidermal growth factor receptor 2 (HER2)-negative disease",
+        "  Treatment-na\u00efve for metastatic breast cancer",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 0-2",
+        "  Adequate hematological, renal and liver function",
+        "  Patients should have received Anthracyclines and Taxanes in the adjuvant setting",
+        "  Women of childbearing potential must agree to use adequate contraception (per institutional standard of care) during treatment and until 6 months after the last administration of investigational products",
+        "Exclusion Criteria:",
+        "  Prior first line treatment for metastatic breast cancer",
+        "  Central nervous system (CNS) metastasis",
+        "  Uncontrolled hypertension (> 170/95 mmHg)",
+        "  Evidence of bleeding diathesis, coagulopathy or hemorrhage at baseline",
+        "  Other malignancy within the last 5 years, except for adequately treated carcinoma in situ of the cervix or squamous carcinoma of the skin, or adequately controlled limited basal cell skin cancer.",
+        "  Prior therapy with gemcitabine or carboplatin in the metastatic setting. Participants having received gemcitabine or carboplatin as part of adjuvant therapy are eligible, if recurrence was first documented >6 months after the last exposure to the drug(s)",
+        "  Requirement of chronic use of immunosuppressive agents",
+        "  HIV, hepatitis B or hepatitis C infection"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Progression-free Survival (PFS)",
+        "  Progression free survival (PFS) was calculated in days from the date of registration until the earliest date of documented disease progression or death. The median PFS time with 95% confidence interval (CI) was estimated using Kaplan Meier method. The progression-free survival was assessed utilizing computer tomography (CT)/ magnetic resonance imaging (MRI)/bone scans and X-ray and Response Evaluation Criteria in Solid Tumors (RECIST) v. 1.1. Progression of disease is defined as at least 20% increase in the sum of diameters of target lesions compared to the smallest sum of diameters on-study and absolute increase of at least 5 mm, progression of existing non-target lesions, or presence of new lesions.",
+        "  Time frame: From the date of registration until the disease progression or death (up to 1541 days).",
+        "Results 1: ",
+        "  Arm/Group Title: All Participants",
+        "  Arm/Group Description: Participants received a combination therapy of bevacizumab 15 milligram per kilogram (mg/kg) intravenous every 3 weeks with carboplatin recommended dose (area under curve [AUC]= 2) along with gemcitabine 1000 mg/ metre square (m^2) on days 1 and 8 of each 3 week cycle.",
+        "  Overall Number of Participants Analyzed: 40",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: days  255        (157 to 465)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 17/40 (42.50%)",
+        "  Anaemia 2/40 (5.00%)",
+        "  Febrile Neutropenia 3/40 (7.50%)",
+        "  Neutropenia 2/40 (5.00%)",
+        "  Thrombocytopenia 5/40 (12.50%)",
+        "  Pericardial Effusion 1/40 (2.50%)",
+        "  Abdominal Pain Lower 1/40 (2.50%)",
+        "  Disease Progression 6/40 (15.00%)",
+        "  Fatigue 1/40 (2.50%)",
+        "  Pyrexia 3/40 (7.50%)",
+        "  Septic Shock 1/40 (2.50%)",
+        "  Streptococcal Infection 1/40 (2.50%)"
+    ]
+}

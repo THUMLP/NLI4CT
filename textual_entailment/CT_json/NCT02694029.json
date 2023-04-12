@@ -1,0 +1,52 @@
+{
+    "Clinical Trial ID": "NCT02694029",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Radiation With ABC",
+        "  Active Breathing Coordinator to assist radiation therapy. This group will be administered 14 fractions with ABC-assisted DIBH",
+        "  Active Breathing Coordinator (ABC): The ABC system has a digital spirometer that records real time breathing. This group will be administered 14 fractions with ABC-assisted DIBH",
+        "INTERVENTION 2: ",
+        "  Radiation VRT",
+        "  VisionRT-based deep inspiration breath-hold to assist radiation therapy. This group will be administered 14 fractions with VRT-assisted DIBH",
+        "  VisionRT: A technology for implementing the deep inspiration breath-hold technique is real-time surface photogrammetry. This group will be administered 14 fractions with VRT-assisted DIBH"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women with diagnosis of breast malignancy",
+        "  Women whom requires left chest wall post-mastectomy radiation with or without bolus",
+        "  Age  18 years.",
+        "  Performance status ECOG </=3",
+        "  Women of child-bearing potential must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry, for the duration of study participation, and for 90 days following completion of therapy. Should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately Ability to understand and the willingness to sign a written informed consent.",
+        "  Patient must be able to maintain a 30 second breath hold.",
+        "  Conventional chest wall radiation delivery dose of 50.4 Gy/ 28 fractions with or without a boost (boost will not be evaluated for endpoints)",
+        "Exclusion Criteria:",
+        "  Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.",
+        "  Subjects must not be pregnant or nursing due to the potential for congenital abnormalities and the potential of this regimen to harm nursing infants."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Residual Motion During Deep Inspiratory Breath-Hold (DIBH)",
+        "  Residual motion is measured as range of breast/chest wall motion during the ABC or VisionRT assisted DIBH beam delivery. The range of motion will be measured in a unit of millimeter.",
+        "  Time frame: All patients received treatment for 2 hours for a minimum of 6 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Radiation With ABC",
+        "  Arm/Group Description: Active Breathing Coordinator to assist radiation therapy. This group will be administered 14 fractions with ABC-assisted DIBH",
+        "  Active Breathing Coordinator (ABC): The ABC system has a digital spirometer that records real time breathing. This group will be administered 14 fractions with ABC-assisted DIBH",
+        "  Overall Number of Participants Analyzed: 10",
+        "  Mean (Full Range)",
+        "  Unit of Measure: mm  0.27        (-3.0 to 3.1)",
+        "Results 2: ",
+        "  Arm/Group Title: Radiation VRT",
+        "  Arm/Group Description: VisionRT-based deep inspiration breath-hold to assist radiation therapy. This group will be administered 14 fractions with VRT-assisted DIBH",
+        "  VisionRT: A technology for implementing the deep inspiration breath-hold technique is real-time surface photogrammetry. This group will be administered 14 fractions with VRT-assisted DIBH",
+        "  Overall Number of Participants Analyzed: 10",
+        "  Mean (Full Range)",
+        "  Unit of Measure: mm  0.27        (-1.8 to 1.8)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/10 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/10 (0.00%)"
+    ]
+}

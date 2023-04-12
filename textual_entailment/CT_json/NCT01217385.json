@@ -1,0 +1,52 @@
+{
+    "Clinical Trial ID": "NCT01217385",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Diffuse Optical Spectroscopy Imaging (DOSI",
+        "  Participants undergo approximately four assessments of breast health using the DOSI technology during treatment and prior to surgery for breast cancer.",
+        "  DOSI: Bedside DOSI images of the tissue concentrations of deoxy-hemoglobin (ctHHb), oxy-hemoglobin (ctHbO2), water (ctH2O), lipid, and TOI (ctHHb x tH2O/lipid) were acquired on both breasts up to four times during NAC treatment."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria",
+        "  Pathologically confirmed diagnosis of invasive breast cancer, determined to be a candidate for primary systemic (neoadjuvant) therapy and for surgical resection of residual primary tumor following completion of neoadjuvant therapy;",
+        "  Tumor size >2cm, measured on imaging or estimated by physical exam;",
+        "  No contraindications for primary chemotherapy;",
+        "  Planned definitive breast surgery (mastectomy or lumpectomy/breast conservation) following completion of neoadjuvant therapy;",
+        "  Age 18 years or older;",
+        "  ECOG Performance Status  2 (Karnofsky  60%; see Appendix II);",
+        "  Normal organ and marrow function as follows:",
+        "  leukocytes  3,000/\u03bcl;",
+        "  absolute neutrophil count  1,500/\u03bcl;",
+        "  platelets  100,000/\u03bcl;",
+        "  total bilirubin within normal institutional limits;",
+        "  AST(SGOT)/ALT(SGPT)  2.5 times the institutional upper limit of normal;",
+        "  creatinine within normal institutional limits; OR",
+        "  creatinine clearance  30 mL/min/1.73 m2 for patients with creatinine levels above institutional normal;",
+        "  If female, postmenopausal for a minimum of one year, OR surgically sterile, OR not pregnant, confirmed by a pregnancy test as per institutional Standard of Care (SOC), and willing to use adequate contraception (hormonal or barrier method of birth control; abstinence) for the duration of study participation;",
+        "  Able to understand and willing to sign a written informed consent document and a HIPAA authorization in accordance with institutional guidelines;",
+        "  Exclusion Criteria",
+        "  Previous treatment (chemotherapy, radiation, or surgery) to involved breast; including hormone therapy;",
+        "  Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements;",
+        "  Medically unstable;",
+        "  Under age 18;",
+        "  Pregnant or nursing;",
+        "  Previous malignancy, other than basal cell or squamous cell carcinoma of the skin or in situ carcinoma of the cervix, from which the patient has been disease free for less than 5 years."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Accuracy of %Change in TOI Between Baseline and Mid-therapy to Predict Pathologic Response (pCR +/-)",
+        "  This measure will look at the Accuracy of % change in DOSI measured Tumor Optical Index (TOI) from baseline to mid therapy to predict pathologic response (pCR+ v pCR-) Pathologic response (dichotomized into responders (pCR+) and non-responders (pCR-) based pathologic assessment) will be used as the reference standard and Accuracy will be determined using receiver operating characteristic (ROC) analysis to determine the ROC Area Under the Curve (AUC).",
+        "  Time frame: From baseline to mid-therapy",
+        "Results 1: ",
+        "  Arm/Group Title: Diffuse Optical Spectroscopy Imaging (DOSI",
+        "  Arm/Group Description: Participants undergo approximately four assessments of breast health using the DOSI technology during treatment and prior to surgery for breast cancer.",
+        "  DOSI: Bedside DOSI images of the tissue concentrations of deoxy-hemoglobin (ctHHb), oxy-hemoglobin (ctHbO2), water (ctH2O), lipid, and TOI (ctHHb x tH2O/lipid) were acquired on both breasts up to four times during NAC treatment.",
+        "  Overall Number of Participants Analyzed: 34",
+        "  Measure Type: Number",
+        "  Unit of Measure: probability  0.60        (0.39 to 0.81)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/34 (0.00%)"
+    ]
+}

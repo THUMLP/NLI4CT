@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT03456427",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  All Study Participants: Patient Assisted Compression",
+        "  All subjects will undergo standard of care imaging on one breast. The other breast will be imaged using Patient-Assisted Compression (PAC), followed by Technologist-controlled (TC) Compression.",
+        "  Patient-Assisted Compression (PAC): The technologist will properly position the breast and apply minimum compression. The subject will be instructed to apply compression as the technologist ensures the breast tissue is in appropriate position and tautness. The technologist will then guide the subject to achieve appropriate compression level, sufficient but not excessive, and the image will be acquired. This will be done for both standard views CC & MLO.",
+        "INTERVENTION 2: ",
+        "  All Study Participants: Technologist Compression",
+        "  All subjects will undergo standard of care imaging on one breast. The other breast will be imaged using Patient-Assisted Compression (PAC), followed by Technologist-controlled (TC) Compression.",
+        "  Technologist-Controlled (TC) Compression: TC compression will be conducted per standard of care practices at the site."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Are women aged 40 years or older;",
+        "  Are asymptomatic and scheduled for screening mammography;",
+        "  Have left and right breasts;",
+        "  Have breast sizes compatible with the dimensions of a 24 x 31 cm image detector, without anatomical cut-off;",
+        "  Are documented as non-pregnant based on the investigator's medical judgment and in consideration of local clinical practice standards for evidence of non-pregnancy;",
+        "  Are able and willing to comply with study procedures; and",
+        "  Are able and willing to provide written informed consent to participate.",
+        "Exclusion Criteria:",
+        "  Are women aged 40 years or older;",
+        "  Are asymptomatic and scheduled for screening mammography;",
+        "  Have left and right breasts;",
+        "  Have breast sizes compatible with the dimensions of a 24 x 31 cm image detector, without anatomical cut-off;",
+        "  Are documented as non-pregnant based on the investigator's medical judgment and in consideration of local clinical practice standards for evidence of non-pregnancy;",
+        "  Are able and willing to comply with study procedures; and",
+        "  Are able and willing to provide written informed consent to participate."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Acceptable Overall Image Quality",
+        "  The primary objective is to compare the percentage of acceptable overall image quality in unilateral two-view (CC and MLO) breast images acquired using Patient-Assisted Compression and Technologist Compression modes.",
+        "Time frame: 1 Day",
+        "Results 1: ",
+        "  Arm/Group Title: All Study Participants: Patient Assisted Compression",
+        "  Arm/Group Description: All subjects will undergo standard of care imaging on one breast. The other breast will be imaged using Patient-Assisted Compression (PAC), followed by Technologist-controlled (TC) Compression.",
+        "  Patient-Assisted Compression (PAC): The technologist will properly position the breast and apply minimum compression. The subject will be instructed to apply compression as the technologist ensures the breast tissue is in appropriate position and tautness. The technologist will then guide the subject to achieve appropriate compression level, sufficient but not excessive, and the image will be acquired. This will be done for both standard views CC & MLO.",
+        "  Overall Number of Participants Analyzed: 33",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Image Quality: Acceptable: 30  90.9%",
+        "  Image Quality: Unacceptable: 3   9.1%",
+        "Results 2: ",
+        "  Arm/Group Title: All Study Participants: Technologist Compression",
+        "  Arm/Group Description: All subjects will undergo standard of care imaging on one breast. The other breast will be imaged using Patient-Assisted Compression (PAC), followed by Technologist-controlled (TC) Compression.",
+        "  Technologist-Controlled (TC) Compression: TC compression will be conducted per standard of care practices at the site.",
+        "  Overall Number of Participants Analyzed: 33",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Image Quality: Acceptable: 33 100.0%",
+        "  Image Quality: Unacceptable: 0   0.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/36 (0.00%)",
+        "Adverse Events 2:",
+        "   "
+    ]
+}

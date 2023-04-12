@@ -1,0 +1,37 @@
+{
+    "Clinical Trial ID": "NCT01537029",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Doxorubicin and Cyclophosphamide",
+        "  Doxorubicin: Dosed by the patient's treating physician according to local standard of care.",
+        "  Cyclophosphamide: dosage form: IV, Dosage, frequency, and duration: According to local standard of care"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Females, age 18 years of age or older, of all racial and ethnic origins that are scheduled to receive the first cycle of a single intravenous dose of doxorubicin (30 minute infusion) and cylcophosphamide (30 minute infusion) as part of standard medical care for breast cancer. English and/or Spanish speaking participants are eligible to participate.",
+        "Exclusion Criteria:",
+        "  Pregnant or nursing or unwilling to use a reliable contraception method during the study. The effects of doxorubicin and cyclophosphamide on pregnancy are unknown. In addition, the metabolic changes that accompany pregnancy may alter the concentration-time profile of doxorubicin or cyclophosphamide, so that the pregnancy and post-partum state would be a confounding variable.",
+        "  Participants unwilling to comply with study procedures.",
+        "  CrCl < 10 ml/min",
+        "  Participants requiring peritoneal or hemodialysis",
+        "  Serum bilirubin > 1.19 mg/dL",
+        "  Receipt of the following drugs that: a) Alter doxorubicin concentrations: carbamazepine, cyclosporine, fosphenytoin, paclitaxel, phenytoin, sorafenib, valspodar, verapamil; b) Alter cyclophosphamide concentrations: cyclosporine, nevirapine, ondansetron; c) All other drugs will be reviewed during screening of the patient"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Clearance (Cl) for Doxorubicin and Cyclophosphamide",
+        "  Cyclophosphamide analysis was not possible due to rapid drug degradation",
+        "  Time frame: 0-48 hours",
+        "Results 1: ",
+        "  Arm/Group Title: Doxorubicin and Cyclophosphamide",
+        "  Arm/Group Description: Doxorubicin: Dosed by the patient's treating physician according to local standard of care.",
+        "  Cyclophosphamide: dosage form: IV, Dosage, frequency, and duration: According to local standard of care",
+        "  Overall Number of Participants Analyzed: 13",
+        "  Median (Full Range)",
+        "  Unit of Measure: L/hr  1.85        (0.84 to 4.23)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/15 (0.00%)"
+    ]
+}

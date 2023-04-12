@@ -1,0 +1,44 @@
+{
+    "Clinical Trial ID": "NCT01176916",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Exemestane",
+        "  Participants received exemestane (Aromasin) tablet 25 mg once daily in this study. They had previously taken tamoxifen for 2 to 3 years and switched to Aromisin in this study for completion of 5 consecutive years of adjuvant hormonal therapy."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Early invasive breast cancer (T1-4N1-3M0) confirmed by histology or cytology.",
+        "  ER positive.",
+        "  The patient must be postmenopausal woman.",
+        "  The patient has received adjuvant Tamoxifen therapy for up to 2-3 years and will switch to receive Aromasin\u00ae treatment (The decision to prescribe Aromasin\u00ae will necessarily precede and will be independent of the decision to enroll patients in the study).",
+        "Exclusion Criteria:",
+        "  Following the adjuvant Tamoxifen therapy for 2-3 years and prior to receiving Aromasin\u00ae treatment, there is evidence of a local relapse or distant metastasis of breast cancer, or a second primary cancer.",
+        "  Following the adjuvant Tamoxifen therapy for 2-3 years and received other aromatase inhibitors (not Aromasin\u00ae)."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Time-to-Event",
+        "  An event was defined as the earliest occurrence of any of the following: 1) Loco-regional/distant recurrence of the primary breast cancer (BC) (Loco-regional recurrence was defined as any recurrence in the ipsilateral breast, chest wall or axillary lymph nodes.); 2) Appearance of a second primary or contralateral breast cancer; 3) Death due to any cause.",
+        "  Time frame: 2-3 years (time for previously taking tamoxifen [prior to this study] and time for taking Aromasin [in this study] add up to 5 years)",
+        "Results 1: ",
+        "  Arm/Group Title: Exemestane",
+        "  Arm/Group Description: Participants received exemestane (Aromasin) tablet 25 mg once daily in this study. They had previously taken tamoxifen for 2 to 3 years and switched to Aromisin in this study for completion of 5 consecutive years of adjuvant hormonal therapy.",
+        "  Overall Number of Participants Analyzed: 558",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: months  NA  [1]    (NA to NA)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 38/558 (6.81%)",
+        "  Angina unstable * 1/558 (0.18%)",
+        "  Coronary artery disease * 1/558 (0.18%)",
+        "  Autoimmune thyroiditis * 1/558 (0.18%)",
+        "  Goitre * 1/558 (0.18%)",
+        "  Hypothyroidism * 1/558 (0.18%)",
+        "  Glaucoma * 1/558 (0.18%)",
+        "  Chronic gastritis * 1/558 (0.18%)",
+        "  Gastric polyps * 2/558 (0.36%)",
+        "  Haemorrhoids * 1/558 (0.18%)",
+        "  Tongue haemorrhage * 1/558 (0.18%)"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT03136367",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Arm 1: Option Grid",
+        "  Patients in this arm will receive the Option Grid for breast cancer surgery, an encounter decision aid, when they first meet with the breast surgeon to discuss their surgical options for breast cancer treatment.",
+        "  Option Grid: The Option Grid(TM) encounter decision aid for early stage breast cancer surgery is a one-page, evidence-based summary of available options presented in a tabular format.",
+        "INTERVENTION 2: ",
+        "  Arm 2: Picture Option Grid",
+        "  Patients in this arm will receive the Picture Option Grid for breast cancer surgery, an encounter decision aid, when they first meet with the breast surgeon to discuss their surgical options for breast cancer treatment.",
+        "  Picture Option Grid: The Picture Option Grid was derived from the Option Grid for early stage breast cancer. It uses the same evidence and integrates images and simpler text, thus exploiting pictorial superiority. The Picture Option Grid has been specifically designed for women of lower SES and low health literacy."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Assigned female at birth;",
+        "  18 years and older;",
+        "  Confirmed diagnosis (via biopsy) of early stage breast cancer (stages I-IIIA);",
+        "  Eligible for both breast-conserving surgery and mastectomy based on medical records and clinician's opinion before surgery;",
+        "  Spoken English, Spanish, or Mandarin Chinese.",
+        "Exclusion Criteria:",
+        "  Transgender men and women;",
+        "  Women who have undergone prophylactic mastectomy;",
+        "  Women with visual impairment;",
+        "  Women with a diagnosis of severe mental illness or severe dementia;",
+        "  Women with inflammatory breast carcinoma."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Decision Quality: Knowledge Subscale",
+        "  Change in decision quality, measured using the validated 16-item Decision Quality Worksheet for Breast Cancer Surgery. Decision quality is measured through three constructs: knowledge, decision process, and concordance. Knowledge is five questions that results in a score from 0 to 5 with higher numbers indicating higher knowledge. Decision process is a measure how much shared decision making process occurred, based on patient-report. It is a seven-item scale with higher numbers indicating higher shared decision process. For the concordance score, patients rated their goals and concerns on an 11-point importance scale from 0 (not important at all) to 10 (extremely important). They also indicated which surgery they intended to have at T2. A concordance summary score (0-100%) indicated the percentage of patients who received a treatment that matched their stated preference.",
+        "  Time frame: Immediately before the index surgical consultation visit, immediately after the index surgical consultation visit and at one week post-surgery",
+        "Results 1: ",
+        "  Arm/Group Title: Arm 1: Option Grid",
+        "  Arm/Group Description: Patients in this arm will receive the Option Grid for breast cancer surgery, an encounter decision aid, when they first meet with the breast surgeon to discuss their surgical options for breast cancer treatment.",
+        "  Option Grid: The Option Grid(TM) encounter decision aid for early stage breast cancer surgery is a one-page, evidence-based summary of available options presented in a tabular format.",
+        "  Overall Number of Participants Analyzed: 66",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: score on a scale  Immediately before the index surgical consultation visit: 2.83         (1.29)",
+        "  Immediately after the index surgical consultation visit: 2.82         (1.13)",
+        "  One week post-surgery: 3.00         (1.11)",
+        "Results 2: ",
+        "  Arm/Group Title: Arm 2: Picture Option Grid",
+        "  Arm/Group Description: Patients in this arm will receive the Picture Option Grid for breast cancer surgery, an encounter decision aid, when they first meet with the breast surgeon to discuss their surgical options for breast cancer treatment.",
+        "  Picture Option Grid: The Picture Option Grid was derived from the Option Grid for early stage breast cancer. It uses the same evidence and integrates images and simpler text, thus exploiting pictorial superiority. The Picture Option Grid has been specifically designed for women of lower SES and low health literacy.",
+        "  Overall Number of Participants Analyzed: 248",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: score on a scale  Immediately before the index surgical consultation visit: 2.95         (1.22)",
+        "  Immediately after the index surgical consultation visit: 2.90         (1.07)",
+        "  One week post-surgery: 2.88         (1.05)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/66 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/248 (0.00%)"
+    ]
+}

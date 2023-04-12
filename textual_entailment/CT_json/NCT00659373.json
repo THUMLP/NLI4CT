@@ -1,0 +1,55 @@
+{
+    "Clinical Trial ID": "NCT00659373",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Tamoxifen",
+        "  Tamoxifen 20mg orally daily for 5 years",
+        "INTERVENTION 2: ",
+        "  Ovarian Function Suppression",
+        "  Tamoxifen 20mg orally daily or Exemestane 25mg orally daily for 5 years plus ovarian function suppression (OFS; triptorelin (GnRH analogue) 3.75 mg by im injection q28 days for 5 years; or surgical oophorectomy; or ovarian irradiation)",
+        "  Note: Data were collected separately for the T+OFS and E+OFS participants in the parent study, IBCSG 24-02 (SOFT). The sample size for this Co-SOFT substudy was small, so the analysis plan was revised to pre-specify collective analysis for all patients receiving OFS."
+    ],
+    "Eligibility": [
+        "DISEASE CHARACTERISTICS:",
+        "  Histologically confirmed breast cancer",
+        "  Completely resected disease",
+        "  Registered for clinical trial IBCSG-2402, but not yet started protocol hormonal therapy",
+        "  Has not yet received any of the following adjuvant endocrine therapy, either before or after registration on IBCSG-2402:",
+        "  Tamoxifen, exemestane, or gonadotropin-releasing hormone (GnRH) agonist",
+        "  Ovarian irradiation",
+        "  Bilateral oophorectomy",
+        "  Hormone receptor status:",
+        "  Estrogen and/or progesterone receptor positive",
+        "  Each tumor must be hormone receptor positive",
+        "  PATIENT CHARACTERISTICS:",
+        "  Premenopausal",
+        "  Can speak and read the local language(s) fluently",
+        "  PRIOR CONCURRENT THERAPY:",
+        "  See Disease Characteristics"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Cognitive Function Over 1 Year in Premenopausal Breast Cancer Patients Who Receive Adjuvant Tamoxifen (T) Alone Against Those Receive Adjuvant Tamoxifen (T+OFS) or Exemestane (E+OFS) With Ovarian Function Suppression (OFS)",
+        "  Objective cognitive function measured with CogState, a computerized test battery of 7 tasks: Detection, Identification, Monitoring, Memory, Learning, International Shopping List Task (ISLT) and ISLT-Delayed Recall. Performance speed is measured for Detection/Identification/Monitoring and performance accuracy is measured for Memory/Learning/ISLT/ISLT-Delayed Recall. Performance speed calculated as mean of the log10 transformed reaction time for correct responses (lower score=better); performance accuracy calculated as arcsine transformation of the proportion of correct responses (higher scores=better). Main outcome measure is a composite score (average of task scores after transformation and standardization by age-specific norms). A positive standardized score indicates that a patient performed better than average; a negative standardized score indicates below average results. Patients complete assessments at baseline and 1 year after randomization to parent IBCSG 24-02 (SOFT) study.",
+        "  Time frame: 1 year after patient randomization to parent IBCSG 24-02 study",
+        "Results 1: ",
+        "  Arm/Group Title: Tamoxifen",
+        "  Arm/Group Description: Tamoxifen 20mg orally daily for 5 years",
+        "  Overall Number of Participants Analyzed: 20",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: standardized units  -.04         (0.49)",
+        "Results 2: ",
+        "  Arm/Group Title: Ovarian Function Suppression",
+        "  Arm/Group Description: Tamoxifen 20mg orally daily or Exemestane 25mg orally daily for 5 years plus ovarian function suppression (OFS; triptorelin (GnRH analogue) 3.75 mg by im injection q28 days for 5 years; or surgical oophorectomy; or ovarian irradiation)",
+        "  Note: Data were collected separately for the T+OFS and E+OFS participants in the parent study, IBCSG 24-02 (SOFT). The sample size for this Co-SOFT substudy was small, so the analysis plan was revised to pre-specify collective analysis for all patients receiving OFS.",
+        "  Overall Number of Participants Analyzed: 54",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: standardized units  -0.21         (0.92)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/20 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/54 (0.00%)"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT00483223",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Cisplatin or Carboplatin",
+        "  Cisplatin or carboplatin (1 arm, 2 cohorts)",
+        "  Cisplatin: Given intravenously on the first day of each 3-week treatment cycle at 75mg/m2. Participants may continue to receive study treatment as long as their disease does not worsen and they do not experience serious side effects.",
+        "  carboplatin: Given intravenously on the first day of each 3-week treatment cycle at AUC 6. Participants may continue to receive study treatment as long as their disease does not worsen and they do not experience serious side effects."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically confirmed invasive breast cancer with stage IV disease, according to AJCC 6th edition (American Joint Committee on Cancer), either biopsy proven or with unequivocal evidence of metastatic disease by physical examination or radiological study",
+        "  All tumors must be ER-, PGR- and HER2-negative",
+        "  18 years of age or older",
+        "  Paraffin tissue block is required from the primary tumor tissue or from diagnostic metastatic biopsy at time of relapse",
+        "  Measurable disease by RECIST",
+        "  Performance status of 0,1 or 2 by ECOG criteria (Eastern Cooperative Oncology Group)",
+        "  Life expectancy greater than 12 weeks",
+        "  Normal organ and bone marrow function documented within 14 days prior to enrollment as defined by the protocol",
+        "Exclusion Criteria:",
+        "  More than 1 prior chemotherapy for the treatment of recurrent or metastatic breast cancer",
+        "  Prior treatment with cisplatin, carboplatin, or other platinum chemotherapy agents",
+        "  Active brain metastases or unevaluated neurological symptoms suggestive of brain metastases",
+        "  Intercurrent illness or other major medical condition or comorbid condition that might affect study participation",
+        "  Significant history of uncontrolled cardiac disease such as uncontrolled hypertension, unstable angina, recent myocardial infarction, uncontrolled congestive heart failure, cardiomyopathy either symptomatic or asymptomatic but with decreased ejection fraction <45%",
+        "  Renal dysfunction for which cisplatin dose would either require dose modification or would be considered unsafe",
+        "  Pregnant or nursing women",
+        "  History or other malignancy that was not treated with curative intent"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Objective Response Rate",
+        "  Objective response rate (ORR) (complete response [CR]+ partial response [PR]) by RECIST (Response Evaluation Criteria In Solid Tumors).",
+        "  Complete Response (CR): Disappearance of all target lesions",
+        "  Partial Response (PR): At least a 30% decrease in the sum of the LD (longest diameter) of target lesions, taking as reference the baseline sum LD",
+        "  Stable Disease (SD): Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum LD since the treatment started",
+        "  Progressive Disease (PD): At least a 20% increase in the sum of the LD of target lesions, taking as reference the smallest sum LD recorded since the treatment started or the appearance of one or more new lesions",
+        "  Time frame: 3 years",
+        "Results 1: ",
+        "  Arm/Group Title: Cisplatin or Carboplatin",
+        "  Arm/Group Description: Cisplatin or carboplatin (1 arm, 2 cohorts)",
+        "  Cisplatin: Given intravenously on the first day of each 3-week treatment cycle at 75mg/m2. Participants may continue to receive study treatment as long as their disease does not worsen and they do not experience serious side effects.",
+        "  carboplatin: Given intravenously on the first day of each 3-week treatment cycle at AUC 6. Participants may continue to receive study treatment as long as their disease does not worsen and they do not experience serious side effects.",
+        "  Overall Number of Participants Analyzed: 86",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Complete Response: 3   3.5%",
+        "  Partial Response: 19  22.1%",
+        "  Stable Disease > 6 Months: 4   4.7%",
+        "  Progressive Disease: 57  66.3%",
+        "  Not Evaluable: 3   3.5%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 8/86 (9.30%)",
+        "  Hypersensitivity reaction to Cisplatin 1/86 (1.16%)",
+        "  Infection with normal ANC 4/86 (4.65%)",
+        "  Neutrophil Count 1/86 (1.16%)",
+        "  Hyperglycemia 1/86 (1.16%)",
+        "  Hypertension 1/86 (1.16%)"
+    ]
+}

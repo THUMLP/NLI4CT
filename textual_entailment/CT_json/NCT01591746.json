@@ -1,0 +1,55 @@
+{
+    "Clinical Trial ID": "NCT01591746",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Group A - Botulinum Toxin Type A",
+        "  100 Units of Botulinum toxin A diluted in 5 mL 0.9% Sodium Chloride (NaCl) in the pectoralis major muscle in each operated breast",
+        "  Botulinum Toxin Type A",
+        "INTERVENTION 2: ",
+        "  Group B - Placebo",
+        "  5 mL 0.9% NaCl injection to the pectoralis major muscle in each operated breast",
+        "  Placebo: 5 mL 0.9% NaCl solution to mimic Botulinum Toxin Type A"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women at least 18 years of age, who will undergo immediate unilateral or bilateral tissue expander breast reconstruction following therapeutic skin-sparing or nipple-sparing mastectomy",
+        "  Women at least 18 years of age, who will undergo immediate bilateral tissue expanders breast reconstruction following risk-reduction (prophylactic) skin-sparing or nipple-sparing mastectomy",
+        "Exclusion Criteria:",
+        "  Subjects who are unable to read or speak English",
+        "  Breast reconstruction using the latissimus dorsi flap combined with a tissue expander",
+        "  Documented diagnosis of chronic pain, upper limb spasticity, cervical dystonia, axillary hyperhidrosis, strabismus or blepharospasm",
+        "  Hypersensitivity to any botulinum toxin preparation or to any of the components in the formulation",
+        "  Infection at the proposed site of injection",
+        "  Pre-existing neuromuscular disorders (including diagnosed myasthenia gravis, Eaton-Lambert syndrome, or amyotrophic lateral sclerosis)",
+        "  Aminoglycosides intake at the time of surgery (these antibiotics can potentiate the effect of BTX-A)",
+        "  Women who are pregnant or breast feeding",
+        "  Presence of breast implants from previous breast surgery",
+        "  Reported use of Botox within 4 months prior to planned surgical date"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change From Baseline in Average Pain Scores Using a Numeric Pain Intensity Scale",
+        "  The numeric pain intensity scale (NPIS) will be completed at the preoperative visit and again at the first postoperative visit. The NPIS is a visual analog scale (VAS) commonly used to assess clinical pain. Subjects are asked to rate their pain on a scale from 0 to 10, where 0 is no pain and 10 is the worst pain imaginable.",
+        "  Time frame: preoperative visit, first postoperative visit (1-2 weeks post surgery)",
+        "Results 1: ",
+        "  Arm/Group Title: Group A - Botulinum Toxin Type A",
+        "  Arm/Group Description: 100 Units of Botulinum toxin A diluted in 5 mL 0.9% Sodium Chloride (NaCl) in the pectoralis major muscle in each operated breast",
+        "  Botulinum Toxin Type A",
+        "  Overall Number of Participants Analyzed: 68",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: score on a scale  2        (1.5 to 4)",
+        "Results 2: ",
+        "  Arm/Group Title: Group B - Placebo",
+        "  Arm/Group Description: 5 mL 0.9% NaCl injection to the pectoralis major muscle in each operated breast",
+        "  Placebo: 5 mL 0.9% NaCl solution to mimic Botulinum Toxin Type A",
+        "  Overall Number of Participants Analyzed: 63",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: score on a scale  3        (2 to 4)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/68 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "Clinical Trial ID": "NCT00836186",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Radiation Therapy",
+        "  Women with any non-metastatic breast cancer status post lumpectomy to negative margins and who are receiving whole breast irradiation as per standard treatment plan.",
+        "  Radiation therapy: Patients will receive whole breast radiation therapy at a dose of 180-200 cGy per fraction for 23-27 fractions to a total dose of 4600 - 4860 cGy. Additional radiation to the lumpectomy bed (Boost) is at the discretion of the treating physician. The total dose to the tumor bed cannot exceed 6600 cGy."
+    ],
+    "Eligibility": [
+        "INCLUSION CRITERIA:",
+        "  Patient must be 18 years of age or older",
+        "  Patients must have histologically confirmed (by routine H&E staining) adenocarcinoma of the breast any T, any N, M0 disease",
+        "  Patients must have undergone a segmental mastectomy (SM) with a level I and ll axillary dissection or sentinel lymph node biopsy. Surgical margins at time of local surgery must be negative greater or equal to 2mm for both invasive carcinoma and for non-invasive ductal carcinoma Patients who have post-operative margins which are negative but less than 2mm will be considered eligible if the surgeon states that the margin in question cannot be improved.",
+        "  Patients must be registered such that radiation therapy begins within 10 weeks of last surgery",
+        "  Patients must have a performance status 0 or 1 by Eastern Cooperative Oncology Group (ECOG) criteria or a 80-100 Karnofsky Performance Scale at time of consult",
+        "  Women of all races and ethnic groups are eligible for this trial",
+        "EXCLUSION CRITERIA:",
+        "  Patients must not have received prior radiation therapy to the breast at any time for any reason",
+        "  Patients with squamous carcinomas or sarcomas of the breast cancer are not eligible",
+        "  Patients treated with a mastectomy are NOT eligible",
+        "  Any patient with active local-regional disease prior to registration is not eligible",
+        "  No other prior malignancy is allowed except for adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, or any other cancer from which the patient has been disease-free for at least 5 years",
+        "  Patients must not be pregnant due to the potential for fetal harm as a result of this treatment regimen. Women of child-bearing potential must use effective non hormonal contraception while undergoing radiation therapy",
+        "  Patients must not have a serious medical or psychiatric illness which prevents informed consent or compliance with treatment"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Proteins Expressed Differently in Response to Receiving Radiation Therapy",
+        "  Number of proteins that are expressed differently in response to receiving radiation therapy for breast cancer. The data reflect the total number of proteins pooled across all participants.",
+        "  Time frame: 2 - 4 weeks post radiation therapy",
+        "Results 1: ",
+        "  Arm/Group Title: Radiation Therapy",
+        "  Arm/Group Description: Women with any non-metastatic breast cancer status post lumpectomy to negative margins and who are receiving whole breast irradiation as per standard treatment plan.",
+        "  Radiation therapy: Patients will receive whole breast radiation therapy at a dose of 180-200 cGy per fraction for 23-27 fractions to a total dose of 4600 - 4860 cGy. Additional radiation to the lumpectomy bed (Boost) is at the discretion of the treating physician. The total dose to the tumor bed cannot exceed 6600 cGy.",
+        "  Overall Number of Participants Analyzed: 65",
+        "  Measure Type: Number",
+        "  Unit of Measure: Proteins  31"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/0"
+    ]
+}

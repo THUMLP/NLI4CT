@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT00258960",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Caelyx,Cyclophosphamide,Trastuzumab",
+        "  Caelyx (Liposomal Doxorubicin) 50 mg/m2 every 4 weeks for 6 cycles, Cyclophosphamide 600 mg/m2 every 4 weeks for 6 cycles, Trastuzumab weekly for 24 weeks, at dose of 2mg/kg (day 1 loading dose of 4mg/kg)",
+        "  Liposomal Doxorubicin",
+        "  Cyclophosphamide",
+        "Trastuzumab"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients must sign an informed consent before of specific procedures of clinical trial.",
+        "  Patients with histologically confirmed breast cancer and overexpression of Her2neu.",
+        "  Age> 18 years.",
+        "  Eastern Cooperative Oncology Group (ECOG) equal or < 2.",
+        "  Patients have not been treated previously with chemotherapy for metastatic disease.",
+        "  Patients must have at least one measurable lesion according to RECIST criteria.",
+        "  Patients should have an adequate organ function to tolerate chemotherapy.",
+        "Exclusion Criteria:",
+        "  Patients with hypersensitivity reactions to any of the medications of the clinical trial.",
+        "  Patients who are pregnant or lactating are not eligible.",
+        "  Hepatic disease.",
+        "  Not controlled active infection",
+        "  Symptomatic metastatic brain cancer",
+        "  Previous adjuvant treatment with anthracyclines with a total accumulated dose > 300 mg/m2 (Doxorubicin) or > 600 mg/m2 (Epirubicin)"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Objective Response Rate (ORR)",
+        "  ORR is the sum of the Complete Responses (CR) and Partial Responses (PR) according to the RECIST criteria, experienced for each patient during treatment (recorded from the start of the treatment until disease progression). Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by CT scan (computed tomography) or MRI (magnetic resonance imaging): Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), >=30% decrease in the sum of the longest diameter of target lesions; Overall Response Rate (ORR) = CR + PR.",
+        "  Time frame: Up to cycle 6 (24 weeks)",
+        "Results 1: ",
+        "  Arm/Group Title: Caelyx,Cyclophosphamide,Trastuzumab",
+        "  Arm/Group Description: Caelyx (Liposomal Doxorubicin) 50 mg/m2 every 4 weeks for 6 cycles, Cyclophosphamide 600 mg/m2 every 4 weeks for 6 cycles, Trastuzumab weekly for 24 weeks, at dose of 2mg/kg (day 1 loading dose of 4mg/kg)",
+        "  Liposomal Doxorubicin",
+        "  Cyclophosphamide",
+        "  Trastuzumab",
+        "  Overall Number of Participants Analyzed: 48",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  33  68.8%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 16/48 (33.33%)",
+        "  Febrile neutropenia grade 3 3/48 (6.25%)",
+        "  Neutropenia grade 3 1/48 (2.08%)",
+        "  Holocraneal cephalea 1/48 (2.08%)",
+        "  Hypersensibility reaction grade 3 2/48 (4.17%)",
+        "  Palmoplantar erythrodysesthesia grade 3, stomatitis grade 3 1/48 (2.08%)",
+        "  Neutropenia grade 4, fever grade 1, oral mucositis grade 3 1/48 (2.08%)",
+        "  Catheter - related infection grade 3 1/48 (2.08%)"
+    ]
+}

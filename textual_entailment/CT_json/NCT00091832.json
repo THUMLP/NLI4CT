@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT00091832",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Bisphosphonate IV Q4W",
+        "  Open label bisphosphonate every 4 weeks (Q4W) by intravenous infusion",
+        "INTERVENTION 2: ",
+        "  Denosumab 30 mg Q4W",
+        "  Denosumab 30 mg by subcutaneous injection every 4 weeks (Q4W)"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria: - Histologically or cytologically confirmed breast adenocarcinoma",
+        "  At least one bone metastasis"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percent Change From Baseline to Week 13 in Creatinine-adjusted Urinary N-telopeptide (uNTx/Cr)",
+        "  Percent change from Baseline to Week 13 in Urinary N-telopeptide corrected by creatinine (uNTx/Cr) calculated using ((Week 13 value - Baseline value) / Baseline value ) x 100.",
+        "  Time frame: Baseline and Week 13",
+        "Results 1: ",
+        "  Arm/Group Title: Bisphosphonate IV Q4W",
+        "  Arm/Group Description: Open label bisphosphonate every 4 weeks (Q4W) by intravenous infusion",
+        "  Overall Number of Participants Analyzed: 38",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: Percent change  -10.19         (208.84)",
+        "Results 2: ",
+        "  Arm/Group Title: Denosumab 30 mg Q4W",
+        "  Arm/Group Description: Denosumab 30 mg by subcutaneous injection every 4 weeks (Q4W)",
+        "  Overall Number of Participants Analyzed: 40",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: Percent change  -52.87         (95.14)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 15/43 (34.88%)",
+        "  Anaemia 0/43 (0.00%)",
+        "  Febrile bone marrow aplasia 0/43 (0.00%)",
+        "  Febrile neutropenia 1/43 (2.33%)",
+        "  Leukopenia 0/43 (0.00%)",
+        "  Neutropenia 1/43 (2.33%)",
+        "  Thrombocytopenia 0/43 (0.00%)",
+        "  Angina pectoris 0/43 (0.00%)",
+        "  Cardiac tamponade 0/43 (0.00%)",
+        "  Cardio-respiratory arrest 0/43 (0.00%)",
+        "  Cardiopulmonary failure 1/43 (2.33%)",
+        "  Pericardial effusion 0/43 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 11/42 (26.19%)",
+        "  Anaemia 1/42 (2.38%)",
+        "  Febrile bone marrow aplasia 1/42 (2.38%)",
+        "  Febrile neutropenia 0/42 (0.00%)",
+        "  Leukopenia 0/42 (0.00%)",
+        "  Neutropenia 0/42 (0.00%)",
+        "  Thrombocytopenia 0/42 (0.00%)",
+        "  Angina pectoris 1/42 (2.38%)",
+        "  Cardiac tamponade 0/42 (0.00%)",
+        "  Cardio-respiratory arrest 0/42 (0.00%)",
+        "  Cardiopulmonary failure 0/42 (0.00%)",
+        "  Pericardial effusion 1/42 (2.38%)"
+    ]
+}

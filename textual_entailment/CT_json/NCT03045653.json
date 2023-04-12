@@ -1,0 +1,33 @@
+{
+    "Clinical Trial ID": "NCT03045653",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Treatment Arm",
+        "  receiving a treatment of tamoxifen 100 mg/d"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  - Female  18 years, 70 years. ECOG 0-1 with no deterioration over previous 2 weeks Minimum life expectancy 3 months Histological confirmation of hormone receptor-high expressed breast cancer(IHC:ER 60% and PR  60%) on primary tumour at diagnosis/on biopsy of metastasis Histological confirmation of HER2 negative breast cancer on primary tumour at diagnosis/on biopsy of a metastasis The disease-free time of relapsed patients is more than 12 months Once received standard hormone treatment and progressed Clinical or histological confirmation of metastatic or locally advanced disease not amenable to curative surgical resection At least one evaluative focus according to RECIST creterion or non-measurable disease but only bone metastasis Adequate bone marrow and organ function Progressive disease whilst receiving endocrine therapy for locally advanced or metastatic BC or relapsed with metastatic disease whilst receiving endocrine therapy Radiological or objective clinical evidence of recurrence or progression on or after last systemic therapy prior to enrolment",
+        "  4 prior lines of endocrine therapy for ABC",
+        "  3 line of cytotoxic chemotherapy for ABC Suitable for further endocrine therapy Availability of archival tumour sample or fresh biopsy Informed consent Normal organ function",
+        "Exclusion Criteria:",
+        "  Last dose chemotherapy, immunotherapy targeted therapy, biological therapy or tumour embolisation <21 days prior to study treatment Last dose of palliative radiotherapy <7 days prior to study treatment Rapidly progressive visceral disease not suitable for further endocrine therapy Spinal cord compression or brain/meningeal metastases unless asymptomatic, treated and stable and not requiring steroids for  4 weeks study treatment Creatinine clearance <30 ml/min. Patients with creatinine clearance <50 mL/min will start at a permanently reduced vandetanib dose of 200 mg.",
+        "  Major surgery (excluding placement of vascular access) within 4 weeks before study treatment Evidence of severe or uncontrolled systemic diseases, including uncontrolled hypertension, active bleeding diatheses, or active infection including hepatitis B, hepatitis C and HIV With the exception of alopecia, any unresolved toxicities from previous therapy greater than CTCAE grade 1 before study treatment Elevated ALP in absence of bone metastasis Evidence of dementia, altered mental status or any psychiatric condition that would prohibit understanding or rendering of informed consent Participation in another study with investigational product during last 30 days Inability or unwillingness to comply with study procedures, including inability to take regular oral medication"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Progression-free Survival (PFS)",
+        "  [Not Specified]",
+        "  Time frame: 36months",
+        "Results 1: ",
+        "  Arm/Group Title: Treatment Arm",
+        "  Arm/Group Description: receiving a treatment of tamoxifen 100 mg/d",
+        "  Overall Number of Participants Analyzed: 30",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: months  5        (2.6 to 7.3)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/30 (0.00%)"
+    ]
+}

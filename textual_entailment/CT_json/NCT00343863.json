@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT00343863",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Dexamethasone + Ondansetron IV",
+        "  All patients receive doxorubicin hydrochloride IV on day 1 and oral cyclophosphamide on days 1-7.",
+        "  Patients receive dexamethasone IV or orally and ondansetron IV on day 1 (prior to each dose of doxorubicin hydrochloride).",
+        "INTERVENTION 2: ",
+        "  Dexamethasone + Palonosetron IV",
+        "  All patients receive doxorubicin hydrochloride IV on day 1 and oral cyclophosphamide on days 1-7.",
+        "  Patients receive dexamethasone IV or orally and palonosetron IV on day 1 (prior to each dose of doxorubicin hydrochloride)."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients must have a histologically confirmed diagnosis of primary breast carcinoma",
+        "  Patient must be naive to chemotherapy at the time of enrollment",
+        "  Patients must have prescribed weekly intravenous adriamycin (doxorubicin) and daily oral cyclophosphamide treatment for early breast cancer",
+        "  The patient must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines",
+        "  Patients must have a Karnofsky index of greater than or equal to 50%",
+        "  Known mild to moderate hepatic, renal or cardiovascular impairment may be enrolled at the discretion of the investigator",
+        "Exclusion Criteria:",
+        "  Receipt of investigational drug within 30 days before study entry",
+        "  Received any drug with potential anti-emetic effect within 24 hours prior to the start of study-designated chemotherapeutic agent (with the exception of administration of the palonosetron/dexamethasone infusion solution), including the following: 5-HT3 receptor antagonists; dopamine receptor antagonists (metoclopramide); phenothiazine anti-emetics (prochlorperazine, thiethylperazine and perphenazine); diphenhydramine, scopolamine, chlorpheniramine maleate, trimethobenzamide (diphenhydramine will be allowed if given for prophylactic treatment of hypersensitivity reactions associated with the administration of Taxanes); all benzodiazepines; haloperidol, droperidol, tetrahydrocannabinol, or nabilone; any systemic corticosteroid (hydrocortisone, methylprednisolone, prednisone) (topical or inhaled preparations are allowed)",
+        "  Any vomiting, retching or NCI Common Toxicity Criteria version 3.0 grade 2-4 nausea in the 24 hours preceding chemotherapy",
+        "  Ongoing vomiting from any organic etiology",
+        "  Need to receive systemic corticosteroids, except: a) when defined as part of the chemotherapy regimen as a preventative measure for chemotherapy toxicities; b) topical or inhaled preparations; and/or c) when used as rescue medication during the study",
+        "  Known contraindication to 5-HT3 receptor antagonists (including palonosetron) or dexamethasone",
+        "  Need to receive radiotherapy during the study",
+        "  Inability to understand or cooperate with study procedures"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Count of Patients Achieving a Complete Response",
+        "  [Not Specified]",
+        "  Time frame: At 0-24 hours after weekly intravenous doxorubin",
+        "Results 1: ",
+        "  Arm/Group Title: Dexamethasone + Ondansetron IV",
+        "  Arm/Group Description: All patients receive doxorubicin hydrochloride IV on day 1 and oral cyclophosphamide on days 1-7.",
+        "  Patients receive dexamethasone IV or orally and ondansetron IV on day 1 (prior to each dose of doxorubicin hydrochloride).",
+        "  Overall Number of Participants Analyzed: 7",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  3  42.9%",
+        "Results 2: ",
+        "  Arm/Group Title: Dexamethasone + Palonosetron IV",
+        "  Arm/Group Description: All patients receive doxorubicin hydrochloride IV on day 1 and oral cyclophosphamide on days 1-7.",
+        "  Patients receive dexamethasone IV or orally and palonosetron IV on day 1 (prior to each dose of doxorubicin hydrochloride).",
+        "  Overall Number of Participants Analyzed: 34",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  15  44.1%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/7 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/34 (0.00%)"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Clinical Trial ID": "NCT00996632",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Ultrasonic",
+        "  Patients were operated using an ultrasonic knife (Ultracision Ethicon TM)",
+        "INTERVENTION 2: ",
+        "  Conventional",
+        "  Patients were operated by a conventional diatherm knife"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Operable breast cancer",
+        "Exclusion Criteria:",
+        "  Inoperable breast cancer",
+        "  BMI > 25",
+        "  Neoadiuvant radioterapy",
+        "  Carcinomastitis",
+        "  Previous phlebitis of omolateral arm",
+        "Collagen disease"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Drainage Volume",
+        "  volume in milliliters of axillary drainage",
+        "  Time frame: discharge day",
+        "Results 1: ",
+        "  Arm/Group Title: Ultrasonic",
+        "  Arm/Group Description: Patients were operated using an ultrasonic knife (Ultracision Ethicon TM)",
+        "  Overall Number of Participants Analyzed: 38",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: milliliters  182.6         (267.1)",
+        "Results 2: ",
+        "  Arm/Group Title: Conventional",
+        "  Arm/Group Description: Patients were operated by a conventional diatherm knife",
+        "  Overall Number of Participants Analyzed: 56",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: milliliters  525.2         (629.0)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/0",
+        "Adverse Events 2:",
+        "  Total: 0/0"
+    ]
+}

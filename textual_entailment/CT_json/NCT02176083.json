@@ -1,0 +1,44 @@
+{
+    "Clinical Trial ID": "NCT02176083",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Intervention",
+        "  Text message management prompts: YBCS will receive text message prompts on how to manage hot flashes and vaginal dryness",
+        "  Text message management prompts",
+        "INTERVENTION 2: ",
+        "  Control",
+        "  Control YBCS will not receive text message prompts on managing hot flashes and vaginal dryness"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Breast cancer",
+        "  Female",
+        "  Completed primary breast cancer treatment",
+        "Age <=45"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Hot Flash Frequency",
+        "  Median number of daily hot flashes over 4th week of study",
+        "Time frame: 1 week",
+        "Results 1: ",
+        "  Arm/Group Title: Intervention",
+        "  Arm/Group Description: Text message management prompts: YBCS will receive text message prompts on how to manage hot flashes and vaginal dryness",
+        "  Text message management prompts",
+        "  Overall Number of Participants Analyzed: 11",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: daily hot flashes  2.2        (1.2 to 3.6)",
+        "Results 2: ",
+        "  Arm/Group Title: Control",
+        "  Arm/Group Description: Control YBCS will not receive text message prompts on managing hot flashes and vaginal dryness",
+        "  Overall Number of Participants Analyzed: 27",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: daily hot flashes  1.4        (0.7 to 2.3)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/11 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/27 (0.00%)"
+    ]
+}

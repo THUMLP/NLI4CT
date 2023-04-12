@@ -1,0 +1,47 @@
+{
+    "Clinical Trial ID": "NCT01840163",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  CanSORT Online Tool (Intervention)",
+        "  Comprehensive (interactive) version of decision tool",
+        "  CanSORT Online Tool",
+        "INTERVENTION 2: ",
+        "  Static Version of CanSORT Tool (Control)",
+        "  Static version (non-interactive) version of CanSORT decision tool",
+        "  Static version of CanSORT tool"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Stage 1-2 invasive breast cancer diagnosis,",
+        "  DCIS",
+        "  Ability to read English",
+        "Exclusion Criteria:",
+        "Male"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Patients With Accurate Knowledge About Risks and Benefits of Treatment Options for Locoregional Breast Cancer.",
+        "  Self reported knowledge about locoregional treatment using a 5 item Breast Cancer Knowledge Measure (adapted). A binary knowledge indicator was created for all patients whereby high knowledge indicated for patients scoring greater than 80% on the item scale. The binary knowledge variable was analyzed for intervention effect using both unadjusted and adjusted logistic mixed model regression.",
+        "  Time frame: 4-5 weeks from date of enrollment",
+        "Results 1: ",
+        "  Arm/Group Title: CanSORT Online Tool (Intervention)",
+        "  Arm/Group Description: Comprehensive (interactive) version of decision tool",
+        "  CanSORT Online Tool",
+        "  Overall Number of Participants Analyzed: 251",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  148  59.0%",
+        "Results 2: ",
+        "  Arm/Group Title: Static Version of CanSORT Tool (Control)",
+        "  Arm/Group Description: Static version (non-interactive) version of CanSORT decision tool",
+        "  Static version of CanSORT tool",
+        "  Overall Number of Participants Analyzed: 245",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  105  42.9%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/267 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/270 (0.00%)"
+    ]
+}

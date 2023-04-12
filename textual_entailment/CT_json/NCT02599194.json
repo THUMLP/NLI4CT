@@ -1,0 +1,50 @@
+{
+    "Clinical Trial ID": "NCT02599194",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  18F-FSPG and 18F-FDG Intragroup Comparision",
+        "  Participants sequentially receive radioimaging agents 18F-FSPG and 18F-FDG IV followed by PET/CT scan with 60 minutes.",
+        "  18F-FSPG: Administered intravenously (IV)",
+        "  18F-FDG: Administered intravenously (IV)"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Written informed consent",
+        "  Able to complete a PET/CT scan without the use of sedation",
+        "  Females:",
+        "  Of childbearing potential must:",
+        "  Not be nursing",
+        "  Have a negative serum pregnancy test documented within 48 hours prior to administration of 18F FSPG PET/CT",
+        "  Not of childbearing potential must be:",
+        "  Physiologically postmenopausal (cessation of menses for more than 1 year)",
+        "  Surgically sterile (has had a documented bilateral oophorectomy and/or documented hysterectomy)",
+        "  Histologically confirmed cancer that is advanced; metastatic; or otherwise not suitable for surgical resection with curative intent",
+        "  Scheduled to begin therapy",
+        "  The time interval between 18F FSPG PET/CT and standard of care imaging (ie, 18F FDG PET/CT, diagnostic CT, or MRI) should be within 4 weeks (exceptions will be allowed for 6 weeks, if there are no other options)",
+        "  Ideally, there should be no chemotherapy, radiotherapy, or immune/biologic therapy or biopsy between other imaging (PET/CTs, MRI, or diagnostic CTs) and 18F FSPG PET/CT scheduled or performed (exceptions by investigator discretion)",
+        "  No clinically relevant deviations in renal function (serum creatinine > grade 2 Common Terminology Criteria for Adverse Events [CTCAE] version 4.0); maximal interval between confirmation of renal function and injection of 18F FSPG is 1 week",
+        "Exclusion Criteria:",
+        "  Scheduled for surgery and/or another invasive procedure (except biopsy) within the time period of 1 month prior to 18F FSPG administration",
+        "  Known sensitivity to 18F FSPG or components of the preparation",
+        "  Investigator precludes participation for scientific reasons, for reasons of compliance, or for reasons of the patient's safety"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change From Baseline in Standard Uptake Value Maximum (SUVmax) Post-treatment",
+        "  Standard Uptake Values (SUVs) for the radiotracers labels 18F-FSPG and 18F-FDG were assessed in tumor tissues of study participants, before (baseline), and after therapeutic treatment. Time frame was specified by protocol as at baseline, and at the time of clinical assessments during individual patient regular medical care. The time of the post-treatment assessment was not otherwise explicitly defined but could be anytime within 2 years. The outcome is reported as the difference of means from baseline to post-treatment (a number without dispersion), for all lesions for which an SUVmax value was assessed. A negative result indicates less uptake of radiotracer suggesting a small volume of tumor.",
+        "  Time frame: Baseline and up to 2 years",
+        "Results 1: ",
+        "  Arm/Group Title: 18F-FSPG and 18F-FDG Intragroup Comparision",
+        "  Arm/Group Description: Participants sequentially receive radioimaging agents 18F-FSPG and 18F-FDG IV followed by PET/CT scan with 60 minutes.",
+        "  18F-FSPG: Administered intravenously (IV)",
+        "  18F-FDG: Administered intravenously (IV)",
+        "  Overall Number of Participants Analyzed: 7",
+        "  Overall Number of Units Analyzed",
+        "  Type of Units Analyzed: Lesion locations assessed  Measure Type: NumberUnit of Measure: g/mL: 18F-FSPG: -1.69",
+        "18F-FDG: -0.64"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/7 (0.00%)"
+    ]
+}

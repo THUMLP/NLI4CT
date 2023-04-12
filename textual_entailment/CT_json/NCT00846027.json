@@ -1,0 +1,47 @@
+{
+    "Clinical Trial ID": "NCT00846027",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Bevacizumab + Paclitaxel + Gemcitabine",
+        "  Participants received bevacizumab 10 mg/kg intravenously (IV), paclitaxel 150 mg/m^2 IV, and gemcitabine 2000 mg/m^2 IV on Day 1 and Day 15 of each 4-week cycle until disease progression, unacceptable toxicity, or withdrawal of consent."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female patients,  18 years of age.",
+        "  Breast cancer, with measurable, locally recurrent or metastatic lesions, or patients with bone metastasis only.",
+        "  HER-2 negative disease.",
+        "  Candidates for chemotherapy.",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status  2.",
+        "Exclusion Criteria:",
+        "  Previous chemotherapy for metastatic or locally advanced breast cancer.",
+        "  Previous radiotherapy for treatment of metastatic breast cancer.",
+        "  Any prior adjuvant treatment with anthracyclines completed < 6 months prior to enrollment.",
+        "  Chronic daily treatment with corticosteroids ( 10 mg/day), aspirin (> 325 mg/day) or clopidogrel (> 75mg/day)."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Progression-free Survival",
+        "  Progression-free survival was defined as the time from enrollment in the study to the first documented disease progression using Response Evaluation Criteria In Solid Tumors (RECIST) or death from any cause, whichever occurred first.",
+        "  Time frame: Baseline to the end of the study (up to 2 years 10 months)",
+        "Results 1: ",
+        "  Arm/Group Title: Bevacizumab + Paclitaxel + Gemcitabine",
+        "  Arm/Group Description: Participants received bevacizumab 10 mg/kg intravenously (IV), paclitaxel 150 mg/m^2 IV, and gemcitabine 2000 mg/m^2 IV on Day 1 and Day 15 of each 4-week cycle until disease progression, unacceptable toxicity, or withdrawal of consent.",
+        "  Overall Number of Participants Analyzed: 90",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: Months  11.51        (9.01 to 17.59)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 21/82 (25.61%)",
+        "  Neutrophils count decreased 1/82 (1.22%)",
+        "  Cardiac ischemia/infarction 1/82 (1.22%)",
+        "  Left ventricular systolic dysfunction 1/82 (1.22%)",
+        "  Hypertension 1/82 (1.22%)",
+        "  Supraventricular and nodal arrhythmia 1/82 (1.22%)",
+        "  Anorexia 1/82 (1.22%)",
+        "  Gastrointestinal perforation 1/82 (1.22%)",
+        "  Vomiting 1/82 (1.22%)",
+        "  Dehydration 1/82 (1.22%)",
+        "  Diarrhoea 1/82 (1.22%)"
+    ]
+}

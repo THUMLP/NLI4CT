@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT00593346",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Accelerated Partial Breast Brachytherapy",
+        "  Each patient will receive accelerated partial breast brachytherapy with multiple plane implant.",
+        "  Patients will receive 3400 cGy delivered in 10 twice-daily fractions. Treatment is to be given over 5-7 days with a minimum of 6 hours separation between fractions."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  AJCC stage 0, I, or II (TisN0, T1N0, T2N0 = 3 cm) histologically confirmed carcinoma of the breast, treated with tylectomy. Axillary sampling is required only for cases of invasive cancers. Tumor size is determined by the pathologist. Clinical size may be used if the pathologic size is indeterminate.",
+        "  Signed study-specific informed consent for participation in the study.",
+        "  Negative, or close but negative, inked histologic margins of tylectomy or reexcision specimen to be confirmed prior to placing the brachytherapy catheters. Margins generally are positive if there is invasive or noninvasive tumor at the inked resection margin, close but negative if the tumor is within 2 mm of the inked margin and negative if the tumor is at least 2 mm away from the inked edge.",
+        "  Negative post-tylectomy or post-reexcision mammography if cancer presented with malignancy-associated microcalcifications; no remaining suspicious microcalcifications in the breast before brachytherapy.",
+        "  For patients with invasive cancer, no positive axillary lymph nodes with at least 6 axillary lymph nodes sampled or a negative sentinel node.",
+        "  Invasive ductal, lobular, medullary, papillary, colloid (mucinous),or tubular histologies. Noninvasive ductal carcinoma in situ.",
+        "  Chemotherapy or hormonal therapy planned for = 2 weeks after removal of brachytherapy catheters is permitted. Hormonal therapy is allowed during brachytherapy at treating radiation oncologist's decision.",
+        "  Negative pregnancy test for premenopausal patients with an intact uterus",
+        "Exclusion Criteria:",
+        "  Patients with distant metastases.",
+        "  Patients with in-situ lobular carcinoma or nonepithelial breast malignancies such as sarcoma or lymphoma.",
+        "  Patients with proven multicentric carcinoma (tumors in different quadrants of the breast, or tumors separated by at least 4 cm) with other clinically or radiographically suspicious areas in the ipsilateral breast unless confirmed to be negative for malignancy by biopsy.",
+        "  Patients who are pregnant or lactating.",
+        "  Patients with histologically confirmed positive axillary nodes in the ipsilateral axilla. Palpable or radiographically suspicious contralateral axillary, supraclavicular, infraclavicular, or internal mammary nodes, unless there is histologic confirmation that these nodes are negative for tumor.",
+        "  Prior non-hormonal therapy for the present breast cancer, including radiation therapy or chemotherapy.",
+        "  Patients with systemic lupus erythematosis, scleroderma, or dermatomyositis with a CPK level above normal or with an active skin rash.",
+        "  Patients with coexisting medical conditions in whom life expectancy is < 2 years.",
+        "  Patients with psychiatric or addictive disorders that would preclude obtaining informed consent or completing the full series of high dose rate brachytherapy treatments on an outpatient basis.",
+        "  Patients with Paget's disease of the nipple.",
+        "  Patients with skin involvement, regardless of tumor size.",
+        "  Patients with a breast unsatisfactory for brachytherapy. For example, if there is little breast tissue remaining between the skin and pectoralis muscle after surgery, placement of catheters is technically problematic.",
+        "  Patients with tylectomies so extensive that the cosmetic result is fair or poor prior to brachytherapy.",
+        "  Surgical margins which cannot be microscopically assessed or are positive at pathological evaluation.",
+        "  Any previously treated contralateral breast carcinoma or synchronous bilateral breast carcinoma.",
+        "  Other malignancy, except non-melanoma skin cancer,  5 years prior to participation in this study; the disease free interval from any prior carcinoma must be continuous.",
+        "  Time between final definitive breast procedure to radioactive source loading of the brachytherapy catheters is greater than 8 weeks.",
+        "  Patients with diffuse (> 1 quadrant or >5 cm in diameter) suspicious microcalcifications.",
+        "  Patients with suspicious microcalcifications remaining on the post-tylectomy mammogram"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Local Control Using Ipsilateral Breast Tumor Recurrence Rates",
+        "  [Not Specified]",
+        "  Time frame: 2 years after treatment completion",
+        "Results 1: ",
+        "  Arm/Group Title: Accelerated Partial Breast Brachytherapy",
+        "  Arm/Group Description: Each patient will receive accelerated partial breast brachytherapy with multiple plane implant.",
+        "  Patients will receive 3400 cGy delivered in 10 twice-daily fractions. Treatment is to be given over 5-7 days with a minimum of 6 hours separation between fractions.",
+        "  Overall Number of Participants Analyzed: 151",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  .7"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/151 (0.00%)"
+    ]
+}
