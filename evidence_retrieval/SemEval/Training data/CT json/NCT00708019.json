@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT00708019",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Low Dose",
+        "  Low dose of the psychoeducational intervention (i.e., 8.0 hours with the intervention nurse over 10 weeks)",
+        "  PRO-SELF PLUS Pain Management Program: The psychoeducational intervention will be conducted by specially trained oncology nurses and will include the components of knowledge, skills training, and coaching to improve cancer pain management. Patients in both groups will be seen in their homes over the course of 10 weeks with phone calls conducted in between the home visits. Patients in the HIGH-DOSE group will receive 6 visits and 10 phone calls [total time 12.3 hours]. Patients in the LOW-DOSE group will receive 4 visits and 6 phone calls [8.0 hours]. Follow-up visits to assess the sustainability of the intervention will be done at 2 weeks, 1 month and 3 months after the intervention. Both quantitative and qualitative analyses will be conducted to evaluate patient outcomes.",
+        "INTERVENTION 2: ",
+        "  High Dose",
+        "  High dose of the psychoeducational intervention (i.e., 12.3 hours with the intervention nurse over 10 weeks)",
+        "  PRO-SELF PLUS Pain Management Program: The psychoeducational intervention will be conducted by specially trained oncology nurses and will include the components of knowledge, skills training, and coaching to improve cancer pain management. Patients in both groups will be seen in their homes over the course of 10 weeks with phone calls conducted in between the home visits. Patients in the HIGH-DOSE group will receive 6 visits and 10 phone calls [total time 12.3 hours]. Patients in the LOW-DOSE group will receive 4 visits and 6 phone calls [8.0 hours]. Follow-up visits to assess the sustainability of the intervention will be done at 2 weeks, 1 month and 3 months after the intervention. Both quantitative and qualitative analyses will be conducted to evaluate patient outcomes."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  adult oncology outpatients (> 18 years of age)",
+        "  able to read, write, and understand English",
+        "  agree to participate and give informed consent",
+        "  have a KPS Score of > 50",
+        "  have an average pain intensity score of > 3.0 on a 0 to 10 NRS",
+        "  have radiographic evidence of bone metastasis",
+        "  visceral or somatic pain",
+        "  have a life expectancy of at least 6 months",
+        "  are receiving outpatient treatment for cancer (not AIDS-related) with any single or combination therapy, and have a telephone line",
+        "Exclusion Criteria:",
+        "  A documented previous or current psychiatric disorder or if at the time of recruitment they are receiving hospice care in order not to interfere with the pain management program provided by hospice."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Average Pain Intensity Score",
+        "  Average pain was measured using a 0 (no pain) to 10 (worst pain imaginable) numeric rating scale on a daily basis.",
+        "  Change in average pain intensity between the two intervention groups was evaluated from enrollment to the end of the study (i.e., 10 weeks).",
+        "  Time frame: 10 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Low Dose",
+        "  Arm/Group Description: Low dose of the psychoeducational intervention (i.e., 8.0 hours with the intervention nurse over 10 weeks)",
+        "  PRO-SELF PLUS Pain Management Program: The psychoeducational intervention will be conducted by specially trained oncology nurses and will include the components of knowledge, skills training, and coaching to improve cancer pain management. Patients in both groups will be seen in their homes over the course of 10 weeks with phone calls conducted in between the home visits. Patients in the HIGH-DOSE group will receive 6 visits and 10 phone calls [total time 12.3 hours]. Patients in the LOW-DOSE group will receive 4 visits and 6 phone calls [8.0 hours]. Follow-up visits to assess the sustainability of the intervention will be done at 2 weeks, 1 month and 3 months after the intervention. Both quantitative and qualitative analyses will be conducted to evaluate patient outcomes.",
+        "  Overall Number of Participants Analyzed: 92",
+        "  Mean (95% Confidence Interval)",
+        "  Unit of Measure: units on a scale  1.192        (.452 to 1.932)",
+        "Results 2: ",
+        "  Arm/Group Title: High Dose",
+        "  Arm/Group Description: High dose of the psychoeducational intervention (i.e., 12.3 hours with the intervention nurse over 10 weeks)",
+        "  PRO-SELF PLUS Pain Management Program: The psychoeducational intervention will be conducted by specially trained oncology nurses and will include the components of knowledge, skills training, and coaching to improve cancer pain management. Patients in both groups will be seen in their homes over the course of 10 weeks with phone calls conducted in between the home visits. Patients in the HIGH-DOSE group will receive 6 visits and 10 phone calls [total time 12.3 hours]. Patients in the LOW-DOSE group will receive 4 visits and 6 phone calls [8.0 hours]. Follow-up visits to assess the sustainability of the intervention will be done at 2 weeks, 1 month and 3 months after the intervention. Both quantitative and qualitative analyses will be conducted to evaluate patient outcomes.",
+        "  Overall Number of Participants Analyzed: 93",
+        "  Mean (95% Confidence Interval)",
+        "  Unit of Measure: units on a scale  1.304        (.540 to 2.069)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/92 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/93 (0.00%)"
+    ]
+}

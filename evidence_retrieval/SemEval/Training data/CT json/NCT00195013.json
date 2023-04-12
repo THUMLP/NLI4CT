@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT00195013",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Glutamine",
+        "  10 grams three times a day (orally) for four days and then stop",
+        "  glutamine: 10 grams three times a day (orally) for four days and then stop",
+        "INTERVENTION 2: ",
+        "  Placebo",
+        "  10 grams three times a day (orally) for four days and then stop",
+        "  Placebo: 10 grams three times a day (orally) for four days and then stop"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients must have histologically or cytologically confirmed breast cancer, Stage I, II, III or IV or other solid tumors.",
+        "  Patients must be receiving weekly paclitaxel or nab-paclitaxel chemotherapy or have recently completed paclitaxel or nab-paclitaxel chemotherapy and have at least a Grade I peripheral neuropathy (see Appendix A) because of therapy.",
+        "  Because no dosing or adverse event data are currently available on the use of glutamine in patients <18 years of age, children are excluded from this study but will be eligible for future pediatric phase 1 single-agent trials.",
+        "  ECOG performance status <1 (Karnofsky >90%).",
+        "  Life expectancy of greater than 3 months.",
+        "  Patients must have sufficient organ and marrow function so that paclitaxel treatment can be administered.",
+        "  The effects of glutamine on the developing human fetus are unknown. For this reason, women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation. Should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately.",
+        "  Ability to understand and the willingness to sign a written informed consent document.",
+        "Exclusion Criteria:",
+        "  Patients who have experienced prior neuropathies not associated with chemotherapy",
+        "  Patients may not be receiving any other investigational agents.",
+        "  Patients with known brain metastases should be excluded from this clinical trial because of their poor prognosis and because they often develop progressive neurologic dysfunction that would confound the evaluation of neurologic and other adverse events.",
+        "  There are no known allergies associated with glutamine.",
+        "  Uncontrolled intercurrent illness that render the patient ineligible to receive paclitaxel chemotherapy.",
+        "  Pregnant women are excluded from this study because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with glutamine. Breastfeeding should also be discontinued if the mother is treated with glutamine.",
+        "  Because patients with immune deficiency are at increased risk of lethal infections when treated with marrow-suppressive therapy, HIV-positive patients receiving combination anti-retroviral therapy are excluded from the study because of possible pharmacokinetic interactions with glutamine. Appropriate studies will be undertaken in patients receiving combination anti-retroviral therapy when indicated.",
+        "  Concurrent chemotherapy with another drug known to cause neuropathy (CDDP or CBDCA or oxaliplatin) are excluded."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Peripheral Neuropathy Score",
+        "  Used the clinical total neuropathy score scale (TNSc). The presence of sensory, motor, pin sensibility, vibration sensibility, DTR, autonomic symptoms was assessed. For each item, the possible score ranged between 0 (normal) and 4 (worst possible result).",
+        "  Outcomes calculated as neuropathy score value at 10 Weeks minus neuropathy score value at Baseline. Increased score value indicates increased neuropathy severity.",
+        "  Time frame: Duration of study, approximately 10 weeks per subject",
+        "Results 1: ",
+        "  Arm/Group Title: Glutamine",
+        "  Arm/Group Description: 10 grams three times a day (orally) for four days and then stop",
+        "  glutamine: 10 grams three times a day (orally) for four days and then stop",
+        "  Overall Number of Participants Analyzed: 14",
+        "  Mean (Full Range)",
+        "  Unit of Measure: Change in Total Neuropathy Score  0.3        (-5 to 3)",
+        "Results 2: ",
+        "  Arm/Group Title: Placebo",
+        "  Arm/Group Description: 10 grams three times a day (orally) for four days and then stop",
+        "  Placebo: 10 grams three times a day (orally) for four days and then stop",
+        "  Overall Number of Participants Analyzed: 16",
+        "  Mean (Full Range)",
+        "  Unit of Measure: Change in Total Neuropathy Score  0.9        (-6 to 7)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/14 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/16 (0.00%)"
+    ]
+}

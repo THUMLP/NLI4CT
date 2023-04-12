@@ -1,0 +1,55 @@
+{
+    "Clinical Trial ID": "NCT01519700",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  EP2006 + EP2006 & Neupogen",
+        "  All subjects randomized to receive either EP2006 in Cycle 1",
+        "INTERVENTION 2: ",
+        "  Neupogen + Neupogen & EP2006",
+        "  All subjects randomized to receive Neupogen in Cycle 1"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients with histologically proven breast cancer, eligible for neoadjuvant or adjuvant myelosuppressive chemotherapy",
+        "  Women  18 years of age",
+        "  Estimated life expectancy of more than six months",
+        "Exclusion Criteria:",
+        "  Previous or concurrent malignancy except non-invasive non-melanoma skin cancer, in situ carcinoma of the cervix, or other solid tumor treated curatively, and without evidence of recurrence for at least ten years prior to study entry",
+        "  Any serious illness or medical condition that may interfere with safety, compliance, response to the products under investigation and their evaluation, e.g.:",
+        "  Other protocol-defined inclusion/exclusion criteria may apply."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Mean Duration of Grade 4 Neutropenia During Cycle 1 of Chemotherapy",
+        "  Mean duration of severe neutropenia, defined as the mean number of consecutive days with Grade 4 neutropenia (ANC less than 0.5*10^9 cells/L)",
+        "  Time frame: 21 days (Cycle 1 of chemotherapy treatment)",
+        "Results 1: ",
+        "  Arm/Group Title: EP2006 + EP2006 & Neupogen",
+        "  Arm/Group Description: All subjects randomized to receive either EP2006 in Cycle 1",
+        "  Overall Number of Participants Analyzed: 101",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: Days  1.17         (1.11)",
+        "Results 2: ",
+        "  Arm/Group Title: Neupogen + Neupogen & EP2006",
+        "  Arm/Group Description: All subjects randomized to receive Neupogen in Cycle 1",
+        "  Overall Number of Participants Analyzed: 103",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: Days  1.2         (1.02)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 6/53 (11.32%)",
+        "  Febrile Neutropenia3/53 (5.66%)",
+        "  Anaemia0/53 (0.00%)",
+        "  Leukopenia1/53 (1.89%)",
+        "  Diarrhoea0/53 (0.00%)",
+        "  Embolism1/53 (1.89%)",
+        "Adverse Events 2:",
+        "  Total: 4/54 (7.41%)",
+        "  Febrile Neutropenia4/54 (7.41%)",
+        "  Anaemia0/54 (0.00%)",
+        "  Leukopenia0/54 (0.00%)",
+        "  Diarrhoea0/54 (0.00%)",
+        "  Embolism0/54 (0.00%)"
+    ]
+}

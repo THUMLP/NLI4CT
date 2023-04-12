@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT01268150",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Eribulin Mesylate",
+        "  Eribulin mesylate at 1.4 mg/m^2 was administered as an intravenous (IV) infusion over 2 to 5 minutes on Days 1 and 8 of each 3-week cycle."
+    ],
+    "Eligibility": [
+        "Key Inclusion Criteria",
+        "  Females age 18 years or older at the time of informed consent",
+        "  Have histologically or cytologically proven adenocarcinoma of the breast",
+        "  Subjects with locally recurrent or metastatic disease with at least one measurable lesion according to Response Evaluation Criteria in Solid Tumors",
+        "  (RECIST) criteria v 1.1",
+        "  Human epidermal growth factor receptor (HER2)-negative disease as determined by fluorescence in situ hybridization (FISH) or 0 or 1+ by immunohistochemical (IHC) staining.",
+        "  Life expectancy of greater than 24 weeks",
+        "  Eastern Cooperative Oncology Group (ECOG) Performance Score (PS) of 0, 1 or 2",
+        "  At least 12 months since prior neoadjuvant or adjuvant chemotherapy",
+        "  At least 2 weeks since prior radiotherapy or endocrine therapy, with complete recovery from the effects of these interventions",
+        "  Adequate renal function",
+        "  Adequate bone marrow function",
+        "  Adequate liver function",
+        "  Key Exclusion Criteria",
+        "  Subjects who meet any of the following criteria will be excluded from participation in this study:",
+        "  Prior chemotherapy, biologic therapy, or investigational therapy for locally recurrent or metastatic breast cancer",
+        "  Subjects who have had a prior malignancy other than carcinoma in situ of the cervix or nonmelanoma skin cancer",
+        "  Prior exposure of greater than 360 mg/m2 doxorubicin or liposomal doxorubicin, greater than 120 mg/m2 mitoxantrone, greater than 90 mg/m2 idarubicin, or greater than720 mg/m2 epirubicin",
+        "  Inflammatory breast cancer",
+        "  Clinically significant cardiovascular impairment",
+        "  Subjects with known CNS disease are not eligible, except for those with treated brain metastasis.",
+        "  Pulmonary lymphangitic involvement that results in pulmonary dysfunction requiring the use of oxygen",
+        "  Currently pregnant or breast-feeding.",
+        "  Subjects with pre-existing Grade 3 or 4 neuropathy. Any peripheral neuropathy must recover to Grade 2 before enrollment."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Objective Response Rate (ORR)",
+        "  The ORR was defined as the percentage of participants with best overall response (BOR) of confirmed complete response (CR) or partial response (PR), based on Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1. Targeted lesions were assessed by computed tomography (CT) and magnetic resonance imaging (MRI) which were then assessed by the investigator based on RECIST. CR was defined as the disappearance of all target lesions. PR was defined as at least 30% decrease in the sum of diameters of target lesions, taking as reference baseline sum diameters. Possible CR and PR had to be confirmed no fewer than 4 weeks after the initial response assessment. A brain and bone scan was performed by CT/MRI within 1 week after confirmation of a response to ensure no new metastases. To be assigned a status of CR or PR, changes in tumor measurements had to be confirmed by repeat evaluations, to be performed not fewer than 4 weeks after the response criteria were first met. ORR = CR + PR",
+        "  Time frame: Cycle 1 (Day 1) until first evidence of disease progression, assessed up to the data cutoff date (30 Aug 2013) up to 2.5 years",
+        "Results 1: ",
+        "  Arm/Group Title: Eribulin Mesylate",
+        "  Arm/Group Description: Eribulin mesylate at 1.4 mg/m^2 was administered as an intravenous (IV) infusion over 2 to 5 minutes on Days 1 and 8 of each 3-week cycle.",
+        "  Overall Number of Participants Analyzed: 56",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of participants  28.6"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 17/56 (30.36%)",
+        "  Febrile neutropenia 3/56 (5.36%)",
+        "  Leukopenia 1/56 (1.79%)",
+        "  Neutropenia 3/56 (5.36%)",
+        "  Pericardial effusion 1/56 (1.79%)",
+        "  Supraventricular tachycardia 1/56 (1.79%)",
+        "  Intestinal perforation 1/56 (1.79%)",
+        "  Small intestinal obstruction 1/56 (1.79%)",
+        "  Bronchitis 1/56 (1.79%)",
+        "  Pyelonephritis 1/56 (1.79%)",
+        "  Sepsis 1/56 (1.79%)",
+        "  Urinary tract infection 1/56 (1.79%)"
+    ]
+}

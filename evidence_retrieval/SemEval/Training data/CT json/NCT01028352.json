@@ -1,0 +1,47 @@
+{
+    "Clinical Trial ID": "NCT01028352",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Duloxetine",
+        "  Participants took 30 mg oral capsules once a day for 7 days, then 60 mg per mouth once per day for 21 days. After 4 weeks if pain had decreased, subjects continued 60 mg. per mouth once per day for 4 weeks. If pain had not decreased, subjects took 60 mg twice per day per mouth for 4 weeks. 5 Questionnaires were administered at baseline and every 2 weeks for 8 weeks; medication was tapered at the end of study."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female;",
+        "  Histologically proven stage 0-III invasive carcinoma of the breast that is ER and/or PR positive by immunohistochemical staining, who are receiving a standard dose of aromatase inhibitor (AI) therapy (letrozole 2.5mg once daily or exemestane 25mg once daily or anastrozole 1mg once daily). Women with oligometastatic disease may be included at the discretion of the principal investigator. Surgical resection, chemotherapy, and radiation therapy must have been completed at the time of study enrollment, with the exception of trastuzumab;",
+        "  AI therapy has been ongoing for  2 weeks and treatment is expected to continue;",
+        "  AI-associated musculoskeletal symptoms, defined as:",
+        "  Grade 1 or higher musculoskeletal pain that developed or worsened (6 or 7 on CGICS) during AI therapy or",
+        "  Grade 1 or higher sensory neuropathy that developed or worsened (6 or 7 on CGICS) during AI therapy;",
+        "  Average pain of 4 on the 11-point Likert scale of question #5 of the Brief Pain Inventory;",
+        "  ECOG performance status 0-2;",
+        "  Willing and able to sign an informed consent document.",
+        "Exclusion Criteria:",
+        "  Known hypersensitivity to duloxetine or any of the inactive ingredients;",
+        "  New musculoskeletal pain that is due specifically to fracture or traumatic injury;",
+        "  Treatment with monoamine oxidase inhibitors (MAO-I) within 14 days of enrollment;",
+        "  Concurrent treatment with phenothiazines (including thioridazine), propafenone, flecainide, triptans, MAO-Is, SSRIs, SNRIs, or tricyclic antidepressants;",
+        "  Currently primary psychiatric diagnosis (schizophrenia, psychosis) or suicidal ideation, history of bipolar disorder, or seizure disorder;",
+        "  Chronic liver disease, end stage renal disease, or creatinine clearance < 30 mL/min as defined by the Cockroft-Gault equation;",
+        "  Uncontrolled narrow-angle glaucoma or clinically significant coagulation disorder;",
+        "  Pregnant or breast feeding;",
+        "  History of alcohol or other substance abuse or dependence within the year prior to enrollment;",
+        "  Serious or unstable medical condition that could likely lead to hospitalization during the course of the study or compromise study participation."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Patients Who Experience 30% Reduction in Average Pain Score From Baseline to 8 Weeks Due to Duloxetine Therapy.",
+        "  Subjects were considered evaluable if they met all eligibility criteria and took at least one dose of duloxetine. Average pain was measured using Wisconsin Brief Pain Inventory Questionnaire.(BPI) The BPI is a 17-item patient self-rating scale that assessed sensory & reactive components of pain. The BPI uses 0 to 10 numeric rating scales for item rating.Since pain can be variable,the BPI asks patients to rate pain at completing questionnaire, and also at its worst, least, and average over the previous 24 hours. The primary endpoint is based on the 24-hour avg pain as reported on BPI.",
+        "  Time frame: 8 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Duloxetine",
+        "  Arm/Group Description: Participants took 30 mg oral capsules once a day for 7 days, then 60 mg per mouth once per day for 21 days. After 4 weeks if pain had decreased, subjects continued 60 mg. per mouth once per day for 4 weeks. If pain had not decreased, subjects took 60 mg twice per day per mouth for 4 weeks. 5 Questionnaires were administered at baseline and every 2 weeks for 8 weeks; medication was tapered at the end of study.",
+        "  Overall Number of Participants Analyzed: 29",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  72.4"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/29 (0.00%)"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Clinical Trial ID": "NCT00950742",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Afatinib 20mg + Herceptin",
+        "  Patients received continuous daily dosing with Afatinib 20mg film-coated tablets and once weekly an intravenous infusion of Herceptin until disease progression or lack of clinical benefit. This group includes patients from the dose-escalation cohort and from the expansion cohort.",
+        "INTERVENTION 2: ",
+        "  Afatinib 30mg + Herceptin",
+        "  Patients received continuous daily dosing with Afatinib 30mg film-coated tablets and once weekly an intravenous infusion of Herceptin until disease progression or lack of clinical benefit."
+    ],
+    "Eligibility": [
+        "Inclusion criteria:",
+        "  Female patients aged >18 years.",
+        "  Advanced or metastatic breast cancer that over-expresses HER2 (immunohistochemistry 3+ or 2+ and gene amplification by FISH). Prior treatment with Herceptin\u00ae or Lapatinib\u00ae (in the adjuvant or metastatic settings) is permitted but not required.",
+        "Exclusion criteria:",
+        "  Patients with untreated or symptomatic brain metastases. Prior treatment with EGFR targeting therapies or treatment with EGFR- or HER2 inhibiting drugs within the past four weeks before the start of therapy or concomitantly with this study."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Dose Limiting Toxicities (DLT)",
+        "  Number of participants with DLT in the first cycle (28 days) for the determination of the maximum tolerated dose (MTD). Important Limitations and Caveats are provided in the respective section.",
+        "  Time frame: 28 days",
+        "Results 1: ",
+        "  Arm/Group Title: Afatinib 20mg + Herceptin",
+        "  Arm/Group Description: Patients received continuous daily dosing with Afatinib 20mg film-coated tablets and once weekly an intravenous infusion of Herceptin until disease progression or lack of clinical benefit. This group includes patients from the dose-escalation cohort and from the expansion cohort.",
+        "  Overall Number of Participants Analyzed: 13",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  4",
+        "Results 2: ",
+        "  Arm/Group Title: Afatinib 30mg + Herceptin",
+        "  Arm/Group Description: Patients received continuous daily dosing with Afatinib 30mg film-coated tablets and once weekly an intravenous infusion of Herceptin until disease progression or lack of clinical benefit.",
+        "  Overall Number of Participants Analyzed: 2",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  2"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 3/16 (18.75%)",
+        "  Diarrhoea 1/16 (6.25%)",
+        "  Renal failure acute 1/16 (6.25%)",
+        "  Pulmonary embolism 1/16 (6.25%)",
+        "Adverse Events 2:",
+        "  Total: 0/2 (0.00%)",
+        "  Diarrhoea 0/2 (0.00%)",
+        "  Renal failure acute 0/2 (0.00%)",
+        "  Pulmonary embolism 0/2 (0.00%)"
+    ]
+}

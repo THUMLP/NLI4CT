@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT02019277",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Trastuzumab, Pertuzumab, and Taxane",
+        "  Participants received first-line therapy with pertuzumab administered via IV infusion on Day 1 of first treatment cycle (1 cycle = 21 days) at a loading dose of 840 mg, followed by 420 mg on Day 1 of each subsequent cycle; trastuzumab administered via SC injection at a dose of 600 mg on Day 2 of first treatment cycle, and on Day 1 of each subsequent cycle if both pertuzumab and trastuzumab were well tolerated in Cycle 1; and taxane treatment (docetaxel, paclitaxel, or nabpaclitaxel), administered at the discretion of the investigator, per routine clinical practices and local prescribing instructions. Participants continued study treatment until PD, unacceptable toxicity, or withdrawal of consent. Participants with unacceptable toxicity or PD were switched to standard treatment of the investigator's choice. All participants were followed-up until withdrawal of consent, loss to follow-up, death, or study closure."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  HER2-positive disease, with an immunohistochemistry score of 3+ or in situ hybridization (ISH)-positive on primary tumor or metastatic site",
+        "  Histologically or cytologically confirmed adenocarcinoma of the breast with metastatic disease with at least one measurable lesion and/or non-measurable disease according to RECIST Version 1.1",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 0-2 for participants who will receive paclitaxel or nab-paclitaxel chemotherapy and ECOG 0-1 for participants who will receive docetaxel chemotherapy",
+        "  LVEF of greater than or equal to (>=) 50 percent (%) measured by ECHO or MUGA scan before the first doses of pertuzumab and trastuzumab",
+        "  Previous use of either adjuvant or neoadjuvant anti-HER2 therapy is allowed",
+        "  Hormonal therapy will be allowed as per institutional guidelines. Hormonal therapy cannot be administered in combination with taxane therapy",
+        "Exclusion Criteria:",
+        "  Previous systemic non-hormonal anticancer therapy for treatment of mBC",
+        "  History of other cancers. Participants with curatively treated carcinoma in situ of the cervix or basal cell carcinoma and participants with other curatively-treated cancers who have been disease-free for at least 5 years are eligible. Participants with previous ductal carcinoma in situ (DCIS) of the breast are also eligible for the study",
+        "  Pregnant or breastfeeding women. Positive serum pregnancy test in women of childbearing potential, premenopausal or less than 12 months of amenorrhea post-menopause, within 7 days before the first dose of pertuzumab and trastuzumab",
+        "  Current peripheral neuropathy of Grade 3 or greater (National Cancer Institute Common Terminology Criteria for Adverse Events [NCI CTCAE] Version 4.0)",
+        "  Radiographic evidence of central nervous system (CNS) metastases as assessed by computed tomography (CT) or magnetic resonance imaging (MRI), unless they have been treated and have been stable for at least 3 months and do not require ongoing corticosteroid treatment",
+        "  Participants with other concurrent serious diseases that may interfere with planned treatment, including severe pulmonary conditions/illness",
+        "  Inadequate organ function",
+        "  Serious cardiac illness or medical conditions that would preclude the use of trastuzumab",
+        "  Participants with severe dyspnea at rest or requiring supplementary oxygen therapy",
+        "  Concurrent enrollment in another clinical study using an investigational anti-cancer treatment, within 28 days before the first doses of trastuzumab and pertuzumab"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With Adverse Events (AEs) and Serious AEs",
+        "  An AE was any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. An SAE was an AE resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life-threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly. Percentage of participants with AEs and SAEs was reported. AEs included both SAEs and non-SAEs. The 95% confidence interval (CI) was computed using Clopper-Pearson method.",
+        "  Time frame: Baseline up to 28 days after last study drug administration (up to 36 months)",
+        "Results 1: ",
+        "  Arm/Group Title: Trastuzumab, Pertuzumab, and Taxane",
+        "  Arm/Group Description: Participants received first-line therapy with pertuzumab administered via IV infusion on Day 1 of first treatment cycle (1 cycle = 21 days) at a loading dose of 840 mg, followed by 420 mg on Day 1 of each subsequent cycle; trastuzumab administered via SC injection at a dose of 600 mg on Day 2 of first treatment cycle, and on Day 1 of each subsequent cycle if both pertuzumab and trastuzumab were well tolerated in Cycle 1; and taxane treatment (docetaxel, paclitaxel, or nabpaclitaxel), administered at the discretion of the investigator, per routine clinical practices and local prescribing instructions. Participants continued study treatment until PD, unacceptable toxicity, or withdrawal of consent. Participants with unacceptable toxicity or PD were switched to standard treatment of the investigator's choice. All participants were followed-up until withdrawal of consent, loss to follow-up, death, or study closure.",
+        "  Overall Number of Participants Analyzed: 50",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  AEs: 100.0        (92.9 to 100.0)",
+        "  SAEs: 54.0        (39.3 to 68.2)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 27/50 (54.00%)",
+        "  Febrile neutropenia * 4/50 (8.00%)",
+        "  Anaemia * 1/50 (2.00%)",
+        "  Neutropenia * 1/50 (2.00%)",
+        "  Cardiac failure * 1/50 (2.00%)",
+        "  Diarrhoea * 1/50 (2.00%)",
+        "  Gastritis * 1/50 (2.00%)",
+        "  Nausea * 1/50 (2.00%)",
+        "  Oesophagitis * 1/50 (2.00%)",
+        "  Pyrexia * 7/50 (14.00%)",
+        "  Mucosal inflammation * 1/50 (2.00%)",
+        "  Drug hypersensitivity * 1/50 (2.00%)",
+        "  Cellulitis * 2/50 (4.00%)"
+    ]
+}

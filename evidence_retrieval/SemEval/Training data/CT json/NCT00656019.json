@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT00656019",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Normal Vitamin D Levels",
+        "  No additional Vitamin D administered",
+        "INTERVENTION 2: ",
+        "  Low-normal Vitamin D Levels",
+        "  2000 IU dose of Vitamin D per day administered orally"
+    ],
+    "Eligibility": [
+        "INCLUSION CRITERIA:",
+        "  Undergoing core needle biopsy for a breast abnormality suspicious for breast cancer.",
+        "  Has undergone a core needle biopsy demonstrating breast cancer and has not yet had any further therapy, provided the core needle biopsy is available for analysis.",
+        "  No prior therapy for breast cancer within the past 5 years.",
+        "  18 years of age or older.",
+        "  Ability to understand and the willingness to sign a written informed consent document.",
+        "EXCLUSION CRITERIA:",
+        "  History of parathyroid disease, hypercalcemia, or kidney stones.",
+        "  Supplemental vitamin D other than from a standard multiple vitamin or from standard formulations of calcium and vitamin D (eg, calcium citrate with vitamin D) within the prior 6 months.",
+        "  History of renal failure requiring dialysis or kidney transplantation.",
+        "  Pregnant or nursing",
+        "  Receiving supplemental calcium > 1200 mg calcium per day during study.",
+        "  Initial treatment of breast cancer will not be with breast-conserving surgery or mastectomy.",
+        "  Locally-advanced breast cancer",
+        "  Plans for neoadjuvant chemotherapy, hormonal therapy, or other systemic therapy",
+        "  Plans for preoperative radiation therapy",
+        "  Plans for breast cancer surgery, and does not allow for at least 10 days of vitamin D intervention.",
+        "  Any condition potentially interfering with subjects ability to comply with taking study medication.",
+        "  Any medical condition that would potentially interfere with vitamin D absorption, such as celiac sprue, ulcerative colitis.",
+        "  Current participation in another research study that would increase risk to subject, in the opinion of the investigators"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Correlation of Vitamin D Levels, Prognostic Factors, and Gene Expression Profile in Patients With Breast Cancer",
+        "  Vitamin D levels in serum were correlated to classic prognostic and predictive factors for breast cancer, and the gene expression profile of breast core biopsy specimens. The outcome is reported as the proportion of subjects with a discernible pattern for expression of the set of 40 evaluated genes",
+        "  Time frame: 10 days to 4 weeks post diagnosis.",
+        "Results 1: ",
+        "  Arm/Group Title: Normal Vitamin D Levels",
+        "  Arm/Group Description: No additional Vitamin D administered",
+        "  Overall Number of Participants Analyzed: 15",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  0",
+        "Results 2: ",
+        "  Arm/Group Title: Low-normal Vitamin D Levels",
+        "  Arm/Group Description: 2000 IU dose of Vitamin D per day administered orally",
+        "  Overall Number of Participants Analyzed: 18",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  0"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/29 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/19 (0.00%)"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Clinical Trial ID": "NCT00606931",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  PET Guided Biopsy",
+        "  No comparison group. All enrolled participants were expected to undergo PET guided biopsy."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Individuals aged 25 years or older",
+        "  Individuals who have at least one breast imaging finding requiring biopsy, specifically:",
+        "  Individuals who have a breast abnormality(ies) moderately suspicious for or highly suggestive of malignancy on imaging with mammography, ultrasound, or MRI (as per ACR BIRADS\u2122 4C or 5) and requiring biopsy confirmation OR o Individuals with known breast cancer who have additional imaging abnormality(ies) suspicious for malignancy detected on a high-resolution FDG PET scan",
+        "  Individuals who had recent conventional imaging work-up including x-ray mammography of the breast containing the abnormality of interest.",
+        "  Individuals with suspected tumor size measuring one cm or less on mammography and/or ultrasound and/or MRI if the lesion is visible on any of these modalities, except that each site may enroll up to three patients each where the lesion of interest as measured on mammography (or ultrasound and/or MRI if not detectable on mammography) is more than 1 cm. (Note: The study will target patient enrollment such that at least 50% of the lesions to undergo biopsy across all sites will be less than 1 cm in diameter as measured on mammography, or as measured by other modalities, such as ultrasound, CT, or MRI, if the lesion is not detectable or measurable on mammography.)",
+        "  Individuals who have agreed to participate in the study and who have signed study-specific informed consent",
+        "Exclusion Criteria:",
+        "  Women who are or may be pregnant",
+        "  Women who are currently lactating or discontinued breastfeeding < 2 months prior to the study",
+        "  Age less than 25 years",
+        "  Individuals with breast implant(s) in the breast containing the lesion of interest",
+        "  Individuals who are scheduled for a sentinel node procedure using radioactive Tc-99m within 24 hours of PET-guided biopsy",
+        "  Patients with contraindications for core biopsy and other invasive procedures such as blood coagulation disorders, infection, or who are unwilling to discontinue use of anticoagulant medication prior to the procedure",
+        "  Individuals with Type I or poorly controlled Type II diabetes mellitus",
+        "  Individuals with a blood glucose level that is above 140 mg/dl at the time of PEM imaging",
+        "  Inability to provide informed consent",
+        "  Individuals who have had surgery on the study breast(s) within the past 12 months"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Lesions That Were Successfully Biopsied Using the PET-guided Biopsy Method.",
+        "  Success in completion of the PET guided biopsy of a suspicious lesion was determined by",
+        "  Alteration in lesion morphology (no change in vs change in lesion morphology) after sampling AND/OR",
+        "  Visualization of regions with high radioactive uptake within the biopsy specimen consistent with target lesion (focal uptake present vs absent).",
+        "  Time frame: within two days of obtaining histopathology of the lesion biopsied",
+        "Results 1: ",
+        "  Arm/Group Title: PET Guided Biopsy",
+        "  Arm/Group Description: No comparison group. All enrolled participants were expected to undergo PET guided biopsy.",
+        "  Overall Number of Participants Analyzed: 19",
+        "  Measure Type: Number",
+        "  Unit of Measure: Number of lesions  24"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Clinical Trial ID": "NCT00357110",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Fulvestrant + Anastrozole",
+        "  fulvestrant 500 mg + anastrozole 1 mg",
+        "INTERVENTION 2: ",
+        "  Anastrozole",
+        "anastrozole 1 mg"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Postmenopausal women with hormone receptor-positive early breast cancer and a positive Disseminated Tumour Cell immunocytochemical result from bone marrow aspiration prior to randomisation",
+        "Exclusion Criteria:",
+        "  Inflammatory and/or metastatic breast cancer.",
+        "  Current or previous malignancy within previous 5 years (other than Breast cancer or adequately treated non-melanoma skin cancer or in-situ cervical cancer).",
+        "  History of bleeding diathesis."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Patients Event-free at 12 Months (Where Event = Death (From Any Cause), Disseminated Tumour Cells (DTC) Positive at 12 Months or Clinical Disease Recurrence)",
+        "  Number of patients event-free",
+        "  Time frame: 12 month period following randomisation",
+        "Results 1: ",
+        "  Arm/Group Title: Fulvestrant + Anastrozole",
+        "  Arm/Group Description: fulvestrant 500 mg + anastrozole 1 mg",
+        "  Overall Number of Participants Analyzed: 6",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  6",
+        "Results 2: ",
+        "  Arm/Group Title: Anastrozole",
+        "  Arm/Group Description: anastrozole 1 mg",
+        "  Overall Number of Participants Analyzed: 7",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  7"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/6 (16.67%)",
+        "  Goitre 0/6 (0.00%)",
+        "  Haemorrhoid Operation 0/6 (0.00%)",
+        "  Sciatica 0/6 (0.00%)",
+        "  Renal Failure 0/6 (0.00%)",
+        "  Varicose Vein 1/6 (16.67%)",
+        "Adverse Events 2:",
+        "  Total: 2/7 (28.57%)",
+        "  Goitre 1/7 (14.29%)",
+        "  Haemorrhoid Operation 1/7 (14.29%)",
+        "  Sciatica 1/7 (14.29%)",
+        "  Renal Failure 1/7 (14.29%)",
+        "  Varicose Vein 0/7 (0.00%)"
+    ]
+}

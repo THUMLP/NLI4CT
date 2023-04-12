@@ -1,0 +1,41 @@
+{
+    "Clinical Trial ID": "NCT03210220",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Pecs Group",
+        "  Ultrasound guided pectoral nerve block is performed right after induction, before surgery. The needle is advanced to the tissue plane between the pectoralis major and pectoralis minor muscle at the vicinity of the pectoral branch of the acromiothoracic artery, and 10 mL of 0.5% ropivacaine deposited. In a similar manner, 20 mL is deposited at the level of the third rib between the pectoralis minor muscle and the serratus anterior muscle .",
+        "INTERVENTION 2: ",
+        "  Control Group",
+        "There is no block."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  American Society of Anesthesiologists( ASA) I or II Scheduled for breast cancer surgery",
+        "Exclusion Criteria:",
+        "  Sensitivity to local anesthetic, Bleeding disorders , Receiving anticoagulant, Body mass index (BMI) > 35/kg/m2 , Spine or chest wall deformity , Pregnancy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Intraoperative Remifentanil Consumption",
+        "  Intraoperative remifentanil consumption during surgery(whole intraoperative period)",
+        "  Time frame: whole intraoperative period",
+        "Results 1: ",
+        "  Arm/Group Title: Pecs Group",
+        "  Arm/Group Description: Ultrasound guided pectoral nerve block is performed right after induction, before surgery. The needle is advanced to the tissue plane between the pectoralis major and pectoralis minor muscle at the vicinity of the pectoral branch of the acromiothoracic artery, and 10 mL of 0.5% ropivacaine deposited. In a similar manner, 20 mL is deposited at the level of the third rib between the pectoralis minor muscle and the serratus anterior muscle .",
+        "  Overall Number of Participants Analyzed: 19",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: \u03bcg/kg/h  6.75         (2.18)",
+        "Results 2: ",
+        "  Arm/Group Title: Control Group",
+        "  Arm/Group Description: There is no block.",
+        "  Overall Number of Participants Analyzed: 20",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: \u03bcg/kg/h  10.12         (3.68)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/19 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/20 (0.00%)"
+    ]
+}

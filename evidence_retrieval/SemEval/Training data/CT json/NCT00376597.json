@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT00376597",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Arm I (Lymphedema Education)",
+        "  Six weeks after surgery, patients receive a brief initial post-operative care session describing lymphedema risk and prevention through oral instruction and written materials. Patients complete physical assessments and questionnaires at 6 weeks and at 6, 12, and 18 months. Patients are also contacted by telephone at 9 and 15 months.",
+        "INTERVENTION 2: ",
+        "  Arm II (Lymphedema Education, Physical Therapy)",
+        "  Patients receive lymphedema education and complete physical assessments and questionnaires as in Arm I. Patients also complete a personalized physical therapy intervention, receive a refrigerator magnet, and a 15-minute video that reinforces information and exercises."
+    ],
+    "Eligibility": [
+        "Eligibility Criteria:",
+        "  Newly diagnosed with stage I-III cancer of the female breast",
+        "  No prior history of carcinoma in situ, lobular carcinoma in situ (LCIS), ductal carcinoma in situ (DCIS), or invasive breast cancer",
+        "  * Patients with a history of other invasive malignancies are eligible as long as they have completed treatment and are 5 years post-diagnosis; patients with basal cell and squamous cell cancer of the skin are eligible",
+        "  Neoadjuvant therapy",
+        "  Patients scheduled to receive any type of radiation therapy to the breast or axilla are eligible; however, they must be registered to this study with pre-surgery measures taken prior to receiving neoadjuvant therapy",
+        "  Patients scheduled to receive neoadjuvant chemotherapy are also eligible; however, they must be registered to this study with pre-surgery measurements taken prior to receiving neoadjuvant therapy",
+        "  Patients receiving no neoadjuvant therapy are eligible",
+        "  May be enrolled on other treatment trials; however, patients enrolled on surgery trials where only one treatment arm is full axillary node dissection are not eligible; NOTE: Patients enrolled on American College of Surgeons Oncology Group (ACOSOG)-Z1071 are eligible to participate in this study; patients concurrently enrolled on this study and ACOSOG-Z1071, may not also be enrolled on the ACOSOG-Z1071 lymphedema sub-study",
+        "  No documented cardiac conduction disturbances, unstable angina, dementia, or any other chronic disease which, in the opinion of the treating physician, significantly increases mortality over the next 2 years",
+        "  No diagnosed lymphedema",
+        "  In order to be properly fitted for the elastic sleeve, eligible patients must have arm measurements for axilla, elbow, and wrist that fall within the ranges for one of the six sleeve sizes",
+        "  Not currently homebound or dependent upon a walker or wheelchair for mobility",
+        "  Able to participate in a mild exercise program",
+        "  Willing to return to the study site for the duration of the study (18 months)",
+        "  Sentinel (SND) or full axillary node dissection (AND) (no minimum number of nodes required)",
+        "  Patients with double mastectomy, axillary node dissection and/or radiation on both arms are ineligible; patients who undergo these treatments (i.e., surgery and/or radiation) on the contralateral arm after registration to Step 2 are still eligible to remain in the study; however, it should be documented appropriately on form C-1628 at the conclusion of study participation"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants Who Were Lymphedema-free 18 Months After Randomization",
+        "  To test, in a group randomized controlled trial, the efficacy of this program versus education only in reducing the incidence of lymphedema. Reported here is the proportion of patients who are lymphedema-free 18 months after randomization between the two arms",
+        "  Time frame: 18 months",
+        "Results 1: ",
+        "  Arm/Group Title: Arm I (Lymphedema Education)",
+        "  Arm/Group Description: Six weeks after surgery, patients receive a brief initial post-operative care session describing lymphedema risk and prevention through oral instruction and written materials. Patients complete physical assessments and questionnaires at 6 weeks and at 6, 12, and 18 months. Patients are also contacted by telephone at 9 and 15 months.",
+        "  Overall Number of Participants Analyzed: 242",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  114  47.1%",
+        "Results 2: ",
+        "  Arm/Group Title: Arm II (Lymphedema Education, Physical Therapy)",
+        "  Arm/Group Description: Patients receive lymphedema education and complete physical assessments and questionnaires as in Arm I. Patients also complete a personalized physical therapy intervention, receive a refrigerator magnet, and a 15-minute video that reinforces information and exercises.",
+        "  Overall Number of Participants Analyzed: 312",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  135  43.3%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/0",
+        "Adverse Events 2:",
+        "  Total: 0/0"
+    ]
+}

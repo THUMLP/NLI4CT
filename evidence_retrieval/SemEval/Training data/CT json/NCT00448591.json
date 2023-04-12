@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT00448591",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Bevacizumab",
+        "  Participants received bevacizumab 15 mg/kg iv on Day 1 of each 3 week cycle, or 10 mg/kg iv on Day 1 of each 2 week cycle (weekly equivalent dose of 5 mg/kg/week) along with Taxane-based chemotherapy as prescribed"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  patients, >=18 years of age;",
+        "  HER-2 negative adenocarcinoma of the breast, with locally recurrent or metastatic disease; (HER-2 positive patients only if previously treated with Herceptin in the adjuvant setting;",
+        "  candidates for chemotherapy.",
+        "Exclusion Criteria:",
+        "  previous chemotherapy for metastatic or locally recurrent breast cancer;",
+        "  concomitant hormonal therapy for metastatic or locally recurrent disease;",
+        "  concomitant Herceptin therapy for treatment of metastatic or locally recurrent HER-2 positive disease;",
+        "  previous radiotherapy for treatment of metastatic disease;",
+        "  evidence of CNS metastases."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With Adverse Events (AEs) and Serious AEs (SAEs) Related to Bevacizumab, Death, and AEs of Special Interest (AESIs)",
+        "  Adverse events (including laboratory abnormalities) were assessed by the investigator according to the National Cancer Institute - Common Toxicity Criteria (NCI-CTC) grading systems.",
+        "  Time frame: Day 1 of Cycles 1, 2, 3, 4, 5, and 6 up to 6 months after the last bevacizumab infusion",
+        "Results 1: ",
+        "  Arm/Group Title: Bevacizumab",
+        "  Arm/Group Description: Participants received bevacizumab 15 mg/kg iv on Day 1 of each 3 week cycle, or 10 mg/kg iv on Day 1 of each 2 week cycle (weekly equivalent dose of 5 mg/kg/week) along with Taxane-based chemotherapy as prescribed",
+        "  Overall Number of Participants Analyzed: 2264",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  Any AE: 95.4",
+        "  CTC grade 3, 4 or 5 AE: 57.6",
+        "  Bevacizumab-related AE: 64.2",
+        "  Any Serious AE: 29.7",
+        "  Bevacizumab-related serious SAE: 7.6",
+        "  All deaths: 53.1",
+        "AESIs: 71.8"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 672/2264 (29.68%)",
+        "  Febrile neutropenia * 117/2264 (5.17%)",
+        "  Neutropenia * 98/2264 (4.33%)",
+        "  Febrile bone marrow aplasia * 14/2264 (0.62%)",
+        "  Anaemia * 8/2264 (0.35%)",
+        "  Leukopenia * 8/2264 (0.35%)",
+        "  Thrombocytopenia * 6/2264 (0.27%)",
+        "  Disseminated intravascular coagulation * 3/2264 (0.13%)",
+        "  Agranulocytosis * 1/2264 (0.04%)",
+        "  Bone marrow failure * 1/2264 (0.04%)"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT00193206",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Intervention",
+        "  Systemic Therapy",
+        "  ABI-007 : ABI-007 175 mg/m2 D1 q 14 days x 6 cycles",
+        "  Epirubicin : Epirubicin 50 mg/m2 D1 q 14 days x 6 cycles",
+        "  Gemcitabine : Gemcitabine 2000 mg/m2 IV D1 q 14 days x 6 cycles"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  To be included in this study, you must meet the following criteria:",
+        "  Locally advanced/inflammatory adenocarcinoma of the breast",
+        "  18 years of age or older",
+        "  Normal heart function",
+        "  Able to perform activities of daily living with minimal assistance",
+        "  No prior chemotherapy for breast cancer",
+        "  Adequate bone marrow, liver and kidney function",
+        "  No evidence or history of significant cardiovascular abnormalities",
+        "  Sentinel node or axillary dissection",
+        "  Sign an informed consent form",
+        "Exclusion Criteria:",
+        "  You cannot participate in this study if any of the following apply to you:",
+        "  Pregnant or breast feeding",
+        "  History of heart disease with congestive heart failure",
+        "  Heart attack within the previous 6 months",
+        "  Prior chemotherapy or hormone therapy for breast cancer",
+        "  History of active uncontrolled infection",
+        "  Please note: There are additional inclusion/exclusion criteria. The study center will determine if you meet all of the criteria. If you do not qualify for the trial, study personnel will explain the reasons. If you do qualify, study personnel will explain the trial in detail and answer any questions you may have."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Pathologic Complete Response",
+        "  For the purpose of this study, a pathologic complete response (pCR) was defined as no evidence of residual invasive tumor in the breast (pT0) and axillary lymph nodes (pN0), gross or microscopic, in the sample removed at the time of surgical resection. Residual ductal or lobular carcinoma in situ was not considered in pCR assessments. Percentage of participants who experienced pCR is reported.",
+        "  Time frame: 18 months",
+        "Results 1: ",
+        "  Arm/Group Title: Intervention",
+        "  Arm/Group Description: Systemic Therapy",
+        "  ABI-007 : ABI-007 175 mg/m2 D1 q 14 days x 6 cycles",
+        "  Epirubicin : Epirubicin 50 mg/m2 D1 q 14 days x 6 cycles",
+        "  Gemcitabine : Gemcitabine 2000 mg/m2 IV D1 q 14 days x 6 cycles",
+        "  Overall Number of Participants Analyzed: 116",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  23  19.8%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 22/123 (17.89%)",
+        "  Cardiac Ischemia/Infarction  [1]1/123 (0.81%)",
+        "  Pain - Chest 2/123 (1.63%)",
+        "  Dehydration 2/123 (1.63%)",
+        "  Death  [2]1/123 (0.81%)",
+        "  Weakness 1/123 (0.81%)",
+        "  Pain - Liver 1/123 (0.81%)",
+        "  Infection - Skin  [3]3/123 (2.44%)",
+        "  Infection - Gastrointestinal  [4]1/123 (0.81%)",
+        "  Infection - Vein  [5]2/123 (1.63%)",
+        "  Infection - Pneumonia 1/123 (0.81%)"
+    ]
+}

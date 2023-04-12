@@ -1,0 +1,41 @@
+{
+    "Clinical Trial ID": "NCT01289353",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  ChemoRT",
+        "  Concurrent Carboplatin and Radiotherapy",
+        "  Carboplatin: IV, weekly for 6 weeks, AUC of 2.0",
+        "  3D-RT or IMRT: From week 2 to week 4 in the 6-week Carboplatin treatment: Whole Breast 3D-RT or IMRT at 2.7 Gy X 15 fractions (5 times/wk x 3 wks=40.50 Gy), then the second and third Friday, 3 Gy to the tumor bed only X 2 fractions, Total dose to tumor bed = 46.5 Gy"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Age older than 18",
+        "  Pre- or post-menopausal women with Stage I and II breast cancer, triple negative tumors",
+        "  Biopsy-proven invasive breast cancer, excised with negative margins of at least 1 mm",
+        "  Status post segmental mastectomy, after sentinel node biopsy and/or axillary node dissection (Tumors < 5 mm in size do not require nodal assessment) or after mastectomy",
+        "  No previous chemotherapy",
+        "  Patient needs to be able to understand and demonstrate willingness to sign a written informed consent document",
+        "Exclusion Criteria:",
+        "  Previous radiation therapy to the ipsilateral breast",
+        "  Active connective tissue disorders, such as lupus or scleroderma",
+        "  Pregnant or lactating women"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Patients Who Developed Grade 2-3 Acute Radiation Dermatitis Within 60 Days Post-RT",
+        "  [Not Specified]",
+        "  Time frame: 60 days post-RT",
+        "Results 1: ",
+        "  Arm/Group Title: ChemoRT",
+        "  Arm/Group Description: Concurrent Carboplatin and Radiotherapy",
+        "  Carboplatin: IV, weekly for 6 weeks, AUC of 2.0",
+        "  3D-RT or IMRT: From week 2 to week 4 in the 6-week Carboplatin treatment: Whole Breast 3D-RT or IMRT at 2.7 Gy X 15 fractions (5 times/wk x 3 wks=40.50 Gy), then the second and third Friday, 3 Gy to the tumor bed only X 2 fractions, Total dose to tumor bed = 46.5 Gy",
+        "  Overall Number of Participants Analyzed: 90",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  8   8.9%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/90 (0.00%)"
+    ]
+}

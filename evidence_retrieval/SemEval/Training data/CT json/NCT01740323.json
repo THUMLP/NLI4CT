@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT01740323",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Placebo",
+        "  Placebo",
+        "  Placebo: daily placebo for 6 weeks",
+        "INTERVENTION 2: ",
+        "  Curcumin",
+        "  500 mg BID",
+        "  Curcumin: 500 mg BID"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female breast cancer patients over the age of 18 will be recruited for this study. Patients enrolled in the study will meet standard criteria for whole breast XRT.",
+        "Exclusion Criteria:",
+        "  Subjects will be excluded for a number of medical conditions that are contraindications to XRT and/or might confound the relationship among fatigue, and inflammation, including pregnancy, major psychiatric disorders, autoimmune or inflammatory disorders, chronic infectious diseases (e.g. HIV, hepatitis B or C), neurologic disorders and uncontrolled cardiovascular, metabolic, pulmonary or renal disease (as determined by medical history, physical examination and laboratory testing). Subjects with a history of a major psychiatric disorder including Schizophrenia or Bipolar Disorder or a diagnosis of Substance Abuse or Dependence within the past 1 year (as determined by standardized psychiatric interview) will be excluded. Subjects taking drugs known to affect the immune system (e.g. glucocorticoids, methotrexate) will also be excluded. Subjects using supplements or other natural products with one week of starting medications, excluding vitamins and calcium supplementation or at the discretion of the attending physician, will be excluded. Patients who have evidence of infection as determined by history, physical exam or laboratory testing (complete blood count and urinalysis) at baseline will be excluded. In addition, patients who develop evidence of infection (as determined by history, physical exam or laboratory testing) during the study will be discontinued from the study."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  PBMC NF-kB DNA Binding Measured in ng/Well",
+        "  The primary outcome to be measured will be the change in NF-kB DNA binding (measured in peripheral blood mononuclear cells as ng/well) after six weeks of treatment with daily placebo or Meriva. NF-kB DNA binding and has been associated with fatigue in breast cancer patients.",
+        "  Time frame: Baseline, 6 weeks following completion of XRT",
+        "Results 1: ",
+        "  Arm/Group Title: Placebo",
+        "  Arm/Group Description: Placebo",
+        "  Placebo: daily placebo for 6 weeks",
+        "  Overall Number of Participants Analyzed: 13",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: ng/well  Baseline: 9.01         (14.70)",
+        "  6 weeks post-treatment: 17.54         (9.24)",
+        "Results 2: ",
+        "  Arm/Group Title: Curcumin",
+        "  Arm/Group Description: 500 mg BID",
+        "  Curcumin: 500 mg BID",
+        "  Overall Number of Participants Analyzed: 15",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: ng/well  Baseline: 9.56         (5.63)",
+        "  6 weeks post-treatment: 16.04         (16.13)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/15 (0.00%)",
+        "  Chest Pain *0/15 (0.00%)",
+        "  Motor vehicle accident *0/15 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 2/15 (13.33%)",
+        "  Chest Pain *1/15 (6.67%)",
+        "  Motor vehicle accident *1/15 (6.67%)"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT01565499",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Nab-Paclitaxel",
+        "  The patients will be included to receive 3 weekly nab-paclitaxel doses of 150 mg/m2 with one week of rest for 4 cycles.",
+        "Nab-paclitaxel"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female patients with histologically confirmed diagnosis of primary unilateral invasive early breast cancer with longest tumor size in breast  2cm, or < 2 cm with axillary involvement. In case of a multifocal tumor (tumor foci located in the same quadrant) the largest lesion must be  2cm (unless axillary involvement) and is designated as the \"target\" lesion for all subsequent tumor evaluations.",
+        "  The breast tumors must be ER positive: more than 1% of stained tumor cells by immuno-histochemistry (IHC), and HER2 negative: 0, or 1+ score by IHC, or 2+ with fluorescence in situ hybridization (FISH)/chromogenic in situ hybridization (CISH) negative for HER2 amplification (defined as a ratio of HER2/neu copies to chromosome 17 centromere (CEP17) signals <1.8), according to the local laboratory).",
+        "  Are clear candidates to receive chemotherapy by the investigator criteria.",
+        "  Are at least 18 years of age.",
+        "  Have at least one unidimensionally measurable lesion by RECIST [65] version 1.1, measured by mammogram.",
+        "  Have adequate performance status: Eastern Cooperative Oncology Group (ECOG) <2",
+        "  Have adequate renal and liver function and bone marrow reserve as follows:",
+        "  Bone marrow: absolute neutrophil count (ANC) > or = 1.500/mm3 (1.5 x 109/L); platelet count > or = 100.000/mm3 (100.0 x 109/L); and hemoglobin > or = 9 g/dL.",
+        "  Hepatic: bilirubin < or = 1.5 times the upper limit of normal (x ULN); alkaline phosphatase (ALP), aspartate transaminase (AST), and alanine transaminase (ALT) < or = 2.5 * ULN and Albumin  2.5 g/dL.",
+        "  Renal: serum creatinine < 1.5 x ULN.",
+        "  Exhibit patient compliance and geographic proximity that allow for adequate follow-up",
+        "  Entry informed consent form signed by the patient.",
+        "Exclusion Criteria:",
+        "  Inflammatory breast cancer (T4d) and supraclavicular lymph nodes (N3)",
+        "  Synchronous contralateral or multicentric breast cancer.",
+        "  Clinical or radiologic evidence of metastatic disease. Chest examination by x-ray or CT-scan, abdominal examination by CT-scan, bone examination by bone scan as well as other radiological methods in case of suspicion must be performed before enrollment in order to rule out metastasis.",
+        "  Second primary malignancy, except adequately treated carcinoma in situ of the cervix, stage I colon cancer, non-invasive melanoma, basal or squamous cell carcinomas of the skin, ipsilateral ductal carcinoma in-situ (DCIS) of the breast and lobular carcinoma in-situ (LCIS) of the breast; unless that prior malignancy was diagnosed and definitively treated more than 5 years ago with no subsequent evidence of recurrence.",
+        "  Prior or concurrent anti-cancer therapy for current disease (hormone therapy, chemotherapy, radiotherapy, immunotherapy, biological therapy other than the trial therapies).",
+        "  Concurrent treatment with any hormonal treatment either for osteoporosis or as replacement therapy.",
+        "  Patients with known hypersensitivity to nab-paclitaxel or any of its components.",
+        "  Previous neuropathy grade >1 according to the NCI-CTCAE vs 4.03 criteria",
+        "  Have received treatment within the last 4 weeks with a drug that has not received regulatory approval for any indication at the time of study entry.",
+        "  Have any serious concomitant systemic disorder incompatible with the study (at the discretion of investigator).",
+        "  Patient is pregnant or breast feeding or planning to become pregnant within the six months after the end of treatment. Women with child-bearing potential must be performed a pregnancy serum or urine testing within 7 days prior to study entry according to institutional standards and should use an adequate non-hormonal contraceptive method (intra-uterine contraceptive device, barrier method of contraception in conjunction with spermicidal jelly or surgically sterilized) during treatment with study drugs and within the six months after the end of treatment."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  The Residual Cancer Burden Grade III (RCB-III).",
+        "  The RCB-III was reported, including a 95% confidence interval. The estimate of the RCB-III was calculated as follows:",
+        "  Overall Response Rate = Number of patients with RCB-III / Intent to treat (ITT) population",
+        "  Time frame: After surgery, up to 4 months",
+        "Results 1: ",
+        "  Arm/Group Title: Nab-Paclitaxel",
+        "  Arm/Group Description: The patients will be included to receive 3 weekly nab-paclitaxel doses of 150 mg/m2 with one week of rest for 4 cycles.",
+        "  Nab-paclitaxel",
+        "  Overall Number of Participants Analyzed: 81",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  RCB III: Extensive residual disease (>3.28): 23  28.4%",
+        "  RCB II: Moderate residual disease (1.36-3.28): 37  45.7%",
+        "  RCB I: Minimal residual disease (>0-1.36): 14  17.3%",
+        "  RCB 0: No residual disease (0): 6   7.4%",
+        "Unknown: 1   1.2%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 6/81 (7.41%)",
+        "  Colitis  [1]1/81 (1.23%)",
+        "  Multiple Sclerosis Relapse 1/81 (1.23%)",
+        "  Neurotoxicity  [2]2/81 (2.47%)",
+        "  Community-acquired pneumonia 1/81 (1.23%)",
+        "  Local Infection Reservoir Area 1/81 (1.23%)"
+    ]
+}

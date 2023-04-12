@@ -1,0 +1,52 @@
+{
+    "Clinical Trial ID": "NCT02187783",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Ribociclib 600 mg",
+        "  LEE011 600 mg (hard gelatin capsules) was administered orally once daily for 3 weeks on/1 week off. A complete treatment cycle was defined as 28 days."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patient had a confirmed diagnosis of a select solid tumor (except breast cancer (however, triple negative was included), liposarcoma, CRPC, melanoma and teratoma) or hematological malignancy (except mantle cell lymphoma).",
+        "  Patient must have been pre-identified as having a tumor with CDK4 amplification or mutation, CDK6 amplification or mutation, Cyclin D1 (CCND1) amplification, Cyclin D3 (CCND3) amplification, or p16 (CDKN2A) mutation",
+        "  Patient had received at least one prior treatment for recurrent, metastatic and /or locally advanced disease and for whom no standard therapy options are anticipated to result in a durable remission.",
+        "  Patient had progressive and measurable disease as per RECIST 1.1. or other appropriate hematological guidelines.",
+        "  Patient had an Eastern Cooperative Oncology Group (ECOG) performance status  1",
+        "Exclusion Criteria:",
+        "  Patients had received prior treatment with LEE011.",
+        "  Patient had clinically significant resting bradycardia (heart rate < 50 at rest), tachycardia (heart rate > 90 at rest), PR interval > 220 msec, QRS interval > 109 msec, or QTcF > 450 msec.",
+        "  Patients had primary CNS tumor or CNS tumor involvement",
+        "  Patient had received chemotherapy or anticancer therapy  4 weeks prior to starting study drug"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Solid Tumor Response  16 Weeks for Based Upon Local Investigator Assessments",
+        "  Clinical benefit (CB) for patients with solid tumors were assessed using RECIST 1.1 and included responses of Complete Response (CR) or Partial Response (PR) or Stable Disease (SD) for  16 weeks. CR and PR (for solid tumors) required a confirmation at least 4 weeks after the initial response observation. For hematologic tumors other appropriate hematological response criteria was applied. CR=Disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have had reduction in short axis to <10 mm, PR=At least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters, SD=Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum diameters while on study, PD=At least a 20% increase in the sum of diameter of all measured target lesions and also demonstrate an absolute increase of at least 5 mm. FAS",
+        "  Time frame: Baseline up 16 weeks up to approximately 36 months",
+        "Results 1: ",
+        "  Arm/Group Title: Ribociclib 600 mg",
+        "  Arm/Group Description: LEE011 600 mg (hard gelatin capsules) was administered orally once daily for 3 weeks on/1 week off. A complete treatment cycle was defined as 28 days.",
+        "  Overall Number of Participants Analyzed: 105",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Complete response: 0   0.0%",
+        "  Partial response (PR): 3   2.9%",
+        "  Stable disease (SD): 16  15.2%",
+        "  Progressive disease (PD): 71  67.6%",
+        "Non-evaluable (NE): 15  14.3%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 40/106 (37.74%)",
+        "  Anaemia 1/106 (0.94%)",
+        "  Febrile neutropenia 1/106 (0.94%)",
+        "  Thrombocytopenia 1/106 (0.94%)",
+        "  Atrial fibrillation 1/106 (0.94%)",
+        "  Cardio-respiratory arrest 1/106 (0.94%)",
+        "  Palpitations 1/106 (0.94%)",
+        "  Pericardial effusion 2/106 (1.89%)",
+        "  Abdominal pain 2/106 (1.89%)",
+        "  Abdominal pain upper 1/106 (0.94%)",
+        "  Ascites 1/106 (0.94%)",
+        "  Constipation 1/106 (0.94%)"
+    ]
+}

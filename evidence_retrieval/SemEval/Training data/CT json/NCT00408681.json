@@ -1,0 +1,45 @@
+{
+    "Clinical Trial ID": "NCT00408681",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Treated Patients",
+        "  Patients received oral lithium carbonate once or twice daily. Treatment continued for up to 8 weeks in the absence of disease progression or unacceptable toxicity."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patient with a diagnosis of severe intestinal GVHD that is not improving at any time after initial treatment with glucocorticoids for at least 7 days are eligible for enrollment; measures indicating severity of GVHD will include: a) persistent diarrhea with average daily stool volumes > 500 mL per day; or b) persistent hemorrhage that is detectable by visual inspection of the stool",
+        "  Patients with denuded mucosa caused by GVHD are eligible for enrollment, regardless of prior treatment for acute GVHD; denuded mucosa is defined as loss (i.e., erosion or sloughing) of the epithelium in: a) at least one-third of the surface area in a 30 cm colonic segment (i.e., rectosigmoid, descending or transverse colon); or b) at least one fifth of the surface area of the second portion of the duodenum, as estimated by endoscopic evaluation; denuded mucosa must be documented by images of the duodenum and colon and by histologic evaluation of the colon",
+        "  All subjects must provide written informed consent with the use of forms approved by the Fred Hutchinson Cancer Research Center (FHCRC) Institutional Review Board (IRB)",
+        "Exclusion Criteria:",
+        "  Significant renal dysfunction (estimated creatinine clearance < 30 mL/min)",
+        "  Persistent or recurrent malignancy",
+        "  Secondary malignancy",
+        "  Patients who had autologous or syngeneic marrow transplantation",
+        "  Presence of any cause of intestinal symptoms or ulceration other than GVHD",
+        "  Patients with any psychological, familial, sociological or geographical condition potentially hampering compliance with the study protocol will be excluded"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Functional Recovery",
+        "  Functional recovery was defined as partial or complete resolution of gastrointestinal manifestations of acute graft-versus-host disease. Gastrointestinal manifestations of acute graft-versus-host disease include anorexia, nausea, vomiting, diarrhea, abdominal pain and bleeding. Complete response (CR) of intestinal GVHD was defined as the absence of any symptoms referable to intestinal GVHD. Partial response (PR) was defined as clearing of abdominal pain (or withdrawal of opioid analgesic requirements in patients treated for abdominal pain) and of grossly visible bleeding if present, and resolution of diarrhea or decrease in the three day average stool volume by  500 mL in patients with stool volumes of  500 mL. Progression of GVHD was defined as an increase in the three day average stool volume by > 500 mL, or the development of new abdominal pain (or new opioid analgesic requirements) or new intestinal bleeding.",
+        "  Time frame: at 28 days after starting treatment with the study product",
+        "Results 1: ",
+        "  Arm/Group Title: Treated Patients",
+        "  Arm/Group Description: Patients received oral lithium carbonate once or twice daily. Treatment continued for up to 8 weeks in the absence of disease progression or unacceptable toxicity.",
+        "  Overall Number of Participants Analyzed: 20",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Complete clinical response: 10  50.0%",
+        "  Partial clinical response: 1   5.0%",
+        "  No response or clinical progression: 6  30.0%",
+        "  Death before day 28: 3  15.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 12/20 (60.00%)",
+        "  Recurrent malignancy *1/20 (5.00%)",
+        "  Graft-versus-host disease *7/20 (35.00%)",
+        "  Infection *7/20 (35.00%)",
+        "  Altered mental status *2/20 (10.00%)",
+        "  Diffuse alveolar hemorrhage *1/20 (5.00%)"
+    ]
+}

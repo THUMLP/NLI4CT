@@ -1,0 +1,48 @@
+{
+    "Clinical Trial ID": "NCT03765996",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Decongestive Physiotherapy",
+        "  This group received Complex Decongestive Physiotherapy.",
+        "  Decongestive Physiotherapy: This group received CDP, which include MLD, short-stretch bandages, lymph-reducing exercises, and skin care. MLD was applied to the anterior trunk, posterior trunk, and the base of the neck, progressing to the affected limb. Short-stretch bandages were applied in multiple layers after MLD. A low pH skin lotion was applied prior to bandaging and then stockinette was placed on the arm. The fingers and the hand were wrapped in gauze. A layer of cotton was wrapped around the arm. Bandages (6, 8 and/or 10cm) were sequentially applied in a spiral fashion around the limb with the smallest bandage starting at the hand. The most compression was at the most distal points and gradually decreased proximally. Exercises were done by patients to improve mobility and enhance lymphatic flow.",
+        "INTERVENTION 2: ",
+        "  Decongestive Physiotherapy Plus Taping",
+        "  This group received Complex Decongestive Physiotherapy, and also applying taping to anastomosis regions.",
+        "  Decongestive Physiotherapy plus taping: This group received CDP as same protocol of active comparator. In addition, taping was applied to anterior and posterior axillo-axillary anastomosis and axillo-inguinal anastomosis. The tape was started on the unaffected side and strips of tape were applied so as to reach the affected side regarding anterior and posterior axillo-axillary anastomosis. For axillo-inguinal anastomosis, the tape was started in the inguinal region of the affected side and strips of tape were applied so that they reached the axillary region."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients who had unilateral BCRL and women aged over 18 who were 'significant', 'marked', or 'severe' lymphoedema.",
+        "Exclusion Criteria:",
+        "  Patients with paralysis on part of the affected arm,",
+        "  Patients who had undergone CDP more than once within six months,",
+        "  Patients who had an active infection,",
+        "  Patients who had a skin disease."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change of the Limb Volume, (Last Value of the Follow-up - Baseline Value)",
+        "  Limb size was quantified by using circumferential limb measurements. Measurements were taken with patients in a prone position and the arm abducted at 30\u00b0. The circumference was measured every 5cm, starting at the ulnar styloid and continuing 45cm proximally for both limbs. Limb volume was calculated for each segment by using the frustum formula. Frustum formula is a mathematical method for calculating limb volume based on the circumference measures, and this formula gives the result in milliliters. Limb measuring was carried out at the beginning of and after treatment (twenty sessions).",
+        "  Time frame: At baseline and at 4 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Decongestive Physiotherapy",
+        "  Arm/Group Description: This group received Complex Decongestive Physiotherapy.",
+        "  Decongestive Physiotherapy: This group received CDP, which include MLD, short-stretch bandages, lymph-reducing exercises, and skin care. MLD was applied to the anterior trunk, posterior trunk, and the base of the neck, progressing to the affected limb. Short-stretch bandages were applied in multiple layers after MLD. A low pH skin lotion was applied prior to bandaging and then stockinette was placed on the arm. The fingers and the hand were wrapped in gauze. A layer of cotton was wrapped around the arm. Bandages (6, 8 and/or 10cm) were sequentially applied in a spiral fashion around the limb with the smallest bandage starting at the hand. The most compression was at the most distal points and gradually decreased proximally. Exercises were done by patients to improve mobility and enhance lymphatic flow.",
+        "  Overall Number of Participants Analyzed: 14",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: milliliter  160.01        (81.50 to 650.56)",
+        "Results 2: ",
+        "  Arm/Group Title: Decongestive Physiotherapy Plus Taping",
+        "  Arm/Group Description: This group received Complex Decongestive Physiotherapy, and also applying taping to anastomosis regions.",
+        "  Decongestive Physiotherapy plus taping: This group received CDP as same protocol of active comparator. In addition, taping was applied to anterior and posterior axillo-axillary anastomosis and axillo-inguinal anastomosis. The tape was started on the unaffected side and strips of tape were applied so as to reach the affected side regarding anterior and posterior axillo-axillary anastomosis. For axillo-inguinal anastomosis, the tape was started in the inguinal region of the affected side and strips of tape were applied so that they reached the axillary region.",
+        "  Overall Number of Participants Analyzed: 18",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: milliliter  148.28        (52.29 to 552.85)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/18 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/18 (0.00%)"
+    ]
+}

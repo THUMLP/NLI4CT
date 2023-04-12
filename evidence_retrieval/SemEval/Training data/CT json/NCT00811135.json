@@ -1,0 +1,49 @@
+{
+    "Clinical Trial ID": "NCT00811135",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Trastuzumab + Bevacizumab + Capecitabine",
+        "  Participants received IV trastuzumab (8 mg/kg) for first cycle and then 6 mg/kg for subsequent cycles followed by bevacizumab (15 mg/kg) on Day 1 of each treatment cycles along with capecitabine administered orally to participants at a dose of 1000 mg/m^2 BID on Days 1 to 14 of each treatment cycle until disease progression, unmanageable toxicity or participant request for discontinuation. Treatment cycles were of 3 weeks."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  adult patients, >=18 years of age;",
+        "  breast cancer with measurable locally recurrent or metastatic lesions;",
+        "  candidate for chemotherapy;",
+        "  HER2-positive disease;",
+        "  ECOG PS of <=2.",
+        "Exclusion Criteria:",
+        "  previous anticancer therapy for metastatic breast cancer;",
+        "  previous radiotherapy for metastatic breast cancer (except for adjuvant radiotherapy >=6 months before enrollment);",
+        "  chronic daily treatment with corticosteroids (>=10mg/day), aspirin (>325 mg/day) or clopidogrel (>75mg/day);",
+        "  other primary tumor within last 5 years, except for adequately treated cervical cancer in situ, squamous or basal cell skin cancer;",
+        "  uncontrolled hypertension or significant cardiovascular disease."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With a Best Overall Response (BOR) of Confirmed Complete Response (CR) or Partial Response (PR)",
+        "  Tumor response was assessed using the Response Evaluation Criteria in Solid Tumors (RECIST), Version 1.0. BOR was defined as the best response recorded for a participant from the start of treatment until disease progression/recurrence. Percentage of participants with a BOR of confirmed CR or PR (responders) was reported. CR: disappearance of all target and non-target lesions and normalization of tumor marker level; PR: at least a 30 percent (%) decrease in the sum of the longest diameter (LD) of target lesions taking as reference the baseline sum LD. Confirmed responses were those which were confirmed by a repeat assessment, performed 4 weeks after the criteria for response first met.",
+        "  Time frame: Screening until disease progression (assessed at screening, every 6 weeks up to Week 36, thereafter every 9 weeks during treatment period, and then every 3 months during follow-up, up to approximately 4 years)",
+        "Results 1: ",
+        "  Arm/Group Title: Trastuzumab + Bevacizumab + Capecitabine",
+        "  Arm/Group Description: Participants received IV trastuzumab (8 mg/kg) for first cycle and then 6 mg/kg for subsequent cycles followed by bevacizumab (15 mg/kg) on Day 1 of each treatment cycles along with capecitabine administered orally to participants at a dose of 1000 mg/m^2 BID on Days 1 to 14 of each treatment cycle until disease progression, unmanageable toxicity or participant request for discontinuation. Treatment cycles were of 3 weeks.",
+        "  Overall Number of Participants Analyzed: 88",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  75.0        (64.6 to 83.6)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 20/88 (22.73%)",
+        "  Cardiac Failure * 2/88 (2.27%)",
+        "  Intracardiac thrombus * 1/88 (1.14%)",
+        "  Abdominal pain * 1/88 (1.14%)",
+        "  Diarrhoea * 2/88 (2.27%)",
+        "  Enteritis * 1/88 (1.14%)",
+        "  Intestinal perforation * 1/88 (1.14%)",
+        "  Chest pain * 1/88 (1.14%)",
+        "  Death * 1/88 (1.14%)",
+        "  Erysipelas * 1/88 (1.14%)",
+        "  Pneumonia * 1/88 (1.14%)",
+        "  Abdominal wound dehiscence * 1/88 (1.14%)"
+    ]
+}

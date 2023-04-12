@@ -1,0 +1,45 @@
+{
+    "Clinical Trial ID": "NCT02511730",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  FFDM Plus DBT",
+        "  Breast Images with FFDM and DBT",
+        "  FFDM Plus DBT: Fujifilm Aspire Cristalle System",
+        "INTERVENTION 2: ",
+        "  FFDM",
+        "  Breast Images with FFDM alone",
+        "  FFDM: Fujifilm Aspire Cristalle System"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Female subjects participating in FMSU004A protocol with known clinical status",
+        "Exclusion Criteria:",
+        "  Subjects with unknown clinical status not participating in FMSU004A protocol."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Compare Per Subject Area Under Curve (AUC): FFDM Only vs DBT Plus FFDM",
+        "  Breast AUC performance metrics to determine if FFDM plus DBT improved cancer detection rate, requiring correct lesion localization. Statistician to estimate AUCs for each reader in each review condition (FFDM read in conjunction with FFDM plus DBT read) based on their Probability of Malignancy (POM) scores. POM scores will require correct lesion localization, such that in a case with cancer if the reader recorded one or more findings in the case but none of them are determined by the truther to match the location(s) of any proven malignancies, a POM score of 0 will be assigned to the case. Statistician to provide graphical representations of each reader's ROC curve for each review condition. For each reader the difference between the AUC for the FFDM read in conjunction with the FFDM plus DBT will be presented. Statistician to perform MRMC comparison of AUC's between FFDM read in conjunction with FFDM plus DBT using the MRMC method of Dorfman, Berbaum & Metz (1992).",
+        "  Time frame: 1 month",
+        "Results 1: ",
+        "  Arm/Group Title: FFDM Plus DBT",
+        "  Arm/Group Description: Breast Images with FFDM and DBT",
+        "  FFDM Plus DBT: Fujifilm Aspire Cristalle System",
+        "  Overall Number of Participants Analyzed: 100",
+        "  Mean (Standard Error)",
+        "  Unit of Measure: Probability  100         (0.812)",
+        "Results 2: ",
+        "  Arm/Group Title: FFDM",
+        "  Arm/Group Description: Breast Images with FFDM alone",
+        "  FFDM: Fujifilm Aspire Cristalle System",
+        "  Overall Number of Participants Analyzed: 100",
+        "  Mean (Standard Error)",
+        "  Unit of Measure: Probability  100         (0.780)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/100 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/100 (0.00%)"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "Clinical Trial ID": "NCT01313117",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Alpha Lipoic Acid",
+        "  Oral administration three times daily (morning, mid-day, night)",
+        "  Alpha lipoic acid: The baseline dose is 100 mg three times daily for four months. Dose escalation will occur until a maximum tolerated dose is found."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria",
+        "  Diagnosis of Breast cancer.",
+        "  Breast cancer must meet the following criteria:",
+        "  Early stage breast cancer (stages I, IIA) must be estrogen receptor (ER) positive AND low tumor grade (histopathologic grade 1 or 2)",
+        "  Locally advanced breast cancer (LABC) (stages IIB, IIIA, IIB as defined by the Union for International Cancer Control and American Joint Committee on Cancer) must be ER positive, HER2 positive or HER2 negative, AND satisfy the following requirements: high endocrine responsiveness (defined as greater than 50% of tumor cells staining for hormone receptors), Grade 1 or 2 histological grade, less than 4 nodes positive, absence of extensive peritumoral vascular invasion, AND pathological tumor size less than 5 cm.",
+        "  Inflammatory breast cancer (IBC) (stage IIIC)",
+        "  Metastatic breast cancer (stage IV)",
+        "  Must be receiving single agent paclitaxel in their prescribed chemotherapy regimen.",
+        "  Age > 18 years. There is no upper age limit for participation in this study.",
+        "  Required lab values: AST, ALT, creatinine",
+        "  Women of childbearing potential and sexually active males must agree to use contraception while on study.",
+        "  ECOG performance status 0,1,2",
+        "  All patients must have given signed, informed consent.",
+        "  Exclusion Criteria",
+        "  Breast cancer meeting the following criteria:",
+        "  Breast cancer stage 0",
+        "  Early stage breast cancer (stages I, IIA) that is ER negative OR higher tumor grade (histopathologic grade greater than 2)",
+        "  Stages I, II, and IIIA triple negative breast cancer (negative for estrogen receptors, progesterone receptors, and HER2)",
+        "  LABC (stages IIB, IIIA, IIB) if they have low endocrine responsiveness (defined as less than 50% of tumor cells staining for hormone receptors), Grade 3 histological grade, 4 or more nodes positive, presence of extensive peritumoral vascular invasion, OR pathological tumor size greater than 5 cm",
+        "  LABC (stages IIB, IIIA, IIB) that are ER negative",
+        "  Evidence of pre-existing peripheral neuropathy as determined by baseline Michigan neuropathy screening instrument score > 2.",
+        "  Previous chemotherapy treatment of any kind.",
+        "  AST and ALT >2 times upper limit of normal; Creatinine > 2.0 mg/dL.",
+        "  Current use of medications or substances known to be associated with peripheral neuropathy.",
+        "  Use of ALA or other anti-oxidant supplements during the prior three months.",
+        "  Diabetes mellitus or use of medications known to lower blood sugar.",
+        "  Participation in any other experimental trial."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Identification of the Optimal Dose of ALA Based on Acceptable Adverse Event(AE) Profile",
+        "  Based on acceptable adverse event (AE) profile and continual reassessment method dose escalation.",
+        "  Time frame: 4 months",
+        "Results 1: ",
+        "  Arm/Group Title: Alpha Lipoic Acid",
+        "  Arm/Group Description: Oral administration three times daily (morning, mid-day, night)",
+        "  Alpha lipoic acid: The baseline dose is 100 mg three times daily for four months. Dose escalation will occur until a maximum tolerated dose is found.",
+        "  Overall Number of Participants Analyzed: 9",
+        "  Measure Type: Number",
+        "  Unit of Measure: mg  500"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/9 (0.00%)"
+    ]
+}

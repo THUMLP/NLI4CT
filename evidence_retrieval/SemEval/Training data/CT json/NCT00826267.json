@@ -1,0 +1,55 @@
+{
+    "Clinical Trial ID": "NCT00826267",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Afatinib 50 mg",
+        "  Patients received continuous daily dosing with Afatinib 50 mg orally from Day 1 to Day 21 of each treatment course. 2 treatment courses were to be given in the trial.",
+        "INTERVENTION 2: ",
+        "  Lapatinib 1500 mg",
+        "  Patients received continuous daily dosing with Lapatinib 1500 mg orally from Day 1 to Day 21 of each treatment course. 2 treatment courses were to be given in the trial."
+    ],
+    "Eligibility": [
+        "Inclusion criteria:",
+        "  Female, age 18 years or older.",
+        "  Histologically proven breast cancer who have not received any prior therapy.",
+        "  Locally advanced disease Stage IIIa with no evidence of distant metastatic disease other than anatomical site lymph nodes.",
+        "  HER2-positive.",
+        "Exclusion criteria:",
+        "  Absolute neutrophil count (ANC) less than 1500/mm3.",
+        "  Platelet count less than 100 000/ mm3.",
+        "  Hemoglobin level less than 9.0 g/dl.",
+        "  Bilirubin greater than 1.5 mg/dI.",
+        "  Aspartate amino transferase (AST) or alanine amino transferase (ALT) greater than twice the upper limit of normal.",
+        "  Serum creatinine greater than 1.5 times of the upper normal limit.",
+        "  Significant or recent acute gastrointestinal disorders with diarrhea",
+        "  Pregnancy or breast-feeding.",
+        "  Organ system dysfunction including cardiac (LVEF < 50%).",
+        "  Prior chemotherapy, radiotherapy or hormone therapy. Previous treatment with trastuzumab, EGFR, or EGFR/HER2-inhibitors.",
+        "  Other malignancies diagnosed within the past five years.",
+        "  Serious active infection. HIV, active hepatitis B or C."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Objective Response (OR)",
+        "  Objective response (complete or partial) was assessed according to RECIST 1.0 criteria.",
+        "  Time frame: Tumour assessments were performed at screening, day 22 and day 43.",
+        "Results 1: ",
+        "  Arm/Group Title: Afatinib 50 mg",
+        "  Arm/Group Description: Patients received continuous daily dosing with Afatinib 50 mg orally from Day 1 to Day 21 of each treatment course. 2 treatment courses were to be given in the trial.",
+        "  Overall Number of Participants Analyzed: 10",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of participants  80.0        (44.4 to 97.5)",
+        "Results 2: ",
+        "  Arm/Group Title: Lapatinib 1500 mg",
+        "  Arm/Group Description: Patients received continuous daily dosing with Lapatinib 1500 mg orally from Day 1 to Day 21 of each treatment course. 2 treatment courses were to be given in the trial.",
+        "  Overall Number of Participants Analyzed: 8",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of participants  75.0        (34.9 to 96.8)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/10 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/8 (0.00%)"
+    ]
+}

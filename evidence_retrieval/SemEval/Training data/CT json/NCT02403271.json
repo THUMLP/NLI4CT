@@ -1,0 +1,56 @@
+{
+    "Clinical Trial ID": "NCT02403271",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Phase 1b",
+        "  In the Phase 1b (safety portion) of the study, a starting dose of 560 mg of ibrutinib and 10 mg/kg of MEDI4736 will be explored and will follow a 6 + 3 dose de-escalation design and will include a sentinel participant which will have a 3-day observation period prior to dosing of subsequent participants. Participants with one of the following three tumor types will be eligible for enrollment: NSCLC (adenocarcinoma and squamous-cell carcinoma), breast cancer (triple-negative and HER2-positive cancer), and Pancreatic cancer (adenocarcinoma)."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Pathologically confirmed: Non-small cell lung cancer (NSCLC, adenocarcinoma or squamous-cell carcinoma), Breast Cancer (HER2 positive or triple negative), Pancreatic Cancer (adenocarcinoma)",
+        "  Relapsed or refractory disease (Stage III or IV): NSCLC or pancreatic cancer must have failed at least 1 prior treatment. Breast cancer must have failed at least 2 prior treatments.",
+        "  Measurable lesion by RECIST 1.1",
+        "  Adequate hematologic function:",
+        "  ANC >1500 cells/mm3",
+        "  Platelet count >100,000 cells/mm3",
+        "  HGB >9.0 g/dL",
+        "  Adequate hepatic and renal function:",
+        "  AST and ALT 2.5 x ULN for subjects without liver metastases and 3.5 x ULN for subjects with liver metastases",
+        "  Bilirubin 1.5 x ULN (unless bilirubin rise is due to Gilbert's syndrome or of non-hepatic origin)",
+        "  Creatinine 2.0 x ULN and Creatinine Clearance 40 mL/min (Cockcroft-Gault or 24-hour creatinine clearance collection)",
+        "  PT/INR <1.5 x ULN and PTT/ aPTT <1.5 x ULN",
+        "Exclusion Criteria:",
+        "  Mixed small cell and NSCLC histology",
+        "  A history of CNS involvement except as follows: Subjects with previously treated CNS metastases that are adequately treated with whole brain radiotherapy, that are neurologically stable, and do not require corticosteroids for symptomatic management for at least 14 days prior to first dose of study drug. There must be no clear evidence of radiographically active disease for at least 90 days prior to enrollment.",
+        "  Anti-tumor therapy within 21 days of study Day 1",
+        "  Prior treatment with ibrutinib or other BTK inhibitor anti-CD137 or CTLA-4 antibody. The following are exceptions to this criterion: Subjects previously treated with an anti-PD1, anti-PD-L1, or anti-PD-L2 antibody.",
+        "  History of allogeneic organ transplant",
+        "  Treatment with a strong cytochrome P450 (CYP) 3A inhibitor"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Phase 1b: Number of Participants With Adverse Events as a Measure of Safety and Tolerability of Ibrutinib and Durvalumab (MEDI4736) and to Find the Recommended Phase II Dose.",
+        "  [Not Specified]",
+        "  Time frame: From the date of first study treatment until DLT or disease progression per RECIST 1.1.",
+        "Results 1: ",
+        "  Arm/Group Title: Phase 1b",
+        "  Arm/Group Description: In the Phase 1b (safety portion) of the study, a starting dose of 560 mg of ibrutinib and 10 mg/kg of MEDI4736 will be explored and will follow a 6 + 3 dose de-escalation design and will include a sentinel participant which will have a 3-day observation period prior to dosing of subsequent participants. Participants with one of the following three tumor types will be eligible for enrollment: NSCLC (adenocarcinoma and squamous-cell carcinoma), breast cancer (triple-negative and HER2-positive cancer), and Pancreatic cancer (adenocarcinoma).",
+        "  Overall Number of Participants Analyzed: 6",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  6"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 77/122 (63.11%)",
+        "  Anaemia 1/122 (0.82%)",
+        "  Thrombocytopenia 1/122 (0.82%)",
+        "  Pericardial effusion 3/122 (2.46%)",
+        "  Supraventricular tachycardia 2/122 (1.64%)",
+        "  Acute myocardial infarction 1/122 (0.82%)",
+        "  Atrial fibrillation 1/122 (0.82%)",
+        "  Sinus tachycardia 1/122 (0.82%)",
+        "  Ventricular tachycardia 1/122 (0.82%)",
+        "  Hypothyroidism 1/122 (0.82%)",
+        "  Abdominal pain 4/122 (3.28%)"
+    ]
+}

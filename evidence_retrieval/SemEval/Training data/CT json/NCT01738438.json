@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT01738438",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Cabozantinib",
+        "  Cabozantinib was given at a dose of 60 mg orally once per day for 21 day cycles. Treatment continued in the absence of disease progression or unacceptable toxicity."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically or cytologically confirmed invasive breast cancer with stage IV disease",
+        "  Primary tumor and/or metastasis must be ER-negative, PR-negative and HER2-negative",
+        "  May have received 0-3 prior chemotherapeutic regimens for metastatic breast cancer. Must be off treatment for at least 21 days prior to enrollment",
+        "  Must have discontinued all biologic therapy at least 14 days before enrollment",
+        "  May have received prior radiation therapy in the early stage or metastatic setting, but must have completed treatment at least 14 days prior to enrollment",
+        "  Must agree to use medically acceptable methods of contraception",
+        "  Confirmed availability of formalin-fixed, paraffin-embedded tumor tissue",
+        "  Able to swallow tablets",
+        "Exclusion Criteria:",
+        "  Pregnant or breastfeeding",
+        "  Received another investigational agent within 14 days prior to enrollment",
+        "  Received prior c-Met inhibitor",
+        "  Known brain metastases that are untreated, symptomatic or require therapy to control symptoms",
+        "  Psychiatric illness or social situation that could limit ability to comply with study requirements",
+        "  Require concomitant treatment in therapeutic doses with anticoagulants or antiplatelet agents",
+        "  Diagnosis of another malignancy requiring systemic treatment within the last two years (except non-melanoma skin cancer or in-situ carcinoma of the cervix)",
+        "  Known to be positive for HIV",
+        "  Active infection requiring IV antibiotics at Day 1 of cycle 1",
+        "  Uncontrolled, significant intercurrent illness",
+        "  Requires chronic concomitant treatment of a strong CYP3A4 inducer",
+        "  tumor in contact with, invading or encasing major blood vessels",
+        "  Have experienced clinically significant gastrointestinal bleeding within 6 months, hemoptysis of more than 0.5 teaspoon of red blood within 3 months or other signs indicative of pulmonary hemorrhage within 3 months of enrollment"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Objective Response Rate",
+        "  The objective response rate (ORR) was defined as achieving complete response (CR) or partial response (PR) on treatment based on RECIST1.1 criteria. For target lesions: CR is complete disappearance of all target lesions and PR is at least a 30% decrease in the sum of longest diameter (LD) of target lesions, taking as reference baseline sum LD. PR or better overall response assumes at a minimum incomplete response/stable disease (SD) for the evaluation of non-target lesions and absence of new lesions. Confirmatory scans were required 3 weeks following initial documentation.",
+        "  Time frame: Disease was evaluated radiologically at baseline, week 6 and every 9 weeks on treatment; Treatment continued until disease progression or unacceptable toxicity. Treatment duration was a median of 3 cycles range (1-17).",
+        "Results 1: ",
+        "  Arm/Group Title: Cabozantinib",
+        "  Arm/Group Description: Cabozantinib was given at a dose of 60 mg orally once per day for 21 day cycles. Treatment continued in the absence of disease progression or unacceptable toxicity.",
+        "  Overall Number of Participants Analyzed: 35",
+        "  Measure Type: Number",
+        "  Unit of Measure: proportion of participants  0.09        (0.02 to 0.26)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 14/35 (40.00%)",
+        "  Infections and infestations - Other 1/35 (2.86%)",
+        "  Wound dehiscence 1/35 (2.86%)",
+        "  Activated partial thromboplastin time prolonged 1/35 (2.86%)",
+        "  Alanine aminotransferase increased 1/35 (2.86%)",
+        "  Aspartate aminotransferase increased 2/35 (5.71%)",
+        "  Lipase increased 3/35 (8.57%)",
+        "  Hypophosphatemia 1/35 (2.86%)",
+        "  Bone pain 2/35 (5.71%)"
+    ]
+}

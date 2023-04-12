@@ -1,0 +1,36 @@
+{
+    "Clinical Trial ID": "NCT01017549",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Electronic Brachytherapy",
+        "  Radiation therapy was delivered using the 510(k) cleared Xoft Axxent System. Accelerated partial breast irradiation is the method of radiation therapy administration that has been commonly used by physicians using Iridium-192, but was FDA cleared for use prior to commencing study enrollment using an electronic source."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Age >50 years",
+        "  Tumor with Tis, T1, N0, M0 - (AJC Classification)",
+        "  Invasive ductal carcinoma or ductal carcinoma in situ",
+        "  Negative microscopic surgical margins of at least 1mm in all directions",
+        "  Adequate skin spacing between balloon surface and surface of the skin - (> 7mm)",
+        "Exclusion Criteria:",
+        "  Pregnancy or breast-feeding - (During the treatment portion of the study, sexually active women of childbearing age will be asked to use pregnancy prevention)",
+        "  Scleroderma, systemic sclerosis and active lupus",
+        "  Infiltrating lobular histology"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Delivery of 34 Gy in 10 Fractions",
+        "  Successful delivery of the radiation treatment defined as a total 34 Gy in a total of 10 fractions, 3.4 Gy per fraction. (Gray = GY is a measure of radiation dose delivered to tissue)",
+        "  Time frame: measured at end of 10th fraction, usually within 7 days",
+        "Results 1: ",
+        "  Arm/Group Title: Electronic Brachytherapy",
+        "  Arm/Group Description: Radiation therapy was delivered using the 510(k) cleared Xoft Axxent System. Accelerated partial breast irradiation is the method of radiation therapy administration that has been commonly used by physicians using Iridium-192, but was FDA cleared for use prior to commencing study enrollment using an electronic source.",
+        "  Overall Number of Participants Analyzed: 44",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  42"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/44 (0.00%)"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT01196052",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Trastuzumab Emtansine",
+        "  Trastuzumab emtansine 3.6 mg/kg was administered intravenously on Day 1 of each 3-week treatment cycle up to a maximum of 17 cycles."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Adult patients  18 years of age.",
+        "  Locally advanced, inflammatory, or early stage, unilateral, and histologically confirmed invasive breast cancer documented at a local laboratory (patients with inflammatory breast cancer must be able to have a core needle biopsy).",
+        "  Herceptin (HER)2-positive tumor, confirmed by central testing using immunohistochemistry (IHC) and in situ hybridization (ISH) methods.",
+        "  Willingness to receive anthracycline-based chemotherapy or have received doxorubicin/cyclophosphamide (AC) OR 5-fluorouracil (FU)/epirubicin/ cyclophosphamide (FEC) in a similar dose and schedule as described in the protocol as part of neoadjuvant or adjuvant treatment.",
+        "  For women of childbearing potential and men with partners of childbearing potential, agreement to use a highly effective, non-hormonal form of contraception or 2 effective forms of non-hormonal contraception by the patient and/or partner. Contraception use must continue for the duration of study treatment and for at least 6 months after the last dose of study treatment. Male patients should use condoms for the duration of the study. Specific country requirements will be followed.",
+        "  Negative results of serum pregnancy test for premenopausal women of reproductive capacity and for women < 12 months after menopause.",
+        "  Patients may enroll before or after AC/FEC chemotherapy has completed.",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.",
+        "  Adequate hematologic, biochemistry, and cardiac assessments.",
+        "Exclusion Criteria:",
+        "  Stage IV breast cancer or bilateral breast cancer.",
+        "  Pregnant or breastfeeding women.",
+        "  History of other malignancy within the previous 5 years, except contralateral breast cancer and ductal carcinoma in situ (DCIS)/lobular carcinoma in situ (LCIS), appropriately treated carcinoma in situ of the cervix, non-melanoma skin carcinoma, Stage I uterine cancer, or other cancers with outcome similar to those mentioned above.",
+        "  Radiation therapy, immunotherapy, or biotherapy within 5 years before study enrollment; non-cardiotoxic chemotherapy for malignancy treated > 5 years before study enrollment is allowed. Patients receiving AC/FEC in a similar fashion to the study treatment prescribed for adjuvant or neoadjuvant treatment of breast cancer will be allowed to enroll in the study after the completion of their AC/FEC. No other prior history of cardiotoxic chemotherapy is allowed.",
+        "  Active cardiac history.",
+        "  Current chronic daily treatment with oral corticosteroids or equivalent.",
+        "  Patients with severe dyspnea at rest or requiring supplementary oxygen therapy.",
+        "  Active, unresolved infections at screening.",
+        "  Human immunodeficiency virus (HIV), hepatitis B virus (HBV), or hepatitis C virus (HCV) infection.",
+        "  Major surgery within 4 weeks before enrollment that is unrelated to the breast cancer.",
+        "  Patients for whom concomitant radiotherapy + T-DM1 may be contraindicated yet radiation therapy is planned.",
+        "  Known hypersensitivity to any of the study drugs or derivatives, including murine proteins.",
+        "  Grade  2 peripheral neuropathy at Baseline."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With a Cardiac Event Within 12 Weeks After the Start of Trastuzumab Emtansine Treatment",
+        "  A cardiac event was defined as death from a cardiac cause or severe congestive failure (New York Heart Association [NYHA] Class III or IV) with a decrease in left ventricular ejection fraction (LVEF) of  10% from Baseline to an LVEF of < 50%.",
+        "  Time frame: Baseline to 12 weeks after the start of trastuzumab emtansine treatment",
+        "Results 1: ",
+        "  Arm/Group Title: Trastuzumab Emtansine",
+        "  Arm/Group Description: Trastuzumab emtansine 3.6 mg/kg was administered intravenously on Day 1 of each 3-week treatment cycle up to a maximum of 17 cycles.",
+        "  Overall Number of Participants Analyzed: 143",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of participants  0        (0.00 to 2.45)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 15/148 (10.14%)",
+        "  Febrile neutropenia 1/148 (0.68%)",
+        "  Atrial fibrillation 2/148 (1.35%)",
+        "  Abdominal pain 1/148 (0.68%)",
+        "  Diarrhoea 1/148 (0.68%)",
+        "  Pyrexia 2/148 (1.35%)",
+        "  Cellulitis 1/148 (0.68%)",
+        "  Device related infection 2/148 (1.35%)",
+        "  Gastroenteritis viral 1/148 (0.68%)",
+        "  Gastrointestinal infection 1/148 (0.68%)",
+        "  Upper respiratory tract infection 1/148 (0.68%)"
+    ]
+}

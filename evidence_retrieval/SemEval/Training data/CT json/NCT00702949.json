@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT00702949",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Pregabalin150",
+        "  Patients receive 150 mg of oral pregabalin twice daily for 6 weeks.",
+        "INTERVENTION 2: ",
+        "  Placebo",
+        "  Patients receive oral placebo twice daily for 6 weeks."
+    ],
+    "Eligibility": [
+        "DISEASE CHARACTERISTICS:",
+        "  Meeting 1 of the following criteria:",
+        "  History of breast cancer (currently without malignant disease)",
+        "  No history of breast cancer, but patient wishes to avoid estrogen due to a perceived increased risk of breast cancer",
+        "  Bothersome hot flashes (defined by their occurrence  28 times per week and of sufficient severity to make the patient desire therapeutic intervention)",
+        "  Presence of hot flashes for  1 month prior to study entry",
+        "  PATIENT CHARACTERISTICS:",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 0-1",
+        "  Life expectancy  6 months",
+        "  Able to complete questionnaire(s) by themselves or with assistance",
+        "  Women of childbearing potential not eligible (per the judgment of the attending clinician)",
+        "  Serum creatinine  1.5 times upper limit of normal",
+        "  PRIOR CONCURRENT THERAPY:",
+        "  No prior gabapentin or pregabalin",
+        "  More than 4 weeks since prior and no concurrent antineoplastic chemotherapy, androgens, estrogens, or progestational agents",
+        "  Vaginal estrogen is allowed if used for the past month and not planned to be discontinued",
+        "  Concurrent adjuvant targeted therapy (i.e., lapatinib, trastuzumab [Herceptin\u00ae]) allowed in patients with no evidence of disease",
+        "  Concurrent tamoxifen, raloxifene, or aromatase inhibitors on a constant dose for at least 4 weeks allowed provided the medication will not be stopped during the study period",
+        "  No concurrent or planned use of other agents for hot flashes except for any of the following:",
+        "  Stable dose of vitamin E is allowed as long as agent was started > 30 days prior to study initiation and is to be continued throughout the study period",
+        "  Soy is allowed, if it is planned to be continued at the same dose during the study period",
+        "  Stable dose of antidepressants is allowed as long as it was started > 30 days prior to study initiation and is to be continued at a stable dose throughout the study period"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Numerical Change From Baseline in Hot Flash Score at Treatment Week 6 (Positive Numbers to Represent Increases and Negative Numbers to Represent Decreases).",
+        "  Hot flash activity will be analyzed in a number of ways. For the primary analysis, the numerical change-from-baseline to hot flash score after week 6 of treatment will be compared between the highest dose treatment arm and the placebo arm. A hot flash score is computed for each patient by assigning points (1=mild, 2=moderate, 3=severe, 4=very severe) to each hot flash based on patient-reported severity, adding the points for each day, and averaging across each week of the study. Abbreviations for the analysis population description: Eligible patients (EPs). Evaluable for primary (EFP). Off-study for adverse event (AE). Do not have 6 weeks of data (NODATA).",
+        "  Time frame: Baseline, after week 6 of treatment",
+        "Results 1: ",
+        "  Arm/Group Title: Pregabalin150",
+        "  Arm/Group Description: Patients receive 150 mg of oral pregabalin twice daily for 6 weeks.",
+        "  Overall Number of Participants Analyzed: 56",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: units on a scale  -9.6        (-12.9 to -7.6)",
+        "Results 2: ",
+        "  Arm/Group Title: Placebo",
+        "  Arm/Group Description: Patients receive oral placebo twice daily for 6 weeks.",
+        "  Overall Number of Participants Analyzed: 51",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: units on a scale  -6.1        (-7.9 to -2.9)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/63 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

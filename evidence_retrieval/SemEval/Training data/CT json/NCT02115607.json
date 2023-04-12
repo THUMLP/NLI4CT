@@ -1,0 +1,48 @@
+{
+    "Clinical Trial ID": "NCT02115607",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Definity Infusion",
+        "  Infusion of Definity (Perflutren Lipid Microspheres)",
+        "  Definity infusion: 3 ml of Perflutren Lipid Microspheres (Definity) mixed in 50 ml of saline is infused at a rate of approximately 4ml/min"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Females",
+        "  Be diagnosed with T1 or greater LABC, any N and M0.",
+        "  Be scheduled for neoadjuvant chemotherapy",
+        "  Be at least 21 years of age.",
+        "  Be medically stable.",
+        "  If a female of child-bearing potential, must have a negative pregnancy test.",
+        "  Have signed Informed Consent to participate in the study.",
+        "Exclusion Criteria:",
+        "  Males",
+        "  Females who are pregnant or nursing.",
+        "  Patients with other primary cancers requiring systemic treatment.",
+        "  Patients with any metastatic disease.",
+        "  Patients undergoing neoadjuvant endocrine therapy.",
+        "  Patients with known hypersensitivity or allergy to any component of Definity.",
+        "  Patients with cardiac shunts or congenital heart defects.",
+        "  Patients with unstable cardiopulmonary conditions or respiratory distress syndrome.",
+        "  Patients with uncontrollable emphysema, pulmonary vasculitis, pulmonary hypertension or a history of pulmonary emboli.",
+        "  Patients who have received any contrast medium (X-ray, MRI, CT or US) in the 24 hours prior to the research US exam."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Subharmonic Aided Pressure Estimation (SHAPE) After Treatment for Complete Responders",
+        "  To evaluate the ability of SHAPE, used with Definity, to track changes in interstitial fluid pressure (IFP) by studying women undergoing neoadjuvant chemotherapy before as well as with around 10% and 30% of the neoadjuvant chemotherapy treatment delivered and comparing results to MRI and pathology.",
+        "  Time frame: from baseline to completion of neoadjuvant chemotherapy, average of 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: Definity Infusion",
+        "  Arm/Group Description: Infusion of Definity (Perflutren Lipid Microspheres)",
+        "  Definity infusion: 3 ml of Perflutren Lipid Microspheres (Definity) mixed in 50 ml of saline is infused at a rate of approximately 4ml/min",
+        "  Overall Number of Participants Analyzed: 6",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: dB  10% completion of neoadjuvant chemotherapy for: 3.23         (1.41)",
+        "  30% completion of neoadjuvant chemotherapy: 1.67         (1.09)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/17 (0.00%)"
+    ]
+}

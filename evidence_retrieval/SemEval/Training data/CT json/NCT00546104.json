@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT00546104",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Dasatinib",
+        "50mg-100mg po BID"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Measurable Stage IV or inoperable Stage III advanced breast cancer.",
+        "  There is no limit on the number of prior therapies.",
+        "  At least 3 weeks since prior chemotherapy, biological or hormonal therapy.",
+        "  At least 2 weeks since surgical biopsy.",
+        "  At least 3 weeks since major (open thoracic/abdominal/cardiac) surgery.",
+        "  No central nervous system (CNS) metastases except solitary brain metastasis",
+        "  No cardiac dysfunction",
+        "  left ventricular ejection fraction (LVEF)  50% as determined by multiple gated acquisition scan (MUGA)/echocardiogram",
+        "  Adequate blood counts",
+        "  Normal liver and kidney function",
+        "  Negative serum pregnancy test.",
+        "  Able to provide informed consent",
+        "Exclusion Criteria:",
+        "  Pregnant or breast feeding.",
+        "  Prior treatment with dasatinib.",
+        "  Bone as the only site of disease.",
+        "  Significant gastrointestinal bleeding",
+        "  Septicemia, infection, acute hepatitis, hypokalemia, or hypomagnesemia"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Estimation of the Proportion of Progression-free Patients at 16 Wks.",
+        "  Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or measurable increase in a non-target lesion, or the appearance of new lesions, or similar definition as appropriate.",
+        "  Proportion progression-free at 16 weeks.From first day of study related treatment with Dasatinib until the date of first documented progression or date of death from any cause, whichever came first.",
+        "  Time frame: 16 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Dasatinib",
+        "  Arm/Group Description: 50mg-100mg po BID",
+        "  Overall Number of Participants Analyzed: 31",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  0        (0 to 20)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 10/31 (32.26%)",
+        "  Edema, limb 1/31 (3.23%)",
+        "  Thrombosis1/31 (3.23%)",
+        "  diarrhea1/31 (3.23%)",
+        "  Pain 2/31 (6.45%)",
+        "  Pain, back1/31 (3.23%)",
+        "  Pain, extrimity limb 1/31 (3.23%)",
+        "  Syncope 1/31 (3.23%)",
+        "  Pain, chest/thorax1/31 (3.23%)",
+        "  hyponatremia 1/31 (3.23%)",
+        "  fever1/31 (3.23%)",
+        "  AST 1/31 (3.23%)",
+        "  infection1/31 (3.23%)",
+        "  Anorexia 1/31 (3.23%)",
+        "  Dyspnea 2/31 (6.45%)"
+    ]
+}

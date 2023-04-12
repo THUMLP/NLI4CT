@@ -1,0 +1,56 @@
+{
+    "Clinical Trial ID": "NCT00852930",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Laser Therapy Alone",
+        "  therapist administered laser treatment",
+        "  laser: therapist administered laser",
+        "INTERVENTION 2: ",
+        "  Mld Alone",
+        "  therapist administered manual lymphatic drainage",
+        "  manual lymphatic drainage: therapist administered massage therapy"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Breast cancer survivors will be included if they:",
+        "  are age 21 or older;",
+        "  require professional treatment for Stage I or II lymphedema as defined by the International Society of Lymphology;",
+        "  have an order for lymphedema treatment; and",
+        "  are willing and able to drive to the study sites.",
+        "Exclusion Criteria:",
+        "  Individuals will not be included if they:",
+        "  are actively undergoing intravenous chemotherapy or radiation therapy;",
+        "  have a history of bilateral lymphedema that prohibits extracellular fluid comparison to an unaffected limb;",
+        "  are unable to stand upright for measurement of height and weight;",
+        "  have active/metastatic cancer;",
+        "  are pregnant,:",
+        "  have artificial joints in areas where electrode placement is critical, or have a pacemaker/internal defibrillator; or",
+        "  have congestive heart failure (CHF), chronic/acute renal or hepatic disease, pulmonary edema, thrombophlebitis, deep vein thrombosis (DVT), acute infection of any kind, and inflammation in the trunk or arms."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  LDex Change-",
+        "  Bioimpedance measured by units of LDex. As extracellular fluid accumulates (i.e. lymphedema develops) the LDex value increases.",
+        "  Time frame: Bioimpedance at baseline and end of treatment with the average number of treaments being 9 conducted over a median of up to 4 weeks.",
+        "Results 1: ",
+        "  Arm/Group Title: Laser Therapy Alone",
+        "  Arm/Group Description: therapist administered laser treatment",
+        "  laser: therapist administered laser",
+        "  Overall Number of Participants Analyzed: 15",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: LDex  28.0        (17 to 35)",
+        "Results 2: ",
+        "  Arm/Group Title: Mld Alone",
+        "  Arm/Group Description: therapist administered manual lymphatic drainage",
+        "  manual lymphatic drainage: therapist administered massage therapy",
+        "  Overall Number of Participants Analyzed: 16",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: LDex  17.8        (3 to 38)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/15 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/16 (0.00%)"
+    ]
+}

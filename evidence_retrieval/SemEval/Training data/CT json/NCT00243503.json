@@ -1,0 +1,44 @@
+{
+    "Clinical Trial ID": "NCT00243503",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Trastuzumab + Sunitinib",
+        "  Trastuzumab was administered intravenously (i.v) weekly (loading 4 mg/kg followed by weekly 2 mg/kg) or every 3 weeks (loading 8 mg/kg followed by 6 mg/kg thrice weekly). Sunitinib began with 37.5 mg by oral capsule once daily in a continuous regimen. Treatment was administered in 4-week cycles."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  A diagnosis of breast cancer with evidence of 1) unresectable, locally recurrent, or 2) metastatic disease.",
+        "  HER2 positive disease (3+ by immunohistochemistry [IHC] or FISH-positive)",
+        "  Candidate for treatment with trastuzumab. Prior treatment with trastuzumab and or/ lapatinib in the neoadjuvant, adjuvant or metastatic disease setting is permitted. Treatment with hormone therapy in the adjuvant and/or advanced disease setting is permitted.",
+        "Exclusion Criteria:",
+        "  Prior treatment with >1 regimen of cytotoxic therapy in the advanced disease setting. Adjuvant chemotherapy is permitted",
+        "  Prior exposure to trastuzumab if the patient had developed severe hypersensitivity reactions.",
+        "  Prior treatment on a SU11248 clinical trial.",
+        "  Uncontrolled brain metastases."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With Overall Confirmed Objective Disease Response",
+        "  Objective disease response =participants with confirmed complete response (CR) or partial response (PR) according to Response Evaluation Criteria in Solid Tumors (RECIST). A CR was defined as the disappearance of all target and non-target lesions. A PR was defined as a > = 30% decrease in the sum of the longest dimensions of the target lesions taking as a reference the baseline sum longest dimensions associated to a non-progressive disease response for the non target lesions.",
+        "  Time frame: From start of treatment through 18 months",
+        "Results 1: ",
+        "  Arm/Group Title: Trastuzumab + Sunitinib",
+        "  Arm/Group Description: Trastuzumab was administered intravenously (i.v) weekly (loading 4 mg/kg followed by weekly 2 mg/kg) or every 3 weeks (loading 8 mg/kg followed by 6 mg/kg thrice weekly). Sunitinib began with 37.5 mg by oral capsule once daily in a continuous regimen. Treatment was administered in 4-week cycles.",
+        "  Overall Number of Participants Analyzed: 57",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  36.8        (24.4 to 50.7)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 25/60 (41.67%)",
+        "  Anaemia * 1/60 (1.67%)",
+        "  Febrile neutropenia * 2/60 (3.33%)",
+        "  Idiopathic thrombocytopenic purpura * 1/60 (1.67%)",
+        "  Thrombocytopenia * 3/60 (5.00%)",
+        "  Cardiac failure * 1/60 (1.67%)",
+        "  Cardiac failure acute * 1/60 (1.67%)",
+        "  Cardiogenic shock * 1/60 (1.67%)",
+        "  Left ventricular dysfunction * 1/60 (1.67%)",
+        "  Anal fistula * 1/60 (1.67%)"
+    ]
+}

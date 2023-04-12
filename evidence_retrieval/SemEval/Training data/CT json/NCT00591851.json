@@ -1,0 +1,62 @@
+{
+    "Clinical Trial ID": "NCT00591851",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  AC Followed by Paclitaxel + Trastuzumab",
+        "  Doxorubicin and Cyclophosphamide (60/600 mg/m2) X 4 followed by Paclitaxel (175 mg/m2) X 4 every 2 weekly with pegfilgrastim (6mg on day 2) + Trastuzumab x 1 year."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  adenocarcinoma breast cancer",
+        "  ECOG performance status of 0 or 1",
+        "  peripheral neuropathy less than or equal to 1",
+        "  discontinued hormonal therapy as a chemoprevention while onstudy",
+        "  LVEF by MUGA > 55%?",
+        "  Absolute neutrophil count (ANC)> 1000/\u00b5L)",
+        "  platelet count > 100,000/\u00b5L)",
+        "  SGOT OR SGPT < 92.5 units/L",
+        "Exclusion Criteria:",
+        "  Stage IV breast cancer",
+        "  any chemotherapy, radiation therapy, immunotherapy, or biotherapy for a CURRENT breast cancer",
+        "  pregnant or lactating patients",
+        "  active second malignancy, other than adequately treated non-melanoma skin cancers or in situ cervical cancer",
+        "  previous allergy/hypersensitivity to Doxorubicin, Cyclophosphamide, Paclitaxel, or other drugs formulated in Cremophor EL?",
+        "  unstable angina, congestive heart failure, current use of digitalis, beta-blockers, or calcium blockers for therapy of congestive heart failure, arrhythmia requiring medical therapy, or a history of a myocardial infarction within 12 months",
+        "  psychiatric illness that prevents her from understanding the nature of this study and complying with protocol requirements?",
+        "  active, unresolved infections",
+        "  sensitivity to E. coli derived proteins",
+        "  prior chemotherapy with an anthracycline",
+        "  prior Herceptin therapy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Cardiac Saftey",
+        "  LVEF by Muga scan",
+        "  Time frame: Baseline-18 months",
+        "Results 1: ",
+        "  Arm/Group Title: AC Followed by Paclitaxel + Trastuzumab",
+        "  Arm/Group Description: Doxorubicin and Cyclophosphamide (60/600 mg/m2) X 4 followed by Paclitaxel (175 mg/m2) X 4 every 2 weekly with pegfilgrastim (6mg on day 2) + Trastuzumab x 1 year.",
+        "  Overall Number of Participants Analyzed: 70",
+        "  Median (Full Range)",
+        "  Unit of Measure: percentage of LVEF  LVEF at Baseline: 68        (55 to 81)",
+        "  LVEF at Month 2: 67        (58 to 79)",
+        "  LVEF at Month 6 (67/70 pts): 66        (52 to 75)",
+        "  LVEF at Month 9 (68/70 pts): 65        (50 to 75)",
+        "  LVEF at Month 18 (48/70 pts): 66        (57 to 75)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 19/70 (27.14%)",
+        "  Febrile Neutropenia 24/70 (5.71%)",
+        "  Pericarditis 21/70 (1.43%)",
+        "  Sinus bradycardia 21/70 (1.43%)",
+        "  Abdominal Pain 2/70 (2.86%)",
+        "  Diarrhea 21/70 (1.43%)",
+        "  Lower gastrointestinal hemorrhage 21/70 (1.43%)",
+        "  Nausea 21/70 (1.43%)",
+        "  Non Cardiac-Chest pain 22/70 (2.86%)",
+        "  Fever 24/70 (5.71%)",
+        "  Skin infection 41/70 (1.43%)",
+        "  Neutrophil count decreased 31/70 (1.43%)"
+    ]
+}

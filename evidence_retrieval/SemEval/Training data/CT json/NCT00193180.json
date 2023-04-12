@@ -1,0 +1,56 @@
+{
+    "Clinical Trial ID": "NCT00193180",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Intervention",
+        "  All patients in this study received docetaxel 30 mg/m2 weekly for 3 consecutive weeks of each 28-day cycle, along with continuous imatinib mesylate. Initially, imatinib mesylate was given at a dose of 600 mg orally daily, beginning concurrently with the first dose of docetaxel; however, after the first 15 patients were treated it became evident that this imatinib dose was not tolerable, and subsequent patients received imatinib mesylate 400 mg orally daily."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  To be included in this study, you must meet the following criteria:",
+        "  Metastatic breast cancer confirmed by biopsy",
+        "  No more than one prior chemotherapy regimen for metastatic breast cancer",
+        "  Able to perform activities of daily living with minimal assistance",
+        "  Adequate bone marrow, liver and kidney function",
+        "  Age 18 years or older",
+        "  Give written informed consent",
+        "Exclusion Criteria:",
+        "  You cannot participate in this study if any of the following apply to you:",
+        "  Moderate to severe peripheral neuropathy",
+        "  Uncontrolled blood pressure or uncontrolled heart beat irregularities",
+        "  Diabetes Mellitus with fasting blood sugar greater than 200 mg %",
+        "  Significant heart disease within the prior 6 months",
+        "  Severe or uncontrolled medical disease",
+        "  Active uncontrolled infection",
+        "  Known chronic liver disease",
+        "  Known diagnosis of HIV infection",
+        "  Pregnant or breast feeding females",
+        "  Please note: There are additional inclusion/exclusion criteria. The study center will determine if you meet all of the criteria. If you do not qualify for the trial, study personnel will explain the reasons. If you do qualify, study personnel will explain the trial in detail and answer any questions you may have."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Overall Response Rate (ORR)",
+        "  Defined as the proportion of patients with confirmed complete or partial response (CR or PR), recorded from date of treatment until date of recurrence or progressive disease, and assessed by RECIST v 1.1.",
+        "  Time frame: 18 months",
+        "Results 1: ",
+        "  Arm/Group Title: Intervention",
+        "  Arm/Group Description: All patients in this study received docetaxel 30 mg/m2 weekly for 3 consecutive weeks of each 28-day cycle, along with continuous imatinib mesylate. Initially, imatinib mesylate was given at a dose of 600 mg orally daily, beginning concurrently with the first dose of docetaxel; however, after the first 15 patients were treated it became evident that this imatinib dose was not tolerable, and subsequent patients received imatinib mesylate 400 mg orally daily.",
+        "  Overall Number of Participants Analyzed: 37",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  16        (4.3 to 28.1)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 18/37 (48.65%)",
+        "  Febrile neutropenia 1/37 (2.70%)",
+        "  Hemoglobin 1/37 (2.70%)",
+        "  Leukocytes 1/37 (2.70%)",
+        "  Neutrophils 1/37 (2.70%)",
+        "  Cardiac ischemia/infarction 2/37 (5.41%)",
+        "  Cardiac ischemia/infarction - rheumatic heart failure 1/37 (2.70%)",
+        "  Dehydration 1/37 (2.70%)",
+        "  Gastrointestinal - Other (diverticular abscess) 1/37 (2.70%)",
+        "  Gastritis 1/37 (2.70%)",
+        "  Mucositis 1/37 (2.70%)"
+    ]
+}

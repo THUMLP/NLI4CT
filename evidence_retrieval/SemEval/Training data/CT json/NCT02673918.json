@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT02673918",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Part 1: Home-based Rehabilitation",
+        "  Participants in part 1 and part 2 will receive home-based upper-body rehabilitation with online support: Participants will be given written educational material, in which the physiotherapist marks the exercises specifically recommended for the individual patient. In addition, participants will get a personal password giving access to the BRECOR website for 12 weeks. The website contains professionally filmed videos of upper-body rehabilitation exercises (joint mobility and muscle strength) and instructions in scar tissue massage and manual lymph drainage. Furthermore, mindfulness sessions and additional information about prevention and early detection of late effects after breast cancer treatment are available on the website.",
+        "  On average, participants will complete three rehabilitation exercises a minimum of 4 times weekly with an anticipated duration of approximately 20 minutes.",
+        "INTERVENTION 2: ",
+        "  Part 2: Home-based Rehabilitation",
+        "  Participants in both Part 1 and Part 2 received the same home-based upper-body rehabilitation with online support: Participants received written educational material, in which the physiotherapist marked the exercises specifically recommended for the individual patient. In addition, participants were provided with a personal password giving access to the BRECOR website for 12 weeks. The website contains professionally filmed videos of upper-body rehabilitation exercises (joint mobility and muscle strength) and instructions in scar tissue massage and manual lymph drainage. Furthermore, mindfulness sessions and additional information about prevention and early detection of late effects after breast cancer treatment are available on the website.",
+        "  On average, participants were asked to complete three rehabilitation exercises a minimum of 4 times weekly with an anticipated duration of approximately 20 minutes."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Diagnosis of breast cancer",
+        "  Part 1 only: Surgery for breast cancer within the past eight weeks (mastectomy or lumpectomy with either sentinel or axillar dissection), including those women with a history of previous surgery for breast cancer, radiation therapy or chemotherapy",
+        "  Part 2 only: Completion of surgery and radiation therapy for breast cancer within the past six weeks.",
+        "  Home access to internet from stationary computer, lab top or tablet",
+        "  Ability to use internet",
+        "  Ability to read and understand Danish",
+        "Exclusion Criteria:",
+        "  Surgery for breast cancer with immediate breast reconstruction",
+        "  Diagnosis of primary lymphedema",
+        "  Metastatic or inflammatory breast cancer",
+        "  Planned use of chemotherapy within the next 6 weeks",
+        "  Surgical complications: infection, drainage issues, seroma, hematoma",
+        "  Severe physical, cognitive, or psychiatric illness causing inability to follow the study protocol: i.e. severe depression, anxiety, dementia, poor physical health with likely possibility of hospitalization within the next twelve weeks.",
+        "  Planned hospitalization or surgery within the next twelve weeks",
+        "  Participation in another clinical trial with a rehabilitation or exercise intervention"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Recruitment Rate",
+        "  This outcome represent the number and proportion (%) of eligible patients who consented to participate in the study. Recruitment was open for 10 weeks for participants in Part 1 and for 20 weeks for participants in Part 2.",
+        "  Time frame: 10 weeks for part 1 and 20 weeks for part 2",
+        "Results 1: ",
+        "  Arm/Group Title: Part 1: Home-based Rehabilitation",
+        "  Arm/Group Description: Participants in part 1 and part 2 will receive home-based upper-body rehabilitation with online support: Participants will be given written educational material, in which the physiotherapist marks the exercises specifically recommended for the individual patient. In addition, participants will get a personal password giving access to the BRECOR website for 12 weeks. The website contains professionally filmed videos of upper-body rehabilitation exercises (joint mobility and muscle strength) and instructions in scar tissue massage and manual lymph drainage. Furthermore, mindfulness sessions and additional information about prevention and early detection of late effects after breast cancer treatment are available on the website.",
+        "  On average, participants will complete three rehabilitation exercises a minimum of 4 times weekly with an anticipated duration of approximately 20 minutes.",
+        "  Overall Number of Participants Analyzed: 44",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  35  79.5%",
+        "Results 2: ",
+        "  Arm/Group Title: Part 2: Home-based Rehabilitation",
+        "  Arm/Group Description: Participants in both Part 1 and Part 2 received the same home-based upper-body rehabilitation with online support: Participants received written educational material, in which the physiotherapist marked the exercises specifically recommended for the individual patient. In addition, participants were provided with a personal password giving access to the BRECOR website for 12 weeks. The website contains professionally filmed videos of upper-body rehabilitation exercises (joint mobility and muscle strength) and instructions in scar tissue massage and manual lymph drainage. Furthermore, mindfulness sessions and additional information about prevention and early detection of late effects after breast cancer treatment are available on the website.",
+        "  On average, participants were asked to complete three rehabilitation exercises a minimum of 4 times weekly with an anticipated duration of approximately 20 minutes.",
+        "  Overall Number of Participants Analyzed: 28",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  24  85.7%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/35 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/24 (0.00%)"
+    ]
+}

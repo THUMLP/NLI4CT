@@ -1,0 +1,53 @@
+{
+    "Clinical Trial ID": "NCT00981305",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Lactate-containing Vaginal Lubricant",
+        "  apply 3cc of lactate-containing vaginal lubricant before sexual intercourse or sleeping for 8wks (at least 3 times per week)",
+        "  Lactate-containing vaginal lubricant: vaginal applying at least 3cc of lactate-containing lubricant at the time of sexual intercourse or before sleeping for 8 weeks (at least 3 times/week)",
+        "INTERVENTION 2: ",
+        "  Placebo",
+        "  apply 3cc of placebo vaginal lubricant before sexual intercourse or sleeping for 8wks (at least 3 times per week)",
+        "  Placebo vaginal lubricant: vaginal applying at least 3cc of placebo lubricant at the time of sexual intercourse or before sleeping for 8 weeks (at least 3 times/week)"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  breast cancer survivors over 20 years-old",
+        "  premenopausal at the time of diagnosis",
+        "  treated with operation and chemotherapy",
+        "  newly developed dyspareunia after cancer treatment",
+        "Exclusion Criteria:",
+        "  recent (< 2 months) start or cessation of hormonal treatment (tamoxifen etc.)",
+        "  depression or other psychological problems",
+        "  active vaginal infection",
+        "  evidence of cancer recurrence",
+        "  previously use of lactate-containing lubricants",
+        "  other chronic diseases which severely disturb the sexual life"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change of Pain Score of Female Sexual Function Index",
+        "  The Female Sexual Function Index (FSFI) is a 19-item self-reported instrument used for assessing key dimensions of female sexual function over the past 4 weeks with a total of six domains being analyzed. Each of the six specific domains (desire, arousal, lubrication, orgasm, satisfaction, and pain) analyzed in the FSFI is scored on a scale ranging from 1.2 to 6.0 (desire), 0 to 6.0 (arousal, lubrication, orgasm, and pain) or 0.8 to 6.0 (satisfaction), with higher scores indicating better performance. The total score, falling in a possible range from 2.0 to 36.0, is obtained by adding the six domain scores together.",
+        "  Time frame: Baseline and 8 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Lactate-containing Vaginal Lubricant",
+        "  Arm/Group Description: apply 3cc of lactate-containing vaginal lubricant before sexual intercourse or sleeping for 8wks (at least 3 times per week)",
+        "  Lactate-containing vaginal lubricant: vaginal applying at least 3cc of lactate-containing lubricant at the time of sexual intercourse or before sleeping for 8 weeks (at least 3 times/week)",
+        "  Overall Number of Participants Analyzed: 50",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  1.15         (1.59)",
+        "Results 2: ",
+        "  Arm/Group Title: Placebo",
+        "  Arm/Group Description: apply 3cc of placebo vaginal lubricant before sexual intercourse or sleeping for 8wks (at least 3 times per week)",
+        "  Placebo vaginal lubricant: vaginal applying at least 3cc of placebo lubricant at the time of sexual intercourse or before sleeping for 8 weeks (at least 3 times/week)",
+        "  Overall Number of Participants Analyzed: 57",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  1.05         (1.54)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/50 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/57 (0.00%)"
+    ]
+}

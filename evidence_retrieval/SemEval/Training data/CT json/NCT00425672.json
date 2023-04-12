@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT00425672",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Arm I",
+        "  Patients receive ONTAK IV over 1 hour on days 1-5. Treatment repeats every 21 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.",
+        "  ONTAK: Given IV",
+        "  flow cytometry: Correlative studies",
+        "  immunohistochemistry staining method: Correlative studies",
+        "  enzyme-linked immunosorbent assay: Correlative studies",
+        "  laboratory biomarker analysis: Correlative studies",
+        "  protein expression analysis: Correlative studies"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Patients with advanced stage refractory breast cancer",
+        "  Progressive or relapsed disease following standard therapy",
+        "  Patients must have measurable disease that can include, but is not limited to bone; specifically, patients must have measurable extraskeletal disease that can be accurately measured in at least one dimension as >= 20 mm with conventional CT techniques or >= 10 mm with spiral CT scan; measurable (bi-dimensional) chest wall disease will also be allowed",
+        "  Patients must be at least 14 days out from last cytotoxic chemotherapy; patients on bisphosphonates are eligible",
+        "  White blood cell count (WBC) > 3.0 THOU/ul",
+        "  ANC > 1.0 THOU/ul",
+        "  Platelets >= 100 THOU/ul",
+        "  Serum creatinine =< 2.0 mg/dL or creatinine clearance (calculated) >= 60 ml/min",
+        "  ALT/AST =< 2.0 x upper limit of normal",
+        "  Total bilirubin =< 1.5 x upper limit of normal",
+        "  Albumin >= 3.0 g/dL",
+        "  Subjects must have a Performance Status Score (ECOG Scale) =< 2",
+        "  Subjects must have recovered from major infections and/or surgical procedures and, in the opinion of the investigator, not have a significant active concurrent medical illness precluding protocol treatment",
+        "  Men and women of reproductive ability must agree to contraceptive use during the study and for 1month after ONTAK treatment is discontinued",
+        "Exclusion Criteria:",
+        "  Prior treatment with ONTAK (DAB389 IL-2) or DAB486 IL-2",
+        "  Known history of hypersensitivity to diphtheria toxin or IL-2",
+        "  Active autoimmune disease",
+        "  Known history of pulmonary disease except controlled asthma",
+        "  History of or pre-existing, cardiovascular disease as defined by New York Heart Association (NYHA) Class III-IV categorization",
+        "  Pregnant or breast-feeding women"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Safety Evaluated by Collecting Study Related Toxicity as Assessed by CTCAE v3.0",
+        "  Subjects are monitored for the development of end organ damage by assessing adverse events with serum chemistries, liver function studies, serum albumin, complete blood counts, symptom assessment, and physical exams performed at every cycle until 3 weeks after the final dose of ONTAK. All adverse events for all systems are graded on a scale of 1-5 using CTCAE v3.0.",
+        "  Time frame: 7 Days after last dose of ONTAK",
+        "Results 1: ",
+        "  Arm/Group Title: Arm I",
+        "  Arm/Group Description: Patients receive ONTAK IV over 1 hour on days 1-5. Treatment repeats every 21 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.",
+        "  ONTAK: Given IV",
+        "  flow cytometry: Correlative studies",
+        "  immunohistochemistry staining method: Correlative studies",
+        "  enzyme-linked immunosorbent assay: Correlative studies",
+        "  laboratory biomarker analysis: Correlative studies",
+        "  protein expression analysis: Correlative studies",
+        "  Overall Number of Participants Analyzed: 15",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  15 100.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/15 (6.67%)",
+        "  Severe Nausea and Vomiting 1/15 (6.67%)"
+    ]
+}

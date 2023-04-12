@@ -1,0 +1,47 @@
+{
+    "Clinical Trial ID": "NCT01067976",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  CMRM vs UMRM",
+        "[Not Specified]"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Recent histologically proven diagnosis of breast cancer after having obtained X-Ray Mammography (XRM) of both breasts (according to American College of Radiology [ACR] and performed no longer than 6 weeks prior to enrollment into the study) and has been referred for a contrast-enhanced Magnetic Resonance Mammography (MRM) prior to surgery of the breast.",
+        "  If female, a digital XRM is required if any of the following criteria is met:",
+        "  patient is younger than 50 years;",
+        "  patient has heterogeneously or extremely dense breasts;",
+        "  is not post-menopausal (post-menopause defined as at least 12 months prior to inclusion without menstruation).",
+        "  If female of childbearing potential, MRM should be performed on the 7-14th day of the menstrual cycle.",
+        "  Has an estimated glomerular filtration rate (eGFR) value >/= 60 mL/min/1.73m^2 derived from a serum creatinine result within 2 weeks prior to study enrollment.",
+        "Exclusion Criteria:",
+        "  Is a female patient who is pregnant or lactating",
+        "  Has any contraindication to the MRM examination (e.g. metal implants, phobia) or the use of gadolinium-containing contrast agents.",
+        "  Has received any contrast agent within 24 hours prior to the study MRM, or is scheduled to receive any contrast agent within 24 hours after the study MRM.",
+        "  Has severe cardiovascular disease (e.g., known long QT syndrome, acute myocardial infarction [< 14 days], unstable angina, congestive heart failure New York Heart Association class IV) or acute stroke (< 48 hours)).",
+        "  Has acute renal insufficiency of any severity due to hepato-renal syndrome or in the peri-operative liver transplantation period or who has acute or chronic moderate or severe renal insufficiency (glomerular filtration rate < 60 mL/min/1.73m^2).",
+        "  Has received chemotherapy or hormonal therapy for breast cancer within 6 months.",
+        "  Has received hormone replacement therapy within 4 weeks prior to study drug administration.",
+        "  Is scheduled or likely to require a surgery and/or biopsy in the time period up to 24 hours following study drug application",
+        "  Has prior excisional biopsy or breast surgery less than 6 months before enrollment and between XRM and study MRM"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Difference for Sensitivity for Detection of Full Extent of Malignant Breast Disease Using CMRM vs UMRM Per Reader",
+        "  For a single participant the sensitivity was defined as the proportion of malignant breast regions that were recognized by the clinical investigators and the 3 blinded readers using the respective imaging modality as malignant. Subsequently the sensitivity percentage was calculated based on the mean of the sensitivities across all participants. The difference was calculated as CMRM value minus UMRM value. For ease of expression, the following abbreviations will be used: Magnetic Resonance Mammography (MRM), Unenhanced MRM (UMRM), combined unenhanced and contrast (gadobutrol)-enhanced MRM (CMRM), X-ray mammography (XRM).",
+        "  Time frame: Immediately before injection and after injection",
+        "Results 1: ",
+        "  Arm/Group Title: CMRM vs UMRM",
+        "  Arm/Group Description: [Not Specified]",
+        "  Overall Number of Participants Analyzed: 388",
+        "  Mean (95% Confidence Interval)",
+        "  Unit of Measure: difference in sensitivity (%)  Reader 1: 46.6        (41.9 to 51.4)",
+        "  Reader 2: 30.8        (25.7 to 35.9)",
+        "  Reader 3: 23.3        (19.2 to 27.3)",
+        "  Investigator: 17.8        (14.2 to 21.4)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/426 (0.00%)"
+    ]
+}

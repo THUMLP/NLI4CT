@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT01422408",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Supportive Care (Fluocinonide Cream)",
+        "  This is a single-arm, single-stage, open-label phase II trial of topical fluocinonide 0.05% cream to improve vaginal symptoms.",
+        "  All subjects will receive topical fluocinonide 0.05% cream to apply twice daily for two weeks and then once daily for two weeks to the vagina. The duration of treatment will be 4 weeks."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Adult women (both pre-menopausal and post-menopausal women are eligible) and with a history of breast cancer or with an increased risk for breast cancer on current treatment with tamoxifen or an aromatase inhibitor with the presence of vaginal dryness or dyspareunia of sufficient severity to make the subject patient desire therapeutic intervention",
+        "  Vaginal dryness or dyspareunia must be present for at least two months prior to study entry",
+        "  Subjects must be on current treatment with tamoxifen or an aromatase inhibitor for at least two months prior to study enrollment (defined as the date of consent) and should not be planning to discontinue treatment or to change dose or type of endocrine treatment during the duration of the study",
+        "  Subjects must agree to not use any over-the-counter or prescription vaginal preparations (lubricants, creams, gels, ointments, solutions) during the four weeks of treatment with topical fluocinonide cream",
+        "  Subjects must agree to not use any medications, products, or preparations known to contain estrogen during the four weeks of treatment with topical fluocinonide cream",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status =< 2",
+        "  Subjects must have ability to read, comprehend, and complete patient questionnaires independently or with assistance",
+        "  Subjects must sign informed consent",
+        "  Subjects must agree to read patient instructions regarding use of barrier contraceptive devices while on treatment with fluocinonide cream in the informed consent",
+        "Exclusion Criteria:",
+        "  Use of any vaginal preparations within one week prior to study enrollment (exception: subjects currently using a vaginal preparation can enroll after discontinuing treatment for 7 days)",
+        "  Use of any estrogen containing medications, products, or preparations",
+        "  Use of any systemic oral or parenteral steroid containing medications is not permitted; use of \"High Daily Dose\" inhaled/intranasal corticosteroids is not permitted; use inhaled/intranasal corticosteroid preparations at dosing levels less than \"High Daily Dose\" is permitted",
+        "  Current or past treatment with fluocinonide cream for vaginal dryness, itching, or dyspareunia",
+        "  Subject reported symptoms of vaginal infection with significant vaginal discharge or odor",
+        "  Known current vaginal infection",
+        "  Known vaginal pathology other than vaginal atrophy that could explain vaginal symptoms",
+        "  Known intolerance of topical steroid preparations",
+        "  Pregnant or lactating women (to be obtained via subject report only)",
+        "  Known diagnoses of diabetes mellitus, adrenal insufficiency (Addison's disease), or Cushing's syndrome",
+        "  No prior chemotherapeutic treatment for any malignancy other than breast cancer"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Symptom Scores of Vaginal Dryness",
+        "  Change in symptom scores of vaginal dryness, itching, and dyspareunia will be evaluated by the Mayo/North Central Cancer Treatment Group (NCCTG) patient questionnaire which has patients grade how much vaginal dryness, vaginal itching, and vaginal discomfort during intercourse they are currently experiencing on an ordinal scale of zero to four (none, mild, moderate, severe, and very severe, respectively). Analyzed using Wilcoxon signed rank test with 2.5% significance level to account for two co-primary endpoints.",
+        "  Outcome measures median change in score from baseline to end of study. Scale is explained above for the scoring of symptoms at each time point. The median change (i.e. median difference) can range from -4 to +4; negative values indicate improved symptoms, zero no change, and positive values indicate worsened symptoms.",
+        "  Time frame: Baseline and 4 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Supportive Care (Fluocinonide Cream)",
+        "  Arm/Group Description: This is a single-arm, single-stage, open-label phase II trial of topical fluocinonide 0.05% cream to improve vaginal symptoms.",
+        "  All subjects will receive topical fluocinonide 0.05% cream to apply twice daily for two weeks and then once daily for two weeks to the vagina. The duration of treatment will be 4 weeks.",
+        "  Overall Number of Participants Analyzed: 34",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: units on a scale  -2        (-3 to -1)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/34 (0.00%)"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT03076190",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Active Control Group",
+        "  Health Education Active Control Group",
+        "INTERVENTION 2: ",
+        "  My Surgical Success Treatment Group",
+        "  My Surgical Success Intervention Group"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Age 18+",
+        "  Scheduled for breast cancer surgery",
+        "  English speaking",
+        "  Ability and willingness to complete study procedures including online questionnaires, assessments, and the psychoeducational video",
+        "Exclusion Criteria:",
+        "  Any conditions causing inability to complete study procedures (e.g. education, cognitive ability, mental status, medical status) or lack of access to internet and phone that would prevent participation in study procedures - at the discretion of the investigator.",
+        "  Known pregnancy",
+        "  Ongoing legal action related to pain or disability claim"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Participant Ratings (0-6) for Satisfaction, Usefulness of the Information Presented, Relevance, Ease of Understanding, and Likelihood to Use Skills Learning",
+        "  Participants complete a single time point rating for 5 items listed above. Ratings occur on a 0-6 point scale (e.g., 0=completely useless and 6=Very useful). Means and Standard Deviations are reported per the table below.",
+        "  Time frame: Immediately post-treatment",
+        "Results 1: ",
+        "  Arm/Group Title: Active Control Group",
+        "  Arm/Group Description: Health Education Active Control Group",
+        "  Overall Number of Participants Analyzed: 32",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  Easy to Understand: 5.9         (.3)",
+        "  Relevant: 4.7         (1.51)",
+        "  Useful: 4.67         (1.52)",
+        "  Satisfaction: 4.67         (1.56)",
+        "  Likely to Use: 5.03         (1.3)",
+        "Results 2: ",
+        "  Arm/Group Title: My Surgical Success Treatment Group",
+        "  Arm/Group Description: My Surgical Success Intervention Group",
+        "  Overall Number of Participants Analyzed: 36",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  Easy to Understand: 5.9         (.2)",
+        "  Relevant: 5.0         (1.6)",
+        "  Useful: 5.1         (1.3)",
+        "  Satisfaction: 5.2         (1.2)",
+        "  Likely to Use: 5.3         (1.2)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/0",
+        "Adverse Events 2:",
+        "  Total: 0/0"
+    ]
+}

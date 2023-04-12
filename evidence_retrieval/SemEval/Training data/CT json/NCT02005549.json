@@ -1,0 +1,43 @@
+{
+    "Clinical Trial ID": "NCT02005549",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Bevacizumab+Docetaxel+Capecitabine",
+        "  Participants received bevacizumab, 15 mg/kg IV, followed by docetaxel 75 mg/m^2 IV on Day 1 and capecitabine 950 mg/m^2 PO BID within 30 minutes after the end of a meal, starting the evening of Day 1 and continuing until the morning of Day 15 (followed by a 7-day rest period) for a maximum of five 3-week cycles."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  female patients, 18-70years of age;",
+        "  histologically-proven invasive breast cancer;",
+        "  no prior or current neoplasm except for non-melanoma skin cancer, or in situ cancer of the cervix;",
+        "  no distant disease/secondary cancer.",
+        "Exclusion Criteria:",
+        "  pregnant or lactating women;",
+        "  pre-operative local treatment for breast cancer;",
+        "  prior or concurrent systemic antitumor therapy;",
+        "  clinically significant cardiac disease."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With Pathological Complete Response (pCR)",
+        "  pCR was defined as the absence of signs for invasive tumor in the final surgical sample as judged by the local pathologist. Surgery was performed 2 to 4 weeks after the last chemotherapy cycle.",
+        "  Time frame: Baseline, 20-24 weeks (final surgery, performed 2 to 4 weeks after the last chemotherapy cycle [Week 18])",
+        "Results 1: ",
+        "  Arm/Group Title: Bevacizumab+Docetaxel+Capecitabine",
+        "  Arm/Group Description: Participants received bevacizumab, 15 mg/kg IV, followed by docetaxel 75 mg/m^2 IV on Day 1 and capecitabine 950 mg/m^2 PO BID within 30 minutes after the end of a meal, starting the evening of Day 1 and continuing until the morning of Day 15 (followed by a 7-day rest period) for a maximum of five 3-week cycles.",
+        "  Overall Number of Participants Analyzed: 18",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  22.22        (6.41 to 47.64)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 5/18 (27.78%)",
+        "  Intestinal perforation * 1/18 (5.56%)",
+        "  General physical health deterioration * 1/18 (5.56%)",
+        "  Impaired healing * 1/18 (5.56%)",
+        "  Neutropenic infection * 1/18 (5.56%)",
+        "  Contralateral breast cancer * 1/18 (5.56%)",
+        "  Menorrhagia * 1/18 (5.56%)",
+        "  Deep vein thrombosis * 2/18 (11.11%)"
+    ]
+}

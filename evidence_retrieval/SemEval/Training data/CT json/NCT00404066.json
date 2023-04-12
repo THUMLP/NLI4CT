@@ -1,0 +1,62 @@
+{
+    "Clinical Trial ID": "NCT00404066",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Neoadjuvant Chemotherapy",
+        "  Doxorubicin (Adriamycin) + cyclophosphamide (Cytoxan) with pegfilgrastim or filgrastim growth factor support every 2 weeks for 4 cycles, followed by docetaxel + lapatinib for four 21-day cycles, followed by surgery. Dexamethasone was administered twice-a-day for 3 days, starting 24 hours before the docetaxel infusions. After surgery +/- radiation, participants may receive trastuzumab (Herceptin) for a year."
+    ],
+    "Eligibility": [
+        "INCLUSION CRITERIA",
+        "  Female",
+        "  Histologically-confirmed Her2neu positive breast cancer, by either Immunohistochemistry (IHC) 3+ or Fluorescence In Situ Hybridization (FISH)+",
+        "  Stage II/III breast cancer including any large primary tumor (> 2 cm), tumors of any size associated with skin or chest wall involvement, tumors of any size with axillary lymph node involvement, (T2-T4, N0-N2) and those with ipsilateral subclavicular or supraclavicular lymph nodes).",
+        "  At least one bi-dimensional, measurable indicator lesion.",
+        "  Between 18 and 70 years of age",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status  2 / Karnofsky  60% at screening and on the first day of treatment.",
+        "  Informed consent must be obtained prior to registration.",
+        "  Cardiac ejection fraction within the institutional range of normal as measured by multigated acquisition (MUGA) or echocardiography (ECHO) scan.",
+        "  Absolute neutrophil count > 1,500/mm\u00b3",
+        "  Hemoglobin > 8.0 g/dL",
+        "  Platelet count > 100,000/mm\u00b3",
+        "  Creatinine within normal institutional limits",
+        "  Total Bilirubin equal to or less than institutional upper limit of normal (ULN)",
+        "  Aspartate aminotransferase (AST); alanine aminotransferase (ALT); and alkaline phosphatase must be within the range allowing for eligibility. In determining eligibility the more abnormal of the two values (AST or ALT) should be used.",
+        "  Eligibility of patients receiving medications or substances known to affect, or with the potential to affect the activity or pharmacokinetics of GW572016 will be determined following review of their use by the Principal Investigator",
+        "  Antacid use is prohibited 1 hour before and 1 hour after GW572016 dosing.",
+        "  All herbal (alternative) medicines are prohibited.",
+        "  Medications prohibited during the administration of lapatinib .",
+        "  Women of child-bearing potential must have negative pregnancy test and must agree to use adequate contraception (hormonal or barrier method of birth control or abstinence) prior to study entry and for the duration of study participation.",
+        "  Peripheral neuropathy: must be < grade 1",
+        "  Able to swallow and retain oral medication",
+        "  EXCLUSION CRITERIA",
+        "  Evidence of disease outside the breast or chest wall, except for ipsilateral axillary , supraclavicular, or infraclavicular lymph nodes.",
+        "  Prior chemotherapy, immunotherapy, or hormonal therapy for breast cancer.",
+        "  More than 3 months between histologic diagnosis and registration on this study.",
+        "  History of other malignancy within the last 5years, except curatively treated basal cell carcinoma of the skin or carcinoma in situ of the cervix.",
+        "  Psychological, familial, sociological or geographical conditions which do not permit weekly medical follow-up and compliance with the study protocol. Those who are medically-unstable, including but not limited to active infection, acute hepatitis, deep vein thrombosis requiring anticoagulant therapy, gastrointestinal bleeding, uncontrolled hypercalcemia, uncontrolled diabetes, dementia, seizures, superior vena cava syndrome, and those whose circumstances do not permit completion of the study or the required follow-up.",
+        "  Congestive heart failure, abnormal left ventricular ejection fraction (LVEF), angina pectoris, uncontrolled cardiac arrhythmias, or other significant heart disease, or who have had a myocardial infarction within the past year.",
+        "  Pregnant or lactating",
+        "  Of childbearing potential and not employing adequate contraception",
+        "  History of allergic reactions attributed to compounds of similar chemical or biologic composition to GW572016.",
+        "  HIV-positive and receiving combination anti-retroviral therapy are excluded from the study because of possible pharmacokinetic interactions with lapatinib. Appropriate studies will be undertaken in patients receiving combination anti-retroviral therapy when indicated.",
+        "  GI tract disease resulting in an inability to take oral medication, malabsorption syndrome, a requirement for IV alimentation, prior surgical procedures affecting absorption, uncontrolled inflammatory GI disease (e.g., Crohn's, ulcerative colitis).",
+        "  History of severe hypersensitivity reaction to taxotere or other drugs formulated with polysorbate 80.",
+        "  Current active hepatic or biliary disease (with exception of patients with Gilberts syndrome, asymptomatic gallstones, or stable chronic liver disease per investigator assessment )."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With Pathologic Complete Response (pCR)",
+        "  Pathologic Complete Response (pCR) rate, assessed as no evidence of invasive disease in excised surgical specimens of breast and/or axilla, in participants who received at least 1 cycle of docetaxel and lapatinib and at least one follow-up evaluation.",
+        "  Time frame: 12 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Neoadjuvant Chemotherapy",
+        "  Arm/Group Description: Doxorubicin (Adriamycin) + cyclophosphamide (Cytoxan) with pegfilgrastim or filgrastim growth factor support every 2 weeks for 4 cycles, followed by docetaxel + lapatinib for four 21-day cycles, followed by surgery. Dexamethasone was administered twice-a-day for 3 days, starting 24 hours before the docetaxel infusions. After surgery +/- radiation, participants may receive trastuzumab (Herceptin) for a year.",
+        "  Overall Number of Participants Analyzed: 18",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  38.9"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/21 (0.00%)"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Clinical Trial ID": "NCT00568022",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Ixabepilone 32 mg/m^2 + Capecitabine 1650 mg/m^2/Day",
+        "  Ixabepilone 32 mg/m^2 was administered via intravenous (IV) infusion over 3 hours on Day 1 of each 21-day treatment cycle. Capecitabine 1650 mg/m^2/day was administered on Days 1 to 14 of each 21-day treatment cycle.",
+        "INTERVENTION 2: ",
+        "  Ixabepilone 40 mg/m^2 + Capecitabine 1650 mg/m^2/Day",
+        "  Ixabepilone 40 mg/m^2 was administered via intravenous (IV) infusion over 3 hours on Day 1 of each 21-day treatment cycle. Capecitabine 1650 mg/m^2/day was administered on Days 1 to 14 of each 21-day treatment cycle."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women  20 years",
+        "  Histologically or cytologically confirmed diagnosis of adenocarcinoma originating in the breast",
+        "Exclusion Criteria:",
+        "  Number of prior chemotherapy lines of treatment in the metastatic setting 3"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Participants Experiencing Dose Limiting Toxicity (DLT)",
+        "  DLT was defined as any ixabepilone and/or capecitabine related events requiring study discontinuation during the first two treatment cycles.",
+        "  Time frame: From initiation of drug through last day of Cycle 2 (Day 42)",
+        "Results 1: ",
+        "  Arm/Group Title: Ixabepilone 32 mg/m^2 + Capecitabine 1650 mg/m^2/Day",
+        "  Arm/Group Description: Ixabepilone 32 mg/m^2 was administered via intravenous (IV) infusion over 3 hours on Day 1 of each 21-day treatment cycle. Capecitabine 1650 mg/m^2/day was administered on Days 1 to 14 of each 21-day treatment cycle.",
+        "  Overall Number of Participants Analyzed: 3",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  0",
+        "Results 2: ",
+        "  Arm/Group Title: Ixabepilone 40 mg/m^2 + Capecitabine 1650 mg/m^2/Day",
+        "  Arm/Group Description: Ixabepilone 40 mg/m^2 was administered via intravenous (IV) infusion over 3 hours on Day 1 of each 21-day treatment cycle. Capecitabine 1650 mg/m^2/day was administered on Days 1 to 14 of each 21-day treatment cycle.",
+        "  Overall Number of Participants Analyzed: 3",
+        "  Measure Type: Number",
+        "  Unit of Measure: Participants  0"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/3 (0.00%)",
+        "  NEUTROPENIA 0/3 (0.00%)",
+        "  SKIN INFECTION 0/3 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 1/3 (33.33%)",
+        "  NEUTROPENIA 0/3 (0.00%)",
+        "  SKIN INFECTION 1/3 (33.33%)"
+    ]
+}

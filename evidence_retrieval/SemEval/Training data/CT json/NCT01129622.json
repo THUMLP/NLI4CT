@@ -1,0 +1,30 @@
+{
+    "Clinical Trial ID": "NCT01129622",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Letrozole, Breast Enhancement, Safety",
+        "  Single arm of healthy postmenopausal women to have two breast MRI (baseline and post-treatment). Letrozole of 12.5 mg/day is given for three successive days just prior to the second MRI."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women are eligible to participate if they are 40 years or older and have been menopausal (had no menstrual bleeding during the past 12 months)",
+        "Exclusion Criteria:",
+        "  History of bilateral mastectomy, osteoporosis or renal impairment."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Women With Reduced Breast Parenchymal Enhancement",
+        "  Image analysis was done using the e-film workstation. A region of interest was selected in all images. The signal intensity of enhancement was recorded and the relative enhancement (percentage of increase in signal intensity) was calculated as (SIc - SI)/SI \u00d7 100, where SI and SIc are the precontrast and the postcontrast signal intensities, respectively. Relative enhancement was compared at the baseline MRI study and the after one month MRI study for all participants.",
+        "  Time frame: One month MRI study after letrozole compared to baseline MRI study, both with gadolinium enhancement",
+        "Results 1: ",
+        "  Arm/Group Title: Letrozole, Breast Enhancement, Safety",
+        "  Arm/Group Description: Single arm of healthy postmenopausal women to have two breast MRI (baseline and post-treatment). Letrozole of 12.5 mg/day is given for three successive days just prior to the second MRI.",
+        "  Overall Number of Participants Analyzed: 14",
+        "  Measure Type: Number",
+        "  Unit of Measure: Number of participants  7"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/14 (0.00%)"
+    ]
+}

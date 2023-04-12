@@ -1,0 +1,47 @@
+{
+    "Clinical Trial ID": "NCT01806259",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Ketorolac 30 mg",
+        "  Active drug to be compared with placebo",
+        "Ketorolac 30 mg IV",
+        "INTERVENTION 2: ",
+        "  NaCl 0.9% 3mL",
+        "Ketorolac 30 mg IV"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Written informed Consent age : 18-85 years weight: 50-100 kg Neutrophils / Lymphocytes ratio >4 and/or \"triple negative\" histological status and/or Positive lymph nodes",
+        "Exclusion Criteria:",
+        "  Previous cancer (behalf of basocellular skin cancer and in situ uterine cervix cancer) Non compliance or refusal of the protocol Positive Pregnancy test Childbearing or breastfeeding mothers Contra-indication for NSAIDs NSAIDs intake in the 5 days before randomisation NSAIDs use planned in the 30 days after randomisation Non curative surgery (T4 or M1 tumor classification )"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Recurrence-free Survival",
+        "  2 years for the primary analysis + 3 additional years for secondary analysis (From date of randomization until the date of first documented progression or date of death from any cause, whichever came first, assessed up to 5 years)",
+        "  Time frame: 5 years",
+        "Results 1: ",
+        "  Arm/Group Title: Ketorolac 30 mg",
+        "  Arm/Group Description: Active drug to be compared with placebo",
+        "  Ketorolac 30 mg IV",
+        "  Overall Number of Participants Analyzed: 96",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  80  83.3%",
+        "Results 2: ",
+        "  Arm/Group Title: NaCl 0.9% 3mL",
+        "  Arm/Group Description: Ketorolac 30 mg IV",
+        "  Overall Number of Participants Analyzed: 107",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  96  89.7%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 8/96 (8.33%)",
+        "  Hematoma requiring surgery  1/96 (1.04%)",
+        "  Any type (not bleeding related)  7/96 (7.29%)",
+        "Adverse Events 2:",
+        "  Total: 7/107 (6.54%)",
+        "  Hematoma requiring surgery  0/107 (0.00%)",
+        "  Any type (not bleeding related)  7/107 (6.54%)"
+    ]
+}

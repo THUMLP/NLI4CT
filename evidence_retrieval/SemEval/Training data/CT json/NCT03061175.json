@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT03061175",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Arm I (Web-Based CPM-DA)",
+        "  Patients receive a website address, a secure username and password, and instructions for using the web-based CPM-DA.",
+        "  Internet-Based Intervention: Receive web-based CPM-DA",
+        "  Survey Administration: Ancillary studies",
+        "INTERVENTION 2: ",
+        "  Arm II (Usual Care)",
+        "  Patients undergo usual care available to patients considering CPM and receive information from a medical oncologist about CPM.",
+        "  Survey Administration: Ancillary studies"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  PHASE I: Has a first, primary diagnosis of unilateral stage 0, 1, 2, or 3a breast cancer (patients with bilateral breast cancer will be excluded from participation)",
+        "  PHASE I: Speaks and reads English",
+        "  PHASE I: Women with sporadic cancers (WSC) (does not have hereditary breast/ovarian cancer syndrome [BReast CAncer gene (BRCA) carrier, strong family history]); if there is any uncertainty, the surgeon will use the Tyrer-Cuzick (Tyrer et al., 2004) risk model to calculate risk; the Tyrer-Cuzick model calculates a personal lifetime risk of breast cancer based on multiple factors; it has become the standard model because it incorporates not only factors such as estrogen exposure and first degree relatives, but also second degree relatives and paternal lineage; a lifetime risk of 20% or greater is considered high risk and would necessitate increased screening methods to the traditional annual mammogram; for this study, anyone with a lifetime risk up to 19% on the Tyrer-Cuzick model will be considered average risk for breast cancer; anyone with a lifetime risk of 20% or greater will be excluded from participation",
+        "  PHASE I: Able to provide meaningful informed consent",
+        "  PHASE II: Completed initial surgical consult with breast cancer surgeon at Cancer Institute of New Jersey (CINJ)/Massachusetts General Hospital (MGH)/Memorial Sloan Kettering Cancer Center (MSKCC) and is considering CPM, regardless of the surgical treatment of their primary breast cancer (lumpectomy/mastectomy)",
+        "  PHASE II: Has home internet access",
+        "  PHASE II: Has a first, primary diagnosis of unilateral stage 0, 1, 2, or 3a breast cancer",
+        "  PHASE II: Speaks and reads English",
+        "  PHASE II: WSC (does not have hereditary breast/ovarian cancer syndrome [BRCA carrier, strong family history]); if there is any uncertainty, the surgeon will use the Tyrer-Cuzick (Tyrer et al., 2004) risk model to calculate risk; for this study, anyone with a lifetime risk up to 19% on the Tyrer-Cuzick model will be considered average risk for breast cancer; anyone with a lifetime risk of 20% or greater will be excluded from participation",
+        "  PHASE II: Able to provide meaningful informed consent"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Contralateral Prophylactic Mastectomy (CPM) Knowledge Assessed by Surveys for CPM-DA Participants vs. UC Participants",
+        "  CPM knowledge is a 10-item multiple-choice measure developed by author Kirsten and Smith. Scores range from 0-100% correct with a higher score equaling more correct knowledge items. Items assessed understanding of the definition of CPM, surgical recovery time and risks/side effects, whether or not CPM improves survival, and whether CPM reduced the risk for disease progression. Will characterize the data using standard methods (estimated marginal means, standard errors, and Cohen's d effect sizes) separately by study arm. At follow-up scores will be reported as the difference between the knowledge score at two time points- the baseline knowledge score and follow-up knowledge score for both the CPM-DA arm and the UC arm.",
+        "  Time frame: 2-4 week follow up",
+        "Results 1: ",
+        "  Arm/Group Title: Arm I (Web-Based CPM-DA)",
+        "  Arm/Group Description: Patients receive a website address, a secure username and password, and instructions for using the web-based CPM-DA.",
+        "  Internet-Based Intervention: Receive web-based CPM-DA",
+        "  Survey Administration: Ancillary studies",
+        "  Overall Number of Participants Analyzed: 39",
+        "  Mean (Standard Error)",
+        "  Unit of Measure: score on a scale  62.47         (3.40)",
+        "Results 2: ",
+        "  Arm/Group Title: Arm II (Usual Care)",
+        "  Arm/Group Description: Patients undergo usual care available to patients considering CPM and receive information from a medical oncologist about CPM.",
+        "  Survey Administration: Ancillary studies",
+        "  Overall Number of Participants Analyzed: 44",
+        "  Mean (Standard Error)",
+        "  Unit of Measure: score on a scale  51.33         (3.24)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/46 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

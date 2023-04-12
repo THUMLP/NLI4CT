@@ -1,0 +1,35 @@
+{
+    "Clinical Trial ID": "NCT03618017",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Recruitment Population",
+        "  Pre-randomization recruitment and enrollment"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Diagnosed with early Stage (0-IIB) breast cancer",
+        "  Must be a patient of a University of Michigan Breast Cancer Oncologist",
+        "  Must be completing primary cancer treatment and transitioning into survivorship",
+        "  Must be able to speak, read and write in English",
+        "  Must have access and the ability to use the internet",
+        "Exclusion Criteria:",
+        "  Diagnosed with stage III or IV breast cancer",
+        "  Unable to speak, read, and write in English"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Breast Cancer Patients Successfully Recruited to Participate in the Study",
+        "  We anticipate a response rate of 80% enrollment (n=60). We will assess the number of patients successfully recruited who enroll and complete the baseline survey.",
+        "  Time frame: At baseline survey",
+        "Results 1: ",
+        "  Arm/Group Title: Recruitment Population",
+        "  Arm/Group Description: Pre-randomization recruitment and enrollment",
+        "  Overall Number of Participants Analyzed: 160",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  66  41.3%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/33 (0.00%)"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Clinical Trial ID": "NCT03557801",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Standard of Care Mammography",
+        "  Immediately following consent and completion of the baseline assessment, women in the control arm will receive standard of care well woman screening. The control arm will receive screening results per standard of care protocol.",
+        "INTERVENTION 2: ",
+        "  Mammography With Community Health Worker (Individual)",
+        "  Immediately following consent and completion of the baseline assessment, women in the intervention arm 1 will participate in a 20-30 minute educational session alone with the community health worker. Well woman screening will follow the educational session. The community health worker will be available to assist with questions and language interpretation as necessary. After standard delivery of screening results, the community health worker will contact these participants to answer any questions about their screening results and to assist with scheduling any additional tests necessary."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women",
+        "  Identifying as Hispanic ethnicity",
+        "  Age 40-64",
+        "  Tennessee resident",
+        "Exclusion Criteria:",
+        "  Personal history of breast cancer",
+        "  Current breast symptoms (palpable mass)"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Patient Reported Measures From Interpersonal Processes of Care Survey",
+        "  Selected scales (communication and interpersonal style) of the Interpersonal Processes of Care Survey will be the primary outcome. A total of 18 (corrected from orginal submission) questions will be administered. The questions are scored on a scale from 1-5 with higher scores indicating higher frequencies of the construct. The compiled scores will range from 5-90. Scales with negative associations (discrimination, hurried communication) will be reversed. Thus, higher scores for all items will indicate a more positive experience.",
+        "  Time frame: Approximately 2 weeks after consent/screening mammogram.",
+        "Results 1: ",
+        "  Arm/Group Title: Standard of Care Mammography",
+        "  Arm/Group Description: Immediately following consent and completion of the baseline assessment, women in the control arm will receive standard of care well woman screening. The control arm will receive screening results per standard of care protocol.",
+        "  Overall Number of Participants Analyzed: 32",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: score on a scale  73        (70.5 to 79)",
+        "Results 2: ",
+        "  Arm/Group Title: Mammography With Community Health Worker (Individual)",
+        "  Arm/Group Description: Immediately following consent and completion of the baseline assessment, women in the intervention arm 1 will participate in a 20-30 minute educational session alone with the community health worker. Well woman screening will follow the educational session. The community health worker will be available to assist with questions and language interpretation as necessary. After standard delivery of screening results, the community health worker will contact these participants to answer any questions about their screening results and to assist with scheduling any additional tests necessary.",
+        "  Overall Number of Participants Analyzed: 32",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: score on a scale  78        (75 to 84)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/34 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/33 (0.00%)"
+    ]
+}

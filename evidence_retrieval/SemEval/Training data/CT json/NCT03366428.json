@@ -1,0 +1,43 @@
+{
+    "Clinical Trial ID": "NCT03366428",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  DS-8201a",
+        "  Participants who received 6.4 mg/kg of DS-8201a as an intravenous (IV) infusion once every 3 weeks on Day 1 of each 21-day cycle."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Has a pathologically documented unresectable or metastatic breast cancer with HER2 expression (immunohistochemistry [IHC] 3+, IHC 2+, IHC 1+ and/or in situ hybridization [ISH] +) that is refractory to or intolerable with standard treatment, or for which no standard treatment is available",
+        "  Has a left ventricular ejection fraction (LVEF)  50%",
+        "  Has an Eastern Cooperative Oncology Group performance status (ECOG PS) score of 0 or 1",
+        "Exclusion Criteria:",
+        "  Has a medical history of myocardial infarction within 6 months before enrollment",
+        "  Has a medical history of ventricular arrhythmias, other than rare occasional premature ventricular contractions",
+        "  Has uncontrolled or significant cardiovascular disease"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Changes in QTcF After Treatment With DS-8201a in Participants With HER2-expressing Metastatic and/or Unresectable Breast Cancer",
+        "  The number of participants with notable electrocardiogram changes meeting predefined criteria is being reported.",
+        "  Time frame: Screening (within 7 days before enrollment) up to Cycle 3 Day 15 (each cycle is 21 days)",
+        "Results 1: ",
+        "  Arm/Group Title: DS-8201a",
+        "  Arm/Group Description: Participants who received 6.4 mg/kg of DS-8201a as an intravenous (IV) infusion once every 3 weeks on Day 1 of each 21-day cycle.",
+        "  Overall Number of Participants Analyzed: 49",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  Maximum change from baseline in QTcF: >30 ms: 3   6.1%",
+        "  Maximum change from baseline in QTcF: >60 ms: 0   0.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 9/51 (17.65%)",
+        "  Nausea 2/51 (3.92%)",
+        "  Cellulitis 1/51 (1.96%)",
+        "  Lung infection 1/51 (1.96%)",
+        "  Femur fracture 1/51 (1.96%)",
+        "  Post procedural complication 1/51 (1.96%)",
+        "  Fracture 1/51 (1.96%)",
+        "  Interstitial lung disease 1/51 (1.96%)",
+        "  Pneumonitis 1/51 (1.96%)"
+    ]
+}

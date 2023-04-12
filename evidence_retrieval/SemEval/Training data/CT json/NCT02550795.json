@@ -1,0 +1,49 @@
+{
+    "Clinical Trial ID": "NCT02550795",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Control",
+        "  administration of 0.9% normal saline 10ml",
+        "  Control: administration of normal saline",
+        "INTERVENTION 2: ",
+        "  Dexmedetomidine",
+        "  administration of 0.5ug/kg of dexmedetomidine (5ml)",
+        "  Dexmedetomidine: administration of dexmedetomidine only"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  ASA Physical status I or II female scheduled for breast conserving surgery of modified radical mastectomy.",
+        "Exclusion Criteria:",
+        "  uncontrolled cardiovascular disease",
+        "  history of chronic pain",
+        "  smoker",
+        "  previous history of steroid administraion",
+        "  neoajuvant chemotherapy"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Postoperative Nausea (Numeric Rating Scale for Nausea)",
+        "  Numeric rating scale for postoperative nausea (scores on a scale) (0-no symptoms; 10-worst symptoms imaginable). Ramosetron 0.3 mg was administered to patients with nausea >5 points on the numeric rating scale",
+        "  Time frame: Changes from baseline in postoperative nausea at 30 min",
+        "Results 1: ",
+        "  Arm/Group Title: Control",
+        "  Arm/Group Description: administration of 0.9% normal saline 10ml",
+        "  Control: administration of normal saline",
+        "  Overall Number of Participants Analyzed: 50",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: scores on a scale  0        (0 to 0.25)",
+        "Results 2: ",
+        "  Arm/Group Title: Dexmedetomidine",
+        "  Arm/Group Description: administration of 0.5ug/kg of dexmedetomidine (5ml)",
+        "  Dexmedetomidine: administration of dexmedetomidine only",
+        "  Overall Number of Participants Analyzed: 49",
+        "  Median (Inter-Quartile Range)",
+        "  Unit of Measure: scores on a scale  0        (0 to 0)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/50 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/50 (0.00%)"
+    ]
+}

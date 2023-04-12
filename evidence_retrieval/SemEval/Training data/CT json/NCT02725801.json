@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT02725801",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  One-port",
+        "  intervention is placement of one-port tissue expander at time of reconstruction",
+        "  Allergen one-port tissue expander placement: patients will be randomized to receive a one port or two port tissue expander for breast reconstruction",
+        "INTERVENTION 2: ",
+        "  Two-port",
+        "  intervention is placement of two-port tissue expander at time of reconstruction",
+        "  AlloX2 two-port tissue expander placement: patients will be randomized to receive a one port or two port tissue expander for breast reconstruction"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  patient agrees to immediate tissue expander breast reconstruction",
+        "  a suitable patient for tissue expander reconstruction",
+        "Exclusion Criteria:",
+        "  not a surgical candidate for immediate breast reconstruction",
+        "  age less than 18",
+        "  patient declines tissue expander reconstruction",
+        "  patient anticipated to need radiation therapy postoperatively"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Participants With Successful Replacement of Tissue Expander With Permanent Implant",
+        "  The number of patients that are able to undergo replacement of the tissue expander between the two arms will be compared",
+        "  Time frame: 3 months",
+        "Results 1: ",
+        "  Arm/Group Title: One-port",
+        "  Arm/Group Description: intervention is placement of one-port tissue expander at time of reconstruction",
+        "  Allergen one-port tissue expander placement: patients will be randomized to receive a one port or two port tissue expander for breast reconstruction",
+        "  Overall Number of Participants Analyzed: 8",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  8 100.0%",
+        "Results 2: ",
+        "  Arm/Group Title: Two-port",
+        "  Arm/Group Description: intervention is placement of two-port tissue expander at time of reconstruction",
+        "  AlloX2 two-port tissue expander placement: patients will be randomized to receive a one port or two port tissue expander for breast reconstruction",
+        "  Overall Number of Participants Analyzed: 12",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  12 100.0%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 1/8 (12.50%)",
+        "  re-operation [1]1/8 (12.50%)",
+        "Adverse Events 2:",
+        "  Total: 4/12 (33.33%)",
+        "  re-operation [1]4/12 (33.33%)"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT00587964",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Treatment - Stereotactic Radiosurgery",
+        "  Stereotactic Radiosurgery: All patients would undergo craniotomy and the goal of surgery in all cases would be total removal of the metastases."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically confirmed malignancy with the presence of one or two intraparenchymal brain metastases (newly diagnosed patients may be registered based on radiologic confirmation if pathology is unavailable)",
+        "  Age  18 years",
+        "  Karnofsky performance status  70",
+        "  Neurologic Function Status 0-2",
+        "  Patients may have extracranial sites of metastatic disease",
+        "  Adequate bone marrow reserve (hemoglobin  8 grams, absolute neutrophil count  1000/mm3, platelets  50,000/mm3)",
+        "  Patient must sign a study specific informed consent form.",
+        "Exclusion Criteria:",
+        "  Major medical illness including poor cardiac, pulmonary or renal status which would result in patient being a high risk candidate for neurosurgical procedure",
+        "  Inability to obtain histologic proof of malignancy",
+        "  Patients with leptomeningeal metastases documented by MRI or CSF evaluation Patients with metastases within 10 mm of the optic apparatus so that some portion of the optic nerve or chiasm would be included in the high dose SRS boost field",
+        "  Patients with metastases in the brainstem, midbrain, pons, or medulla",
+        "  Patients with small cell lung cancer, germ-cell tumors, lymphoma, leukemia and multiple myeloma are not eligible",
+        "  Younger than 18 years of age",
+        "  Karnofsky performance status of  60",
+        "  Prior history of whole brain radiation therapy",
+        "  Concomitant use of chemotherapy or targeted biological therapy (within a week of the SRS treatment)",
+        "   3 metastases in the brain",
+        "  Allergy to both CT and MR contrast dyes",
+        "  Platelet count of < 100,000 or coagulation disorders that cannot be corrected or would render the surgery a high-risk procedure"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Local Control",
+        "  following a combination of stereotactic radiosurgery and surgical resection for brain metastases; to determine the incidence of the brain injury following the combination therapy. Local control: Absence of radiographic evidence of tumor at the site of therapy constitutes local control of the treated disease.Recurrence in the treated region: The reappearance of tumor on any MRI or CT scan at the site of treatment constitutes recurrent disease at the treated region. Recurrence outside the treated region: The development of new intracranial metastatic foci or leptomeningeal disease constitutes recurrence outside the treated region. Leptomeningeal disease will be documented by a positive CSF cytology, abnormal myelogram or spinal MRI.",
+        "  No evidence of disease: Absence of clinical or radiographic evidence of tumor both at the site of therapy and elsewhere in the brain constitutes no evidence of disease.",
+        "Time frame: 1 year",
+        "Results 1: ",
+        "  Arm/Group Title: Treatment - Stereotactic Radiosurgery",
+        "  Arm/Group Description: Stereotactic Radiosurgery: All patients would undergo craniotomy and the goal of surgery in all cases would be total removal of the metastases.",
+        "  Overall Number of Participants Analyzed: 39",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Local Control: 13",
+        "  No Evidence of Disease (NED): 23",
+        "  Progression of Disease (POD): 2",
+        "Relapse/Recurrence: 1"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 16/51 (31.37%)",
+        "  Blood disorder 1/51 (1.96%)",
+        "  Hypomagnesemia 1/51 (1.96%)",
+        "  Platelets count decrease 1/51 (1.96%)",
+        "  Thrombosis 1/51 (1.96%)",
+        "  Vision-blurred vision 1/51 (1.96%)",
+        "  Constipation 1/51 (1.96%)",
+        "  Radiation oesophagitis 1/51 (1.96%)",
+        "  Nausea 2/51 (3.92%)",
+        "  Vomiting 2/51 (3.92%)",
+        "  General symptom 2/51 (3.92%)",
+        "  Headache 1/51 (1.96%)",
+        "  Bone pain 1/51 (1.96%)"
+    ]
+}

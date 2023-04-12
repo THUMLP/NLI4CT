@@ -1,0 +1,40 @@
+{
+    "Clinical Trial ID": "NCT01286168",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Entire Study Population",
+        "  Because a paired study design was used (only bilateral procedures), each subject served as her own control. Randomization assigned which side (right or left) would receive the antisepsis interventions, and the contralateral side received standard drain care."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Females or males age 18-90 able to give informed consent",
+        "  Undergoing bilateral mastectomy with immediate expander reconstruction or immediate implant reconstruction",
+        "  May have either malignant or benign breast condition",
+        "Exclusion Criteria:",
+        "  Antibiotic use in the fourteen days prior to surgical date",
+        "  Undergoing unilateral tissue expander reconstruction",
+        "  Documented allergy to chlorhexidine gluconate",
+        "  Prior radiation therapy to the breast or chest wall (ie for breast conservation or mantle radiation for Hodgkin's disease)",
+        "  Documented allergy to all three of the following antibiotics: cephalosporin, trimethoprim/sulfamethoxazole, and levofloxacin",
+        "  Pregnant women",
+        "  Vulnerable subjects - prisoners, institutionalized individuals",
+        "  Non-English speaking patients without adequate interpreter assistance"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Subjects With Drain Bulb Fluid Bacterial Colonization at Approximately 1 Week",
+        "  Bacterial growth was defined as plate growth of 1+ or greater. Drains were removed at variable times across patients, per clinical indication. When clinically indicated, some patients did have their drains removed at the one week visit, in which case they only had one bulb fluid culture.",
+        "  Time frame: Approximately 1 week after surgery",
+        "Results 1: ",
+        "  Arm/Group Title: Entire Study Population",
+        "  Arm/Group Description: Because a paired study design was used (only bilateral procedures), each subject served as her own control. Randomization assigned which side (right or left) would receive the antisepsis interventions, and the contralateral side received standard drain care.",
+        "  Overall Number of Participants Analyzed: 101",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Antisepsis Side: 10",
+        "Control Side: 21"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/104 (0.00%)"
+    ]
+}

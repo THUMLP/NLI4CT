@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT02287675",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Lymphoseek",
+        "  Lymphoseek (technetium Tc 99m tilmanocept) Injection is indicated for lymphatic mapping with a hand-held gamma counter to assist in the localization of lymph nodes draining a primary tumor site in patients with breast cancer or melanoma and guiding sentinel lymph node biopsy using a hand-held gamma counter in patients with clinically node negative squamous cell carcinoma of the oral cavity.",
+        "INTERVENTION 2: ",
+        "  Sulfur Colloid",
+        "  Technetium Tc 99m Sulfur Colloid Injection is a radioactive diagnostic agent indicated for use as follows:",
+        "  In adults, to assist in the:",
+        "  localization of lymph nodes draining a primary tumor in patients with",
+        "  breast cancer or malignant melanoma when used with a hand-held gamma counter.",
+        "  evaluation of peritoneovenous (LeVeen) shunt patency in adults."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  The subject must be female and 18 years of age or older.",
+        "  The subject must be a preoperative clinical Tis, T1, T2, T3, T4, as well as clinical N0 and clinical M0 breast cancer",
+        "  The subject must have a diagnosis of primary breast cancer.",
+        "  The subject must be a candidate for surgical intervention, either with lumpectomy and SLNB or with mastectomy and SLNB, as the treatment of her breast cancer.",
+        "  The subject must have an Eastern Cooperative Oncology Group (ECOG) performance status of Grade 0 - 2",
+        "  The subject must provide written informed consent with Health Insurance Portability and Accountability Act (HIPAA) authorization before participating in the study",
+        "Exclusion Criteria:",
+        "  The subject has clinical or radiological or pathologic evidence of metastatic cancer, including any abnormal or enlarged clinical palpable lymph nodes or core biopsy/surgical biopsy/fine-needle-aspiration evidence of malignant cell within any lymph nodes.",
+        "  The subject has a known hypersensitivity to vital blue dye (VBD) in a case where vital blue dye was planned for use during SLNB.",
+        "  The subject has a positive pregnancy test or is lactating.",
+        "  The subject has had prior surgery to the indicated breast or axilla."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Injection Site Clearance for Lymphoseek and 99mTc-Sulfur Colloid (SC).",
+        "  The rate of injection site clearance is the time from radiotracer injection to peak SLN radioactive level. Injection clearance rates will be determined by planar SPECT imaging and by SPECT/CT. Subjects will undergo standard sequential planar imaging at 30 to 60 seconds intervals until the sentinel lymph node is seen. Once a sentinel node is located, a SPECT/CT will be performed for higher resolution imaging in transaxial, coronal, and sagittal planes.",
+        "  Time frame: 2 hours",
+        "Results 1: ",
+        "  Arm/Group Title: Lymphoseek",
+        "  Arm/Group Description: Lymphoseek (technetium Tc 99m tilmanocept) Injection is indicated for lymphatic mapping with a hand-held gamma counter to assist in the localization of lymph nodes draining a primary tumor site in patients with breast cancer or melanoma and guiding sentinel lymph node biopsy using a hand-held gamma counter in patients with clinically node negative squamous cell carcinoma of the oral cavity.",
+        "  Overall Number of Participants Analyzed: 18",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: minutes  1.78         (0.85)",
+        "Results 2: ",
+        "  Arm/Group Title: Sulfur Colloid",
+        "  Arm/Group Description: Technetium Tc 99m Sulfur Colloid Injection is a radioactive diagnostic agent indicated for use as follows:",
+        "  In adults, to assist in the:",
+        "  localization of lymph nodes draining a primary tumor in patients with",
+        "  breast cancer or malignant melanoma when used with a hand-held gamma counter.",
+        "  evaluation of peritoneovenous (LeVeen) shunt patency in adults.",
+        "  Overall Number of Participants Analyzed: 22",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: minutes  0.045         (0.18)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/18 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

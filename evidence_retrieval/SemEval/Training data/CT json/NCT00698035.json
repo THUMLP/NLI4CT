@@ -1,0 +1,63 @@
+{
+    "Clinical Trial ID": "NCT00698035",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Estring",
+        "  Estring 2mg ring inserted vaginally once every 12 weeks",
+        "INTERVENTION 2: ",
+        "  Testosterone Cream",
+        "  Testosterone Cream 1% micronized in velvachol - 0.5 gm of cream vaginally each night for two weeks, then 3 times a week for total of 12 weeks of treatment"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histologically or cytologically confirmed Stage I-III breast cancer who are taking an aromatase inhibitor as adjuvant hormonal therapy. Patient must have started the aromatase inhibitor at least 60 days prior to enrolling.",
+        "  Postmenopausal estradiol levels at baseline as measured by standard laboratory analysis.",
+        "  Patient may be rendered postmenopausal through the use of a GnRH agonist, but must have confirmed post-menopausal levels of serum estradiol on two lab tests at least one month apart.",
+        "  If patient has been rendered post-menopausal by adjuvant chemotherapy but has had a period within the past 12 months, post-menopausal levels of serum estradiol must be documented on two lab tests at least 3 months apart.",
+        "  Age 18 and 80 years old.",
+        "  ECOG 1",
+        "  Adequate hematologic, hepatic, and renal function as defined by:",
+        "  Hgb 9 g/dL",
+        "  Absolute neutrophil count (ANC)/absolute granulocyte count (AGC) 1500 cells/mm3",
+        "  Platelet count 100,000/mm3",
+        "  Serum creatinine 1.5 mg/dL",
+        "  Total bilirubin 1.5 times the ULN; and aspartate aminotransferase 3 times the ULN",
+        "  Normal thyroid function tested within the past 6 months (Patients with a diagnosis of hypothyroidism and on thyroid supplementation must have had thyroid function tests in the normal range within the past 3 months)",
+        "  Patient must have recovered from the side effects of previous chemotherapy, surgery, or radiation therapy for early breast cancer.",
+        "Exclusion Criteria:",
+        "  History of radiation to the vaginal area",
+        "  Concurrent treatment with any type of oral, injectable or topical form of estrogen or androgen therapy including natural supplements marketed as hormone replacement products",
+        "  Initiation of topical moisturizers (for example, Replens), or herbal or alternative medicines to manage the symptoms of vaginal dryness while on study. Patients who were previously using these products may continue them with the same usage pattern while on study.",
+        "  Use of vaginal hormonal products (rings, inserts, creams, gels) containing estrogens or androgens within the past 30 days.",
+        "  History of an abnormal pap smear within the last 12 months",
+        "  History of endometrial or ovarian cancer",
+        "  Any episode of vaginal bleeding in the past 6 months that has not been evaluated by a gynecological exam and/or pelvic ultrasound",
+        "  History of sexual dysfunction prior to diagnosis of breast cancer ( Sexual dysfunction will be defined as loss of libido or inability to achieve orgasm for which patient sought medical attention or which patient felt significantly interfered with quality of life.)",
+        "  Moderate or severe depression for which the patient is receiving ongoing psychological counseling and/or taking antidepressants, and for whom, in the investigators opinion may be interfering in the patients sexual function independent of the side effects of breast cancer and aromatase inhibitor use.",
+        "  Use of any investigational agent for breast cancer within 3 weeks of study entry."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Persistently Elevated Serum Estradiol Level Outside the Post-menopausal Range",
+        "  Liquid chromatography tandem mass spectrometry (Quest Diagnostics). Persistently elevated serum estradiol level outside the post-menopausal range was defined as: Serum estradiol >10 pg/dl on two consecutive collections at least 4 weeks apart. 2. If baseline estradiol was >10 pg/dl, subsequent levels >10 pg/ml higher than baseline were considered a significant elevation outside the post-menopausal range.",
+        "  Time frame: 12 Weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Estring",
+        "  Arm/Group Description: Estring 2mg ring inserted vaginally once every 12 weeks",
+        "  Overall Number of Participants Analyzed: 35",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  0",
+        "Results 2: ",
+        "  Arm/Group Title: Testosterone Cream",
+        "  Arm/Group Description: Testosterone Cream 1% micronized in velvachol - 0.5 gm of cream vaginally each night for two weeks, then 3 times a week for total of 12 weeks of treatment",
+        "  Overall Number of Participants Analyzed: 33",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  4"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/39 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

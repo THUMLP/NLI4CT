@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT02878057",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Advanced Breast Cancer",
+        "  Patients With HER-2 Negative Advanced Breast Cancer With Chest Wall Metastasis; Dosing regimen: apatinib tablets: 500 mg, Po, QD; 4 weeks as a cycle, continuous treatment until disease progression, death or intolerable toxicity (giving endocrine therapy simultaneously if hormone receptor positive)",
+        "  Apatinib: Dosing regimen: apatinib tablets: 500 mg, Po, QD; 4 weeks as a cycle, continuous treatment until disease progression, death or intolerable toxicity (giving endocrine therapy simultaneously if hormone receptor positive)"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  HER-2 negative advanced breast cancer with chest wall metastasis confirmed by histology or cytological examination (patients who have received anthracyclines and/or paclitaxel in adjuvant chemotherapy).",
+        "  Patients with recurrence or metastasis who have received no more than two lines of chemotherapy.",
+        "  If hormone receptor is positive, endocrine therapy must have been performed for the patients with recurrence or metastasis, or the recurrence or metastasis occurred in less than two years of endocrine therapy.",
+        "   18 years old.",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.",
+        "  A life expectancy of more than 3 months.",
+        "  At least one measurable site of disease confirmed by CT or MRI according to Response Evaluation Criteria In Solid Tumors (RECIST) 1.1 criteria was required.",
+        "  If the target lesions are lymph nodes, the short diameter is required to be less than 1.5cm and the target lesions are not suitable for surgical treatment; target lesions have not been in radiotherapy or recurred in the radiation field.",
+        "  Baseline blood routine examination in accordance with the following criteria: neutrophil counts more than 1.5*109/L; platelet counts greater than 100*109/L; hemoglobin greater than 9 g/dL (blood transfusion is allowed to achieve or maintain the index)",
+        "  Liver function in accordance with the following criteria: total bilirubin less than 1.5 times the upper limit of normal value; aspartate aminotransferase (AST), alanine aminotransferase (ALT) less than 2.5 times the upper limit of normal value, less than 5 times the upper limit of normal value in patients with liver metastases.",
+        "  Renal function in accordance with the following criteria: serum creatinine less than 1.25 times the upper limit of normal value, or the creatinine clearance rate calculated greater than 50 mL/min;",
+        "  Women with fertility are willing to take contraceptive measures in the trial: when seven days before the drug delivery of serum or urine pregnancy test negative.",
+        "Exclusion Criteria:",
+        "  receiving radiation therapy 28 days before enrolled. Radiotherapy before enrollment to relieve the metastatic bone pain is allowed, but medullary bone radiated should not exceed 30% of the total amount;",
+        "  symptomatic central nervous system metastases;",
+        "  current or recent (30 days before enrollment) use of another study drug or being involved in another clinical study;",
+        "  Other malignant tumors that have occurred within 5 years (except for the cured or well-controlled cervical carcinoma in situ, skin squamous cell carcinoma, or skin basal cell carcinoma);",
+        "  With hypertension and the blood pressure cannot be reduced to the normal range through antihypertensive drug treatment (systolic blood pressure greater than or equal to 140 mmHg or diastolic blood pressure greater than or equal to 90 mmHg).",
+        "  With grade II or higher myocardial ischemia or myocardial infarction, poorly controlled arrhythmia (including QTc interval more than or equal to 450 ms for men, more than or equal to 470 ms for female);",
+        "  according to the criteria of NYHA, cardiac insufficiency of grade III and IV or left ventricular ejection fraction (LVEF) less than 50% revealed by echocardiography;",
+        "  abnormal coagulation function (INR > 1.5 or prothrombin time (PT) > ULN+4 seconds or APTT >1.5 times the ULN), with bleeding tendency or under thrombolysis or anticoagulation therapy;",
+        "  within 3 months before enrollment, clinically significant bleeding symptoms occur, or having obvious bleeding tendency, such as gastrointestinal bleeding, bleeding gastric ulcer, occult blood + + and above in baseline period, or suffering from vasculitis, et al;",
+        "  within 4 months before enrollment receiving major surgery or getting severe traumatic injury, fracture or ulcer;",
+        "  having factors that affect the absorption of the oral drugs obviously, such as the inability to swallow, chronic diarrhea and intestinal obstruction, et al;",
+        "  urine routine test with urinary protein more than ++, or 24 hour urinary protein more than 1.0 g;",
+        "  with symptomatic serous cavity effusion, which needs to be surgically managed (including pleural effusion, ascites, pericardial effusion);",
+        "  with other possible conditions that can affect the clinical research or evaluation of the results judged by the researchers."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Progression-free Survival",
+        "  Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions.",
+        "  Time frame: evaluation per 2 cycles (8 weeks), up to 6 months;From date of randomization until the date of first documented progression or date of death from any cause, whichever came first, assessed up to 6 months",
+        "Results 1: ",
+        "  Arm/Group Title: Advanced Breast Cancer",
+        "  Arm/Group Description: Patients With HER-2 Negative Advanced Breast Cancer With Chest Wall Metastasis; Dosing regimen: apatinib tablets: 500 mg, Po, QD; 4 weeks as a cycle, continuous treatment until disease progression, death or intolerable toxicity (giving endocrine therapy simultaneously if hormone receptor positive)",
+        "  Apatinib: Dosing regimen: apatinib tablets: 500 mg, Po, QD; 4 weeks as a cycle, continuous treatment until disease progression, death or intolerable toxicity (giving endocrine therapy simultaneously if hormone receptor positive)",
+        "  Overall Number of Participants Analyzed: 26",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: months  4.9        (2.1 to 8.3)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 12/30 (40.00%)",
+        "  Hypertension *2/30 (6.67%)",
+        "  Fatigue *1/30 (3.33%)",
+        "  Bilirubin increased *2/30 (6.67%)",
+        "  Transaminase increased *1/30 (3.33%)",
+        "  proteinuria *6/30 (20.00%)"
+    ]
+}

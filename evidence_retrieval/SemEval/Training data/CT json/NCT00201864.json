@@ -1,0 +1,54 @@
+{
+    "Clinical Trial ID": "NCT00201864",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Exemestane and Fulvestrant",
+        "  Combination of daily exemestane 25 mg with monthly 250 mg Fulvestrant injection",
+        "  Exemestane: 25 mg orally per day",
+        "  Fulvestrant: 250 mg IM starting on Day 8 and then every 28 days."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Proven breast cancer",
+        "  Metastatic or locally advanced breast cancer",
+        "  Hormonally responsive disease defined as estrogen (ER) and/ or progesterone receptor (PR) positive (>10% staining by immunohistochemistry)",
+        "  Postmenopausal status",
+        "  No more than 1 prior chemotherapy for stage IV metastatic breast cancer allowed",
+        "  ECOG (Eastern Cooperative Oncology Group) performance status 0-2",
+        "  Adequate organ function",
+        "Exclusion Criteria:",
+        "  No prior Exemestane or Fulvestrant",
+        "  Uncontrolled intercurrent illness including but not limited to:",
+        "  ongoing or active infection",
+        "  symptomatic congestive heart failure",
+        "  unstable angina pectoris",
+        "  cardiac arrhythmia",
+        "  myocardial infarction within the last 3 months",
+        "  psychiatric illness/social situations that would limit compliance with study",
+        "  Lymphangitic pulmonary disease; carcinomatous meningitis, bone marrow only metastases; and a rising tumor marker without any other site of metastatic disease.",
+        "  Presence of bleeding diathesis or coagulopathy, patients requiring coumadin"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Time to Progression (TTP) in Women With Hormone Responsive Advanced Breast Cancer Treated With Combination of Exemestane and Fulvestrant.",
+        "  TTP is defined as the time from first treatment to objective evidence of progression on the basis of radiological evaluation and/or physical exam (if physical examination identifies a site of measurable disease). Progression is defined using Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0), as a 20% increase in the sum of the longest diameter of target lesions, or a measurable increase in a non-target lesion, or the appearance of new lesions",
+        "  Time frame: Every 2 cycles up to 2 years",
+        "Results 1: ",
+        "  Arm/Group Title: Exemestane and Fulvestrant",
+        "  Arm/Group Description: Combination of daily exemestane 25 mg with monthly 250 mg Fulvestrant injection",
+        "  Exemestane: 25 mg orally per day",
+        "  Fulvestrant: 250 mg IM starting on Day 8 and then every 28 days.",
+        "  Overall Number of Participants Analyzed: 40",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: months  6.9        (3.9 to 13.5)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 6/40 (15.00%)",
+        "  Nausea 1/40 (2.50%)",
+        "  Vomiting 1/40 (2.50%)",
+        "  Chest pain 1/40 (2.50%)",
+        "  Hypercalcemia 1/40 (2.50%)",
+        "  Thromboembolism 2/40 (5.00%)"
+    ]
+}

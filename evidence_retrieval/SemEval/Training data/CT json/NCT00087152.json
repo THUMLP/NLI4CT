@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT00087152",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Imatinib Mesylate & Capecitabine",
+        "  Imatinib Mesylate 400 mg by mouth daily for 21 day cycle. Capecitabine 1,000 mg/m^2 by mouth twice daily Days 1-14 of each 21 day cycle."
+    ],
+    "Eligibility": [
+        "Histologically or cytologically confirmed adenocarcinoma of the breast",
+        "  Stage IV measurable disease",
+        "  Disease progression after at least 1, but no more than 2, prior chemotherapy regimens for metastatic disease",
+        "  Patients with hormone-sensitive tumors must have received prior hormonal therapy",
+        "  Patients with human epidermal growth factor receptor 2 (HER2)/neu-overexpressing tumors (3+ by immunohistochemistry or amplified by fluorescent in situ hybridization) should have received trastuzumab (Herceptin\u00ae) in the adjuvant or metastatic setting (unless contraindicated)",
+        "  No clinical evidence of or known brain or central nervous system (CNS) disease",
+        "  Hormone Receptor status known",
+        "  Female age 18 and over",
+        "  Performance status Zubrod 0-2",
+        "  Absolute neutrophil count > 1,500/mm^3",
+        "  Leukocyte count > 3,000/mm^3",
+        "  Platelet count > 100,000/mm^3",
+        "  Bilirubin normal",
+        "  aspartate aminotransferase (AST) / alanine aminotransferase (ALT) < 2.5 times upper limit of normal",
+        "  Creatinine normal OR Creatinine clearance > 60 mL/min",
+        "  Not pregnant or nursing",
+        "  Fertile patients must use effective contraception during and for 3 months after study participation",
+        "  No history of severe hypersensitivity reaction to compounds of similar chemical or biological composition to imatinib mesylate, capecitabine, or fluorouracil",
+        "  No other malignancy within the past 5 years except adequately treated basal cell or squamous cell skin cancer or carcinoma in situ of the cervix",
+        "  No prior biologic therapy (e.g., vaccines)",
+        "  No concurrent filgrastim (G-CSF) for chemotherapy-induced neutropenia",
+        "  No prior capecitabine or fluorouracil for metastatic breast cancer",
+        "  Prior hormonal therapy allowed",
+        "  More than 4 weeks since prior radiotherapy - Previously irradiated area(s) must not be the only site of disease",
+        "  More than 4 weeks since prior major surgery",
+        "  More than 4 weeks since prior therapy for breast cancer",
+        "  No concurrent combination antiretroviral therapy for HIV-positive patients",
+        "  No other concurrent investigational or commercial agents or therapies for metastatic breast cancer"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Confirmed Response Rate (Complete and Partial)",
+        "  Number of participants with confirmed complete or partial response. Confirmed response (complete and partial) per Response Evaluation Criteria in Solid Tumors (RECIST) Criteria (V1.0). Complete Response (CR) is complete disappearance of all measurable and non-measurable disease; no new lesions; no disease related symptoms; and normalization of markers and other abnormal lab values. Partial response (PR) applies only to patients with at least one measurable lesion. PR is greater than or equal to 30% decrease under baseline of the sum of longest diameter of all target measurable lesions; no unequivocal progression of non-measurable disease and no new lesions. Confirmed response is two or more objective statuses a minimum of four weeks apart documented before progression or symptomatic deterioration.",
+        "  Time frame: 12 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Imatinib Mesylate & Capecitabine",
+        "  Arm/Group Description: Imatinib Mesylate 400 mg by mouth daily for 21 day cycle. Capecitabine 1,000 mg/m^2 by mouth twice daily Days 1-14 of each 21 day cycle.",
+        "  Overall Number of Participants Analyzed: 19",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  2"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 4/20 (20.00%)",
+        "  Diarrhea 1/20 (5.00%)",
+        "  Nausea 1/20 (5.00%)",
+        "  Sodium, serum-low (hyponatremia) 1/20 (5.00%)",
+        "  Death - Disease progression NOS 1/20 (5.00%)",
+        "  Dyspnea (shortness of breath) 1/20 (5.00%)",
+        "  Hypoxia 1/20 (5.00%)"
+    ]
+}

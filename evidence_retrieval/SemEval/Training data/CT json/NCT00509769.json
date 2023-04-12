@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT00509769",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Trastuzumab Emtansine 3.6 mg/kg",
+        "  Patients received trastuzumab emtansine 3.6 mg/kg intravenously on Day 1 of each 21 day cycle for a maximum of 1 year. The total dose was dependent on the patient's weight on Day 1 of each cycle."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Signed informed consent form.",
+        "  Human epidermal growth factor receptor 2 (HER2)-positive metastatic breast cancer (MBC); tissue (slides or blocks) available for HER2 confirmation.",
+        "  History of progression on HER2-directed therapy for the treatment of HER2-positive breast cancer.",
+        "  At least 1, and no more than 3, chemotherapy regimens for MBC.",
+        "  Granulocyte count  1500/\u03bcL, platelet count  100,000/\u03bcL, and hemoglobin  9 g/dL.",
+        "  Serum bilirubin  1.5 mg/dL, aspartate aminotransferase (AST), alanine aminotransferase (ALT), and alkaline phosphatase  2.5x the upper limit of normal (ULN).",
+        "  Serum creatinine  1.5 mg/dL or creatinine clearance  60 mL/min.",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2.",
+        "Exclusion Criteria:",
+        "  Any chemotherapy, hormonal therapy, radiotherapy, immunotherapy, or biological therapy for the treatment of breast cancer within 2 weeks of the first study treatment.",
+        "  Prior cumulative doxorubicin dose > 360 mg/m^2 or the equivalent.",
+        "  History of significant cardiac disease, unstable angina, congestive heart failure (CHF), myocardial infarction, or ventricular arrythmia requiring medication."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Objective Response Assessed by the Independent Review Facility Using Response Evaluation Criteria in Solid Tumors (RECIST)",
+        "  Objective response was defined as a complete response (CR) or partial response (PR) determined on 2 consecutive occasions  4 weeks apart, using Response Evaluation Criteria in Solid Tumors (RECIST). CR: The disappearance of all target lesions and all non-target lesions, normalization of tumor marker level, and no new lesions. PR: Disappearance of all target lesions and persistence of  1 non-target lesions and/or the maintenance of tumor marker level above the normal limits, or, at least a 30% decrease in the sum of the longest diameter of target lesions, and no new lesions or unequivocal progression of existing non-target lesions.",
+        "  Time frame: Randomization until the analysis data cutoff-dates of 31 Jan 2009 (6 months after the last patient was enrolled in the study) and 25 Jun 2009 (approximately 12 months after the last patient was enrolled in the study, up to 23 months)",
+        "Results 1: ",
+        "  Arm/Group Title: Trastuzumab Emtansine 3.6 mg/kg",
+        "  Arm/Group Description: Patients received trastuzumab emtansine 3.6 mg/kg intravenously on Day 1 of each 21 day cycle for a maximum of 1 year. The total dose was dependent on the patient's weight on Day 1 of each cycle.",
+        "  Overall Number of Participants Analyzed: 109",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of patients  Month 6 (n=109): 25.7        (17.9 to 34.5)",
+        "  Month 12 (n=108): 26.9        (19.2 to 35.8)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 30/112 (26.79%)",
+        "  Thrombocytopenia 1/112 (0.89%)",
+        "  Dysphagia 1/112 (0.89%)",
+        "  Haemorrhoidal haemorrhage 1/112 (0.89%)",
+        "  Oesophageal stenosis 1/112 (0.89%)",
+        "  Upper gastrointestinal haemorrhage 1/112 (0.89%)",
+        "  Asthenia 1/112 (0.89%)",
+        "  Disease progression 1/112 (0.89%)",
+        "  Hepatotoxicity 1/112 (0.89%)",
+        "  Cellulitis 3/112 (2.68%)",
+        "  Pneumonia 2/112 (1.79%)",
+        "  Osteomyelitis 1/112 (0.89%)"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT01582971",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Week 5 Intervention Group",
+        "  Reflexology: 4 weekly foot reflexology sessions delivered by friend/family member.",
+        "  Friend/family member was trained in foot reflexology protocol by certified reflexologist.",
+        "  Friend/family member provides 4 weekly sessions to patient.",
+        "INTERVENTION 2: ",
+        "  Week 5 Control Group",
+        "  Standard medical care: no reflexology"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Age  21",
+        "  Diagnosis of breast cancer, Stage III, IV, or Stage I or II with metastasis or recurrence",
+        "  Able to perform basic ADLs",
+        "  Undergoing chemotherapy and/or hormonal therapy for breast cancer",
+        "  Able to speak and understand English",
+        "  Have access to a telephone",
+        "  Able to hear normal conversation",
+        "  Cognitively oriented to time, place, and person (determined via nurse recruiter)",
+        "Exclusion Criteria:",
+        "  Diagnosis of major mental illness on the medical record and verified by the recruiter",
+        "  Residing in a nursing home",
+        "  Bedridden",
+        "  Currently receiving regular reflexology",
+        "  Diagnosis of symptoms of deep vein thrombosis or painful foot neuropathy, which will require medical approval"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  The M.D. Anderson Symptom Inventory (MDASI)",
+        "  The M.D. Anderson Symptom Inventory (MDASI) evaluates severity of 13 symptoms experienced by cancer patients (pain, fatigue, nausea, disturbed sleep, distress, shortness of breath, difficulty remembering, decreased appetite, drowsiness, dry mouth, sadness, vomiting, numbness/tingling) on the scale from 0=symptom not present to 10=as bad as you can imagine. Summed symptom severity score ranging from 0 to 130 was derived. MDASI also assesses how much symptoms interfered with 6 aspects of daily life: general activity, mood, work (including work around the house), relations with other people, walking, and enjoyment of life on the scale from 0=did not interfere to 10=interfered completely. Summed interference score ranging from 0 to 60 was derived.",
+        "  Higher symptom severity and interference scores represent worse outcome.",
+        "  Time frame: Week 5 and week 11",
+        "Results 1: ",
+        "  Arm/Group Title: Week 5 Intervention Group",
+        "  Arm/Group Description: Reflexology: 4 weekly foot reflexology sessions delivered by friend/family member.",
+        "  Friend/family member was trained in foot reflexology protocol by certified reflexologist.",
+        "  Friend/family member provides 4 weekly sessions to patient.",
+        "  Overall Number of Participants Analyzed: 89",
+        "  Least Squares Mean (Standard Error)",
+        "  Unit of Measure: units on a scale  MDASI summed symptom severity: 23.55         (1.52)",
+        "  MDASI summed symptom interference: 11.19         (1.16)",
+        "Results 2: ",
+        "  Arm/Group Title: Week 5 Control Group",
+        "  Arm/Group Description: Standard medical care: no reflexology",
+        "  Overall Number of Participants Analyzed: 91",
+        "  Least Squares Mean (Standard Error)",
+        "  Unit of Measure: units on a scale  MDASI summed symptom severity: 29.69         (1.48)",
+        "  MDASI summed symptom interference: 16.04         (1.12)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/128 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/128 (0.00%)"
+    ]
+}

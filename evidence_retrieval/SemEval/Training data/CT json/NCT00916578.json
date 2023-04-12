@@ -1,0 +1,40 @@
+{
+    "Clinical Trial ID": "NCT00916578",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Single Arm Institution, Open Label, Phase II",
+        "  Patients will received 825 mg/m2 bid of capecitabine. One of the two daily doses of capecitabine will be taken 2 hours before receiving radiotherapy. Capecitabine will be administered when patients receives radiation therapy. Radiation therapy doses will be 50-57 Gy to the initial clinical target volume."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Histological confirmation of invasive breast cancer",
+        "  No contraindications to receiving a course of radiation treatment (pregnancy, prior radiation to the volume with disease, or systemic disease in which radiation therapy is an absolute contraindication)",
+        "  Patients who have chemo-refractory gross disease in the breast causing symptoms (pain, drainage, duress) OR gross disease in the breast (greater than or equal to T3) and/or lymph node(s) progressive, persistent, or minimally responsive to chemotherapy deemed inoperable or questionable inoperable OR Recurrent gross disease in a previously unirradiated breast or on the chest wall or in the regional lymphatics (core biopsy will not be offered to patients without gross disease in the breast).",
+        "  Are able to swallow and retain oral medication (intact pill)",
+        "  Age over 18",
+        "  Female gender",
+        "Exclusion Criteria:",
+        "  Have an active or uncontrolled infection",
+        "  Have dementia, altered mental status, or any psychiatric condition that would prohibit the understanding or rendering of informed consent",
+        "  Have used an investigational drug within 21 days preceding the first dose of study medication",
+        "  Are receiving therapeutic anti-coagulation therapy (i.e. warfarin, heparin)",
+        "  Uncontrolled arrhythmia or congestive heart failure (CHF) based on clinical history or physical exam",
+        "  Patient cannot receive whole brain irradiation concurrently with Xeloda treatment."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Response Rate of Patients Who Receive Pre-operative or Palliative Concurrent Radiation w/ Capecitabine to the Breast & at Risk or Involved Regional Lymph Nodes Basins.",
+        "  The response by RECIST was assessed after 45 Gy of radiation for patients with breast cancer treated with concurrent capecitabine and radiation therapy.",
+        "  Time frame: Participants were monitored from 2009 to 2012.",
+        "Results 1: ",
+        "  Arm/Group Title: Single Arm Institution, Open Label, Phase II",
+        "  Arm/Group Description: Patients will received 825 mg/m2 bid of capecitabine. One of the two daily doses of capecitabine will be taken 2 hours before receiving radiotherapy. Capecitabine will be administered when patients receives radiation therapy. Radiation therapy doses will be 50-57 Gy to the initial clinical target volume.",
+        "  Overall Number of Participants Analyzed: 33",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  26"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/26 (0.00%)"
+    ]
+}

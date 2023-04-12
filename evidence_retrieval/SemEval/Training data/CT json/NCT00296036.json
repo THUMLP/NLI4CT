@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT00296036",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Urea/Lactic Acid Cream",
+        "  Patients receive topical urea/lactic acid-based cream applied to palms and soles twice daily.",
+        "INTERVENTION 2: ",
+        "  Placebo Cream",
+        "  Patients receive placebo cream applied to palms and soles twice daily."
+    ],
+    "Eligibility": [
+        "DISEASE CHARACTERISTICS:",
+        "  Histologically confirmed breast and/or other cancer",
+        "  Undergoing first treatment with capecitabine as adjuvant (including neo-adjuvant) therapy OR for metastatic disease",
+        "  Receiving a dose of capecitabine either 2,000 mg/day (1,000 mg twice daily) OR 2,500 mg/day for 14 days with 4 courses of therapy at 3 week (+/- 3 days) intervals",
+        "  Hormone-receptor status not specified",
+        "  PATIENT CHARACTERISTICS:",
+        "  Male or female",
+        "  Menopausal status not specified",
+        "  No history of allergy to urea-containing cream",
+        "  No pre-existing neuropathy  grade 2",
+        "  No other dermatologic condition, that, in the opinion of the physician, may affect the hands or feet or may complicate evaluation during study treatment",
+        "  PRIOR CONCURRENT THERAPY:",
+        "  No other concurrent agents that function to prevent palmar-plantar erythrodysesthesia caused by capecitabine or topical agents in the hands or feet for other indications (e.g., dryness)",
+        "  No concurrent vitamin B6 > 50 mg/day",
+        "  No concurrent or planned use of over-the-counter products that contain urea or lactic acid, including any of the following:",
+        "  Aqua Care\u00ae",
+        "  Medicated Calamine^\u00ae lotion (0.3%)",
+        "  Coppertone^\u00ae Waterproof Ultra Protection Sunblock",
+        "  Dr. Scholl's^\u00ae Smooth Touch deep moisturizing cream",
+        "  Depicure^\u00ae So Smooth Cream",
+        "  Dove^\u00ae Moisturizing Cream Wash",
+        "  Cetaphil^ \u00aeMoisturizing Cream",
+        "  Vaseline Intensive Care ^ \u00ae lotion"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  To Determine Whether the Prophylactic Use of a Topical Urea/Lactic Acid Cream Can Decrease the Incidence/Severity of Capecitabine-caused Palmar-plantar Erythrodysesthesia",
+        "  A patient self-reported hand-foot syndrome (HFSD), also known as palmar-plantar erythrodysesthesia, was completed daily while applying the cream. Patients rated skin severity symptoms individually in their hands and in their feet. Definitions of symptoms, which were based on Common Terminology Criteria for Adverse Events (CTCAE) v3.0, were provided to patients. The number of patients reporting moderate to severe symptoms in either hands or feet were tabulated and percentages are reported.",
+        "  Time frame: First 3 weeks of treatment",
+        "Results 1: ",
+        "  Arm/Group Title: Urea/Lactic Acid Cream",
+        "  Arm/Group Description: Patients receive topical urea/lactic acid-based cream applied to palms and soles twice daily.",
+        "  Overall Number of Participants Analyzed: 59",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  13.6",
+        "Results 2: ",
+        "  Arm/Group Title: Placebo Cream",
+        "  Arm/Group Description: Patients receive placebo cream applied to palms and soles twice daily.",
+        "  Overall Number of Participants Analyzed: 49",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  10.2"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/67 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

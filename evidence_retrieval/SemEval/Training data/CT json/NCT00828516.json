@@ -1,0 +1,45 @@
+{
+    "Clinical Trial ID": "NCT00828516",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Usual Care Plus Traditional Acupuncture",
+        "  All participants were considered stable and were undergoing maintenance treatment for lymphoedema, and were receiving adjunctive acupuncture treatment to promote wellbeing and improve quality of life"
+    ],
+    "Eligibility": [
+        "INCLUSION CRITERIA:",
+        "  male or female patients with either breast or head and neck cancer",
+        "  diagnosis of mild to moderate uncomplicated lymphoedema",
+        "  age 18 or over",
+        "  under the care of the lymphoedema service for at leas:",
+        "  two months (head and neck cancer patients)",
+        "  three months (breast cancer patients)",
+        "  no active cancer disease",
+        "  at least 3 months since prior active cancer treatment (surgery, radiotherapy, chemotherapy, intravenous treatment)",
+        "  more than 6 months since prior acupuncture treatment",
+        "  concurrent adjuvant hormonal therapy allowed",
+        "  concurrent anti-depressant medication allowed provided there has been no change in prescription or dosing within the past 3 months and patient intends to remain on the medication for the duration of study treatment and follow-up",
+        "  Able to understand and communicate in English",
+        "  Able to travel to the Lynda Jackson Macmillan Centre for treatment",
+        "  Able to attend treatment once weekly for at least 7 consecutive weeks",
+        "  Able to complete outcome measures",
+        "EXCLUSION CRITERIA:",
+        "  bilateral breast cancer",
+        "  advanced cancer disease"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change From Baseline in Patient-specified and Reported Symptoms on the Measure Yourself Medical Outcome Profile (MYMOP)",
+        "  MYMOP is a questionnaire widely used for evaluating interventions based on holistic and participative principles. It enables respondants to specify and measure the treatment outcomes that are important to them.",
+        "  Time frame: Before 7th acupuncture treatment",
+        "Results 1: ",
+        "  Arm/Group Title: Usual Care Plus Traditional Acupuncture",
+        "  Arm/Group Description: All participants were considered stable and were undergoing maintenance treatment for lymphoedema, and were receiving adjunctive acupuncture treatment to promote wellbeing and improve quality of life",
+        "  Overall Number of Participants Analyzed: 32",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  1.51         (0.96)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/35 (0.00%)"
+    ]
+}

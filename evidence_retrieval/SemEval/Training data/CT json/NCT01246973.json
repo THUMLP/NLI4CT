@@ -1,0 +1,57 @@
+{
+    "Clinical Trial ID": "NCT01246973",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Curcumin",
+        "  4 Curcumin C3 Complex 500mg capsules (2.0 g) taken orally 3 times/day throughout course of radiation treatments plus one week",
+        "  Curcumin: 4 Curcumin C3 Complex 500mg capsules (2.0 g) taken orally 3 times/day throughout course of radiation treatments plus one week",
+        "INTERVENTION 2: ",
+        "  Placebo",
+        "  4 placebo capsules taken orally 3 times/day throughout course of radiation treatments plus one week",
+        "  Placebo: 4 placebo capsules taken orally 3 times/day throughout course of radiation treatments plus one week"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  a diagnosis of non-inflammatory breast adenocarcinoma (including in situ and bilateral)",
+        "  scheduled to begin radiotherapy without concurrent chemotherapy; concurrent hormone or Herceptin\u00ae (trastuzumab)treatment is okay",
+        "  can have been treated by lumpectomy or mastectomy with or without adjuvant or neoadjuvant chemotherapy or hormonal treatment",
+        "  can have had breast reconstruction",
+        "  scheduled to receive 25-35 radiation treatment sessions (1 session per day) using standard irradiation fractionation (1.8-2.0 Gy per sessions) OR 16-20 radiation treatment sessions (1 session per day) using Canadian irradiation fractionation (2.2-3.0 Gy per session)(100, 101).",
+        "  able to swallow medication.",
+        "  three weeks must have elapsed after chemotherapy and surgery before the patient can begin the study",
+        "  able to understand English",
+        "Exclusion Criteria:",
+        "  inflammatory breast cancer",
+        "  previous radiation therapy to the breast or chest",
+        "  concurrent chemotherapy treatment",
+        "  concurrent treatment with anti-coagulants (e.g., coumadin\u00ae, warfarin\u00ae), or anti-EGFR (human epidermal growth factor receptor) drugs (e.g. Iressa\u00ae (gefitinib), Erbitux\u00ae (cetuximab, C225); aspirin is allowed",
+        "  known radiosensitivity syndromes (e.g., Ataxia-telangiectasia)",
+        "  collagen vascular disease, unhealed surgical sites, or breast infections"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Mean Radiation Dermatitis Severity Score",
+        "  The outcome measures will be the severity of radiation dermatitis, using the Radiation Dermatitis Score (RDS), at the end of treatment in each treatment arm. (Objective: To examine the efficacy of curcumin in preventing and/or reducing the severity of dermatitis in radiation treatment site in breast cancer patients). The RDS score ranges from 0-4 with higher scores indicating worse outcome.",
+        "  Time frame: 6 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Curcumin",
+        "  Arm/Group Description: 4 Curcumin C3 Complex 500mg capsules (2.0 g) taken orally 3 times/day throughout course of radiation treatments plus one week",
+        "  Curcumin: 4 Curcumin C3 Complex 500mg capsules (2.0 g) taken orally 3 times/day throughout course of radiation treatments plus one week",
+        "  Overall Number of Participants Analyzed: 283",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  2.02         (0.05)",
+        "Results 2: ",
+        "  Arm/Group Title: Placebo",
+        "  Arm/Group Description: 4 placebo capsules taken orally 3 times/day throughout course of radiation treatments plus one week",
+        "  Placebo: 4 placebo capsules taken orally 3 times/day throughout course of radiation treatments plus one week",
+        "  Overall Number of Participants Analyzed: 295",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  1.99         (0.06)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/344 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/342 (0.00%)"
+    ]
+}

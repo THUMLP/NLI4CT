@@ -1,0 +1,52 @@
+{
+    "Clinical Trial ID": "NCT02447328",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Single Arm",
+        "  fulvestrant (Faslodex\u00ae)"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Post menopausal status women",
+        "  Outpatient or inpatient with locally advanced or metastatic breast cancer who have failed with prior anti-estrogen therapy.",
+        "  Estrogen receptor positive",
+        "  Radiographic progression of disease after the prior therapy",
+        "  Patients who agree to participate in this study and sign the informed consent",
+        "Exclusion Criteria:",
+        "  Patients who are treated with fulvestrant",
+        "  Patients who are being treated with the other antitumor agents",
+        "  Pregnancy or lactating women",
+        "  History of hypersensitivity to any of included ingredients (eg. Castor oil)",
+        "  Patients who are considered not fit for the study by investigators",
+        "  Patients who have severe dysfunction of liver or kidney"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Safety(Percentage of Participants With Adverse Events and/or Adverse Drug Reactions)",
+        "  Percentage of patients with AEs.",
+        "  Time frame: Adverse events were collected from treatment initiation to end of the study about 6 months for each patient.",
+        "Results 1: ",
+        "  Arm/Group Title: Single Arm",
+        "  Arm/Group Description: fulvestrant (Faslodex  )",
+        "  Overall Number of Participants Analyzed: 81",
+        "  Measure Type: Number",
+        "  Unit of Measure: Percentage of participants  Adverse Events(AE): 81.5        (71.3 to 89.3)",
+        "  ADR; based on current South Korea label.: 38.3        (27.7 to 49.7)",
+        "  Serious AE: 11.1        (5.2 to 20.1)",
+        "  Serious ADR: 0        (0 to 4.4)",
+        "  Unexpected AE: 71.6        (60.5 to 81.1)",
+        "  Unexpected ADR: 24.7        (15.8 to 35.5)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 9/81 (11.11%)",
+        "  CHOLANGITIS 1/81 (1.23%)",
+        "  contusion of brain 1/81 (1.23%)",
+        "  Joint Dislocation 1/81 (1.23%)",
+        "  Blood creatinine increased 1/81 (1.23%)",
+        "  Bone Pain 1/81 (1.23%)",
+        "  Acute lymphocytic leukaemia (in remission) 1/81 (1.23%)",
+        "  Hydronephrosis 1/81 (1.23%)",
+        "  pelvic pain 1/81 (1.23%)"
+    ]
+}

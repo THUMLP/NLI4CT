@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT01091974",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Arm 1 - (CBT-I) + Placebo",
+        "Placebo Comparator: Placebo for 47 days",
+        "  CBT-I: Seven weekly sessions of cognitive behavioral therapy for insomnia (CBT-I)",
+        "INTERVENTION 2: ",
+        "  2 - CBT-I + Armodafinil",
+        "  Armodafinil: Armodafinil P.O. daily/47 days (3-days at 50mg, then 40 days at 100mg, then 4 days at 50mg)",
+        "  CBT-I: Seven weekly sessions of cognitive behavioral therapy for insomnia (CBT-I)"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Have a diagnosis of cancer.",
+        "  Be able to understand written and spoken English",
+        "  Be able to swallow medication",
+        "  Have preferred sleep phase between 7:30 pm and 11:00 am",
+        "  Be willing to discontinue any medications/OTCs/Herbals for sleep for the 11-week study period",
+        "  Be presumed to be in a state of cancer remission; use of tamoxifen, an aromatase inhibitor, and/or Herceptin is permitted",
+        "  Self-report problems with insomnia for at least three months and that the insomnia began or got worse with the onset of cancer or treatment",
+        "  Have completed chemotherapy and or radiation not less than one month ago. Note: Both types of treatment must be completed at least one month ago if patient receives chemotherapy and radiation therapy and there is no outer limit to how long ago treatments were completed.)",
+        "  Report insomnia on the SDS-CL at a frequency of at least 3 days a week",
+        "Exclusion Criteria:",
+        "  Have ever taken modafinil or had CBT-I therapy. CBT-I therapy for the sake of this protocol will be defined as any cognitive behavioral-based treatment for insomnia that includes a sleep restriction component.",
+        "  Have an unstable medical or psychiatric illness (Axis I-current or within the last 5 years)",
+        "  Have a history of seizures or severe headaches, or uncontrolled cardiac disease or hypertension",
+        "  Be presently taking an anticoagulant or a corticosteroid",
+        "  Have taken amphetamines (e.g., methylphenidate, pemoline [Cylert\u00ae] or similar psycho stimulants) within the past 30 days",
+        "  Be currently pregnant or nursing",
+        "  Have a history of substance abuse, or meet criteria for current alcohol abuse or dependence as assessed by a CAGE test score >=2 or an Alcohol Use Disorders Identification Test (AUDIT) score >=13",
+        "  Have surgery planned within the study period",
+        "  Have have ever been diagnosed with sleep apnea or have sleep apnea as indicated by endorsing either question 11 (I wake up choking or gasping for air) or question 12 (My bed partner has noticed that I seem to stop breathing) on the Sleep Disorders Symptom Check at the \"Often\" or \"Frequently\" level."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Insomnia Severity Index From Baseline to Post-intervention",
+        "  The Insomnia Severity Index (ISI) is a commonly used, 7-item psychometrically validated measure used to rate insomnia with 0-7 = absence of insomnia, 8-14 = subthreshold insomnia symptoms, 15-21 = moderate insomnia, and 22-28 = severe insomnia.",
+        "  Time frame: ANCOVA was employed with multiple imputation on the post-intervention score (average of the two post-intervention weeks), controlling for the score at the time of consent (pre).",
+        "Results 1: ",
+        "  Arm/Group Title: Arm 1 - (CBT-I) + Placebo",
+        "  Arm/Group Description: Placebo Comparator: Placebo for 47 days",
+        "  CBT-I: Seven weekly sessions of cognitive behavioral therapy for insomnia (CBT-I)",
+        "  Overall Number of Participants Analyzed: 24",
+        "  Mean (Standard Error)",
+        "  Unit of Measure: units on a scale  -4.93         (1.85)",
+        "Results 2: ",
+        "  Arm/Group Title: 2 - CBT-I + Armodafinil",
+        "  Arm/Group Description: Armodafinil: Armodafinil P.O. daily/47 days (3-days at 50mg, then 40 days at 100mg, then 4 days at 50mg)",
+        "  CBT-I: Seven weekly sessions of cognitive behavioral therapy for insomnia (CBT-I)",
+        "  Overall Number of Participants Analyzed: 23",
+        "  Mean (Standard Error)",
+        "  Unit of Measure: units on a scale  -6.36         (1.84)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/24 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Clinical Trial ID": "NCT00073073",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Exemestane",
+        "  exemestane 25 mg by mouth (PO) every day for two years taken with calcium carbonate 1200 mg PO every day and vitamin D 400 IU PO every day Initially patients were initially planned to receive Celecoxib but the study was amended prior to any subject going on and Celecoxib was never administered to any subjects.",
+        "  Exemestane: exemestane 25 mg by mouth (PO) every day for two years",
+        "  Calcium carbonate: calcium carbonate 1200 mg PO every day x 2 years",
+        "  Vitamin D: Vitamin D 400 international units PO every day x 2 years"
+    ],
+    "Eligibility": [
+        "INCLUSION CRITERIA:",
+        "  Postmenopausal female.",
+        "  Postmenopausal defined as no menses for at least 12 months or bilateral oophorectomy. In unclear cases, (e.g. 50 year old who has had hysterectomy) chemical confirmation of postmenopausal status may be confirmed with follicle stimulating hormone (FSH) greater than 35 U/L.",
+        "  Elevated risk for developing invasive breast cancer by virtue of one of the following criteria:",
+        "  Gail Model risk of greater than or equal to 1.7% over 5 years from study entry. (This is the same minimum level of risk required for a subject to be eligible for the recently completed NSABP-P1 tamoxifen breast cancer prevention trial).",
+        "  Lobular neoplasia.",
+        "  Atypical ductal hyperplasia.",
+        "  DCIS (ductal carcinoma in situ) that has been previously treated with mastectomy or lumpectomy and radiation, +/- tamoxifen.",
+        "  Deleterious mutations in BRCA1 or 2 OR A priori risk assessment of 20% chance or greater of carrying BRCA1/2 gene mutation. The BRCAPRO and Couch model will both be used to asses this risk. If a woman has a 20% risk of carrying a BRCA1/2 mutation by either model, she will meet eligibility criteria.",
+        "  Prior stage I or II breast cancer at least 2 years out from treatment for invasive disease and no prior use of aromatase inhibitors.",
+        "  Subjects should be willing to abstain from use of hormonal therapies (e.g. tamoxifen, hormone replacement therapy, oral contraceptive pills, hormone-containing intrauterine devices (IUDs). E-string is acceptable). Venlafaxine will be offered as supportive care for women with menopausal symptoms.",
+        "  Eastern Cooperative Oncology Group (ECOG) performance status 0-1.",
+        "  Subject has been counseled regarding her options and has signed the informed consent document.",
+        "  Baseline dual-emission x-ray absorptiometry (DEXA) scan with bone mineral density (BMD) T-score greater than or equal to 2.5 at antero posterior (AP) spine.",
+        "  Hemoglobin greater than or equal to 11 g/dl.",
+        "  Creatinine less than 1.5 times the upper limits of normal.",
+        "  Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) less than 2.5 times upper limit of normal.",
+        "  No investigational agent for the past 30 days.",
+        "  If history of cancer (other than squamous or basal cell skin cancers), subject must have no evidence of disease at time of enrollment AND no history of cancer directed treatment in the 2 years preceding enrollment.",
+        "EXCLUSION CRITERIA:",
+        "  Current or recent chronic use (within 3 months) of hormonal medications, e.g. oral contraceptive pills, hormone replacement therapy, tamoxifen, raloxifene, IUD with progestins or corticosteroids. (Subjects on chronic topical or inhaled steroids will be eligible for the study.) Current use of phenytoin, carbamazepine, rifampin due to increased estrogen metabolism.",
+        "  History of clotting or bleeding disorder.",
+        "  History of allergic reactions attributed to compounds of similar chemical or biologic composition to exemestane (e.g. anastrozole, letrozole, formestane).",
+        "  Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percent Change in Mammographic Density at 1 Year on Exemestane",
+        "  [Not Specified]",
+        "Time frame: 1 year",
+        "Results 1: ",
+        "  Arm/Group Title: Exemestane",
+        "  Arm/Group Description: exemestane 25 mg by mouth (PO) every day for two years taken with calcium carbonate 1200 mg PO every day and vitamin D 400 IU PO every day Initially patients were initially planned to receive Celecoxib but the study was amended prior to any subject going on and Celecoxib was never administered to any subjects.",
+        "  Exemestane: exemestane 25 mg by mouth (PO) every day for two years",
+        "  Calcium carbonate: calcium carbonate 1200 mg PO every day x 2 years",
+        "  Vitamin D: Vitamin D 400 international units PO every day x 2 years",
+        "  Overall Number of Participants Analyzed: 42",
+        "  Mean (95% Confidence Interval)",
+        "  Unit of Measure: percent change from baseline  -2.4        (-5.0 to 0.1)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/42 (0.00%)"
+    ]
+}

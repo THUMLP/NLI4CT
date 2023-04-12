@@ -1,0 +1,41 @@
+{
+    "Clinical Trial ID": "NCT01669343",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Post-menopausal Women Using Adjuvant Letrozole",
+        "  Part A Routine Care Letrozole; Part B Double Dose Letrozole in overweight/obese participants",
+        "  Letrozole: Part A Monitor standard of care letrozole use for 28 days; measure blood levels of estrogens and vitamin D at start and end of period. Part B In overweight/obese participants who completed Part A, provide a double dose of letrozole and monitor use for 28 days; measure blood levels of estrogens and vitamin D at start and end of period."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Postmenopausal female patients",
+        "  histological confirmed diagnosis of estrogen receptor and/or progesterone receptor positive breast cancer (Stage I-III) who have completed local therapy",
+        "  Currently prescribed and taking letrozole 2.5 mg daily for a minimum of 3 months",
+        "  Willing to provide written informed consent to participate",
+        "  for the experimental arm: all of the above and body mass index (BMI) > 25 kg/m2",
+        "Exclusion Criteria:",
+        "  Known abnormal liver or renal function defined by:",
+        "  Serum Creatinine > 1.25 times institutional upper limit of normal (ULN) or Calculated Creatinine Clearance < 40 mL/min",
+        "  Serum Bilirubin, Aspartate transaminase (AST) or alanine transaminase (ALT) > 1.5 times ULN",
+        "  Presence of persistent local or known metastatic cancer"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Part A Correlation of Day 29 Estradiol With BMI",
+        "  Determine if estradiol levels vary with BMI levels after 28 days of monitored adherence to standard dose letrozole, by calculating the Pearson correlation between estradiol and log-transformed BMI",
+        "Time frame: Day 29",
+        "Results 1: ",
+        "  Arm/Group Title: Post-menopausal Women Using Adjuvant Letrozole",
+        "  Arm/Group Description: Part A Routine Care Letrozole; Part B Double Dose Letrozole in overweight/obese participants",
+        "  Letrozole: Part A Monitor standard of care letrozole use for 28 days; measure blood levels of estrogens and vitamin D at start and end of period. Part B In overweight/obese participants who completed Part A, provide a double dose of letrozole and monitor use for 28 days; measure blood levels of estrogens and vitamin D at start and end of period.",
+        "  Overall Number of Participants Analyzed: 112",
+        "  Measure Type: Number",
+        "  Unit of Measure: correlation coefficient  0.06        (-0.13 to 0.24)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 2/121 (1.65%)",
+        "  Renal Colic/Constipation  [1]1/121 (0.83%)",
+        "  Stroke  [2]1/121 (0.83%)"
+    ]
+}

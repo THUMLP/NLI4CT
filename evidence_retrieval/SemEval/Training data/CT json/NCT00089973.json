@@ -1,0 +1,43 @@
+{
+    "Clinical Trial ID": "NCT00089973",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  SB-715992",
+        "  The eligible participants were administered Ispinesib, intravenously as a one-hour infusion on Day 1 of every 21-day treatment cycle, at a dose of 18 mg/m^2. The dosing was repeated for up to multiple cycles, until disease progression or removal from treatment due to an unacceptable toxicity or withdrawal of consent."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Stage IIIB or Stage IV breast cancer",
+        "  Previously received anthracycline and taxane therapy",
+        "Exclusion criteria:",
+        "  Actively receiving anti-cancer therapy agent(s)."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percentage of Participants With Overall Response Rate (ORR) Following Administration of Ispinesib",
+        "  Overall tumor response rate, was defined as the percentage of participants achieving either a complete response (CR) or partial response (PR), stable disease (SD), or progressive disease (PD). It was assessed by Computer tomography (CT) or Magnetic Resonance Imaging (MRI) scan. Response and progression was evaluated in this study using the Response Evaluation Criteria in Solid Tumors (RECIST) 1.0. The target lesions (TLs): CR, Disappearance of all TLs; PR where at least a 30% decrease in the sum of the longest diameter (LD) of TLs, taking as reference the baseline sum LD; PD : At least a 20% increase in the sum of the LD of target lesions, taking as reference the smallest sum LD recorded since the treatment started or the appearance of one or more new lesions; SD: Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum LD since the treatment started.",
+        "  Time frame: After cycle 2 and repeated every 2 cycles up to Cycle 10, up to 26 months",
+        "Results 1: ",
+        "  Arm/Group Title: SB-715992",
+        "  Arm/Group Description: The eligible participants were administered Ispinesib, intravenously as a one-hour infusion on Day 1 of every 21-day treatment cycle, at a dose of 18 mg/m^2. The dosing was repeated for up to multiple cycles, until disease progression or removal from treatment due to an unacceptable toxicity or withdrawal of consent.",
+        "  Overall Number of Participants Analyzed: 50",
+        "  Measure Type: Number",
+        "  Unit of Measure: percentage of participants  8"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 23/50 (46.00%)",
+        "  Febrile neutropenia 5/50 (10.00%)",
+        "  Neutropenia 2/50 (4.00%)",
+        "  Pericardial effusion 1/50 (2.00%)",
+        "  Vomiting 3/50 (6.00%)",
+        "  Diarrhoea 2/50 (4.00%)",
+        "  Abdominal pain 1/50 (2.00%)",
+        "  Ascites 1/50 (2.00%)",
+        "  Chest pain 2/50 (4.00%)",
+        "  Pyrexia 2/50 (4.00%)",
+        "  Hyperbilirubinaemia 1/50 (2.00%)",
+        "  Catheter related infection 1/50 (2.00%)",
+        "  Neutropenic sepsis 1/50 (2.00%)"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Clinical Trial ID": "NCT03624972",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Resources Only",
+        "  Patients will receive a list of resources on sexual and menopausal health in breast cancer. They will be asked to review the resources before their next clinic visit.",
+        "  Sexual and Menopausal Health Resources: Patients will receive a resource list that includes both web-based resources on menopausal and sexual health and center-specific resources, such as contact information for a menopausal & sexual health clinic.",
+        "INTERVENTION 2: ",
+        "  Resources + Video",
+        "  Patients will receive a list of web resources on sexual and menopausal health in breast cancer. In addition to the resources, patients will be asked to view an online video called \"Starting the Conversation\" and to complete an accompanying workbook. Patients in this arm will be asked to review the resource list, watch the Starting the Conversation video, and complete the workbook before their next clinic visit.",
+        "  Starting the Conversation Video: The Starting the Conversation program is designed to increase self-efficacy and outcome expectancies for communicating with providers about sexual health and related issues, reduce barriers to communication, and provide basic training in skills for communicating with providers about these topics, including prioritizing concerns, tips for effective communication, communication practice, and self-feedback.",
+        "  Sexual and Menopausal Health Resources: Patients will receive a resource list that includes both web-based resources on menopausal and sexual health and center-specific resources, such as contact information for a menopausal & sexual health clinic."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Receiving any treatment for breast cancer or have completed acute treatment for breast cancer < 10 years ago",
+        "  Attending clinic visits in the course of follow-up care (i.e., not an initial consult visit)",
+        "  Willing to have clinic visit audio recorded",
+        "Exclusion Criteria:",
+        "  Unable to speak English",
+        "  Eastern Cooperative Oncology Group (ECOG) Performance score > 2 OR too ill to participate as judged by physician, self-report, or observation of the research team member",
+        "  Overt cognitive dysfunction or psychiatric disturbance or severe mental illness (e.g., dementia, suicidal behavior, or psychosis), as observed or judged by the researcher or referring source."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Self-Reported Self-Efficacy for Communicating About Sexual Health Issues",
+        "  Two items assessed patients' self-efficacy (confidence) for communicating with their breast cancer clinician about sexual health concerns in terms of either talking (item 1) or asking (item 2) about sexual health. Response options used an 11-point scale (0=not at all confident/not at all to 10=extremely confident/very much). Mean scores across the two items were used, ranging from 0-10. Higher scores indicate higher self-efficacy.",
+        "  Time frame: 2 weeks",
+        "Results 1: ",
+        "  Arm/Group Title: Resources Only",
+        "  Arm/Group Description: Patients will receive a list of resources on sexual and menopausal health in breast cancer. They will be asked to review the resources before their next clinic visit.",
+        "  Sexual and Menopausal Health Resources: Patients will receive a resource list that includes both web-based resources on menopausal and sexual health and center-specific resources, such as contact information for a menopausal & sexual health clinic.",
+        "  Overall Number of Participants Analyzed: 71",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: score on a scale  8.5         (1.8)",
+        "Results 2: ",
+        "  Arm/Group Title: Resources + Video",
+        "  Arm/Group Description: Patients will receive a list of web resources on sexual and menopausal health in breast cancer. In addition to the resources, patients will be asked to view an online video called \"Starting the Conversation\" and to complete an accompanying workbook. Patients in this arm will be asked to review the resource list, watch the Starting the Conversation video, and complete the workbook before their next clinic visit.",
+        "  Starting the Conversation Video: The Starting the Conversation program is designed to increase self-efficacy and outcome expectancies for communicating with providers about sexual health and related issues, reduce barriers to communication, and provide basic training in skills for communicating with providers about these topics, including prioritizing concerns, tips for effective communication, communication practice, and self-feedback.",
+        "  Sexual and Menopausal Health Resources: Patients will receive a resource list that includes both web-based resources on menopausal and sexual health and center-specific resources, such as contact information for a menopausal & sexual health clinic.",
+        "  Overall Number of Participants Analyzed: 71",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: score on a scale  8.8         (2.1)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/71 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/73 (0.00%)"
+    ]
+}

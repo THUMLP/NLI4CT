@@ -1,0 +1,55 @@
+{
+    "Clinical Trial ID": "NCT00896649",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Single Arm Positron Emission Mammography and Questionnaire",
+        "  questionnaire administration positron emission mammography",
+        "  digital mammography: standard screening mammogram",
+        "  questionnaire administration: Questionnaire regarding patient satisfaction with mammogram experience and with positron emission mammography experience.",
+        "  positron emission mammography: one-time positron emission mammography to compare recall rates with that of standard mammogram"
+    ],
+    "Eligibility": [
+        "Inclusion criteria:",
+        "  DISEASE CHARACTERISTICS:",
+        "  Scheduled to undergo screening mammogram at one of the Boston Medical Center-affiliated primary care clinics and meets 1 of the following criteria:",
+        "  Dense breast tissue",
+        "  At high-risk for breast cancer",
+        "  PATIENT CHARACTERISTICS:",
+        "  Has 1 of the following racial or ethnic backgrounds based on the patient's country of birth or the mother and father's country of birth:",
+        "  Hispanic",
+        "  Haitian Creole",
+        "  African American",
+        "  Caucasian",
+        "  PRIOR CONCURRENT THERAPY:",
+        "  None specified",
+        "Exclusion criteria:",
+        "  No history of breast cancer, palpable breast mass, abnormal nipple discharge, or other focal complaints warranting diagnostic mammogram"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Frequency of Breast Imaging Assessment Reporting and Data System (BI-RADS) \"0\" Call-back in Mammography vs Breast Imaging Assessment Reporting and Data System (BI-RADS) \"0\" in Positron Emission Mammography",
+        "  Number of participants called back due to Breast Imaging Assessment Reporting and Data System (BI-RADS) \"0\" Mammogram compared to number of patients with Breast Imaging Assessment Reporting and Data System (BI-RADS) \"0\" in positron emission mammography",
+        "  Breast Imaging Assessment Reporting and Data System (BI-RADS) Scale:",
+        "  0 = Inconclusive for malignancy; call-back in mammography",
+        "  = normal",
+        "  = abnormal, with no malignancy",
+        "  = abnormal, likely benign",
+        "  = abnormal, likely malignant",
+        "  = malignant",
+        "  Time frame: immediately at completion of mammogram",
+        "Results 1: ",
+        "  Arm/Group Title: Single Arm Positron Emission Mammography and Questionnaire",
+        "  Arm/Group Description: questionnaire administration positron emission mammography",
+        "  digital mammography: standard screening mammogram",
+        "  questionnaire administration: Questionnaire regarding patient satisfaction with mammogram experience and with positron emission mammography experience.",
+        "  positron emission mammography: one-time positron emission mammography to compare recall rates with that of standard mammogram",
+        "  Overall Number of Participants Analyzed: 188",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  Number of BI-RAD \"0\" Mammogram: 28",
+        "  Number of BI-RAD \"0\" positron emission mammograph: 27"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/188 (0.00%)"
+    ]
+}

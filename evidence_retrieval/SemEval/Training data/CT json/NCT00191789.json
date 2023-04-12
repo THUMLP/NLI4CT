@@ -1,0 +1,49 @@
+{
+    "Clinical Trial ID": "NCT00191789",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Gemcitabine+Doxorubicin+Cisplatin+Surgery",
+        "  Gemcitabine: 1200 mg/m^2, intravenous (IV) day 1 and day 8 every 21 days x 4 cycles (1-4) then 1000 mg/m^2, IV, day 1 and day 8 every 21 days x 4 cycles (5-8).",
+        "  Doxorubicin: 60 mg/m^2, IV, every 21 days x 4 cycles (1-4). Cisplatin: 70 mg/m^2, IV, every 21 days x 4 cycles (5-8). Surgery follows 8 cycles of chemotherapy. Extent and type of surgery is guided by tumor size, physician and/or patient decision."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Diagnosis of breast carcinoma",
+        "  No previous chemotherapy, with bidimensionally measurable locally advanced disease",
+        "  Adequate performance status (Karnofsky Performance Status [KPS] greater than or equal to 70), bone marrow reserves, hepatic, cardiac and renal functions.",
+        "Exclusion Criteria:",
+        "  Inflammatory breast cancer",
+        "  Pregnancy and Breast-feeding",
+        "  Serious concomitant disorder or infection",
+        "  Previous cancer within the last 5 years or a second primary malignancy."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Number of Patients With Pathological Complete Response (Pathological Complete Response Rate)",
+        "  Complete pathological response: No invasive tumor cells identified from sections from site of previous cancer. Require evidence corroborating prior presence of invasive cancer, which requires detection of abnormal fibroelastic breast stroma devoid of normal lobular units and contains foamy macrophages with moderate numbers of fibroblasts and mononuclear inflammatory cells. Presence of nondescript collagenised lobules or breast fibrous tissue is not evidence that tumor site has been adequately sampled and macroscopic assessment and sampling is needed until original neoplastic stroma identified.",
+        "  Time frame: tumor assessment at baseline and during surgery after eight 21-day treatment cycles",
+        "Results 1: ",
+        "  Arm/Group Title: Gemcitabine+Doxorubicin+Cisplatin+Surgery",
+        "  Arm/Group Description: Gemcitabine: 1200 mg/m^2, intravenous (IV) day 1 and day 8 every 21 days x 4 cycles (1-4) then 1000 mg/m^2, IV, day 1 and day 8 every 21 days x 4 cycles (5-8).",
+        "  Doxorubicin: 60 mg/m^2, IV, every 21 days x 4 cycles (1-4). Cisplatin: 70 mg/m^2, IV, every 21 days x 4 cycles (5-8). Surgery follows 8 cycles of chemotherapy. Extent and type of surgery is guided by tumor size, physician and/or patient decision.",
+        "  Overall Number of Participants Analyzed: 65",
+        "  Measure Type: Number",
+        "  Unit of Measure: participants  13"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 17/65 (26.15%)",
+        "  Febrile neutropenia 3/65 (4.62%)",
+        "  Neutropenia 2/65 (3.08%)",
+        "  Pancytopenia 1/65 (1.54%)",
+        "  Thrombocytopenia 1/65 (1.54%)",
+        "  Cardiac arrest 2/65 (3.08%)",
+        "  Myocardial infarction 1/65 (1.54%)",
+        "  Diarrhoea 5/65 (7.69%)",
+        "  Stomatitis 1/65 (1.54%)",
+        "  Vomiting 2/65 (3.08%)",
+        "  Fatigue 1/65 (1.54%)",
+        "  Jaundice 1/65 (1.54%)",
+        "  Neutropenic infection 2/65 (3.08%)"
+    ]
+}

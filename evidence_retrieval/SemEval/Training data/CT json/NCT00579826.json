@@ -1,0 +1,55 @@
+{
+    "Clinical Trial ID": "NCT00579826",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Letrozole",
+        "  Letrozole, 2.5 mg daily for 6 months",
+        "  Letrozole: Letrozole 2.5 mg tablet daily. Then optional open label letrozole for another 6 months.",
+        "INTERVENTION 2: ",
+        "  Placebo",
+        "  Placebo, daily for 6 months",
+        "  Placebo: Placebo tablet daily for 6 months then optional open label letrozole for 6 months."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Post-menopausal women at high risk for development of breast cancer",
+        "  On a stable dose of hormone replacement therapy",
+        "  have cytomorphologic evidence of hyperplasia +/- atypia and Ki-67 expression >1.5% in benign breast epithelial cells acquired by RPFNA",
+        "  Serum level of 25-OH vitamin D of at least 30 ng/ml prior to study entry",
+        "  Willing to have a repeat random periareolar fine needle aspiration (RPFNA) and mammogram at 6 months and 12 months (if participating in the open label portion of the study) following initiation of study drug",
+        "Exclusion Criteria:",
+        "  Prior history of osteoporosis or osteoporotic fracture.",
+        "  Prior history of invasive breast cancer or other invasive cancer within five years from date of study entry.",
+        "  Current and chronic use of cyclooxygenase-2 (COX-2) specific inhibitors or NSAIDs",
+        "  Receiving treatment for rheumatoid arthritis or fibromyalgia",
+        "  Current history of poorly controlled migraines or perimenopausal symptoms",
+        "  Currently receiving other investigational agents.",
+        "  Receipt of more than 6 months of an aromatase inhibitor (anastrozole, exemestane, letrozole, etc.) at any time in the past."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Change in Proliferation Rate (Ki-67 by Immunocytochemistry) From Baseline to 6 Months",
+        "  Change in proliferation rate (percent positively stained cells for Ki-67 antigen by immunocytochemistry) in benign breast epithelial cells acquired by random periareolar fine needle aspiration from women at high risk for the development of breast cancer.",
+        "  Time frame: Baseline to 6 Months",
+        "Results 1: ",
+        "  Arm/Group Title: Letrozole",
+        "  Arm/Group Description: Letrozole, 2.5 mg daily for 6 months",
+        "  Letrozole: Letrozole 2.5 mg tablet daily. Then optional open label letrozole for another 6 months.",
+        "  Overall Number of Participants Analyzed: 28",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: percentage of cells stained positive  -1.5         (2.8)",
+        "Results 2: ",
+        "  Arm/Group Title: Placebo",
+        "  Arm/Group Description: Placebo, daily for 6 months",
+        "  Placebo: Placebo tablet daily for 6 months then optional open label letrozole for 6 months.",
+        "  Overall Number of Participants Analyzed: 25",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: percentage of cells stained positive  -1.1         (3.9)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/29 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: "
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Clinical Trial ID": "NCT01383174",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Nuevo Amanecer Peer Support Program",
+        "  Nuevo Amanecer is a cognitive-behavioral stress management program delivered by peers (Spanish-speaking Latinas who have had breast cancer) designed to address the first year of survivorship.",
+        "  Peer Support Program:",
+        "  Work with a trained counselor who is a breast cancer survivor",
+        "  Meet 8 times in-person over the 8 week program with the counselor",
+        "  Counselor helps participant develop a personalized support program to help her improve her quality of life",
+        "  Receives information on breast cancer, its treatments, stress management, and cognitive refraining.",
+        "INTERVENTION 2: ",
+        "  Wait-list Control",
+        "  Waits six months, and at the end of the six months is offered the option of participating in the peer support program."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Self-identifies as Latina",
+        "  Diagnosed with Stage 0, I, II, or III in the prior month",
+        "  Primarily Spanish-speaking, or Spanish monolingual",
+        "  Aged 18 or older",
+        "  Diagnosed in Alameda, Contra Costa, San Mateo, San Francisco or Santa Clara counties, California.",
+        "Exclusion Criteria:",
+        "  Previous cancer diagnosis except for non-melanoma skin cancer",
+        "  Terminal illness",
+        "  Stage IV breast cancer (distant metastasis)"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Physical Well-being a Subcale of the Functional Assessment of Cancer Therapy-Breast Quality of Life Instrument (FACT-B)",
+        "  FACT-B was used as the breast cancer-specific quality-of-life measure. FACT-B consists of 5 subscale scores pertaining to 4 well-being dimensions (physical, social-family, emotional, functional) and additional breast cancer concerns. A total overall score is the sum of all subscales. Response options were 0=not at all, 1=a little bit, 2=somewhat, 3=quite a bit, and 4=very much.",
+        "  Psychometric analysis in our Spanish-speaking Latina sample resulted in modifications to FACT-B: physical well-being subscale. Of 7 items, 1 was dropped because it was conceptually different from other items on that scale. Modified subscale was scored by summing items. Possible score ranges for physical well-being were 0-24. Higher scores indicated greater well-being.",
+        "  Time frame: Baseline and 6 month assessment",
+        "Results 1: ",
+        "  Arm/Group Title: Nuevo Amanecer Peer Support Program",
+        "  Arm/Group Description: Nuevo Amanecer is a cognitive-behavioral stress management program delivered by peers (Spanish-speaking Latinas who have had breast cancer) designed to address the first year of survivorship.",
+        "  Peer Support Program:",
+        "  Work with a trained counselor who is a breast cancer survivor",
+        "  Meet 8 times in-person over the 8 week program with the counselor",
+        "  Counselor helps participant develop a personalized support program to help her improve her quality of life",
+        "  Receives information on breast cancer, its treatments, stress management, and cognitive refraining.",
+        "  Overall Number of Participants Analyzed: 76",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  Baseline: 15.29         (5.78)",
+        "  6 month: 19.44         (4.26)",
+        "Results 2: ",
+        "  Arm/Group Title: Wait-list Control",
+        "  Arm/Group Description: Waits six months, and at the end of the six months is offered the option of participating in the peer support program.",
+        "  Overall Number of Participants Analyzed: 75",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: units on a scale  Baseline: 16.76         (5.02)",
+        "  6 month: 18.44         (4.58)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/76 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/75 (0.00%)"
+    ]
+}

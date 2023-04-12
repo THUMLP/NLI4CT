@@ -1,0 +1,40 @@
+{
+    "Clinical Trial ID": "NCT01771666",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  ISB and IC-Green Dye",
+        "  The dose of Isosulfan blue (ISB) dye is 3 to 5 mL and Indocyanine green solution will be started at 1 mg/mL. If fluorescence is not detected with this dose, then it will be increased by 50%. A gamma probe [Neoprobe 2010] will be used to localize the sentinel lymph nodes in the axilla."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Ability to understand and the willingness to sign a written informed consent document.",
+        "  Signed written informed consent.",
+        "  Women undergoing sentinel lymph node biopsy.",
+        "  Women with breast cancer with known or suspected lymph node involvement.",
+        "  Women undergoing sentinel node identification and completion axillary lymph node dissection.",
+        "  Women of 18 years of age or older.",
+        "  Eastern Cooperative Oncology Group (ECOG) or Karnofsky Performance Status 0,1,2.",
+        "  Complete Blood Count (CBC) and basic Metabolic Panel within 6 months",
+        "Exclusion Criteria:",
+        "  History of liver or kidney failure will not be eligible.",
+        "  Allergies to iodine containing products will not be eligible.",
+        "  Women who are pregnant will not be eligible.",
+        "  Psychiatric or addictive disorders or other conditions that, in the opinion of the investigator, would preclude the patient from meeting the study requirements."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Agreement of Labeling Between Isosulfan Blue (IS-BLUE) and Indocyanine Green (IC-GREEN)",
+        "  Number of women with agreement of the two dies [ie, isosulfan blue (IS-BLUE) and indocyanine green (IC-GREEN)] on all nodes examined in the lymphatics and arm-draining lymph nodes, during nodal staging procedures for surgery to treat breast cancer with curative intent.",
+        "Time frame: 1 day",
+        "Results 1: ",
+        "  Arm/Group Title: ISB and IC-Green Dye",
+        "  Arm/Group Description: The dose of Isosulfan blue (ISB) dye is 3 to 5 mL and Indocyanine green solution will be started at 1 mg/mL. If fluorescence is not detected with this dose, then it will be increased by 50%. A gamma probe [Neoprobe 2010] will be used to localize the sentinel lymph nodes in the axilla.",
+        "  Overall Number of Participants Analyzed: 23",
+        "  Measure Type: Count of Participants",
+        "  Unit of Measure: Participants  8  34.8%"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/23 (0.00%)"
+    ]
+}

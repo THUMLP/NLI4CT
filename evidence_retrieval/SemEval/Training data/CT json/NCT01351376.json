@@ -1,0 +1,61 @@
+{
+    "Clinical Trial ID": "NCT01351376",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Placebo",
+        "  CDT + inactive LLL",
+        "  Low Level Laser Therapy: Placebo LLL combined with CDT",
+        "INTERVENTION 2: ",
+        "  LLL Combined With CDT",
+        "  CDT + active LLL",
+        "  Low Level Laser: Active LLL combined with CDT"
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  unilateral breast cancer with ipsilateral lumpectomy or mastectomy and lymph node dissection (sentinel biopsy or axillary dissection)",
+        "  stage II or III unilateral secondary upper extremity lymphedema (as defined by the International Society of Lymphology)",
+        "  girth  2 cm circumferential difference and/or volume  200 mL compared to the uninvolved upper extremity at any 4 cm segment",
+        "  able to commit to a long term follow-up schedule",
+        "Exclusion Criteria:",
+        "  active cancer/metastatic cancer",
+        "  currently receiving or have plans for adjuvant radiation or chemotherapy",
+        "  pregnant",
+        "  presence of other extremity lymphedema (primary or secondary)",
+        "  pacemaker",
+        "  artificial joints in the upper quadrants",
+        "  renal failure",
+        "  arterial insufficiency",
+        "  congestive heart failure",
+        "  chronic inflammatory conditions",
+        "  history of deep vein thrombosis (DVT) in the lymphedematous upper extremity",
+        "  previous treatment with Low Level Laser (regardless of indication)",
+        "  medication(s) known to affect body fluid balance",
+        "  body mass index (BMI) > 40 (morbid obesity)"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Arm Volume",
+        "  [Not Specified]",
+        "  Time frame: 13 Months",
+        "Results 1: ",
+        "  Arm/Group Title: Placebo",
+        "  Arm/Group Description: CDT + inactive LLL",
+        "  Low Level Laser Therapy: Placebo LLL combined with CDT",
+        "  Overall Number of Participants Analyzed: 10",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: cm^3  1.48         (1.01)",
+        "Results 2: ",
+        "  Arm/Group Title: LLL Combined With CDT",
+        "  Arm/Group Description: CDT + active LLL",
+        "  Low Level Laser: Active LLL combined with CDT",
+        "  Overall Number of Participants Analyzed: 11",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: cm^3  1.58         (1.0)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/10 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/11 (0.00%)"
+    ]
+}

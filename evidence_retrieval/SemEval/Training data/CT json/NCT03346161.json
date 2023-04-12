@@ -1,0 +1,45 @@
+{
+    "Clinical Trial ID": "NCT03346161",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Arm 1: BREASTChoice (Decision Tool)",
+        "  Investigators recruited patients scheduled for a plastic/reconstruction consult. Investigators identified patients who completed a mastectomy, or were scheduled for one, and considering reconstruction, but didn't have an appointment with a plastic/reconstructive surgeon. A study team member called the patient to determine their interest and offered for them to come to their scheduled appointment 30 minutes early to meet a coordinator or offered them the option to complete pre-appointment procedures at home. Patients randomized using computer random assignment. If the patient didn't have an appointment, she scheduled a convenient time to complete study procedures with research staff. Patients interacted with the decision tool. They were asked to answer a survey. After the appointment, the team collected information consult duration, decision process quality, and measures of shared decision making. Patient participation was approximately 30 minutes.",
+        "INTERVENTION 2: ",
+        "  Arm 2: Enhanced Usual Care (Surgical Care Booklet)",
+        "  Investigators recruited patients scheduled for plastic/reconstruction consultation. Investigators identified patients who completed or scheduled a mastectomy, and considering reconstruction, but didn't have an appointment with a plastic/reconstructive surgeon. A study team member called the patient to determine their interest and offered for them to come to their scheduled appointment 30 minutes early to meet a coordinator or to complete the pre-appointment procedures at home. Patients were randomized using computer random assignment. If the patient didn't have an appointment, she scheduled a convenient time to complete study procedures with research staff. Patients interacted with American Society of Plastic Surgeons booklet \"Breast Reconstruction.\" They were asked to answer a survey. After the appointment, the team collected information about consult duration, decision process quality, and measures of shared decision making. Patient participation was approximately 30 minutes."
+    ],
+    "Eligibility": [
+        "Newly diagnosed or recurrent breast cancer",
+        "  Considering a referral or already referred to a plastic surgeon by their surgical oncologist for possible reconstruction",
+        "  Considering or completing a mastectomy.",
+        "  Does not have known distant metastatic disease (stage IV disease) at the time of recruitment",
+        "  Female.",
+        "  English-speaking.",
+        "  At least 18 years of age.",
+        "  Able to understand and willing to sign an IRB-approved written informed consent document."
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Percent Correct on the Knowledge Measure (Objective Knowledge Score)",
+        "  To determine whether the CDT increases knowledge about their choice, the investigators will compare objective knowledge scores between participants using the CDT and those who received usual care",
+        "  Time frame: Through completion of breast consultation appointment (total participant time approximately 30 minutes)",
+        "Results 1: ",
+        "  Arm/Group Title: Arm 1: BREASTChoice (Decision Tool)",
+        "  Arm/Group Description: Investigators recruited patients scheduled for a plastic/reconstruction consult. Investigators identified patients who completed a mastectomy, or were scheduled for one, and considering reconstruction, but didn't have an appointment with a plastic/reconstructive surgeon. A study team member called the patient to determine their interest and offered for them to come to their scheduled appointment 30 minutes early to meet a coordinator or offered them the option to complete pre-appointment procedures at home. Patients randomized using computer random assignment. If the patient didn't have an appointment, she scheduled a convenient time to complete study procedures with research staff. Patients interacted with the decision tool. They were asked to answer a survey. After the appointment, the team collected information consult duration, decision process quality, and measures of shared decision making. Patient participation was approximately 30 minutes.",
+        "  Overall Number of Participants Analyzed: 60",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: percentage of answers correct  84.6         (14.2)",
+        "Results 2: ",
+        "  Arm/Group Title: Arm 2: Enhanced Usual Care (Surgical Care Booklet)",
+        "  Arm/Group Description: Investigators recruited patients scheduled for plastic/reconstruction consultation. Investigators identified patients who completed or scheduled a mastectomy, and considering reconstruction, but didn't have an appointment with a plastic/reconstructive surgeon. A study team member called the patient to determine their interest and offered for them to come to their scheduled appointment 30 minutes early to meet a coordinator or to complete the pre-appointment procedures at home. Patients were randomized using computer random assignment. If the patient didn't have an appointment, she scheduled a convenient time to complete study procedures with research staff. Patients interacted with American Society of Plastic Surgeons booklet \"Breast Reconstruction.\" They were asked to answer a survey. After the appointment, the team collected information about consult duration, decision process quality, and measures of shared decision making. Patient participation was approximately 30 minutes.",
+        "  Overall Number of Participants Analyzed: 60",
+        "  Mean (Standard Deviation)",
+        "  Unit of Measure: percentage of answers correct  59.7         (18.0)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 0/60 (0.00%)",
+        "Adverse Events 2:",
+        "  Total: 0/60 (0.00%)"
+    ]
+}

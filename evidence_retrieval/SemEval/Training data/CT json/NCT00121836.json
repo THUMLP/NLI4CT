@@ -1,0 +1,59 @@
+{
+    "Clinical Trial ID": "NCT00121836",
+    "Intervention": [
+        "INTERVENTION 1: ",
+        "  Capecitabine+Bevacizumab (Bev); Paclitaxel or Vinorelbine +Bev",
+        "  First Study Treatment Phase:",
+        "  Capecitabine 1000 mg/m\u00b2 oral (PO) twice-daily, Days 1-15 of each 3-week cycle (28 doses per cycle); bevacizumab 15 mg/kg intravenous (IV) infusion, Day 1 of each 3-week cycle.",
+        "  Second Study Treatment Phase:",
+        "  Paclitaxel 80 mg/m\u00b2 60-minute IV infusion (with appropriate premedication), Days 1, 8 and 15 of each 4-week cycle (28 days). Substitution of paclitaxel with docetaxel was not allowed.",
+        "  Vinorelbine 25 mg/m\u00b2 IV infusion over 10-20 minutes, Days 1, 8, and 15 of each 4-week cycle.",
+        "  Bevacizumab 10 mg/kg IV infusion, Days 1 and 15 of each 4-week cycle."
+    ],
+    "Eligibility": [
+        "Inclusion Criteria:",
+        "  Women >=18 years of age",
+        "  HER2-negative metastatic breast cancer",
+        "  Previous adjuvant chemotherapy or hormonal treatment",
+        "  >=1 measurable target lesion",
+        "Exclusion Criteria:",
+        "  Previous treatment with chemotherapy, an anti-angiogenic agent, or a biologic therapy for advanced or metastatic cancer",
+        "  Radiation therapy within 4 weeks of study treatment start or insufficient recovery from the effects of prior radiation therapy",
+        "  Central nervous system metastases",
+        "  Other malignancy within last 5 years, except cured basal cell carcinoma of skin and carcinoma in situ of uterine cervix",
+        "  Serious concurrent infection"
+    ],
+    "Results": [
+        "Outcome Measurement: ",
+        "  Overall Survival",
+        "  Overall survival was defined as the time from date of first treatment dose (Day 1) to date of death, across the study phases regardless of the cause of death",
+        "  Time frame: approximately 505 days (Median Time to Death)",
+        "Results 1: ",
+        "  Arm/Group Title: Capecitabine+Bevacizumab (Bev); Paclitaxel or Vinorelbine +Bev",
+        "  Arm/Group Description: First Study Treatment Phase:",
+        "  Capecitabine 1000 mg/m  oral (PO) twice-daily, Days 1-15 of each 3-week cycle (28 doses per cycle); bevacizumab 15 mg/kg intravenous (IV) infusion, Day 1 of each 3-week cycle.",
+        "  Second Study Treatment Phase:",
+        "  Paclitaxel 80 mg/m  60-minute IV infusion (with appropriate premedication), Days 1, 8 and 15 of each 4-week cycle (28 days). Substitution of paclitaxel with docetaxel was not allowed.",
+        "  Vinorelbine 25 mg/m  IV infusion over 10-20 minutes, Days 1, 8, and 15 of each 4-week cycle.",
+        "  Bevacizumab 10 mg/kg IV infusion, Days 1 and 15 of each 4-week cycle.",
+        "  Overall Number of Participants Analyzed: 109",
+        "  Median (95% Confidence Interval)",
+        "  Unit of Measure: Days  505        (420 to 672)"
+    ],
+    "Adverse Events": [
+        "Adverse Events 1:",
+        "  Total: 39/109 (35.78%)",
+        "  Febrile Neutropenia1/109 (0.92%)",
+        "  Left Ventricular Failure1/109 (0.92%)",
+        "  Nausea3/109 (2.75%)",
+        "  Vomiting3/109 (2.75%)",
+        "  Abdominal Pain1/109 (0.92%)",
+        "  Caecitis1/109 (0.92%)",
+        "  Diarrhoea1/109 (0.92%)",
+        "  Enterovesical Fistula1/109 (0.92%)",
+        "  Gastric Ulcer1/109 (0.92%)",
+        "  Pancreatitis1/109 (0.92%)",
+        "  Pain6/109 (5.50%)",
+        "  Chest Pain3/109 (2.75%)"
+    ]
+}
