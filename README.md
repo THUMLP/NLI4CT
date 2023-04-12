@@ -42,10 +42,10 @@ to ensemble the models and get the final results.
 
 # Evidence Retrieval
 ## Environment
-torch==1.7.1
-tqdm==4.64.1
-scikit-learn==1.0.2
-transformers==4.24.0
+- torch==1.7.1
+- tqdm==4.64.1
+- scikit-learn==1.0.2
+- transformers==4.24.0
 
 ## Train & Evaluate
 Please download the necessary pre-trained models from huggingface and Then save it to "biolinkbert/".
@@ -60,10 +60,10 @@ python run_fold0.py --model biolinkbert_new_sentpooling_sentinter_block
 # biolinkbert_sent_tokenpooling_sentinter
 python run_fold0.py --model biolinkbert_sent_tokenpooling_sentinter
 ```
-Please note that for each model you should train on the fold0~9 dataset and save their top2 ckpt. You can directly run "run_fold0~9.py" to use the corresponding training set.
+Please note that for each model you should train on the fold0-9 dataset and save their top2 ckpt. You can directly run "run_fold0-9.py" to use the corresponding training set.
 
 ## Getting Results
-Once you get all the ckpt(should be 63 altogether), you need to modify some variables in the test_ensemble_1.sh file (change to your ckpt path), and then run the script file to get intermediate results:
+Once you get all the ckpt, you need to modify some variables in the test_ensemble_1.sh file (change to your ckpt path), and then run the script file to get intermediate results:
 ```
 ./test_ensemble_1.sh
 ```
